@@ -76,3 +76,6 @@ git does not have permission to modify your files. Give it write permission one 
 
 ## I can't overwrite untracked local files when pulling
 Try `git fetch --all && git reset --hard origin/(branch)`.
+
+## Tried to cherry-pick a range of commits, but it didn't include the oldest commit
+You need a `^`. Run `git cherry-pick -m 1 --ff (older hash)^..(newer hash)`. `m` isn't necessarily 1.

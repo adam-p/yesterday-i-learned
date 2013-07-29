@@ -12,3 +12,4 @@
 * To pretty-format a JSON file, do `cat ugly.json | python -mjson.tool > pretty.json`.
 * `re.VERBOSE`, aka `re.X`, will ignore all whitespaces in a regex. Will Also ignore everything after a `#`.
 * Python does not raise a rounding exception when a large number is used. The typical check is `n + 1 == n`.
+* To speed up a read-only query, try adding `.values_list(fields...)` to a QuerySet, which returns simple tuples.

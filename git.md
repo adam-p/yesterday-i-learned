@@ -79,3 +79,16 @@ Try `git fetch --all && git reset --hard origin/(branch)`.
 
 ## Tried to cherry-pick a range of commits, but it didn't include the oldest commit
 You need a `^`. Run `git cherry-pick -m 1 --ff (older hash)^..(newer hash)`. `m` isn't necessarily 1.
+
+## My tags won't go onto the remote repo
+`git push --tags`
+
+## ... but I accidentally all the tags
+Delete a tag locally, then push it.
+```
+git tag -d 12345
+git push origin :refs/tags/12345
+```
+
+## I accidentally deleted a file, and thought I could just check it back out
+`git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.

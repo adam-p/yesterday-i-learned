@@ -13,3 +13,6 @@
 * `re.VERBOSE`, aka `re.X`, will ignore all whitespaces in a regex. Will Also ignore everything after a `#`.
 * Python does not raise a rounding exception when a large number is used. The typical check is `n + 1 == n`.
 * To speed up a read-only query, try adding `.values_list(fields...)` to a QuerySet, which returns simple tuples.
+* It is absolutely possible that django `loaddata` is a douchebag. 
+  Therefore, to import all objects without referential errors, use `python manage.py loaddata init_dev.json`, 
+  which provides all references before inserting.

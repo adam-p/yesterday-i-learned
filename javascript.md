@@ -9,4 +9,8 @@
 * `void 0 === undefined`.
 * It was possible to define the global `undefined`; not possible anymore, because people were screwing around with it.
 * `$([...]).each` is faster when `for` loops when it contains elements, and slower when it contains an ordinary iterable.
-
+* `new Object`, or any object in general (e.g. `Date`), does not require `()` to initialise. Strict mode will throw a warning, though.
+* It is possible to run a WebSocket inside a worker.
+* `+almostAnything` converts it to an integer. (except objects, arrays, strings... so, almost nothing.)
+* A named closure (which is NOT an oxymoron: `(function abc() {... }())` has its function name scoped inside the closure.
+* `function abc()` in IE8 or above are declared twice, due to a bug in hoisting and initialisation.

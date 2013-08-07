@@ -13,4 +13,5 @@
 * It is possible to run a WebSocket inside a worker.
 * `+almostAnything` converts it to an integer. (except objects, arrays, strings... so, almost nothing.)
 * A named closure (which is NOT an oxymoron: `(function abc() {... }())` has its function name scoped inside the closure.
-* `function abc()` in IE8 or above are declared twice, due to a bug in hoisting and initialisation.
+* `function abc()` in IE8 or above are declared twice, due to a bug in [hoisting and initialisation](http://kangax.github.io/nfe/).
+* Youtube disables autoplay on mobile devices, even when `autoplay: 1`.

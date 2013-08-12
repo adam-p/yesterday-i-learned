@@ -30,6 +30,7 @@ Commit your local branch with `git commit -a`, and force-push to cover your remo
 Well, now you need `--depth=999`.
 
 ## "Your branch is ahead of..."
+*Your branch has different code than the remote one even if a `git pull origin (branch)` tells you `Already up-to-date.` This will make you deploy incorrect code. Beware!*
 On the branch that says that, do [`git reset --hard origin/(branch) && git pull`](http://stackoverflow.com/a/3882696)
 
 ## Cannot checkout master for some reason

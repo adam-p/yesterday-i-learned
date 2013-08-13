@@ -17,3 +17,5 @@
 * Youtube disables autoplay on mobile devices, even when `autoplay: 1`.
 * Detecting document zoom level [is a piece of ass](http://stackoverflow.com/questions/1713771/how-to-detect-page-zoom-level-in-all-modern-browsers).
 * In an [AngularJS](http://angularjs.org/) controller definition, the variable name for the scope must be `$scope`.
+* `Object.defineProperty` creates immutable object constants. [Everything except IE8](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FGlobal_Objects%2FObject%2FdefineProperty) does it correctly.
+* Since the deprecation of IE6 and IE7, `window.elementFromPoint(clientX, clientY)` and `window.getClientRects() -> [t, l, r, b]` are available to you.

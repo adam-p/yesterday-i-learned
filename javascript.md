@@ -19,3 +19,10 @@
 * In an [AngularJS](http://angularjs.org/) controller definition, the variable name for the scope must be `$scope`.
 * `Object.defineProperty` creates immutable object constants. [Everything except IE8](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FGlobal_Objects%2FObject%2FdefineProperty) does it correctly.
 * Since the deprecation of IE6 and IE7, `window.elementFromPoint(clientX, clientY)` and `window.getClientRects() -> [t, l, r, b]` are available to you.
+* `~~` is a [fast Math.floor](http://stackoverflow.com/a/5971668/1558430), noting some differences about negative numbers (see top comment).
+* Ember.js will first render whichever nameless template with the string `{{ outlet }}` in it.
+* Ember.js: namespaces must begin with an upper case letter.
+* Ember.js: `model` is a keyword. You cannot replace it with `context`.
+* In backbone.js, [a `View` is actually a controller](http://backbonejs.org/#FAQ-mvc).
+* `return a, b` returns whichever value is true first.
+* [Scroll events do not bubble.](http://www.quirksmode.org/dom/events/scroll.html)

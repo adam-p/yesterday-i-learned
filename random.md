@@ -5,3 +5,8 @@
 * Kill background/foreground processes with `kill %(number shown in fg or bg)`.
 * Use single quotes (`git commit -am 'Nailed it!'`) to leave a commit message with an exclamation mark.
 * Any connected list of quotes (`"Hello"' '"world"`) is echo-able.
+* Bash: [`case...esac`](http://www.tutorialspoint.com/unix/case-esac-statement.htm). Gee...
+* A notched tail flipper found on a lobster indicates [a breeding female](http://en.wikipedia.org/wiki/Homarus_americanus).
+* [Albinism](http://en.wikipedia.org/wiki/Albino) affects vertebrates. That, and lobsters, which are not vertebrates.
+* The [Korean blood cake](https://en.wikipedia.org/wiki/Sundae_(Korean_food\)) is also called *sundae*.
+

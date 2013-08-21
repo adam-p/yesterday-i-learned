@@ -26,3 +26,11 @@
 * In backbone.js, [a `View` is actually a controller](http://backbonejs.org/#FAQ-mvc).
 * `return a, b` returns whichever value is true first.
 * [Scroll events do not bubble.](http://www.quirksmode.org/dom/events/scroll.html)
+* There are [typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays/Int32Array).
+* `inputElement.selectionStart` is not cross-browser compatible.
+* As it turns out, there is a [documented way](http://en.wikipedia.org/wiki/JSON#JavaScript_eval.28.29) of validating JSON.
+* `$(":last")` does not require an element.
+* `_.bindAll` binds for all future calls, too.
+* Although it is always true that a script tag with both src and content will not execute its content, [it doesn't mean it is pretty to tell the src to execute its innerHTML](http://ejohn.org/blog/degrading-script-tags/).
+* `new function () { return ... }` returns the return value instead of an object when the value is an object.
+* `typeof null` is `"object"`.

@@ -93,3 +93,17 @@ git push origin :refs/tags/12345
 
 ## I accidentally deleted a file, and thought I could just check it back out
 `git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.
+
+
+## git 1.7.1 couldn't create orphan branches
+
+[Solution](http://stackoverflow.com/a/1384336/1558430)
+
+```
+git symbolic-ref HEAD refs/heads/newbranch 
+rm .git/index 
+git clean -fdx 
+<do work> 
+git add your files 
+git commit -m 'Initial commit'
+```

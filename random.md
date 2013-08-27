@@ -9,4 +9,5 @@
 * A notched tail flipper found on a lobster indicates [a breeding female](http://en.wikipedia.org/wiki/Homarus_americanus).
 * [Albinism](http://en.wikipedia.org/wiki/Albino) affects vertebrates. That, and lobsters, which are not vertebrates.
 * The [Korean blood cake](https://en.wikipedia.org/wiki/Sundae_(Korean_food\)) is also called *sundae*.
-
+* ViewModel is, and Controller isn't: [You'll notice - there are no references to the view and zero DOM manipulation in Angular controllers.](http://stackoverflow.com/a/6566842/1558430)
+* Because `iif` is a library function, it cannot short-circuit.

@@ -34,3 +34,5 @@
 * Although it is always true that a script tag with both src and content will not execute its content, [it doesn't mean it is pretty to tell the src to execute its innerHTML](http://ejohn.org/blog/degrading-script-tags/).
 * `new function () { return ... }` returns the return value instead of an object when the value is an object.
 * `typeof null` is `"object"`.
+* [The simplest inheritance example out there](http://stackoverflow.com/a/1204386/1558430)
+* 

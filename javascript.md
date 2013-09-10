@@ -35,4 +35,10 @@
 * `new function () { return ... }` returns the return value instead of an object when the value is an object.
 * `typeof null` is `"object"`.
 * [The simplest inheritance example out there](http://stackoverflow.com/a/1204386/1558430)
-* 
+* [data uris are not worth pursuing](http://www.mobify.com/blog/css-sprites-vs-data-uris-which-is-faster-on-mobile/)
+* There is a built-in [self](http://stackoverflow.com/questions/3309516/when-to-use-self-in-javascript) keyword, but usually pointing at `window`, it's not all that useful.
+* The `with` statement was banned [before it was even cool](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/with).
+* A `setTimeout` with a delay of 0 calls the function when the call stack is empty.
+* [The 3 snapshot technique](https://docs.google.com/a/willetinc.com/presentation/d/1wUVmf78gG-ra5aOxvTfYdiLkdGaR9OhXRnOlIcEmu2s/pub?start=false&loop=false&delayms=3000#slide=id.g31ec7af_0_58): First take a snapshot, then do something and take another snapshot. Repeat the exact same things and take snapshot 3. Finally, "filter objects allocated between snapshots 1 and 2 in snapshot 3's summary view"
+* `_.once` keeps returning the value of the original call in subsequent calls.
+* Terminology: `_gaq.push(['_trackEvent', 'category', 'action', 'label', 'value']);` [source](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide#Anatomy)

@@ -26,4 +26,5 @@
 * Give a user privileges: `GRANT ALL ON ebdb.* TO 'ebroot'@'localhost';`
 
 * MySQL [does not](http://stackoverflow.com/a/10474104/1558430) support transactional schema alters at any time.
+* Amazon [does not](https://forums.aws.amazon.com/message.jspa?messageID=153017#) allow SSH into RDS instances.
 * [Why is MySQL's default collation latin1_swedish_ci?](http://stackoverflow.com/questions/6769901/why-is-mysqls-default-collation-latin1-swedish-ci)

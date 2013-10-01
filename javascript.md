@@ -42,3 +42,11 @@
 * [The 3 snapshot technique](https://docs.google.com/a/willetinc.com/presentation/d/1wUVmf78gG-ra5aOxvTfYdiLkdGaR9OhXRnOlIcEmu2s/pub?start=false&loop=false&delayms=3000#slide=id.g31ec7af_0_58): First take a snapshot, then do something and take another snapshot. Repeat the exact same things and take snapshot 3. Finally, "filter objects allocated between snapshots 1 and 2 in snapshot 3's summary view"
 * `_.once` keeps returning the value of the original call in subsequent calls.
 * Terminology: `_gaq.push(['_trackEvent', 'category', 'action', 'label', 'value']);` [source](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide#Anatomy)
+
+## Deferred API
+
+* `$.when(<Deferred, Promise, or any object really>, another, another...) => <Promise>`
+* `<Deferred>.then(done, fail, progress)`
+* `<Deferred>.done(function, function, ...)`
+* `<Deferred>.always(function, function, ...)`
+* `<Deferred>.fail(function, function, ...)`

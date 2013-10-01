@@ -21,4 +21,5 @@
   which provides all references before inserting.
 * Multiple args: calling a `function(a, b, **kwargs)` where kwargs contains `a=4` or `b=[]` will raise an Exception.
 * `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
+* There is such thing as a [for else](http://stackoverflow.com/questions/19061990/python-dividing-integers-in-a-list-by-another-list-until-the-result-is-zero/19062037?noredirect=1#comment28174201_19062037) condition, where the `else` part executes only if the for loop is not `break`ed from within.
 * 

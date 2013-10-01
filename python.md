@@ -20,3 +20,5 @@
   Therefore, to import all objects without referential errors, use `python manage.py loaddata init_dev.json`, 
   which provides all references before inserting.
 * Multiple args: calling a `function(a, b, **kwargs)` where kwargs contains `a=4` or `b=[]` will raise an Exception.
+* `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
+* 

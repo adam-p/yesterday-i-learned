@@ -45,4 +45,5 @@
 * **Enums**: `public enum EnumName { OPTION1, OPTION2, OPTION3, ... }` allows you to use the enum like `EnumName.OPTION1`. Enums do not have instances.
 * All Enum values can be accessed via `EnumName.values()`.
 * [Enums can contain code, variables, and even the void main.](http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
+* [Making `List`s](http://stackoverflow.com/a/858590/1558430)
 

@@ -44,6 +44,7 @@
 * Terminology: `_gaq.push(['_trackEvent', 'category', 'action', 'label', 'value']);` [source](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide#Anatomy)
 * [No such thing as tail call optimization](http://stackoverflow.com/questions/3660577/are-any-javascript-engines-tail-call-optimized)... not one that works, anyway
 * [Trampolines](http://raganwald.com/2013/03/28/trampolines-in-javascript.html) are `while` wrappers that call an inner function for as long as the function remains a function, not a primitive value.
+* `undefined == null` === `true`. Die in a fire, JS!
 
 ## Deferred API
 

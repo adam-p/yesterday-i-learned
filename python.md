@@ -23,4 +23,5 @@
 * `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
 * There is such thing as a [for else](http://stackoverflow.com/questions/19061990/python-dividing-integers-in-a-list-by-another-list-until-the-result-is-zero/19062037?noredirect=1#comment28174201_19062037) condition, where the `else` part executes only if the for loop is not `break`ed from within.
 * [Django creates the project for you.](https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project)
+* Variables can be *accessed* from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`](http://stackoverflow.com/a/1261961/1558430) to change the outer value.
 *

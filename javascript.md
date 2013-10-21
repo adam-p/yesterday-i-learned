@@ -43,6 +43,7 @@
 * `_.once` keeps returning the value of the original call in subsequent calls.
 * Terminology: `_gaq.push(['_trackEvent', 'category', 'action', 'label', 'value']);` [source](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide#Anatomy)
 * `undefined == null` === `true`. Die in a fire, JS!
+* [Second parameter of `JSON.parse`](http://stackoverflow.com/questions/19281820/deserialization-of-partially-flattened-json/19281911?noredirect=1#19281911) (reverse applies to `.stringify`, too)
 
 ## Deferred API
 

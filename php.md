@@ -39,3 +39,4 @@
 * `(int)` is faster than `intval`
 * `array()` is marginally faster than `(array)`
 * `===` is up to 12 times faster than `==` in all comparisons
+* `break` [accepts an integer](http://www.php.net/break) for the number of nests of break out of.

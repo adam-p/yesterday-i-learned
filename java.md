@@ -46,4 +46,4 @@
 * All Enum values can be accessed via `EnumName.values()`.
 * [Enums can contain code, variables, and even the void main.](http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
 * [Making `List`s](http://stackoverflow.com/a/858590/1558430)
-
+* The "com" is [the company website's TLD](http://stackoverflow.com/questions/2125293/java-packages-com-and-org) by convention.

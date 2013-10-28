@@ -46,6 +46,8 @@
 * [Trampolines](http://raganwald.com/2013/03/28/trampolines-in-javascript.html) are `while` wrappers that call an inner function for as long as the function remains a function, not a primitive value.
 * `undefined == null` === `true`. Die in a fire, JS!
 * [Second parameter of `JSON.parse`](http://stackoverflow.com/questions/19281820/deserialization-of-partially-flattened-json/19281911?noredirect=1#19281911) (reverse applies to `.stringify`, too)
+* CORS is not supported before IE8; hence JSONP.
+
 
 ## Deferred API
 

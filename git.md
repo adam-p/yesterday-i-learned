@@ -110,3 +110,6 @@ git commit -m 'Initial commit'
 
 ## Git keeps asking me for my SSH password
 [The agent](http://stackoverflow.com/a/17848593/1558430) must be run with `eval \`ssh-agent -s\``. And only after that can you run `ssh-add`.
+
+
+* `git clean` is a version of `git reset --hard HEAD` that removes all untracked files.

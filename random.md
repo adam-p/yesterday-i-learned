@@ -14,4 +14,5 @@
 * [Claims had been made](http://lifehacker.com/what-happens-to-the-brain-when-you-meditate-and-how-it-1202533314) that meditation improves memory recall.
 * One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
 * Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .
-
+* Canary is pronounced kun-NAIR-ree.
+* "LL" is pronounced "Y" in Spanish.

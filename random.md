@@ -16,3 +16,8 @@
 * Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .
 * [APL = A Programming Language](http://en.wikipedia.org/wiki/APL_(programming_language))
 * `su` accepts arguments. And it is "switch" user, not "super" user.
+* Canary is pronounced kun-NAIR-ree.
+* "LL" is pronounced "Y" in Spanish.
+* Orion is pronunced oh-RYE-un.
+* [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law): statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.o
+

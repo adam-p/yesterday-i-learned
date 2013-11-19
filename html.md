@@ -4,3 +4,4 @@
 * There is a [`time`](http://www.w3schools.com/tags/tag_time.asp) tag in HTML5, and [it does something](http://jsfiddle.net/trevoro/T4wRq/) if you [tell it to](http://trevoro.net/2013/whats-your-timezone/).
 * `&blacktriangledown;` is a thing. [Those bastards](http://www.w3.org/TR/2013/WD-components-intro-20130606/#decorator-section)...
 * I hear [it's okay for html comments to be outside the <html> tag](http://stackoverflow.com/questions/365805/is-it-ok-to-put-html-comments-outside-the-html-tags), but [not if it comes before <!DOCTYPE>](http://stackoverflow.com/questions/941100/can-comments-appear-before-the-doctype-declaration). The only two browsers I suspect trouble are firefox and opera.
+* HTML5 [allows `a` to contain `div`](http://stackoverflow.com/a/1828032/1558430).

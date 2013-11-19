@@ -40,3 +40,5 @@
 * `array()` is marginally faster than `(array)`
 * `===` is up to 12 times faster than `==` in all comparisons
 * `break` [accepts an integer](http://www.php.net/break) for the number of nests of break out of.
+* `{ code }` [effectively does nothing](http://stackoverflow.com/questions/14971123/use-curly-brackets-to-structure-code-in-php).
+* 

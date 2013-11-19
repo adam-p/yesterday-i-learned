@@ -20,4 +20,7 @@
 * "LL" is pronounced "Y" in Spanish.
 * Orion is pronunced oh-RYE-un.
 * [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law): statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.o
-
+* Bash: `. ` is an alias of `source `.
+* [The `wheel` group](http://en.wikipedia.org/wiki/Wheel_(Unix_term\)) is a group of users with slightly more power than normal users, but less so than admins.
+* `apt-get install --only-upgrade jenkins`: upgrade only if already installed
+* 

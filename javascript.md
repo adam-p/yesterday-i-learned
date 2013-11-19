@@ -48,6 +48,8 @@
 * [Second parameter of `JSON.parse`](http://stackoverflow.com/questions/19281820/deserialization-of-partially-flattened-json/19281911?noredirect=1#19281911) (reverse applies to `.stringify`, too)
 * CORS is not supported before IE8; hence JSONP.
 * One use of the named closure (`(function abc() {}())`) is that `abc` is defined only inside the scope, which means recursive closures can be built without using an outside variable.
+* `$.each(string)` [stopped working](http://stackoverflow.com/questions/20075938/jquery-each-to-iterate-over-a-string-in-newer-versions). Now you will need to split the string first.
+
 
 ## Deferred API
 

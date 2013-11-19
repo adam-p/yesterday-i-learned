@@ -8,4 +8,5 @@
 * All you need to make an oval subtraction is `border-radius: 50%;`.
 * CSS pseudo elements [do not exist in the DOM](http://stackoverflow.com/questions/9395858/event-listener-on-a-css-pseudo-element-such-as-before-or-after).
 * For the geeky: `ul { list-style-type: binary; }`
+* It was apparently agreed upon that webapp buttons be used in conjunction with [a normal cursor](http://stackoverflow.com/questions/4121854/is-it-wrong-to-use-the-hand-cursor-for-clickable-items-such-as-buttons) instead of a hand.
 * 

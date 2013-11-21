@@ -23,4 +23,4 @@
 * Bash: `. ` is an alias of `source `.
 * [The `wheel` group](http://en.wikipedia.org/wiki/Wheel_(Unix_term\)) is a group of users with slightly more power than normal users, but less so than admins.
 * `apt-get install --only-upgrade jenkins`: upgrade only if already installed
-* 
+* Clean branch names: `echo "Some stupid task name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` -> `some-stupid-branch-name`

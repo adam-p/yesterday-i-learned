@@ -46,3 +46,6 @@ for k, v in d.iteritems():
 * Always concatenate strings with `.join`.
 * Python 3.4 can ignore all but some exceptions using `with ignored(TypeError, ValueError, ...):`.
 * Generator expressions, e.g. `sum(i for i in list)` is faster than `sum([i for i in list])`.
+* Django or nosetests runs any `TestCase` subclass in files with their names beginning with `test` when you run `manage.py test`.
+* `django.http` contains http error classes that handle the nitty gritty (e.g. allowed methods in 405)
+

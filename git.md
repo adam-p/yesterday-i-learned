@@ -121,7 +121,8 @@ You cannot have another branch called `a/b`.
 ## Git patches
 
 ### Creating a patch
-`git format-patch (branch name) --stdout > diff.patch`
+* Save a patch: `git format-patch -n HEAD^`
+* Save a patch file under any name: `git format-patch (branch name) --stdout > diff.patch`
 
 ### Applying a patch
 

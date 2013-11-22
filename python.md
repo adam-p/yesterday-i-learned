@@ -48,4 +48,7 @@ for k, v in d.iteritems():
 * Generator expressions, e.g. `sum(i for i in list)` is faster than `sum([i for i in list])`.
 * Django or nosetests runs any `TestCase` subclass in files with their names beginning with `test` when you run `manage.py test`.
 * `django.http` contains http error classes that handle the nitty gritty (e.g. allowed methods in 405)
-
+* [You cannot make a `dict`, `json.loads`, `json.dumps`, or otherwise, with integer keys in python](http://stackoverflow.com/questions/1450957/pythons-json-module-converts-int-dictionary-keys-to-strings).
+* If you are a jackass, you [can](http://stackoverflow.com/a/481755/1558430) write recursive lambdas.
+* Decorators can return functions that are already wrapped with decorators, by virtue that decorators can be wrapped in anything.
+* Every module is imported only once, but every `import` call will invoke a check to make sure the module is imported.

@@ -52,3 +52,8 @@ for k, v in d.iteritems():
 * If you are a jackass, you [can](http://stackoverflow.com/a/481755/1558430) write recursive lambdas.
 * Decorators can return functions that are already wrapped with decorators, by virtue that decorators can be wrapped in anything.
 * Every module is imported only once, but every `import` call will invoke a check to make sure the module is imported.
+* `@functools.wraps(fn)` is used to wrap a the wrapper function inside a decorator that helps preserve the original function's docstrings.
+* [`apply`](http://docs.python.org/2/library/functions.html#apply) is a keyword. It is a bit like `map`.
+* "Almost every time you use `reduce` means you are doing something wrong", so `reduce()` was moved into `functools.reduce()` in Python3.
+*
+

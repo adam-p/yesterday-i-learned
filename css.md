@@ -9,4 +9,5 @@
 * CSS pseudo elements [do not exist in the DOM](http://stackoverflow.com/questions/9395858/event-listener-on-a-css-pseudo-element-such-as-before-or-after).
 * For the geeky: `ul { list-style-type: binary; }`
 * It was apparently agreed upon that webapp buttons be used in conjunction with [a normal cursor](http://stackoverflow.com/questions/4121854/is-it-wrong-to-use-the-hand-cursor-for-clickable-items-such-as-buttons) instead of a hand.
+* Can't set a container's width and height based on the ratio of its background image? [Have an invisible image tag inside the container](http://stackoverflow.com/a/12098334/1558430) so the container displays its background image according to the shrunk ratio of its invisible children.
 * 

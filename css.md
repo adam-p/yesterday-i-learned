@@ -8,4 +8,8 @@
 * All you need to make an oval subtraction is `border-radius: 50%;`.
 * CSS pseudo elements [do not exist in the DOM](http://stackoverflow.com/questions/9395858/event-listener-on-a-css-pseudo-element-such-as-before-or-after).
 * For the geeky: `ul { list-style-type: binary; }`
-* 
+* `calc` (`calc(100% - 40px);`) works in [IE9+, prefix-free](http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/).
+* [You can already](http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/) use expressions like `content:attr(data-title)` for `:before` selectors that have a `data-title`.
+* Everyone except IE8 supports [multiple background images](http://caniuse.com/#feat=multibackgrounds), in the format `background:url('abc.png') repeat x y, url('def.png') repeat x y`.
+*
+

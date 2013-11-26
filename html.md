@@ -6,4 +6,4 @@
 * I hear [it's okay for html comments to be outside the <html> tag](http://stackoverflow.com/questions/365805/is-it-ok-to-put-html-comments-outside-the-html-tags), but [not if it comes before <!DOCTYPE>](http://stackoverflow.com/questions/941100/can-comments-appear-before-the-doctype-declaration). The only two browsers I suspect trouble are firefox and opera.
 * HTML5 [allows `a` to contain `div`](http://stackoverflow.com/a/1828032/1558430).
 * HTML5 element IDs can begin with a number. `$('#5')`, for example, works.
-* 
+* Adding `width=device-width` or `user-scalable=no` on [some versions of mobile browsers](https://github.com/ftlabs/fastclick#when-it-isnt-needed) apparently introduces the side benefit of not introducing a hover-click delay.

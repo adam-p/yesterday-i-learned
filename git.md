@@ -130,3 +130,8 @@ You cannot have another branch called `a/b`.
 * Check if the patch can be applied: `git apply --check diff.patch`
 * Apply the patch: `git apply diff.patch`, **OR**
 * If you want to sign off what you apply, `git am --signoff < diff.patch`
+
+## Blaming people
+
+* Basic blame: `git blame HEAD -- file`
+* Blame with `sudo apt-get git-gui`: `git gui blame file`

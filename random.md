@@ -14,4 +14,15 @@
 * [Claims had been made](http://lifehacker.com/what-happens-to-the-brain-when-you-meditate-and-how-it-1202533314) that meditation improves memory recall.
 * One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
 * Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .
-
+* [APL = A Programming Language](http://en.wikipedia.org/wiki/APL_(programming_language))
+* `su` accepts arguments. And it is "switch" user, not "super" user.
+* Canary is pronounced kun-NAIR-ree.
+* "LL" is pronounced "Y" in Spanish.
+* Orion is pronunced oh-RYE-un.
+* [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law): statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.o
+* Bash: `. ` is an alias of `source `.
+* [The `wheel` group](http://en.wikipedia.org/wiki/Wheel_(Unix_term\)) is a group of users with slightly more power than normal users, but less so than admins.
+* `apt-get install --only-upgrade jenkins`: upgrade only if already installed
+* Clean branch names: `echo "Some stupid task name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` -> `some-stupid-branch-name`
+* Download HTTP directory listings / crawl a sub-site with `wget`: [`wget -m -np http://cordova.apache.org/docs/en/3.2.0/`](http://stackoverflow.com/a/5317668/1558430). Don't rely on it, however.
+* 

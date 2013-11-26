@@ -110,3 +110,23 @@ git commit -m 'Initial commit'
 
 ## Git keeps asking me for my SSH password
 [The agent](http://stackoverflow.com/a/17848593/1558430) must be run with `eval \`ssh-agent -s\``. And only after that can you run `ssh-add`.
+
+
+* `git clean` is a version of `git reset --hard HEAD` that removes all untracked files.
+
+## ` ! [remote rejected] a/b -> a/b (failed to lock)`
+You already have a branch called `a`.
+You cannot have another branch called `a/b`.
+
+## Git patches
+
+### Creating a patch
+* Save a patch: `git format-patch -n HEAD^`
+* Save a patch file under any name: `git format-patch (branch name) --stdout > diff.patch`
+
+### Applying a patch
+
+* Check what's in the patch: `git apply --stat diff.patch`
+* Check if the patch can be applied: `git apply --check diff.patch`
+* Apply the patch: `git apply diff.patch`, **OR**
+* If you want to sign off what you apply, `git am --signoff < diff.patch`

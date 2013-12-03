@@ -56,5 +56,4 @@ for k, v in d.iteritems():
 * `@functools.wraps(fn)` is used to wrap a the wrapper function inside a decorator that helps preserve the original function's docstrings.
 * [`apply`](http://docs.python.org/2/library/functions.html#apply) is a keyword. It is a bit like `map`.
 * "Almost every time you use `reduce` means you are doing something wrong", so `reduce()` was moved into `functools.reduce()` in Python3.
-*
-
+* [`__contains__`](http://stackoverflow.com/questions/1964934/what-is-contains-do-which-one-can-call-contains-function) controls the behaviour of `a in obj`.

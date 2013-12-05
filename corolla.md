@@ -13,6 +13,8 @@ Tires
 * Your tire size is P185/65R14. 175 is not okay. 60R is not okay.
 * Summer tires: high speed, low traction, good for highway driving
 * All-season tires: better traction, doesn't work with heavy or loose snow
+* Snow tires: made entirely of grooves.
+* Both overinflating and underinflating your tires decrease fuel efficiency and safety.
 * Do not mix tire types
 * Do not mix tire sizes
 
@@ -22,9 +24,12 @@ Engine
 * Max crank (start car) time is 30 seconds.
 * There is also a min crank time.
 * 140 km/h is your particular vechicle's maximum rating.
+* Ignore the maximum speed rating. You have already broken it.
 * Your vehicle can tow a maximum of 680 kg (1500 lb), where the max tongue load (mass actually exerted on the car instead of the trailer's tires) is 68 kg).
 * Your engine is fitted with twin ground electrode spark plugs. Use only twin ground electrode spark plugs.
 * "Always turn the overdrive switch on for better fuel economy and quieter driving." (that is, pressed in)
+* Cold engines consume more fuel than warned engines.
+* Warming an engine up by revving it does not save fuel.
 
 Winter driving
 ======================
@@ -38,6 +43,7 @@ Winter driving
 * Parking brakes can freeze. Do not use the handbrake in the winter. Use only "P".
 * Bring along tire chains, window scraper, bag of sand or salt, flares, small shovel, jumper cables, etc.
 * Pumping the ABS brake pedal makes the stopping distance longer.
+* Your car hardly ever engages ABS, even when you try to brake-test.
 * Locating the weight as far forward as possible helps maintain balance.
 * `2` and `L` are engine braking positions. In these low gears, the engine can easily overheat. Drive with caution.
 * `2` and `L` are not available when overdrive is on.
@@ -45,10 +51,12 @@ Winter driving
 * Rocking the signal stick up and down is for left/right signals. Forward and backward are for hi-beams.
 * Pulling the washer thingy toward you will squirt washer fluid.
 * That "defrost" button next to the emergency stop button only heats the rear mirror.
+* The defrost button does not make snow go away.
 
 AC
 ======================
 * If the AC is broken, its light will flash.
+* Your car is equipped with *On-board Diagnostics* (OBD II) to make the flashing lights happen.
 * The AC takes air in from below the windshield. Make sure it is not blocked by snow.
 * Fresh air intake defrosts faster than inside air.
 
@@ -78,6 +86,7 @@ Safety
 * The lever on your rearview mirror is actually an anti-glare feature. It reduces clarity, however.
 * Tires over 6 years old must be checked. Damage may not be obvious.
 * Rotate your tires in a way described in `13.pdf`. It improves tire life.
+* Coasting in neutral in this particular vehicle conserves fuel only when travelling downhill.
 
 Misc
 ======================

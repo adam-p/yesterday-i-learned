@@ -25,4 +25,8 @@
 * `apt-get install --only-upgrade jenkins`: upgrade only if already installed
 * Clean branch names: `echo "Some stupid task name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` -> `some-stupid-branch-name`
 * Download HTTP directory listings / crawl a sub-site with `wget`: [`wget -m -np http://cordova.apache.org/docs/en/3.2.0/`](http://stackoverflow.com/a/5317668/1558430). Don't rely on it, however.
+* An "heir presumptive" is different from an "heir apparent" in that the presumptive can be displaced by someone who is born later in higher priority (?). An example would be if the Queen's parents had another younger son.
+* Both infarction and infraction are words. Infraction (-frac-) means breakage. Infarction implies blockage.
+* `alias ll='ls -al'` is present in *many* distros.
+* Mosquitoes hibernate.
 * 

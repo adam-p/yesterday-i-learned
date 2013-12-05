@@ -94,6 +94,9 @@ git push origin :refs/tags/12345
 ## I accidentally deleted a file, and thought I could just check it back out
 `git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.
 
+## I accidentally added a file, and luckily I haven't committed anything yet
+`git reset HEAD (added file)`
+
 
 ## git 1.7.1 couldn't create orphan branches
 
@@ -119,6 +122,10 @@ You already have a branch called `a`.
 You cannot have another branch called `a/b`.
 
 ## Git patches
+
+###
+
+* `git add -p` 
 
 ### Creating a patch
 * Save a patch: `git format-patch -n HEAD^`

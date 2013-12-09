@@ -25,4 +25,5 @@
 * `apt-get install --only-upgrade jenkins`: upgrade only if already installed
 * Clean branch names: `echo "Some stupid task name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` -> `some-stupid-branch-name`
 * Download HTTP directory listings / crawl a sub-site with `wget`: [`wget -m -np http://cordova.apache.org/docs/en/3.2.0/`](http://stackoverflow.com/a/5317668/1558430). Don't rely on it, however.
+* (Naming) [Safari won't handle `css.gz` or `js.gz`.](http://stackoverflow.com/a/5502390/1558430)
 * 

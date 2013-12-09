@@ -57,3 +57,6 @@ for k, v in d.iteritems():
 * [`apply`](http://docs.python.org/2/library/functions.html#apply) is a keyword. It is a bit like `map`.
 * "Almost every time you use `reduce` means you are doing something wrong", so `reduce()` was moved into `functools.reduce()` in Python3.
 * [`__contains__`](http://stackoverflow.com/questions/1964934/what-is-contains-do-which-one-can-call-contains-function) controls the behaviour of `a in obj`.
+* [Django `smart_str`](https://docs.djangoproject.com/en/1.4/ref/unicode/) along with `smart_unicode` probably solves all of Python 2's problems.
+* [Python `Enum`](http://stackoverflow.com/a/1695250/1558430) Spoiler: 3.4+
+

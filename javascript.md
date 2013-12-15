@@ -53,6 +53,7 @@
 * [Detecting `{}.__proto__`](http://foundation.zurb.com/docs/upgrading.html) is one of the fastest ways to tell if a browser is running on a [browser that also runs on mobiles](http://stackoverflow.com/a/3082878/1558430).
 * [`debugger`](http://msdn.microsoft.com/en-us/library/ie/0bwt76sk\(v=vs.94\).aspx)
 * `_.result(a)` returns `a()` if it is a function, or just `a`.
+* `Number()` returns 1 or 0.
 
 ## Deferred API
 

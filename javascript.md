@@ -54,6 +54,7 @@
 * [`debugger`](http://msdn.microsoft.com/en-us/library/ie/0bwt76sk\(v=vs.94\).aspx)
 * `_.result(a)` returns `a()` if it is a function, or just `a`.
 * `Number()` returns 1 or 0.
+* If desperate, `_.omit(obj)` makes a copy of the object. `_.omit(obj, key1, key2, ...)` creates a copy without attributes key1 and key2.
 
 ## Deferred API
 

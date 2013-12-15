@@ -57,3 +57,10 @@ for k, v in d.iteritems():
 * [`apply`](http://docs.python.org/2/library/functions.html#apply) is a keyword. It is a bit like `map`.
 * "Almost every time you use `reduce` means you are doing something wrong", so `reduce()` was moved into `functools.reduce()` in Python3.
 * [`__contains__`](http://stackoverflow.com/questions/1964934/what-is-contains-do-which-one-can-call-contains-function) controls the behaviour of `a in obj`.
+* [Django `smart_str`](https://docs.djangoproject.com/en/1.4/ref/unicode/) along with `smart_unicode` probably solves all of Python 2's problems.
+* [Python `Enum`](http://stackoverflow.com/a/1695250/1558430) Spoiler: 3.4+
+* The `buffer` type is used to create [multiple "varied" reference to some parts of a large object in memory](http://stackoverflow.com/a/3422740/1558430).
+* `for` creates a new scope. `for foo in foo` if `foo` is `"bar"` then it prints b, a, then r.
+* Keys can be pretty much anything, and they are not stringified: `{None: 'b', 1: 5, <function __main__.<lambda>>: 4, '1': 6}`
+* Taking that right back, [lists cannot be dictionary keys](https://wiki.python.org/moin/DictionaryKeys).
+* "You don't mock out any part of our system, you mock out other people's code"

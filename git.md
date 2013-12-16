@@ -50,6 +50,16 @@ Run `git pull`. You can now checkout the branch.
 `git stash && git checkout -b (new branch) && git stash pop`
 
 ## git submodules
+### Can't tell if I will be committing a file to the repo or the submodule
+The file will be committed to the closest `.git` repository.
+
+```
+repo
++ submodule
+| - foo.txt  (to submodule)
++ bar.txt  (to main repo)
+```
+
 ### I edited a file in one of my submodules
 `cd (submodule path) && git reset --hard HEAD`
 
@@ -68,6 +78,15 @@ Run `git rm --cached (path/to/submodule) && git commit -a`
 
 ### fatal: reference isn’t a tree: (submodule repo had a force-push)
 `cd (submodule path) && git reset --hard origin/(branch) && git pull`
+
+### What if I want to change where the submodule comes from?
+To [change origin of submodules that have already been cloned](http://stackoverflow.com/questions/10317676/git-change-origin-of-cloned-submodule), follow these steps:
+
+```
+cd submodule_folder
+git config remote.origin.url (repo ssh url)
+```
+
 
 ## `M` (modified) flags won't go away after a hard reset
 git does not have permission to modify your files. Give it write permission one way or another, using something like `chmod -R 664 .` (untested)
@@ -90,6 +109,9 @@ Delete a tag locally, then push it.
 git tag -d 12345
 git push origin :refs/tags/12345
 ```
+
+### Checking out a tag
+`git checkout tags/{tag name}`
 
 ## I accidentally deleted a file, and thought I could just check it back out
 `git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.

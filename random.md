@@ -30,4 +30,6 @@
 * Both infarction and infraction are words. Infraction (-frac-) means breakage. Infarction implies blockage.
 * `alias ll='ls -al'` is present in *many* distros.
 * Mosquitoes hibernate.
-* 
+* [Old age is not a scientifically recognized cause of death](https://en.wikipedia.org/wiki/Death_by_natural_causes)
+* Understeer: the front wheels are fully turned, but the car is still going forward.
+* Oversteer: the front wheels are turning fine, but the back is steering too much.

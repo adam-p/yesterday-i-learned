@@ -49,4 +49,6 @@
 * [Making `List`s](http://stackoverflow.com/a/858590/1558430)
 * The "com" is [the company website's TLD](http://stackoverflow.com/questions/2125293/java-packages-com-and-org) by convention.
 * [Generics](https://en.wikipedia.org/wiki/Generics_in_Java): `<T>` means "of type T".
+* The [`@Override`](http://stackoverflow.com/a/94447/1558430) denotes "I override a parent method"; whether or not it does anything is up to the compiler.
+* Interfaces can be private. There are virtual no uses for this case.
 * 

@@ -119,6 +119,15 @@ git push origin :refs/tags/12345
 ## I accidentally added a file, and luckily I haven't committed anything yet
 `git reset HEAD (added file)`
 
+## [zsh isn't showing diffs in colour](http://stackoverflow.com/a/12255443/1558430)
+
+```
+git config color.diff auto --global
+git config color.status auto --global
+```
+
+## Want to search for a change in history
+`git grep <regex> $(git rev-list --all)`
 
 ## git 1.7.1 couldn't create orphan branches
 

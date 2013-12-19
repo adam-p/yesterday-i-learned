@@ -116,6 +116,9 @@ git push origin :refs/tags/12345
 ## I accidentally deleted a file, and thought I could just check it back out
 `git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.
 
+## I accidentally deleted a file, and I have already made a commit after that
+`git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"`
+
 ## I accidentally added a file, and luckily I haven't committed anything yet
 `git reset HEAD (added file)`
 

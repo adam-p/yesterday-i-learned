@@ -66,4 +66,5 @@ for k, v in d.iteritems():
 * "You don't mock out any part of our system, you mock out other people's code"
 * [`assertEquals` is deprecated](http://docs.python.org/2/library/unittest.html#deprecated-aliases)
 * If `assertEqual` receives two `dict`s, it automatically calls `assertDictEqual`.
+* [`itertools.cycle`](http://docs.python.org/2/library/itertools.html#itertools.cycle): for when you want to loop over something, over and over
 * 

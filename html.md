@@ -7,3 +7,6 @@
 * HTML5 [allows `a` to contain `div`](http://stackoverflow.com/a/1828032/1558430).
 * HTML5 element IDs can begin with a number. `$('#5')`, for example, works.
 * Adding `width=device-width` or `user-scalable=no` on [some versions of mobile browsers](https://github.com/ftlabs/fastclick#when-it-isnt-needed) apparently introduces the side benefit of not introducing a hover-click delay.
+* [HTML5 tainted canvas](https://developer.mozilla.org/en-US/docs/HTML/CORS_Enabled_Image) is a `(new Image).crossOrigin = ...` change that allows a limited selection of browsers to serve images from any remote origin. This was implemented to allow canvases to reading images to be requested using cookies.
+* `crossOrigin` defaults to anonymous. There is no need to specify `anonymous`.
+* Serving an anonymous image inside a canvas removes a canvas' ability to be read.

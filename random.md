@@ -33,3 +33,7 @@
 * [Old age is not a scientifically recognized cause of death](https://en.wikipedia.org/wiki/Death_by_natural_causes)
 * Understeer: the front wheels are fully turned, but the car is still going forward.
 * Oversteer: the front wheels are turning fine, but the back is steering too much.
+* Press `shift+delete` over any autosuggestion item in Chrome to [delete it](http://www.reddit.com/r/AskReddit/comments/1tsfyd/what_is_something_i_could_teach_myself_in_5/).
+* Fake cheeses are orange because [it was once the trait that healthy cows make carotene-rich milk](http://www.onebigfluke.com/2013/12/dyeing-cheese-orange-beware-of.html). (The article itself is also interesting.)
+* It is spelled "Feliz Navidad".
+* 

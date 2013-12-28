@@ -36,4 +36,4 @@
 * Press `shift+delete` over any autosuggestion item in Chrome to [delete it](http://www.reddit.com/r/AskReddit/comments/1tsfyd/what_is_something_i_could_teach_myself_in_5/).
 * Fake cheeses are orange because [it was once the trait that healthy cows make carotene-rich milk](http://www.onebigfluke.com/2013/12/dyeing-cheese-orange-beware-of.html). (The article itself is also interesting.)
 * It is spelled "Feliz Navidad".
-* 
+* [Executable shabangs with parameters reveal what shebangs really mean](http://superuser.com/a/195834)

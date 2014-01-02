@@ -67,4 +67,5 @@ for k, v in d.iteritems():
 * [`assertEquals` is deprecated](http://docs.python.org/2/library/unittest.html#deprecated-aliases)
 * If `assertEqual` receives two `dict`s, it automatically calls `assertDictEqual`.
 * [`itertools.cycle`](http://docs.python.org/2/library/itertools.html#itertools.cycle): for when you want to loop over something, over and over
+* Django's `QueryDict` can be converted to a dict by calling `.dict()`.
 * 

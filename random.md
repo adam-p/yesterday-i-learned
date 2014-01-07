@@ -37,3 +37,5 @@
 * Fake cheeses are orange because [it was once the trait that healthy cows make carotene-rich milk](http://www.onebigfluke.com/2013/12/dyeing-cheese-orange-beware-of.html). (The article itself is also interesting.)
 * It is spelled "Feliz Navidad".
 * [Executable shabangs with parameters reveal what shebangs really mean](http://superuser.com/a/195834)
+* "Floating functions": global functions.
+* 

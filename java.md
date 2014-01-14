@@ -55,4 +55,9 @@
 * A class method that returns an instance of itself is used for chaining. Not memory-efficient; just chaining.
 * A method `public void foo(String...bar)` means that [it accepts an arbitrary number of arguments of type `String`](http://stackoverflow.com/a/3158767/1558430). If used in conjunction with other parameters, this must be placed last.
 * `from a import b` [is impossible](http://stackoverflow.com/q/2447880/1558430). Classes must be imported with their own names.
-
+* `.java` files compile to `.class` files, which are then packaged into `.jar` (Java ARchive) files.
+* [`.jar` files can also contain media](http://en.wikipedia.org/wiki/JAR_\(file_format\))
+* You can import `blah.blah.blah` without having the actual source code -- as long as you have their `class`es.
+* `@SuppressWarnings("unchecked")` in the code means that you confirm [the generic method/function is doing legal things](http://stackoverflow.com/a/1129812/1558430).
+* `Class.forName`, like PHP's `get_class`, returns the class object called that string. The string needs to be the class' full qualifier.
+* 

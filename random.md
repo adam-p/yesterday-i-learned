@@ -39,3 +39,4 @@
 * [Executable shabangs with parameters reveal what shebangs really mean](http://superuser.com/a/195834)
 * "Floating functions": global functions.
 * To brief is to *give* a short verbal update on events. To debrief is to *receive* a short verbal update on events.
+* It gets warmer when it snows, not because snow makes the air warmer, but because the warm air that arrives causes the (otherwise airborne) condensation to arrive as snow.

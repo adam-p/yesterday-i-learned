@@ -23,3 +23,6 @@
 * The stock's *price-to-earnings ratio* should be between 20 and 40.
 * The stock's *price-to-sales ratio* should be close to 1.
 
+# Abbreviations
+
+* AUR: average user retention

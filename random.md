@@ -44,3 +44,6 @@
 * `ir/ir/page/95/reload-config` reloads the config.
 * Uses SQS to manage spikes in demand. Can't do something right now? Chuck the request to a queue. Take things off the queue at constant rate.
 * [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
+* App engine admin: `--admin_port=8001`
+* [RFC 2324](https://www.ietf.org/rfc/rfc2324.txt) for coffee pot communication (not HTTP 418; that's for tea pots)
+* 

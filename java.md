@@ -1,3 +1,4 @@
+* [Want to install Oracle JDK with no tears?](http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html)
 * Less draconian than Haskell: `new Integer`s can be added to `int`s and `float`s.
 * It is `println`, not `printLn`.
 * It is possible to `system.out.println` numbers.
@@ -11,7 +12,15 @@
 * [`|=` is an assignment](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html), which means `foo = foo | that thing`.
 * Subclasses are possible, of course, but [`this` and `super` must be called as the constructor's first statement](http://stackoverflow.com/questions/1168345/why-does-this-and-super-have-to-be-the-first-statement-in-a-constructor)
 * Subclassing syntax: `public SubClass extends SuperClass`
-* [*Groovy*](http://groovy.codehaus.org/Download) is a Java REPL. It is not the same as Ubuntu's `groovy` package.
+* [*Groovy*](http://groovy.codehaus.org/Download), i.e. `groovysh`, is **not** a Java REPL. Although most Java code is valid Groovy code, Groovy code is not valid Java code. Differences can be seen here:
+
+```
+groovy:000> Boolean.valueOf("true")
+===> true
+groovy:000> Boolean.valueOf('true')
+===> true
+```
+
 * [`varargs`](http://docs.oracle.com/javase/1.5.0/docs/guide/language/varargs.html) are denoted with [`...`](http://stackoverflow.com/questions/5224252/what-are-these-three-dots-in-parameter-types), and can be used *only* in the final argument position.
 * Example `varargs`: `public int foo(int ... params) { }`
 * In a particular case where `varargs` is declared with type `Object`: `public int foo(Object ... params) { }`, `foo` accepts anything.
@@ -55,4 +64,15 @@
 * A class method that returns an instance of itself is used for chaining. Not memory-efficient; just chaining.
 * A method `public void foo(String...bar)` means that [it accepts an arbitrary number of arguments of type `String`](http://stackoverflow.com/a/3158767/1558430). If used in conjunction with other parameters, this must be placed last.
 * `from a import b` [is impossible](http://stackoverflow.com/q/2447880/1558430). Classes must be imported with their own names.
-
+* `.java` files compile to `.class` files, which are then packaged into `.jar` (Java ARchive) files.
+* [`.jar` files can also contain media](http://en.wikipedia.org/wiki/JAR_\(file_format\))
+* You can import `blah.blah.blah` without having the actual source code -- as long as you have their `class`es.
+* `@SuppressWarnings("unchecked")` in the code means that you confirm [the generic method/function is doing legal things](http://stackoverflow.com/a/1129812/1558430).
+* `Class.forName`, like PHP's `get_class`, returns the class object called that string. The string needs to be the class' full qualifier.
+* Setters that `return this;` are of the [builder pattern](http://en.wikipedia.org/wiki/Builder_pattern). According to a colleague of yours, doing so instead of `return void;` has no real performance differences.
+* [Beans](http://en.wikipedia.org/wiki/JavaBean) are plain objects that contain many other objects, with their properties all encapsulated in getters and setters. Beans cannot have constructors with arguments. 
+* [Autoboxing](http://docs.oracle.com/javase/tutorial/java/data/autoboxing.html): something new since 1.5, automatically treating `1` and `new Integer(1)` as the same thing, instead of a primitive and a class, respectively.
+* `//@formatter:off` and `//@formatter:on` control ranges between which Eclipse does not highlight your code. This had no effect on IDEA.
+* Checked exceptions (anything with the syntax `type methodName throws SomeExceptionClass`) must be caught immediately above its execution stack.
+* Classes that extends `Serializable` all require a unique `private static final long serialVersionUID;` value that allows a deserialized object to know which class along the class tree to deserialize back into.
+* There is no difference between Long's notation, [`l` and `L`](http://stackoverflow.com/a/770017/1558430).

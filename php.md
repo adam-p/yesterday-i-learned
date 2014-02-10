@@ -41,4 +41,6 @@
 * `===` is up to 12 times faster than `==` in all comparisons
 * `break` [accepts an integer](http://www.php.net/break) for the number of nests of break out of.
 * `{ code }` [effectively does nothing](http://stackoverflow.com/questions/14971123/use-curly-brackets-to-structure-code-in-php).
+* [No type-hinting for scalar (primitive) types](http://www.php.net/manual/en/language.oop5.typehinting.php), but `array` is okay, because PHP.
+* [No classes within classes](http://stackoverflow.com/questions/1583140/is-it-allowed-to-create-a-php-class-inside-another-class)
 * 

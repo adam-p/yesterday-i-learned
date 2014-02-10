@@ -40,3 +40,10 @@
 * [To send a message to Bob, encrypt a message using Bob's public key. Bob's private key can decrypt the message. Because only Bob has Bob's private key, only Bob will receive the message.](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 * Making yourself happy is not your wife's job. It is your own job. (You know what I mean)
 * [Specific page](http://en.wikipedia.org/wiki/IDN_homograph_attack) about tricking user into believing an internationalised domain name (IDN) is the genuine site
+* "Floating functions": global functions.
+* To brief is to *give* a short verbal update on events. To debrief is to *receive* a short verbal update on events.
+* It gets warmer when it snows, not because snow makes the air warmer, but because the warm air that arrives causes the (otherwise airborne) condensation to arrive as snow.
+* [Don't type "let me know"](http://letsworkshop.com/blog/the-email-line/) -- it doesn't work
+* `ir/ir/page/95/reload-config` reloads the config.
+* Uses SQS to manage spikes in demand. Can't do something right now? Chuck the request to a queue. Take things off the queue at constant rate.
+* [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.

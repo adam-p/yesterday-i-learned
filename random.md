@@ -37,3 +37,6 @@
 * Fake cheeses are orange because [it was once the trait that healthy cows make carotene-rich milk](http://www.onebigfluke.com/2013/12/dyeing-cheese-orange-beware-of.html). (The article itself is also interesting.)
 * It is spelled "Feliz Navidad".
 * [Executable shabangs with parameters reveal what shebangs really mean](http://superuser.com/a/195834)
+* [To send a message to Bob, encrypt a message using Bob's public key. Bob's private key can decrypt the message. Because only Bob has Bob's private key, only Bob will receive the message.](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+* Making yourself happy is not your wife's job. It is your own job. (You know what I mean)
+* [Specific page](http://en.wikipedia.org/wiki/IDN_homograph_attack) about tricking user into believing an internationalised domain name (IDN) is the genuine site

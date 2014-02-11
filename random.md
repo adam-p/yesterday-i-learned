@@ -49,4 +49,5 @@
 * [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
 * App engine admin: `--admin_port=8001`
 * [RFC 2324](https://www.ietf.org/rfc/rfc2324.txt) for coffee pot communication (not HTTP 418; that's for tea pots)
+* You [can](http://blog.jetbrains.com/pycharm/2013/03/how-pycharm-helps-you-with-remote-development/) debug through SSH!
 * 

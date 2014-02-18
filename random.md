@@ -50,4 +50,8 @@
 * App engine admin: `--admin_port=8001`
 * [RFC 2324](https://www.ietf.org/rfc/rfc2324.txt) for coffee pot communication (not HTTP 418; that's for tea pots)
 * You [can](http://blog.jetbrains.com/pycharm/2013/03/how-pycharm-helps-you-with-remote-development/) debug through SSH!
+* Parkinson's law of Triviality: the more trivial a task is, the more opinion you will get for doing it, so the slower it will be done.
+* [`(jenkins_url)/safeRestart`](http://stackoverflow.com/a/8077830/1558430) restarts it.
+* A jenkins job can be cloned or backed up [by just copying the files](https://wiki.jenkins-ci.org/display/JENKINS/Administering+Jenkins).
+* A jenkins job can also be copied by right-clicking it, you idiot.
 * 

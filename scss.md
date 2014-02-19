@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 * Declaring a variable: `$something: anything;`
 * Importing another SCSS file: `@import "something";` (relative path, no extensions)
 * Nested styles (besides `@media`): both elements (without colon) and attribute shorthands (with colon) can be nested

@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 * If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src](http://wiki.debian.org/TimeZoneChanges)
 * To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
 * When grass is first laid, its roots have not properly grown, and it must be watered once every day for a week.
@@ -54,4 +56,4 @@
 * [`(jenkins_url)/safeRestart`](http://stackoverflow.com/a/8077830/1558430) restarts it.
 * A jenkins job can be cloned or backed up [by just copying the files](https://wiki.jenkins-ci.org/display/JENKINS/Administering+Jenkins).
 * A jenkins job can also be copied by right-clicking it, you idiot.
-* 
+* Compiling `npm` will require [this fix](http://stackoverflow.com/a/5062718/1558430). 

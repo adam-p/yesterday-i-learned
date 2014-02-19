@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 * `window.location.reload()` accepts either `true` or `false` for hard reload.
 * `window.location.reload()` does not accept arguments across all browsers.
 * You can't send code to the server by POST and have the browser run the same code. (Refused to execute a JavaScript script. Source code of script found within request.)

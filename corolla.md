@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 Gasoline, Tank, and Exhaust
 ======================
 * Use unleaded gasoline, with an octane rating of 87+.

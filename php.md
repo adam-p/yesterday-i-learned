@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 * Did you realise the difference between `||` and `or`, which both exist?
 * http://net-beta.net/ubench/
 * Declare all vars; undeclared ones 10 times slower

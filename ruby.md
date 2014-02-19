@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 * Methods do not require `()` to call. WTF?
 * `!` after a method applies changes the current object. So `a.upcase!` means `a = a.upcase`.
 * `.chomp`, which often follows `gets`, removes the extra line at the end of console inputs.

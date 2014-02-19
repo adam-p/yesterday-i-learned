@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 * Ordering of python lists is persistent. [src](http://stackoverflow.com/a/13694053)
 * Pycharm hinting: 
 

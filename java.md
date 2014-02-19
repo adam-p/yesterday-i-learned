@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 * [Want to install Oracle JDK with no tears?](http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html)
 * Less draconian than Haskell: `new Integer`s can be added to `int`s and `float`s.
 * It is `println`, not `printLn`.
@@ -76,3 +78,5 @@ groovy:000> Boolean.valueOf('true')
 * Checked exceptions (anything with the syntax `type methodName throws SomeExceptionClass`) must be caught immediately above its execution stack.
 * Classes that extends `Serializable` all require a unique `private static final long serialVersionUID;` value that allows a deserialized object to know which class along the class tree to deserialize back into.
 * There is no difference between Long's notation, [`l` and `L`](http://stackoverflow.com/a/770017/1558430).
+* `pom.xml` decides what is compiled along as dependencies.
+* 

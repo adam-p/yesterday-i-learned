@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 # How to use RequireJS
 
 ### Have one of these `script` tags in your `head`

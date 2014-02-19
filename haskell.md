@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 * Integers and Strings are still `5` and `"chris"`. No weird syntax so far.
 * Strings are lists of Chars. You can make them by consing many Chars together if you want.
 * `5` is an expression. Its value is `5`.

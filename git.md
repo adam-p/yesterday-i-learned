@@ -1,3 +1,5 @@
+![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
+
 # git troubleshooting
 
 ## git asks me for the user name and password every time I pull and push

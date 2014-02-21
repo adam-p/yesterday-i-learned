@@ -35,6 +35,11 @@
 
 # PostgresQL
 
+* Logging into `psql`: `psql dbname username`
+* Delete a database: (`sudo su - owner_unix_user`), then run `dropdb dbname -Uowner_unix_user -W`. Alternatively, in psql, switch to a database (`\c postgres;`), then `DROP DATABASE dbname;` to delete.
 * [Postgres does not take performance hits from string lengths.](http://www.postgresql.org/docs/8.2/static/datatype-character.html) Putting it in reverse, it also means it cannot be sped up by shortening strings.
 * [`varying` string type has no length limit](http://stackoverflow.com/questions/2904991/postgresql-character-varying-length-limit)
-* 
+* `\c`: show the current user and database. `\c dbname` also switches to that database.
+* `\d`: list tables.
+* `\l`: list databases.
+* ``

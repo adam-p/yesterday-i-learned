@@ -73,4 +73,4 @@ for k, v in d.iteritems():
 * [`StringIO.StringIO`](http://docs.python.org/2/library/stringio.html) is **not** used for performance reasons. It is used to [convert a string into a memory-bound file](http://stackoverflow.com/questions/7996479/what-is-stringio-in-python-used-for-in-reality) so functions that expect a file can work without writing the string to a file first.
 * There is a `3to2`!
 * You can [decorate functions with classes](https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master) that have `__call__`!
-* 
+* Instance variables (`class.foo == 'far'`) are class variables (`class.foo == Class.foo`) as long as [the instance doesn't change its instance variable's value](http://stackoverflow.com/a/69067/1558430).

@@ -57,3 +57,5 @@
 * A jenkins job can be cloned or backed up [by just copying the files](https://wiki.jenkins-ci.org/display/JENKINS/Administering+Jenkins).
 * A jenkins job can also be copied by right-clicking it, you idiot.
 * Compiling `npm` will require [this fix](http://stackoverflow.com/a/5062718/1558430). 
+* A `site.pp` file controls Puppet's behaviour. It's a Perl script.
+* 

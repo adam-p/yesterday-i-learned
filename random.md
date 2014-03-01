@@ -58,4 +58,8 @@
 * A jenkins job can also be copied by right-clicking it, you idiot.
 * Compiling `npm` will require [this fix](http://stackoverflow.com/a/5062718/1558430). 
 * A `site.pp` file controls Puppet's behaviour. It's a Perl script.
+* Double hashing, triple hashing, or other "wacky hashing functions" are discouraged because of [Kerckhoff's Principle](https://crackstation.net/hashing-security.htm) -- the attacker will usually have both the database and the source code -- and will be able to find your function's weaknesses by supplying dummy data.
+* Apparently SHA1 isn't suitable for hashing passwords anymore.
+* If you aren't smart enough to find out how an attacker attacked you, hire a security firm. You can't skip this.
+* [`bcrypt` HAS A LENGTH LIMIT](https://news.ycombinator.com/item?id=7286453)
 * 

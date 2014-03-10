@@ -6,4 +6,6 @@
 * [`htop` missing](http://aws.blandnet.org/wordpress/htop-install/)
 * [Upgrading an instance](http://stackoverflow.com/a/8243307/1558430): stop the instance, wait for a while, and select "Change Instance Type"
 * VPC is Virtual Private Cloud, not Virtual PC.
-* 
+* If you can't move an RDS server's region, at least move the EC2 instances' availabiltiy zones to match it.
+* `/etc/httpd/conf/httpd.conf` has a load of stuff you can disable.
+* `/etc/httpd/conf.d/wsgi.conf` also has a load of stuff you can tweak.

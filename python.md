@@ -74,3 +74,5 @@ for k, v in d.iteritems():
 * There is a `3to2`!
 * You can [decorate functions with classes](https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master) that have `__call__`!
 * Instance variables (`class.foo == 'far'`) are class variables (`class.foo == Class.foo`) as long as [the instance doesn't change its instance variable's value](http://stackoverflow.com/a/69067/1558430).
+* `[:]` [copies a list](http://stackoverflow.com/a/2612815/1558430) (Thanks Ford)
+* 

@@ -134,6 +134,9 @@ git config color.status auto --global
 ## Want to search for a change in history
 `git grep <regex> $(git rev-list --all)`
 
+## Want to revert, like, one file from a booboo commit
+Run `git checkout HEAD^ -- path_to_file`. The file will be popped out to its previous state.
+
 ## git 1.7.1 couldn't create orphan branches
 
 [Solution](http://stackoverflow.com/a/1384336/1558430)

@@ -58,4 +58,6 @@
 * A jenkins job can also be copied by right-clicking it, you idiot.
 * Compiling `npm` will require [this fix](http://stackoverflow.com/a/5062718/1558430). 
 * A `site.pp` file controls Puppet's behaviour. It's a Perl script.
+* `gem` is really nice, because `gem fetch abc` downloads the package, and `gem install abc.gem` (with the `.gem`) installs it.
+* `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.
 * 

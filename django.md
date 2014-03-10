@@ -50,3 +50,22 @@ $ ./manage.py migrate djcelery 0004 --fake
 ```
 
 Then re-run: `./manage.py migrate`
+
+## Base models storing common fields
+
+Add a `class Meta` that contains `abstract = True`. 
+This has a downside of no longer allowing the class to be referenced (as foreign keys) directly.
+
+## Can't have `__getattr__` in django models
+
+Yeah. Suck it up.
+
+## Don't know what select_related and prefetch_related do
+According to onymous internet sources,
+
+`select_related`
+- foreign key & one-to-one relationship
+
+`prefetch_related`
+- many-to-many and many-to-one relationship
+- generic foreign key & relationship

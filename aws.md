@@ -9,3 +9,5 @@
 * If you can't move an RDS server's region, at least move the EC2 instances' availabiltiy zones to match it.
 * `/etc/httpd/conf/httpd.conf` has a load of stuff you can disable.
 * `/etc/httpd/conf.d/wsgi.conf` also has a load of stuff you can tweak.
+* Get everything from an s3 bucket: `s3cmd get s3://(bucket name)/*`
+* 

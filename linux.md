@@ -8,3 +8,12 @@
 * `-f` for `tail` autoscrolls it.
 * Count instances of `foo`: `foo | grep -c .`
 * Log in as someone else: `(sudo) su - username`
+* `cat * > new_file` overwrites contents in `new_file` with everything else in the folder.
+* [Obscure restart keyboard command: `Ctrl + Alt + PrtSc (SysRq) + reisub`](http://www.jovicailic.org/2013/05/linux-gets-frozen-what-do-you-do/)
+
+    * R: Switch the keyboard from raw mode to XLATE mode
+    * E: Send the SIGTERM signal to all processes except init
+    * I: Send the SIGKILL signal to all processes except init
+    * S: Sync all mounted filesystems
+    * U: Remount all mounted filesystems in read-only mode
+    * B: Immediately reboot the system, without unmounting partitions or syncing

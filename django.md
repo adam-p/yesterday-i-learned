@@ -69,3 +69,7 @@ According to onymous internet sources,
 `prefetch_related`
 - many-to-many and many-to-one relationship
 - generic foreign key & relationship
+
+## lxml parser won't run / lxml won't compile
+
+Run `sudo apt-get install libxml2-dev libxslt-dev python-dev lib32z1-dev`, *then* run `pip install lxml`

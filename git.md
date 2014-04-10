@@ -181,3 +181,7 @@ You cannot have another branch called `a/b`.
 
 * Basic blame: `git blame HEAD -- file`
 * Blame with `sudo apt-get git-gui`: `git gui blame file`
+
+## The Stash
+
+* Stashed something, can't get it back out: `git stash apply` or `git stash pop` (the latter removes the stash)

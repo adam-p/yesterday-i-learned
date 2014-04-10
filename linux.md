@@ -17,3 +17,8 @@
     * S: Sync all mounted filesystems
     * U: Remount all mounted filesystems in read-only mode
     * B: Immediately reboot the system, without unmounting partitions or syncing
+
+* [`Xvfb`](http://en.wikipedia.org/wiki/Xvfb): the screenless screen
+* To remove a ppa, add `--remove` to the `apt-add-repository foo` command.
+* [Shortest lower case variable in bash: `${SOMETHING,,}`](http://stackoverflow.com/a/11392248/1558430)
+* [Shortest upper case variable in bash: `${SOMETHING^^}`](http://stackoverflow.com/a/11392248/1558430)

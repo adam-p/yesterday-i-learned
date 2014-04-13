@@ -1,5 +1,3 @@
-![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
-
 * [Want to install Oracle JDK with no tears?](http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html)
 * Less draconian than Haskell: `new Integer`s can be added to `int`s and `float`s.
 * It is `println`, not `printLn`.

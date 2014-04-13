@@ -42,4 +42,6 @@
 * `\c`: show the current user and database. `\c dbname` also switches to that database.
 * `\d`: list tables.
 * `\l`: list databases.
-* ``
+* Monitoring psql: `sudo tail -n 50 -f /var/log/postgresql/postgresql-9.1-main.log`
+* Setting monitoring flags: [`log_min_duration_statement = 0`, and `log_statement = all`](http://stackoverflow.com/a/12670828/1558430)
+* Running a SQL file: [`psql -U username -d myDataBase -a -f myInsertFile`](http://stackoverflow.com/a/12085561/1558430)

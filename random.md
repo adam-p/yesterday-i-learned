@@ -58,6 +58,8 @@
 * A jenkins job can also be copied by right-clicking it, you idiot.
 * Compiling `npm` will require [this fix](http://stackoverflow.com/a/5062718/1558430). 
 * A `site.pp` file controls Puppet's behaviour. It's a Perl script.
+* `gem` is really nice, because `gem fetch abc` downloads the package, and `gem install abc.gem` (with the `.gem`) installs it.
+* `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.
 * Double hashing, triple hashing, or other "wacky hashing functions" are discouraged because of [Kerckhoff's Principle](https://crackstation.net/hashing-security.htm) -- the attacker will usually have both the database and the source code -- and will be able to find your function's weaknesses by supplying dummy data.
 * Apparently SHA1 isn't suitable for hashing passwords anymore.
 * If you aren't smart enough to find out how an attacker attacked you, hire a security firm. You can't skip this.
@@ -67,4 +69,6 @@
 * A *non-abelian group* is the same as non-commutation, in that f * g !== g * f.
 * "Kudos" is a singular Greek word.
 * "It's over 9000!" was only over 8000 in the original Japanese manga.
+* Another reason to use tastypie: [you can use it internally as resources as well](http://django-tastypie.readthedocs.org/en/latest/cookbook.html#using-your-resource-in-regular-views)
+* [The only fool-proof way to install nodejs and npm](http://stackoverflow.com/a/21715730/1558430) on ubuntu 12.04
 * 

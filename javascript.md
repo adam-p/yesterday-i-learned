@@ -60,6 +60,8 @@
 * `navigator.onLine` is `true` when the browser is actually online.
 * Backbone: `Collection.parse` is called *only* if you resolve the `fetch` XHR with remote JSON. It doesn't do anything if you resolve with an object.
 * [JSON on IE8? Nope](http://stackoverflow.com/a/4715399/1558430)
+* AJAX on IE? Nope. Need to use `this.response || this.responseText` for any AJAX objects made.
+* [Dispatching keyboard events without jQuery](http://stackoverflow.com/a/5920206/1558430)
 
 ## Deferred API
 

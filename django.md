@@ -50,3 +50,41 @@ $ ./manage.py migrate djcelery 0004 --fake
 ```
 
 Then re-run: `./manage.py migrate`
+
+### Migrating a migration that was previously faked
+
+`MigrationHistory.objects.get(app_name="your_app_name", migration="0001_whatever_filename").delete()`
+
+## Base models storing common fields
+
+Add a `class Meta` that contains `abstract = True`. 
+This has a downside of no longer allowing the class to be referenced (as foreign keys) directly.
+
+## Can't have `__getattr__` in django models
+
+Yeah. Suck it up.
+
+## Don't know what select_related and prefetch_related do
+According to onymous internet sources,
+
+`select_related`
+- foreign key & one-to-one relationship
+
+`prefetch_related`
+- many-to-many and many-to-one relationship
+- generic foreign key & relationship
+
+## lxml parser won't run / lxml won't compile
+
+Run `sudo apt-get install libxml2-dev libxslt-dev python-dev lib32z1-dev`, *then* run `pip install lxml`
+
+## Misc
+
+### Filtering by how many other foreign keys an object has
+
+Annotate with the count of the foreign key, then filter on the annotation.
+
+```
+from django.db.models import Count, Q
+Content.objects.annotate(tp=Count('tagged_products')).filter(tp__gte=3)
+```

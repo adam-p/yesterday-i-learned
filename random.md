@@ -62,4 +62,9 @@
 * Apparently SHA1 isn't suitable for hashing passwords anymore.
 * If you aren't smart enough to find out how an attacker attacked you, hire a security firm. You can't skip this.
 * [`bcrypt` HAS A LENGTH LIMIT](https://news.ycombinator.com/item?id=7286453)
+* `taskset -pc 0 1234` binds process 1234 to CPU #0.
+* Instead of `sudo service rabbitmq stop`, `sudo rabbitmqctl stop` does it.
+* A *non-abelian group* is the same as non-commutation, in that f * g !== g * f.
+* "Kudos" is a singular Greek word.
+* "It's over 9000!" was only over 8000 in the original Japanese manga.
 * 

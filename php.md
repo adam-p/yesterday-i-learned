@@ -45,4 +45,4 @@
 * `{ code }` [effectively does nothing](http://stackoverflow.com/questions/14971123/use-curly-brackets-to-structure-code-in-php).
 * [No type-hinting for scalar (primitive) types](http://www.php.net/manual/en/language.oop5.typehinting.php), but `array` is okay, because PHP.
 * [No classes within classes](http://stackoverflow.com/questions/1583140/is-it-allowed-to-create-a-php-class-inside-another-class)
-* 
+* `$str++` incrementss the string bytes by 1 (a becomes b), but [`$str--` removes a character from the string](https://eval.in/60631) because lol

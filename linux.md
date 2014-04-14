@@ -22,3 +22,5 @@
 * To remove a ppa, add `--remove` to the `apt-add-repository foo` command.
 * [Shortest lower case variable in bash: `${SOMETHING,,}`](http://stackoverflow.com/a/11392248/1558430)
 * [Shortest upper case variable in bash: `${SOMETHING^^}`](http://stackoverflow.com/a/11392248/1558430)
+* `ps -fp (pid)` will span the screen. If a command line is longer than, say, 80 characters, use [`cat /proc/(pid)/cmdline`](http://stackoverflow.com/a/821889/1558430)
+* 

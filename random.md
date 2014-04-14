@@ -66,4 +66,5 @@
 * [`bcrypt` HAS A LENGTH LIMIT](https://news.ycombinator.com/item?id=7286453)
 * Another reason to use tastypie: [you can use it internally as resources as well](http://django-tastypie.readthedocs.org/en/latest/cookbook.html#using-your-resource-in-regular-views)
 * [The only fool-proof way to install nodejs and npm](http://stackoverflow.com/a/21715730/1558430) on ubuntu 12.04
+* To make a plain text HTTP request with passwords containing stupid characters, do this: `http://'user:pass'@hello.ca`
 * 

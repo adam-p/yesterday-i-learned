@@ -1,5 +1,3 @@
-![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
-
 Gasoline, Tank, and Exhaust
 ======================
 * Use unleaded gasoline, with an octane rating of 87+.
@@ -13,6 +11,7 @@ Gasoline, Tank, and Exhaust
 Tires
 ======================
 * Your tire size is P185/65R14. 175 is not okay. 60R is not okay.
+* Your tires are supposed to be at 30 PSI, but 33 PSI is probably okay.
 * Summer tires: high speed, low traction, good for highway driving
 * All-season tires: better traction, doesn't work with heavy or loose snow
 * Snow tires: made entirely of grooves.

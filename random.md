@@ -1,5 +1,3 @@
-![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
-
 * If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src](http://wiki.debian.org/TimeZoneChanges)
 * To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
 * When grass is first laid, its roots have not properly grown, and it must be watered once every day for a week.
@@ -64,7 +62,13 @@
 * Apparently SHA1 isn't suitable for hashing passwords anymore.
 * If you aren't smart enough to find out how an attacker attacked you, hire a security firm. You can't skip this.
 * [`bcrypt` HAS A LENGTH LIMIT](https://news.ycombinator.com/item?id=7286453)
+* `taskset -pc 0 1234` binds process 1234 to CPU #0.
+* Instead of `sudo service rabbitmq stop`, `sudo rabbitmqctl stop` does it.
+* A *non-abelian group* is the same as non-commutation, in that f * g !== g * f.
+* "Kudos" is a singular Greek word.
+* "It's over 9000!" was only over 8000 in the original Japanese manga.
 * Another reason to use tastypie: [you can use it internally as resources as well](http://django-tastypie.readthedocs.org/en/latest/cookbook.html#using-your-resource-in-regular-views)
 * [The only fool-proof way to install nodejs and npm](http://stackoverflow.com/a/21715730/1558430) on ubuntu 12.04
 * To make a plain text HTTP request with passwords containing stupid characters, do this: `http://'user:pass'@hello.ca`
+* `Ctrl+_` gets you the line number dialog in nano/pico.
 * 

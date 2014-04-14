@@ -1,5 +1,3 @@
-![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
-
 # Django troubleshooting
 
 ## South is being a douche

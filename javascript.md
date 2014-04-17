@@ -60,6 +60,8 @@
 * [JSON on IE8? Nope](http://stackoverflow.com/a/4715399/1558430)
 * AJAX on IE? Nope. Need to use `this.response || this.responseText` for any AJAX objects made.
 * [Dispatching keyboard events without jQuery](http://stackoverflow.com/a/5920206/1558430)
+* Clone an array: [`arr.slice(0)`](http://stackoverflow.com/questions/5024085/whats-the-point-of-slice0-here)
+* 
 
 ## Deferred API
 

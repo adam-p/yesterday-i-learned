@@ -19,6 +19,7 @@ To identify pain, this strategy can be used:
 
 > [A] part of the reason to focus on pain is that [pain] helps prioritize. 
 > [The] top priorities likely come from pain [that] existing *customers* feel, or pain our *sales team* faces in getting new customers (sales, $)
+
 > [I]f/when we are bringing on lots of new customers then we'll feel pain *internally*, and that will help us proritize making it fast/easy to bring new customers onboard
 
 ### Why defer building until pain?
@@ -103,6 +104,10 @@ Never guess what features people use, what people want or don't want, or which b
 * What features users use most often
 * A/B Testing
 * Which bugs are most often hit by users
+
+### Collect all data
+
+Unless it takes to much time (see [1](agile.md#1-defer-building-until-pain).)
 
 ## "7. Definition of Done"
 

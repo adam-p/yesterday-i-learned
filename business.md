@@ -51,6 +51,8 @@ At the cost of high volatility, equity provides the highest return, provided tha
 # Terms
 
 * AUR: average user retention
+* Board Lot: a unit for "number of shares" in your stock exchange. Typically, A lot is 100 shares. Because trading 100 shares is easier than trading 17 shares, trading is often done in lots.
+* Buy on Stop: buy, when the price hits the value you specified.
 * Div yield (%): total dividend per year per share
 * EPS: earnings per share
 * MACD (Moving Average Convergence/Divergence): The MACD is calculated by simply subtracting a 26-period exponential moving average (EMA) of the closing prices from a 12-period EMA. The signal line is a nine-period exponential moving average of the MACD.

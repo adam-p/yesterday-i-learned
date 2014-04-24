@@ -71,4 +71,5 @@
 * [The only fool-proof way to install nodejs and npm](http://stackoverflow.com/a/21715730/1558430) on ubuntu 12.04
 * To make a plain text HTTP request with passwords containing stupid characters, do this: `http://'user:pass'@hello.ca`
 * `Ctrl+_` gets you the line number dialog in nano/pico.
-* 
+* You idiot...! VLC's shortcuts don't need modifier keys! `n` and `p` already control the playback!
+*

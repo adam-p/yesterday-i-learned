@@ -52,3 +52,7 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
 
 * Install: `sudo apt-get install mongodb`
 * 
+
+# Redis
+
+Redis is also NoSQL. It is a KV Store, however.

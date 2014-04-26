@@ -69,7 +69,9 @@
 * "It's over 9000!" was only over 8000 in the original Japanese manga.
 * Another reason to use tastypie: [you can use it internally as resources as well](http://django-tastypie.readthedocs.org/en/latest/cookbook.html#using-your-resource-in-regular-views)
 * [The only fool-proof way to install nodejs and npm](http://stackoverflow.com/a/21715730/1558430) on ubuntu 12.04
+* To make a plain text HTTP request with passwords containing stupid characters, do this: `http://'user:pass'@hello.ca`
 * `Ctrl+_` gets you the line number dialog in nano/pico.
 * "Trail braking" is releasing the brake when you are half-way into a turn (whose point is called the [apex](https://en.wikipedia.org/wiki/Apex_(racing\)))
 * [Chicanes](https://en.wikipedia.org/wiki/Chicanes) are two 90-degree turns designed to slow you down.
-* 
+* You idiot...! VLC's shortcuts don't need modifier keys! `n` and `p` already control the playback!
+*

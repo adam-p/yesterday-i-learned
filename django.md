@@ -86,3 +86,19 @@ Annotate with the count of the foreign key, then filter on the annotation.
 from django.db.models import Count, Q
 Content.objects.annotate(tp=Count('tagged_products')).filter(tp__gte=3)
 ```
+
+### Cleaning up your mess after an outer join
+
+```
+qs.distinct()
+```
+
+### Prefetching with `get_object_or_404`
+
+This is apparently possible:
+
+```
+get_object_or_404(Thing.prefetch_related(), id=4)
+```
+
+, bearing in mind that calling `prefetch_related` multiple times on the same queryset makes those prefetch calls multiple times.

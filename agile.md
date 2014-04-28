@@ -60,6 +60,10 @@ The following are examples of deploying thin slices:
 
 As slices become thinner and thinner, continuous deployment can be easily achieved. At that point, code reviews will need to be done as soon as possible, typically approved or rejected in under an hour.
 
+### Unknown unknowns
+
+Deploying quickly and frequently helps identify, as often as you deploy, that a problem exists, or a hidden requirement is preventing a task from being done.
+
 ## "3. Use 3rd party tools"
 
 If someone somewhere has made a tool that does what we want to do, then that tool shall be used until the tool no longer does what we want to do (e.g. we want more features). 
@@ -107,7 +111,7 @@ Never guess what features people use, what people want or don't want, or which b
 
 ### Collect all data
 
-Unless it takes to much time (see [1](agile.md#1-defer-building-until-pain).)
+Unless it takes too much time to collect the data (see [1](agile.md#1-defer-building-until-pain).)
 
 ## "7. Definition of Done"
 
@@ -116,3 +120,7 @@ In Kanban, there is a concept called "Plan - Do - Done", that divides all tasks 
 There are many occasions when you want to mark a task as done, but a task is only considered Done when the feature is deployed and tested.
 
 If the feature turns out to be buggy, the task is still considered done. Just file another high priority task to fix that bug.
+
+### Deliverables
+
+A task needs a list of deliverables ("what needed to be done" -- and "what got done?") and, preferably, a due date.

@@ -1,5 +1,3 @@
-![repo logo](http://www.ohai.ca/images/yesterday-i-learned.jpg)
-
 # MySQL
 
 * To install MySQL server, client, and python adapters: `sudo apt-get install mysql-common mysql-client-4.4 libmysqlclent-dev mysql-server-5.5`

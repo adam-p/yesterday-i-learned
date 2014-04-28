@@ -21,4 +21,7 @@
 * [Shortest lower case variable in bash: `${SOMETHING,,}`](http://stackoverflow.com/a/11392248/1558430)
 * [Shortest upper case variable in bash: `${SOMETHING^^}`](http://stackoverflow.com/a/11392248/1558430)
 * `ps -fp (pid)` will span the screen. If a command line is longer than, say, 80 characters, use [`cat /proc/(pid)/cmdline`](http://stackoverflow.com/a/821889/1558430)
-* 
+* [(Almost) all distributions have `ssh-copy-id` preinstalled](http://blog.tjll.net/ssh-kung-fu/) that copies your *local* key to the remote user's list of `authorized_keys`.
+* SSH supports [elliptic curve](http://blog.tjll.net/ssh-kung-fu/) key pairs as well! No particular reason to use it (other than fewer bits)
+* Not all programs support the `scp://` protocol. For example, `vim scp://ohai.ca/poop` works but `nano scp://ohai.ca/poop` doesn't.
+* Running `ssh -D 9090 user@host` on your local computer, then asking your browser (e.g. firefox) to use that localhost port as a SOCKS proxy, will turn port 9090 into a proxy, *provided that `network.proxy.socks_remote_dns` is set to `true`*.

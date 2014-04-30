@@ -25,3 +25,10 @@
 * SSH supports [elliptic curve](http://blog.tjll.net/ssh-kung-fu/) key pairs as well! No particular reason to use it (other than fewer bits)
 * Not all programs support the `scp://` protocol. For example, `vim scp://ohai.ca/poop` works but `nano scp://ohai.ca/poop` doesn't.
 * Running `ssh -D 9090 user@host` on your local computer, then asking your browser (e.g. firefox) to use that localhost port as a SOCKS proxy, will turn port 9090 into a proxy, *provided that `network.proxy.socks_remote_dns` is set to `true`*.
+* Bash: `. ` is an alias of `source `.
+* Bash: [`case...esac`](http://www.tutorialspoint.com/unix/case-esac-statement.htm). Gee...
+* Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .
+* `alias ll='ls -al'` is present in *many* distros.
+* `su` accepts arguments. And it is "switch" user, not "super" user.
+* `apt-get install --only-upgrade jenkins`: upgrade only if already installed
+* `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.

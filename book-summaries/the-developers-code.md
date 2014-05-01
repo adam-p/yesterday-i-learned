@@ -127,4 +127,47 @@ You rarely mean "we" as in all of us; you almost always mean "some of us" e.g. t
 
 "We" prevents naming people when you want feedback from particulars, and feeds the bystander effect ("I wasn't called")
 
-# 
+# Sniff out bad complexity
+
+Bad complexity is complexity that doesn't need to be there. Can you do things simpler? Can you write code that is easier to understand?
+
+# The simplicity paradox
+
+Simple code can be hard to build.
+
+Simple code can be hard to expand.
+
+Simple code can be lack features.
+
+The perfect piece of software is one that does *exactly* what is expected of it -- no more, no less.
+
+# Complexity as a game of pickup sticks
+
+Implementing a feature is like adding a stick to the stick pile.
+
+Removing the feature may disturb many other sticks.
+
+Be careful what features you add, and whether they are necessary.
+
+# Keep complexity under the surface
+
+Let the software handle the underlying complexity -- the user doesn't need to know how things work.
+
+# "Hard to code" might mean "hard to use"
+
+In that case, you are neither shifting pain from users to the code, nor making software that is easy to maintain.
+
+Think hard about why you are implementing this thing.
+
+# Know when to refactor
+
+Some kinds of refactoring make sense at the time they are done, but if given enough time, refactoring code might reduce the ability for some other, better ways to refactor the same code afterwards.
+
+So, don't try to refactor too often.
+
+# Develop a programming cadance
+
+There is no silver bullet to knowing if you are anticipating too early for a change vs reacting too late for a change. You will get better at it over time.
+
+# Teaching is unlike coding
+

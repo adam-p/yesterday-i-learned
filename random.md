@@ -66,4 +66,4 @@
 * You idiot...! VLC's shortcuts don't need modifier keys! `n` and `p` already control the playback!
 * [The Carcinogenic Prototype](http://blog.hedges.net/2014/04/08/4-symptoms-of-dysfunction-in-software-teams/): a prototype that the higher-ups love so much that it needs to grow fast, go wrong, and affect other systems (carcinogenic thus), all while the engineers had told and forewarned of this happening.
 * Regex substitutions: when in doubt, try `$1` first, then `\1`.
-* 
+* Google analytics allows you to measure events based on custom dimensions, which allows you to filter events by them, but you will have to tell Google that the user is in one. There can be at most 15 custom dimensions.

@@ -74,4 +74,5 @@
 * "Trail braking" is releasing the brake when you are half-way into a turn (whose point is called the [apex](https://en.wikipedia.org/wiki/Apex_(racing\)))
 * [Chicanes](https://en.wikipedia.org/wiki/Chicanes) are two 90-degree turns designed to slow you down.
 * You idiot...! VLC's shortcuts don't need modifier keys! `n` and `p` already control the playback!
-*
+* [Living by yourself](http://www.reddit.com/r/AskReddit/comments/1z996r/what_are_some_of_the_perks_when_living_by_yourself/)
+* 

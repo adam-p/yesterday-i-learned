@@ -21,3 +21,9 @@
 * `//` is *root* if used at the start, or *any descendant* if used anywhere else.
 * `/` is *from anywhere* if used at the start, or *direct descendant* if used anywhere else.
 * `img[@src="wat"]` filters `img` tags by `src`. The same works for data attributes.
+
+## Design
+
+* "This redesign incorporates two of the worst design trends today: *very low contrast text* and *gratuitously, obnoxiously large fixed headers.*"
+    
+    Takeaway: *Use high-contrast text*. **Don't use fixed headers**.

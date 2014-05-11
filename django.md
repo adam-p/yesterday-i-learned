@@ -102,3 +102,7 @@ get_object_or_404(Thing.prefetch_related(), id=4)
 ```
 
 , bearing in mind that calling `prefetch_related` multiple times on the same queryset makes those prefetch calls multiple times.
+
+### Django signals (e.g. `post_save`, `m2m_changed`, ...) not working
+
+The file you have these hooks must be touched by python at least once... try importing these hooks from a file that you know django uses. (The imports don't need to be used)

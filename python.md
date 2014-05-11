@@ -74,3 +74,8 @@ for k, v in d.iteritems():
 * Instance variables (`class.foo == 'far'`) are class variables (`class.foo == Class.foo`) as long as [the instance doesn't change its instance variable's value](http://stackoverflow.com/a/69067/1558430).
 * `[:]` [copies a list](http://stackoverflow.com/a/2612815/1558430) (Thanks Ford)
 * `enumerate()`: returns tuples with index as the first value
+* `re.sub(pattern, repl, string)` is technically `re.sub(pattern, lambda repl: repl, string)`, which allows [text munging](https://docs.python.org/2/library/re.html#text-munging).
+* `yield`s are formally referred to as [coroutines](http://en.wikipedia.org/wiki/Coroutine) -- function with multiple entry/resume points.
+* The `signal` package has an `alarm` method that can [timeout a long-running function](https://wiki.python.org/moin/PythonDecoratorLibrary#Function_Timeout).
+* [Python3 exceptions are only accessible within the `except` block, for GC reasons](http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
+*

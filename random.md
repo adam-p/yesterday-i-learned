@@ -63,7 +63,11 @@
 * [The only fool-proof way to install nodejs and npm](http://stackoverflow.com/a/21715730/1558430) on ubuntu 12.04
 * To make a plain text HTTP request with passwords containing stupid characters, do this: `http://'user:pass'@hello.ca`
 * `Ctrl+_` gets you the line number dialog in nano/pico.
+* "Trail braking" is releasing the brake when you are half-way into a turn (whose point is called the [apex](https://en.wikipedia.org/wiki/Apex_(racing\)))
+* [Chicanes](https://en.wikipedia.org/wiki/Chicanes) are two 90-degree turns designed to slow you down.
 * You idiot...! VLC's shortcuts don't need modifier keys! `n` and `p` already control the playback!
+* [Living by yourself](http://www.reddit.com/r/AskReddit/comments/1z996r/what_are_some_of_the_perks_when_living_by_yourself/)
 * [The Carcinogenic Prototype](http://blog.hedges.net/2014/04/08/4-symptoms-of-dysfunction-in-software-teams/): a prototype that the higher-ups love so much that it needs to grow fast, go wrong, and affect other systems (carcinogenic thus), all while the engineers had told and forewarned of this happening.
 * Regex substitutions: when in doubt, try `$1` first, then `\1`.
 * Google analytics allows you to measure events based on custom dimensions, which allows you to filter events by them, but you will have to tell Google that the user is in one. There can be at most 15 custom dimensions.
+* 

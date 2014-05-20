@@ -44,3 +44,5 @@
 * [No type-hinting for scalar (primitive) types](http://www.php.net/manual/en/language.oop5.typehinting.php), but `array` is okay, because PHP.
 * [No classes within classes](http://stackoverflow.com/questions/1583140/is-it-allowed-to-create-a-php-class-inside-another-class)
 * `$str++` incrementss the string bytes by 1 (a becomes b), but [`$str--` removes a character from the string](https://eval.in/60631) because lol
+* `$argv` is a thing.
+* Searching for [`exec($_GET`](https://github.com/search?q=exec%28%24_GET&ref=cmdform&type=Code) gives you a list of exploitable web apps.

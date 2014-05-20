@@ -61,6 +61,7 @@
 * AJAX on IE? Nope. Need to use `this.response || this.responseText` for any AJAX objects made.
 * [Dispatching keyboard events without jQuery](http://stackoverflow.com/a/5920206/1558430)
 * Clone an array: [`arr.slice(0)`](http://stackoverflow.com/questions/5024085/whats-the-point-of-slice0-here)
+* [Marionette's UI hash](https://github.com/marionettejs/backbone.marionette/blob/master/docs/marionette.itemview.md#organizing-ui-elements) keeps references to UI elements; `this.ui.checkbox` anywhere in any method means `this.$(the checkbox selector`. This has no use for regions, whose elements are already defined using selectors.
 * 
 
 ## Deferred API

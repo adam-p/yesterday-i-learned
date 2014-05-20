@@ -1,3 +1,5 @@
+![Dilbert](http://i.imgur.com/CGJ67gv.gif)
+
 * `yum` is managed by a list of repository configs in `/etc/yum.repos.d/`, each being an ini file.
 * EC2 has [Extra Packages for Enterprise Linux](http://aws.amazon.com/amazon-linux-ami/faqs/#epel) (EPEL).
 * [Adding a new yum repository](http://www.cyberciti.biz/tips/rhel5-fedora-core-add-new-yum-repository.html)

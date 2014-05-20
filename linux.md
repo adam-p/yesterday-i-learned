@@ -35,4 +35,5 @@
 * `apt-get install --only-upgrade jenkins`: upgrade only if already installed
 * `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.
 * [`apt-get rubbish`](http://ubuntuforums.org/showthread.php?t=599424) Shows you packages listed by package size.
+* [How to install Debian on Android](http://sven-ola.dyndns.org/repo/debian-kit-en.html) (it's not that useful, however)
 * 

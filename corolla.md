@@ -32,6 +32,7 @@ Engine
 * "Always turn the overdrive switch on for better fuel economy and quieter driving." (that is, pressed in)
 * Cold engines consume more fuel than warned engines.
 * Warming an engine up by revving it does not save fuel.
+* The Clutch: the outside of the wheel is a fibrous material that grabs to make contact when you let off the clutch pedal. A clutch works by friction, and every time the car is started when the clutch is engaged (touching the wheel), the material wears out a little.
 
 Winter driving
 ======================

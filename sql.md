@@ -10,8 +10,7 @@
 * Delete a database: [`DROP DATABASE ebdb;`](http://dev.mysql.com/doc/refman/5.0/en/drop-database.html)
 * Show list of tables: `SHOW TABLES;`
 
-* Create an index: 
-
+* Create an index: **TODO**
 
 * Show tables by schema: `SELECT table_name, engine FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = '(dbname)';`
 * Show table columns: `SHOW COLUMNS FROM table_name;`
@@ -39,10 +38,13 @@
 * [`varying` string type has no length limit](http://stackoverflow.com/questions/2904991/postgresql-character-varying-length-limit)
 * `\c`: show the current user and database. `\c dbname` also switches to that database.
 * `\d`: list tables.
+* `\d+ tablename`: describe the table.
 * `\l`: list databases.
 * Monitoring psql: `sudo tail -n 50 -f /var/log/postgresql/postgresql-9.1-main.log`
 * Setting monitoring flags: [`log_min_duration_statement = 0`, and `log_statement = all`](http://stackoverflow.com/a/12670828/1558430)
 * Running a SQL file: [`psql -U username -d myDataBase -a -f myInsertFile`](http://stackoverflow.com/a/12085561/1558430)
+* Re-index a table: `REINDEX TABLE tablename;` (doesn't work if the index is broken, which is *retarded*
+  `REINDEX TABLE tablename force;` doesn't work.
 
 ## Performance
 
@@ -51,6 +53,25 @@
 * Multi-column indices are position-dependent; `CREATE INDEX tbl_idx ON tbl (a, b)` is different from `CREATE INDEX tbl_idx ON tbl (b, a)`, where selecting by `b` requires the second index.
 * Continuing from the point above, if the first column in a multi-column index (^ i.e. `a`) is selected as a range, the subsequent indices (i.e. `b`) are useless in the same query. 
   **Make sure the first column in a multi-column index is selected exactly.**
+* Getting the create table SQL for a table: [see guide](http://stackoverflow.com/a/16154183/1558430)
+* 
+  
+## Troubleshooting
+
+### Corrupted index
+
+This is what a corrupted index looks like:
+
+```
+db=> select * from assets_tile where id=43;
+ id | ... 
+----+-----
+ 43 | ...
+(1 row)
+db=> reindex table assets_tile;
+ERROR:  could not create unique index "assets_tile_pkey"
+DETAIL:  Key (id)=(43) is duplicated.
+```
 
 # MongoDB
 

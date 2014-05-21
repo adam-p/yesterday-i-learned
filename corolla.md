@@ -25,12 +25,14 @@ Engine
 * Max crank (start car) time is 30 seconds.
 * There is also a min crank time.
 * 140 km/h is your particular vechicle's maximum rating.
+* That is to say, driving at 160km/h, while entirely possible, did ruin your vehicle.
 * Ignore the maximum speed rating. You have already broken it.
 * Your vehicle can tow a maximum of 680 kg (1500 lb), where the max tongue load (mass actually exerted on the car instead of the trailer's tires) is 68 kg).
 * Your engine is fitted with twin ground electrode spark plugs. Use only twin ground electrode spark plugs.
 * "Always turn the overdrive switch on for better fuel economy and quieter driving." (that is, pressed in)
 * Cold engines consume more fuel than warned engines.
 * Warming an engine up by revving it does not save fuel.
+* The Clutch: the outside of the wheel is a fibrous material that grabs to make contact when you let off the clutch pedal. A clutch works by friction, and every time the car is started when the clutch is engaged (touching the wheel), the material wears out a little.
 
 Winter driving
 ======================

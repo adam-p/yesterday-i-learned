@@ -64,6 +64,14 @@ As slices become thinner and thinner, continuous deployment can be easily achiev
 
 Deploying quickly and frequently helps identify, as often as you deploy, that a problem exists, or a hidden requirement is preventing a task from being done.
 
+### Thin / Simple doesn't mean ugly
+
+Writing code that borders "temporary" can have a negative result on the future velocity. 
+
+While leaving magic numbers in that one/two places where they are used are acceptable, even thin slices require careful initial architectual consideration, because as a project increases in size, it gets more difficult to refactor.
+
+As an example, if you were to design a skyscraper, you cannot deploy a wooden hut as your first thin slice, because none of the wooden hut is actually useful for finishing the skyscraper.
+
 ## "3. Use 3rd party tools"
 
 If someone somewhere has made a tool that does what we want to do, then that tool shall be used until the tool no longer does what we want to do (e.g. we want more features). 

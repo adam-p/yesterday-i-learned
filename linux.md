@@ -1,3 +1,5 @@
+![Dilbert](http://i.imgur.com/CGJ67gv.gif)
+
 * `yum` is managed by a list of repository configs in `/etc/yum.repos.d/`, each being an ini file.
 * EC2 has [Extra Packages for Enterprise Linux](http://aws.amazon.com/amazon-linux-ami/faqs/#epel) (EPEL).
 * [Adding a new yum repository](http://www.cyberciti.biz/tips/rhel5-fedora-core-add-new-yum-repository.html)
@@ -35,4 +37,4 @@
 * [`apt-get rubbish`](http://ubuntuforums.org/showthread.php?t=599424) Shows you packages listed by package size.
 * Diffing two directories: [`diff -bur dir1 dir2](http://stackoverflow.com/a/2019897/1558430)
 * `F4` brings up a terminal in Dolphin.
-* 
+* [How to install Debian on Android](http://sven-ola.dyndns.org/repo/debian-kit-en.html) (it's not that useful, however)

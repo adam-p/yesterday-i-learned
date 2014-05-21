@@ -33,4 +33,6 @@
 * `apt-get install --only-upgrade jenkins`: upgrade only if already installed
 * `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.
 * [`apt-get rubbish`](http://ubuntuforums.org/showthread.php?t=599424) Shows you packages listed by package size.
+* Diffing two directories: [`diff -bur dir1 dir2](http://stackoverflow.com/a/2019897/1558430)
+* `F4` brings up a terminal in Dolphin.
 * 

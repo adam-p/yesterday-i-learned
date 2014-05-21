@@ -70,7 +70,7 @@
 * [The Carcinogenic Prototype](http://blog.hedges.net/2014/04/08/4-symptoms-of-dysfunction-in-software-teams/): a prototype that the higher-ups love so much that it needs to grow fast, go wrong, and affect other systems (carcinogenic thus), all while the engineers had told and forewarned of this happening.
 * Regex substitutions: when in doubt, try `$1` first, then `\1`.
 * Google analytics allows you to measure events based on custom dimensions, which allows you to filter events by them, but you will have to tell Google that the user is in one. There can be at most 15 custom dimensions.
-* Power steering noise came from low fluid levels, or, rather, [air in the pump caused by low fluid levels](https://www.youtube.com/watch?v=ZiLKvFDTi78). Checking for leaks requires a pump; if a leak exists, pressure will promptly return to normal once applied.
+* Power steering noise came from low fluid levels, or, rather, [air in the pump caused by low fluid levels](https://www.youtube.com/watch?v=ZiLKvFDTi78). Checking for leaks requires a pump; if a leak exists, pressure will promptly return to normal once applied. [1](http://www.wikihow.com/Flush-Power-Steering-Fluid)
 * A [vole](http://en.wikipedia.org/wiki/Vole): something like a mouse, but live in holes and burrows. Eats roots of plants.
 * Rommel was apparently a [micromanager](http://www.reddit.com/r/todayilearned/comments/25hqf5/til_in_ww2_german_field_marshal_erwin_rommel/chhg305), loved by soldiers but hated by his subordinates.
 * The story of a 17yo man and [his encounter with a girl called Monica](http://www.reddit.com/r/AskReddit/comments/258w8s/what_is_a_story_you_have_been_dying_to_tell/chex9eq); accept challenges from strangers
@@ -84,3 +84,15 @@
 * **The User Is Drunk**: design interfaces without your glasses put on. If you can't see the screen clearly, but it can still guide you through what you want to do, it is working.
 * The reason you wake up at the middle of the night after heavy drinking: alcohol does not turn into any kind of sugar. In fact, alcohol tends to induce a hypoglycemic state, which is hypothesized to be one of the reasons that drinking on an empty stomach tends to make you more inebriated--a lot of the signs of low blood sugar mimic alcohol intoxication. This is because when alcohol is metabolized, it passes off some of its chemical energy to a compound called NAD, reducing it to NADH, which the cell uses for metabolic purposes. However, when alcohol floods the liver with NADH, the relative amount of NAD available is fairly low, and this molecule is required for several of the reactions of gluconeogenesis, which is the process by which the liver creates glucose in between meals. Hence, alcohol on an empty stomach can cause low blood glucose by inhibiting the livers ability to perform gluconeogenesis. It also never acts as a "stimulant" in any way. It is eventually metabolized to acetic acid, which is not a stimulant.
 * That "thumb guy" from the Fallout series is actually measuring the size of a mushroom cloud from a nuclear bomb.
+* [Boreal genomics](http://www.borealgenomics.com/) was once recommended by your current employer for your particular career path.
+* When the length of your secret is known, the [length extension attack](http://en.wikipedia.org/wiki/Length_extension_attack) can be targeted towards your message, which is hashed together with your secret. [Because we know the length of the message, we also know the length of the padding that was used](http://crypto.stackexchange.com/questions/3978/understanding-a-length-extension-attack) and apparently that can be used to forge keys that protect the message.
+* Things that look like something else: [Pareidolia](http://www.reddit.com/r/pareidolia) (pa-re-idol-lia)
+* [Spamming a blog with Facebook](http://www.reddit.com/r/netsec/comments/23xhmo/using_facebooks_bandwidth_to_generate_900_mbps)
+* [Alcohol metabolism]() depends on some factors:
+    * Weight: the heavier the faster.
+    * Level Of Fitness: the more muscles, the faster.
+    * Gender: the more male, the faster. (if you could be a mix of both)
+    * Age: the younger, the better (old people have less water content)
+    * Exercise: the harder, the faster (lung expels alcohol), assuming you replenish your fluids
+    * Tolerance: the more tolerated, the faster
+* Chrome for iOS makes requests to `http://localhost:0` for [URL verification](http://blog.newrelic.com/2014/04/11/crazy-things-found-developing-new-relic-browser/?mpc=SM-TWIT-generic-EN-100-browserdev-crazythings).

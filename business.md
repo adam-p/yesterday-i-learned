@@ -44,9 +44,21 @@ At the cost of high volatility, equity provides the highest return, provided tha
 
 ### Looking for a suitable time
 
+Further reading: [0001.md](sources/0001.md)
+
+#### To buy
+
 * Consider buying stocks in a *bull market*: a market where people are starting to gain confidence in investing.
 * Never buy stocks in a *bear market*: a market whose general prices are falling, and people are being pessimistic.
 * *Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns.*
+
+#### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
+
+* When the price is right (hits your target)
+* When the company is no longer doing its business the right way or making enough sales
+* When a better stock exists
+* When the company is acquired
+* When the company goes bankrupt (selling it doesn't give you money, but you can claim it as capital loss)
 
 # Terms
 

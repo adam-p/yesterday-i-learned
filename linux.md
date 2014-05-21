@@ -36,4 +36,6 @@
 * `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.
 * [`apt-get rubbish`](http://ubuntuforums.org/showthread.php?t=599424) Shows you packages listed by package size.
 * [How to install Debian on Android](http://sven-ola.dyndns.org/repo/debian-kit-en.html) (it's not that useful, however)
-* 
+* `ksplice` allows [kernel upgrades without rebooting](http://askubuntu.com/questions/193069/how-can-i-upgrade-my-servers-kernel-without-rebooting). Then again, why?
+* Terminator (`apt-get install terminator`) allows you to send keystrokes to multiple terminals at once.
+* There is [no way to clear the console](http://superuser.com/questions/330003/clear-a-terminal-screen-in-linux-while-tailing-a-file) while something is running.

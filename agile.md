@@ -2,6 +2,11 @@
 
 Click on the title for a verbatim image from the meeting.
 
+Further reading: 
+
+* [The codeless code](http://thecodelesscode.com)
+* [Methodology cancer](http://www.javacodegeeks.com/2014/04/development-methodologies.html)
+
 ## "1. Defer building until pain"
 
 This is also referred to as [kanban development](http://www.slideshare.net/JR0cket/jit-developmentwithkanbanjax-london2011).

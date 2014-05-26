@@ -90,6 +90,7 @@ Heuristically determine if something is in a set, being correct most of the time
 * [ ] Numpy
 * [ ] Julia (science) 
 * [ ] I2P, or http://en.wikipedia.org/wiki/NAT_hole_punching
+* [ ] ETag tracking
 
 # Projects
 * [ ] json-template-based static site that gracefully degrades

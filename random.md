@@ -115,3 +115,4 @@
 * [Busty Betty](http://www.calgarynumismaticsociety.org/Bustybetty.html) was a coin minted that was designed to be rubbed.
 * After mating, the male Parnassines produce a glue like substance that is used to seal the female genital opening and prevent other males from mating.
 * [Nike](http://en.wikipedia.org/wiki/Nike) is the goddess of victory.
+* Chena Hot Springs, Alaska - constructed an ice hotel... entirely out of ice and snow. It was shut down by the building inspector due to lack of smoke detectors.

@@ -87,6 +87,12 @@ from django.db.models import Count, Q
 Content.objects.annotate(tp=Count('tagged_products')).filter(tp__gte=3)
 ```
 
+### got only `30` from a URL like `?foo=10&foo=20&foo=30`
+
+Conventional wisdom tells us `request.GET.get('foo')` would get us whatever `foo` is, which is, by default, the last `foo`.
+
+To get all the values instead, use `request.GET.getlist('foo')`, which is `['10', '20', '30']`.
+
 ### Cleaning up your mess after an outer join
 
 ```

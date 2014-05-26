@@ -96,3 +96,8 @@
     * Exercise: the harder, the faster (lung expels alcohol), assuming you replenish your fluids
     * Tolerance: the more tolerated, the faster
 * Chrome for iOS makes requests to `http://localhost:0` for [URL verification](http://blog.newrelic.com/2014/04/11/crazy-things-found-developing-new-relic-browser/?mpc=SM-TWIT-generic-EN-100-browserdev-crazythings).
+* If you're the person talking to someone in a noisy club, speak at the person's shoulder and not their ear.
+* An [aye-aye](http://en.wikipedia.org/wiki/Aye-aye) is an animal.
+* Invertibrate moulting is called [ecdysis](http://en.wikipedia.org/wiki/Ecdysis). Exoskeleton is shed off, and the soft, new exoskeleton inside expand to accomodate the animal's larger body before it hardens again.
+* [Imago](http://en.m.wikipedia.org/wiki/Imago): the insect after last stage of moulting, before the insect matures.
+* Butterfly larvae in the *Papilionidae* family have antannae called [Osmeterium](http://en.m.wikipedia.org/wiki/Osmeterium) that produce foul-smelling terpenes.

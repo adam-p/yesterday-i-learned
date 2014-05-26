@@ -114,3 +114,4 @@
 * [Snow peas is called *mange tout* in the UK, which means "eat everything" or maybe "everything can be eaten"](http://lifehacker.com/the-differences-between-british-and-american-cooking-vo-1574080813)
 * [Busty Betty](http://www.calgarynumismaticsociety.org/Bustybetty.html) was a coin minted that was designed to be rubbed.
 * After mating, the male Parnassines produce a glue like substance that is used to seal the female genital opening and prevent other males from mating.
+* [Nike](http://en.wikipedia.org/wiki/Nike) is the goddess of victory.

@@ -100,6 +100,10 @@ Try `git fetch --all && git reset --hard origin/(branch)`.
 ## Tried to cherry-pick a range of commits, but it didn't include the oldest commit
 You need a `^`. Run `git cherry-pick -m 1 --ff (older hash)^..(newer hash)`. `m` isn't necessarily 1.
 
+## I can't cherry pick something from remote
+
+Fetch the repository first. Then, the hash of the commit can be cherry picked.
+
 ## My tags won't go onto the remote repo
 `git push --tags`
 

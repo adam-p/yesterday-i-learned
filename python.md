@@ -80,4 +80,4 @@ for k, v in d.iteritems():
 * [Python3 exceptions are only accessible within the `except` block, for GC reasons](http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 * Set generators are [already available in python2.7](http://en.wikipedia.org/wiki/Python_syntax_and_semantics#Dictionary_and_set_comprehensions).
 * The `set`'s `discard` method makes stupid things like `new_set = {x for x in old_set if x != 'foo'}` a little bit redundant.
-* 
+* Lambda expressions can have parameter defaults, positional and keyword arguments!

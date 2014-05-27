@@ -19,6 +19,10 @@ Tires
 * Do not mix tire types
 * Do not mix tire sizes
 
+Power Steering
+======================
+* [What it looks like](http://repairpal.com/power-steering)
+
 Engine
 ======================
 * A new engine consumes more oil, since its pistons, piston rings and cylinder walls have not become conditioned.

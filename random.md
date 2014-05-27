@@ -94,3 +94,23 @@
 * Chrome for iOS makes requests to `http://localhost:0` for [URL verification](http://blog.newrelic.com/2014/04/11/crazy-things-found-developing-new-relic-browser/?mpc=SM-TWIT-generic-EN-100-browserdev-crazythings).
 * Adjective for *pervert*: *perverse*
 * You once played poker with Lou (Louis J. Montulli II, The Netscape guy) in Sunnyvale. You did not win. Nor did he. Then again, you spent $20 and he went all-out.
+* If you're the person talking to someone in a noisy club, speak at the person's shoulder and not their ear.
+* An [aye-aye](http://en.wikipedia.org/wiki/Aye-aye) is an animal.
+* Invertibrate moulting is called [ecdysis](http://en.wikipedia.org/wiki/Ecdysis). Exoskeleton is shed off, and the soft, new exoskeleton inside expand to accomodate the animal's larger body before it hardens again.
+* [Imago](http://en.m.wikipedia.org/wiki/Imago): the insect after last stage of moulting, before the insect matures.
+* Butterfly larvae in the *Papilionidae* family have antannae called [Osmeterium](http://en.m.wikipedia.org/wiki/Osmeterium) that produce foul-smelling terpenes.
+* Origins of [rekt](‎http://www.reddit.com/r/ImGoingToHellForThis/comments/26c8e1/garbage/)
+* [*Beer shits*](http://www.poopreport.com/Doctor/Knowledgebase/beer_and_poop.html) are caused by alcohol poisoning and death of gut flora that digest soluble fibres.
+* [The Mummies of Venzone](http://www.wondercabinet.net/2012/05/29/the-mummies-of-venzone/) are rapidly dehydrated (and thus preserved) by the fungus *Hypha tombicina*.
+* It is [possible](http://i.imgur.com/ulGwWxK.jpg) to sleep in a Prius C.
+* "Because information has to travel to your brain via neural pathways, everything you are experiencing actually happened 80 milliseconds in the past."
+* Close both your eyes and you see black, but only close one eye, and it sees nothing.
+* "For a brief period, you were the youngest person on Earth."
+* You are not the voice inside your head, you are the one who hears it.
+* The 2nd player could control the ducks in duck hunt.
+* If you haven't gotten laid, you are the first mammal in your lineage not to have gotten laid.
+* [Snow peas is called *mange tout* in the UK, which means "eat everything" or maybe "everything can be eaten"](http://lifehacker.com/the-differences-between-british-and-american-cooking-vo-1574080813)
+* [Busty Betty](http://www.calgarynumismaticsociety.org/Bustybetty.html) was a coin minted that was designed to be rubbed.
+* After mating, the male Parnassines produce a glue like substance that is used to seal the female genital opening and prevent other males from mating.
+* [Nike](http://en.wikipedia.org/wiki/Nike) is the goddess of victory.
+* Chena Hot Springs, Alaska - constructed an ice hotel... entirely out of ice and snow. It was shut down by the building inspector due to lack of smoke detectors.

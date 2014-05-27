@@ -41,3 +41,8 @@
 * `ksplice` allows [kernel upgrades without rebooting](http://askubuntu.com/questions/193069/how-can-i-upgrade-my-servers-kernel-without-rebooting). Then again, why?
 * Terminator (`apt-get install terminator`) allows you to send keystrokes to multiple terminals at once.
 * There is [no way to clear the console](http://superuser.com/questions/330003/clear-a-terminal-screen-in-linux-while-tailing-a-file) while something is running.
+* Any connected list of quotes (`"Hello"' '"world"`) is echo-able.
+* Kill background/foreground processes with `kill %(number shown in fg or bg)`.
+* If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src](http://wiki.debian.org/TimeZoneChanges)
+* `taskset -pc 0 1234` binds process 1234 to CPU #0.
+* Instead of `sudo service rabbitmq stop`, `sudo rabbitmqctl stop` does it.

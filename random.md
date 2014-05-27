@@ -1,13 +1,10 @@
-* If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src](http://wiki.debian.org/TimeZoneChanges)
 * To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
 * When grass is first laid, its roots have not properly grown, and it must be watered once every day for a week.
 * Add any event by URL: https://www.google.com/calendar/render?action=TEMPLATE&text=(event+name)&dates=20130704T230000Z/20130705T020000Z&details=(deta+ils)&location=(loca+tion)
-* Kill background/foreground processes with `kill %(number shown in fg or bg)`.
 * Use single quotes (`git commit -am 'Nailed it!'`) to leave a commit message with an exclamation mark.
-* Any connected list of quotes (`"Hello"' '"world"`) is echo-able.
-* A notched tail flipper found on a lobster indicates [a breeding female](http://en.wikipedia.org/wiki/Homarus_americanus).
+* A notched tail flipper found on a lobster indicates [a breeding female](http://en.wikipedia.org/wiki/Homarus_americanus). Researchers notch the tails, not the males, so there really wasn't much to be learnt here.
 * [Albinism](http://en.wikipedia.org/wiki/Albino) affects vertebrates. That, and lobsters, which are not vertebrates.
-* The [Korean blood cake](https://en.wikipedia.org/wiki/Sundae_(Korean_food\)) is also called *sundae*.
+* The Korean blood cake is also called *sundae*: https://en.wikipedia.org/wiki/Sundae_(Korean_food)
 * ViewModel is, and Controller isn't: [You'll notice - there are no references to the view and zero DOM manipulation in Angular controllers.](http://stackoverflow.com/a/6566842/1558430)
 * Because `iif` is a library function, it cannot short-circuit.
 * [Claims had been made](http://lifehacker.com/what-happens-to-the-brain-when-you-meditate-and-how-it-1202533314) that meditation improves memory recall.
@@ -16,15 +13,16 @@
 * Canary is pronounced kun-NAIR-ree.
 * "LL" is pronounced "Y" in Spanish.
 * Orion is pronunced oh-RYE-un.
-* [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law): statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.o
-* [The `wheel` group](http://en.wikipedia.org/wiki/Wheel_(Unix_term\)) is a group of users with slightly more power than normal users, but less so than admins.
-* Clean branch names: `echo "Some stupid task name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` -> `some-stupid-branch-name`
+* [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law): statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.
+* The `wheel` group: http://en.wikipedia.org/wiki/Wheel_(Unix_term) is a group of users with slightly more power than normal users, but less so than admins.
+* Clean branch names: `echo "Some stupid task name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` becomes `some-stupid-branch-name`
 * Download HTTP directory listings / crawl a sub-site with `wget`: [`wget -m -np http://cordova.apache.org/docs/en/3.2.0/`](http://stackoverflow.com/a/5317668/1558430). Don't rely on it, however.
 * (Naming) [Safari won't handle `css.gz` or `js.gz`.](http://stackoverflow.com/a/5502390/1558430)
 * An "heir presumptive" is different from an "heir apparent" in that the presumptive can be displaced by someone who is born later in higher priority (?). An example would be if the Queen's parents had another younger son.
 * Both infarction and infraction are words. Infraction (-frac-) means breakage. Infarction implies blockage.
 * Mosquitoes hibernate.
-* [Old age is not a scientifically recognized cause of death](https://en.wikipedia.org/wiki/Death_by_natural_causes)
+* [Old age is not a scientifically recognized cause of death](https://en.wikipedia.org/wiki/Death_by_natural_causes) (because old people die of *soemthing*)
+* [Euthanasia is neither a natural nor unnatural cause of death](https://en.wikipedia.org/wiki/Death_by_natural_causes).
 * Understeer: the front wheels are fully turned, but the car is still going forward.
 * Oversteer: the front wheels are turning fine, but the back is steering too much.
 * Press `shift+delete` over any autosuggestion item in Chrome to [delete it](http://www.reddit.com/r/AskReddit/comments/1tsfyd/what_is_something_i_could_teach_myself_in_5/).
@@ -54,8 +52,6 @@
 * Apparently SHA1 isn't suitable for hashing passwords anymore.
 * If you aren't smart enough to find out how an attacker attacked you, hire a security firm. You can't skip this.
 * [`bcrypt` HAS A LENGTH LIMIT](https://news.ycombinator.com/item?id=7286453)
-* `taskset -pc 0 1234` binds process 1234 to CPU #0.
-* Instead of `sudo service rabbitmq stop`, `sudo rabbitmqctl stop` does it.
 * A *non-abelian group* is the same as non-commutation, in that f * g !== g * f.
 * "Kudos" is a singular Greek word.
 * "It's over 9000!" was only over 8000 in the original Japanese manga.
@@ -96,3 +92,5 @@
     * Exercise: the harder, the faster (lung expels alcohol), assuming you replenish your fluids
     * Tolerance: the more tolerated, the faster
 * Chrome for iOS makes requests to `http://localhost:0` for [URL verification](http://blog.newrelic.com/2014/04/11/crazy-things-found-developing-new-relic-browser/?mpc=SM-TWIT-generic-EN-100-browserdev-crazythings).
+* Adjective for *pervert*: *perverse*
+* You once played poker with Lou (Louis J. Montulli II, The Netscape guy) in Sunnyvale. You did not win. Nor did he. Then again, you spent $20 and he went all-out.

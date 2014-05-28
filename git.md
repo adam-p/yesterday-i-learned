@@ -18,6 +18,15 @@ Optionally, run `git commit -a` to commit the correct branch.
 Run `git reset --soft HEAD^ && git stash && git checkout (correct branch) && git stash pop`.
 Commit your local branch with `git commit -a`, and force-push to cover your remote using `git push --force origin (branch)`.
 
+### I merged a pull request I didn't want / That PR broke everything and I want it out
+
+Follow any one of [these advice](http://stackoverflow.com/questions/2389361/undo-a-git-merge):
+
+```
+git revert -m 1 (the hash where the PR merge happened)  # Preserves history
+git reset --merge (the hash where the PR merge happened)  # Removes history
+```
+
 ### I want to remove all commits.
 1. Find the ID of the first commit ever. It will be a hash. Remember the first six characters, e.g. `a1b2c3`.
 2. Run `git checkout (e.g. a1b2c3)`.

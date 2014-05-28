@@ -35,7 +35,14 @@
 * `apt-get install --only-upgrade jenkins`: upgrade only if already installed
 * `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.
 * [`apt-get rubbish`](http://ubuntuforums.org/showthread.php?t=599424) Shows you packages listed by package size.
+* Diffing two directories: [`diff -bur dir1 dir2](http://stackoverflow.com/a/2019897/1558430)
+* `F4` brings up a terminal in Dolphin.
 * [How to install Debian on Android](http://sven-ola.dyndns.org/repo/debian-kit-en.html) (it's not that useful, however)
 * `ksplice` allows [kernel upgrades without rebooting](http://askubuntu.com/questions/193069/how-can-i-upgrade-my-servers-kernel-without-rebooting). Then again, why?
 * Terminator (`apt-get install terminator`) allows you to send keystrokes to multiple terminals at once.
 * There is [no way to clear the console](http://superuser.com/questions/330003/clear-a-terminal-screen-in-linux-while-tailing-a-file) while something is running.
+* Any connected list of quotes (`"Hello"' '"world"`) is echo-able.
+* Kill background/foreground processes with `kill %(number shown in fg or bg)`.
+* If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src](http://wiki.debian.org/TimeZoneChanges)
+* `taskset -pc 0 1234` binds process 1234 to CPU #0.
+* Instead of `sudo service rabbitmq stop`, `sudo rabbitmqctl stop` does it.

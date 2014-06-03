@@ -115,3 +115,12 @@
 * [Nike](http://en.wikipedia.org/wiki/Nike) is the goddess of victory.
 * Chena Hot Springs, Alaska - constructed an ice hotel... entirely out of ice and snow. It was shut down by the building inspector due to lack of smoke detectors.
 * Don't keep asking if you're free to go: "No, you aren't free to go, this is a detention. I've found reasonable suspicion that a crime has occurred, is occurring, or is about to occur, and that you are connected to the crime (ie I saw you run a stop sign in your vehicle) which is all I need to detain you. I have the option to let you go with a warning, or write you a citation for that infraction along with any equipment violations I notice during the course of the stop. I also noticed the distinct odor of fresh marijuana emitting from your vehicle, which constitutes probable cause that there is marijuana (am illegal substance under state and federal law) inside your vehicle. Probable cause allows me to search your vehicle order to locate the source of the odor. If I find less than an ounce and determine that it was for personal use, I have the option to confiscate it and arrest you, or let you go with a warning for that as well. If I choose to arrest you, you will be released on your promise to appear in court at a later date (citation). Have I explained things well enough? Do you have any questions?"
+* CLM: Career-Limiting Move (something stupid you do that prevents new jobs and opportunities, such as being a douchebag or writing this line
+* There *is* a way to pull changes from the parent repository once you've forked it. Create a PR, swap base and HEAD branches, and submit the PR to yourself.
+* [XSS evasion cheatsheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
+* "Stag and Doe": Southern Ontarian term for a fiance and fiancee's pre-wedding party
+* If your tailor asks "Where do you dress", it means "where's your penis hanging, left or right?"
+* [Modems can transmit more than one bit per baud](https://news.ycombinator.com/item?id=7828094)
+* Shebangs can be anything, [including rm](http://codegolf.stackexchange.com/questions/28672/code-that-will-only-execute-once): `#!/bin/rm`
+* "Thread safe" means that the code will never have problems with race conditions (one thing finishing before another).
+* Hobnobbing: interacting with the higher class; one-percenting

@@ -83,3 +83,4 @@ for k, v in d.iteritems():
 * Lambda expressions can have parameter defaults, positional and keyword arguments!
 * Django Foreign keys default to `None`.
 * `__future__` imports can only be done at the top of a file.
+* Override `parse_start_url` to diagnose Scrapy errors that occur on start urls.

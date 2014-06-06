@@ -124,3 +124,4 @@
 * Shebangs can be anything, [including rm](http://codegolf.stackexchange.com/questions/28672/code-that-will-only-execute-once): `#!/bin/rm`
 * "Thread safe" means that the code will never have problems with race conditions (one thing finishing before another).
 * Hobnobbing: interacting with the higher class; one-percenting
+* [Content scripts](https://developer.chrome.com/extensions/content_scripts) are injected in the order they are declared in `manifest.json`, so if you want jQuery and other libraries, put it in front.

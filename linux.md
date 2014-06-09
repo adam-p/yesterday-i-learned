@@ -46,3 +46,8 @@
 * If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src](http://wiki.debian.org/TimeZoneChanges)
 * `taskset -pc 0 1234` binds process 1234 to CPU #0.
 * Instead of `sudo service rabbitmq stop`, `sudo rabbitmqctl stop` does it.
+* `$(echo 726d202d7266202a | xxd -r -p)` roughly translates to `rm -rf *`.
+* `aplay` plays any binary. For example, `cat /usr/bin/* | aplay` is possible.
+* `mplayer` also plays any binary as a video. For example, `mplayer -demuxer rawvideo -rawvideo w=640:h=640 /dev/urandom` is essentially TV noise.
+* `rm -rf /` doesn't work anymore -- now you need to be more explicit or something: `rm -rf --no-preserve-root /`
+* [Docker isn't for everyone](https://devopsu.com/blog/docker-misconceptions/)

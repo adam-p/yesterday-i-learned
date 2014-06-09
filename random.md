@@ -130,3 +130,5 @@
 * Homework is stupid. The whole point is to get less of it. (This is a quote)
 * *Santorum (n.)* was a term made up to upset Rick Santorum, an imbecile residing in the United States.
 * Checking if `nonInteraction` is on for your google analytics: turn the [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en) on and off again (serious), and check if any event you track contains `nonInteraction = 0` (`&ni=0`)
+* **Welp** does *not* stand for "help": [To be used in place of 'well', when one feels there is no more to say.](http://www.urbandictionary.com/define.php?term=Welp&defid=2839204)
+* Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.m.wikipedia.org/wiki/Paddington_Bear#History)

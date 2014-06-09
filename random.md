@@ -125,3 +125,8 @@
 * "Thread safe" means that the code will never have problems with race conditions (one thing finishing before another).
 * Hobnobbing: interacting with the higher class; one-percenting
 * [Content scripts](https://developer.chrome.com/extensions/content_scripts) are injected in the order they are declared in `manifest.json`, so if you want jQuery and other libraries, put it in front.
+* "Blanchard and Klassen (1997) reported that each additional older brother increases the odds of a man being gay by 33%."
+* Italian phonotactics do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive extra terminal vowel sounds.
+* Homework is stupid. The whole point is to get less of it. (This is a quote)
+* *Santorum (n.)* was a term made up to upset Rick Santorum, an imbecile residing in the United States.
+* Checking if `nonInteraction` is on for your google analytics: turn the [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en) on and off again (serious), and check if any event you track contains `nonInteraction = 0` (`&ni=0`)

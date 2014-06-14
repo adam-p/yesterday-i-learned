@@ -83,3 +83,7 @@ for k, v in d.iteritems():
 * Lambda expressions can have parameter defaults, positional and keyword arguments!
 * Django Foreign keys default to `None`.
 * `__future__` imports can only be done at the top of a file.
+* [You can and should use monads in your code in almost any programming language](http://www.valuedlessons.com/2008/01/monads-in-python-with-nice-syntax.html)
+* `a >> b` can be overridden using the magic method `__rshift__`.
+* I don't know what the author was talking about, but python has something called the [bidirectional generator](https://www.google.ca/search?q=python+bidirectional+generator&oq=python+bidirectional+generator&aqs=chrome..69i57.4705j0j7&client=ubuntu-browser&sourceid=chrome&es_sm=0&ie=UTF-8) which no one explained.
+* 

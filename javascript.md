@@ -62,7 +62,8 @@
 * [Dispatching keyboard events without jQuery](http://stackoverflow.com/a/5920206/1558430)
 * Clone an array: [`arr.slice(0)`](http://stackoverflow.com/questions/5024085/whats-the-point-of-slice0-here)
 * [Marionette's UI hash](https://github.com/marionettejs/backbone.marionette/blob/master/docs/marionette.itemview.md#organizing-ui-elements) keeps references to UI elements; `this.ui.checkbox` anywhere in any method means `this.$(the checkbox selector`. This has no use for regions, whose elements are already defined using selectors.
-* 
+* Apparently [$.Deferred is a monad](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/).
+* There's a [Promises 2.0](http://blogs.msdn.com/b/rbuckton/archive/2011/08/15/promise-js-2-0-promise-framework-for-javascript.aspx), but who uses it?
 
 ## Deferred API
 
@@ -71,3 +72,20 @@
 * `<Deferred>.done(function, function, ...)`
 * `<Deferred>.always(function, function, ...)`
 * `<Deferred>.fail(function, function, ...)`
+
+## [Writing memory-efficient JavaScript](http://www.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
+
+* Dereferencing (`delete object.key`) does not free memory immediately, but it does take CPU to modify the object, so use sparingly.
+* Setting something to `null` does not null the object; it merely sets the reference to `null`, which does not free memory immediately.
+* Global objects are never garbage-collected.
+* Function-scoped variables are cleaned up when it can no longer be reached (like, if it stays inside the function).
+* Unbind event listeners when they're no longer used. This is not done automatically -- you need to keep track.
+* Functions that return functions can never be garbage-collected, because the reference to the inner function can be called.
+* (However,) any variables no longer used in the function that returns a function will be garbage collected in some cases (V8).
+* Anything referenced by timers (`setTimeout` or `setInterval`) will not be garbage collected.
+* Try-catches will cause V8 to cancel optimization.
+* Don't write large functions; they are hard to optimize (both by humans and engines)
+* To store many things of the same type (e.g. Number, String, ...) use an Array, because they are faster to iterate over [than objects with integer keys].
+* Sparse arrays (most values are 0) are [slower on V8 than full arrays](http://jsperf.com/sparse-arrays-vs-full-arrays).
+* [Except in Safari](http://jsperf.com/pre-allocated-arrays), never pre-allocate arrays.
+* Avoid element reflowing/redrawing (but this is more of a DOM thing rather than JS)

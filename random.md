@@ -118,4 +118,21 @@
 * ["Feminine-named hurricanes (vs. masculine-named hurricanes) cause significantly more deaths, apparently because they lead to lower perceived risk and consequently less preparedness"](http://www.pnas.org/content/early/2014/05/29/1402786111)
 * [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory): "learning" is done by associations done from the presynaptic cell to the postsynaptic cell; cells that fire together wire together
 * "JavaScript legend Douglas Crockford once said that [monads are cursed – that once you understand monads for yourself you lose the ability to explain them to others](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)"
-* 
+* CLM: Career-Limiting Move (something stupid you do that prevents new jobs and opportunities, such as being a douchebag or writing this line
+* There *is* a way to pull changes from the parent repository once you've forked it. Create a PR, swap base and HEAD branches, and submit the PR to yourself.
+* [XSS evasion cheatsheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
+* "Stag and Doe": Southern Ontarian term for a fiance and fiancee's pre-wedding party
+* If your tailor asks "Where do you dress", it means "where's your penis hanging, left or right?"
+* [Modems can transmit more than one bit per baud](https://news.ycombinator.com/item?id=7828094)
+* Shebangs can be anything, [including rm](http://codegolf.stackexchange.com/questions/28672/code-that-will-only-execute-once): `#!/bin/rm`
+* "Thread safe" means that the code will never have problems with race conditions (one thing finishing before another).
+* Hobnobbing: interacting with the higher class; one-percenting
+* [Content scripts](https://developer.chrome.com/extensions/content_scripts) are injected in the order they are declared in `manifest.json`, so if you want jQuery and other libraries, put it in front.
+* "Blanchard and Klassen (1997) reported that each additional older brother increases the odds of a man being gay by 33%."
+* Italian phonotactics do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive extra terminal vowel sounds.
+* Homework is stupid. The whole point is to get less of it. (This is a quote)
+* *Santorum (n.)* was a term made up to upset Rick Santorum, an imbecile residing in the United States.
+* Checking if `nonInteraction` is on for your google analytics: turn the [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en) on and off again (serious), and check if any event you track contains `nonInteraction = 0` (`&ni=0`)
+* **Welp** does *not* stand for "help": [To be used in place of 'well', when one feels there is no more to say.](http://www.urbandictionary.com/define.php?term=Welp&defid=2839204)
+* Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.m.wikipedia.org/wiki/Paddington_Bear#History
+*)

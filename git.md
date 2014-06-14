@@ -3,7 +3,30 @@
 ## git asks me for the user name and password every time I pull and push
 Use the SSH URL instead of the HTTPS URL.
 
+## User incompetence
+
+### I forgot what I did between the last commit and now
+
+```
+git status
+```
+
+### I forgot what I did for some specific commit
+
+``
+git show (sha1)
+``
+### I accidentally deleted a file, and thought I could just check it back out
+`git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.
+
+### I accidentally deleted a file, and I have already made a commit after that
+`git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"`
+
+### I accidentally added a file, and luckily I haven't committed anything yet
+`git reset HEAD (added file)`
+
 ## booboos
+
 ### I pushed stupid things onto the remote server
 Run a rebase on your local branch with `git rebase -i HEAD~1`, then force a push to your branch with `git push origin +(branch)`. The commit will still be accessible by commit ID.
 
@@ -126,15 +149,6 @@ git push origin :refs/tags/12345
 ### Checking out a tag
 `git checkout tags/{tag name}`
 
-## I accidentally deleted a file, and thought I could just check it back out
-`git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.
-
-## I accidentally deleted a file, and I have already made a commit after that
-`git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"`
-
-## I accidentally added a file, and luckily I haven't committed anything yet
-`git reset HEAD (added file)`
-
 ## [zsh isn't showing diffs in colour](http://stackoverflow.com/a/12255443/1558430)
 
 ```
@@ -173,9 +187,9 @@ You cannot have another branch called `a/b`.
 
 ## Git patches
 
-###
+### Adding only some of the staged things
 
-* `git add -p` 
+* `git add -p` (p stands for patch)
 
 ### Creating a patch
 * Save a patch: `git format-patch -n HEAD^`
@@ -192,6 +206,10 @@ You cannot have another branch called `a/b`.
 
 * Basic blame: `git blame HEAD -- file`
 * Blame with `sudo apt-get git-gui`: `git gui blame file`
+
+### Some idiot impersonated me
+
+Then [sign your commits](http://mikegerwitz.com/papers/git-horror-story) with `git commit -S -am`
 
 ## The Stash
 

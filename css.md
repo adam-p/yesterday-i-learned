@@ -15,6 +15,9 @@
 * Can't set a container's width and height based on the ratio of its background image? [Have an invisible image tag inside the container](http://stackoverflow.com/a/12098334/1558430) so the container displays its background image according to the shrunk ratio of its invisible children.
 * There is something called the [`rem` size unit](http://snook.ca/archives/html_and_css/font-size-with-rem) in CSS3, which stands for "root em". It is the em size multiplied by its parents' size values (e.g. 10rem in a 80% parent is effective 8em)
 * [CSS triangles -- a tragedy in five acts](http://stackoverflow.com/a/7073558/1558430) (essentially, three sides of borders combined with something with neither width nor height)
+* Can you use scoped css (`<style scoped>`)? [No](http://caniuse.com/style-scoped), you cannot use scoped CSS.
+* [`:visited`](https://blog.mozilla.org/security/2010/03/31/plugging-the-css-history-leak/) can only change `color`.
+* [`:visited`](https://blog.mozilla.org/security/2010/03/31/plugging-the-css-history-leak/) cannot be read by JavaScript.
 
 ## XPath
 

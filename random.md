@@ -132,3 +132,6 @@
 * Checking if `nonInteraction` is on for your google analytics: turn the [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en) on and off again (serious), and check if any event you track contains `nonInteraction = 0` (`&ni=0`)
 * **Welp** does *not* stand for "help": [To be used in place of 'well', when one feels there is no more to say.](http://www.urbandictionary.com/define.php?term=Welp&defid=2839204)
 * Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.m.wikipedia.org/wiki/Paddington_Bear#History)
+* [POST/Redirect/GET](http://en.wikipedia.org/wiki/Post/Redirect/Get): by returning a 30x response in your POST, the user will be forced to GET a different page, which means the user will not be able to POST to the same page again.
+* Albuquerque is pronounced AL-ber-ker-kee.
+* Caps at the ends of bike handles are supposed to prevent them from making a human sausages when it hits any part of the body.

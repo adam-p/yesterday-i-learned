@@ -25,6 +25,20 @@ git show (sha1)
 ### I accidentally added a file, and luckily I haven't committed anything yet
 `git reset HEAD (added file)`
 
+### I am an idiot
+
+[This one-liner](http://stackoverflow.com/a/7010890/1558430) shows your addition/removal statistics.
+
+```
+git log --author="Brian Lai" --pretty=tformat: --numstat | awk '{ add += $1 ; subs += $2 ; loc += $1 - $2 } END { printf "added lines: %s removed lines : %s total lines: %s\n",add,subs,loc }' -
+```
+
+[This other one-liner](http://stackoverflow.com/a/13687302/1558430) compares you with others, in the current code base.
+
+```
+git ls-tree --name-only -z -r HEAD|egrep -z -Z -E '\.(js|css|py|html|sh)$' | xargs -0 -n1 git blame --line-porcelain|grep "^author "|sort|uniq -c|sort -nr
+```
+
 ## booboos
 
 ### I pushed stupid things onto the remote server
@@ -96,7 +110,7 @@ repo
 `cd (submodule path) && git reset --hard HEAD`
 
 ### "fatal: Not a git repository: (one of your submodules)"
-Nudge around with your `.git/modules/(submodule name)/config` file and see if any obvious errors are in place.
+Nudge around your `.git/modules/(submodule name)/config` file and see if any obvious errors are in place.
 
 ### I cloned a repository without the `--recursive` flag
 At project root, `git submodule init && git submodule update --recursive`
@@ -210,6 +224,8 @@ You cannot have another branch called `a/b`.
 ### Some idiot impersonated me
 
 Then [sign your commits](http://mikegerwitz.com/papers/git-horror-story) with `git commit -S -am`
+
+And [verify them](http://stackoverflow.com/questions/17371955/verifying-signed-git-commits) with `git log --show-signature`
 
 ## The Stash
 

@@ -52,4 +52,4 @@
 * `rm -rf /` doesn't work anymore -- now you need to be more explicit or something: `rm -rf --no-preserve-root /`
 * [Docker isn't for everyone](https://devopsu.com/blog/docker-misconceptions/) but [you made a cheatsheet anyway](docker.md)
 * `ls` supports sorting by size (`-S`), even for recursive lists (`**`). For example, `ls -SalR **/*.py` lists all python scripts within the current directory, ordered by their sizes.
-* 
+* Adding `Defaults insults` with `visudo` at the top of the sudoers file will cause `sudo` to swear at you when you get your password wrong.

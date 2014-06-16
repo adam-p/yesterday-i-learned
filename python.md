@@ -72,7 +72,7 @@ for k, v in d.iteritems():
 * There is a `3to2`!
 * You can [decorate functions with classes](https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master) that have `__call__`!
 * Instance variables (`class.foo == 'far'`) are class variables (`class.foo == Class.foo`) as long as [the instance doesn't change its instance variable's value](http://stackoverflow.com/a/69067/1558430).
-* `[:]` [copies a list](http://stackoverflow.com/a/2612815/1558430) (Thanks Ford)
+* `[:]` [copies a list](http://stackoverflow.com/a/2612815/1558430) (Fast copy; Thanks Ford)
 * `enumerate()`: returns tuples with index as the first value
 * `re.sub(pattern, repl, string)` is technically `re.sub(pattern, lambda repl: repl, string)`, which allows [text munging](https://docs.python.org/2/library/re.html#text-munging).
 * `yield`s are formally referred to as [coroutines](http://en.wikipedia.org/wiki/Coroutine) -- function with multiple entry/resume points.
@@ -88,4 +88,6 @@ for k, v in d.iteritems():
 * `a >> b` can be overridden using the magic method `__rshift__`.
 * I don't know what the author was talking about, but python has something called the [bidirectional generator](https://www.google.ca/search?q=python+bidirectional+generator&oq=python+bidirectional+generator&aqs=chrome..69i57.4705j0j7&client=ubuntu-browser&sourceid=chrome&es_sm=0&ie=UTF-8) which no one explained.
 * Override `parse_start_url` to diagnose Scrapy errors that occur on start urls.
-*
+* In Django, `admin.site.register(Model)` doesn't need an admin (e.g. `admin.site.register(Model, ModelAdmin)`) if all you want is an automatic form.
+* `\d` [isn't](http://stackoverflow.com/a/6479605/1558430) `0-9` -- it also contains digits from other locales.
+* 

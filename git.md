@@ -230,3 +230,8 @@ And [verify them](http://stackoverflow.com/questions/17371955/verifying-signed-g
 ## The Stash
 
 * Stashed something, can't get it back out: `git stash apply` or `git stash pop` (the latter removes the stash)
+
+
+## GitHub
+
+* [Permission classes](https://help.github.com/articles/permission-levels-for-an-organization-repository)

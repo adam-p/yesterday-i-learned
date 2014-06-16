@@ -138,3 +138,14 @@
 * [POST/Redirect/GET](http://en.wikipedia.org/wiki/Post/Redirect/Get): by returning a 30x response in your POST, the user will be forced to GET a different page, which means the user will not be able to POST to the same page again.
 * Albuquerque is pronounced AL-ber-ker-kee.
 * Caps at the ends of bike handles are supposed to prevent them from making a human sausages when it hits any part of the body.
+* The [Sleeper Effect](https://en.wikipedia.org/wiki/Sleeper_effect) refers to the observation that people who badmouth others are less trusted. (Specifically, candidates who tell others not to vote for another candidate will receive fewer votes than if he/she had otherwise said nothing)
+* The [McCollough effect](https://en.wikipedia.org/wiki/McCollough_effect): look at a coloured pattern long enough and eventually colour will appear if you look at the same, yet B/W pattern somewhere else.
+* Those shelves at the end of grocery store aisles have a name. They are called *End Caps*.
+* King George V was the king who renamed the House of Saxe-Coburg and Gotha to Windsor.
+* Poor man's [Laksa](http://en.wikipedia.org/wiki/Laksa) can be imitated with [coconut whatever](http://en.wikipedia.org/wiki/Kerisik), curry, beef broth, chili oil, and cheese. A slightly less poor man can add fishballs instead of fish cake, and pho instead of spaghetti. The working man may even buy bean sprouts for the occasion, and use actual tofu puff instead of pretending tofu is okay.
+* [Earthquake lights](http://en.wikipedia.org/wiki/Earthquake_light) are visible near places before an earthquake happens. There is no concrete explanation so far.
+* It's possible for an egg to crack inside the hen (before it's laid). This can lead to infection and such.
+* The automative "blind spots" exist no matter how you adjust your mirrors because [even though you follow this guide, you can still kill motor cyclists close to you](http://pages.cs.wisc.edu/~gdguo/driving/BlindSpot.htm).
+* We do not have enough nuclear weapons to blow up the moon. Even if we do, the moon would just clump back into a moon-size chunk.
+* Hitler was Catholic.
+* >These [banned] words include: "endofunctor", "anamorphism", "existential quantification", "beta reduction", "category theory", "final coalgebra", "Kleisli arrows", "Curry–Howard correspondence" and worst of all, the five letter word beginning with "m".

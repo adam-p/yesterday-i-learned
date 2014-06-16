@@ -75,6 +75,12 @@ Heuristically determine if something is in a set, being correct most of the time
 ## trees
 ### binary search trees
 ## hashes
+## Monads
+
+* [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming\)) are "functional expressiosns" like `== null`.
+* Monads aren't useful alone; they require composition to do real work. *Binding* two monads means `(monad1 ∘ monad2)(x) -> monad1(monad2(x))`.
+* When monads are composed, they can short-circuit evaluations, making programs run faster.
+* 
 
 # Challenges
 * [ ] Erlang (concurrent programming)

@@ -76,4 +76,4 @@ foo _ = 0
 
 * `(foo . bar) 123` is mathematical notation for `foo(bar(123))`.
 * `null lst` checks if a list `lst` is empty.
-
+* `>>=` is the *bind* operator (monads, composition)

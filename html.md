@@ -10,3 +10,18 @@
 * [HTML5 tainted canvas](https://developer.mozilla.org/en-US/docs/HTML/CORS_Enabled_Image) is a `(new Image).crossOrigin = ...` change that allows a limited selection of browsers to serve images from any remote origin. This was implemented to allow canvases to reading images to be requested using cookies.
 * `crossOrigin` defaults to anonymous. There is no need to specify `anonymous`.
 * Serving an anonymous image inside a canvas removes a canvas' ability to be read.
+
+## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
+
+60fps = limiting each frame to 16ms.
+
+* **USE PAGESPEED** to analyse your *render tree*.
+* Three stages of rendering: *Layout* (calculating geometry of where everything ought to be), *Paint* (filling in the page), and *Compositing* (picking a layer to minimise repaints).
+* Use the `will-change: wat` CSS directive to let the browser know what will be changed
+
+### Eliminating expensive animations
+
+Expensive animations include:
+
+* Scrolling
+* Transition based on variables

@@ -1,1 +1,1 @@
-* 
+* Some woman appeared to have typed up an article on [dealing with bitches](http://www.huffingtonpost.com/melanie-curtin/10-easy-ways-to-deal-with-me-when-im-being-a-bitch_b_3676315.html). However, it is a trick, and should not be trusted.

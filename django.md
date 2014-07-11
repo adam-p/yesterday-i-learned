@@ -1,3 +1,7 @@
+# Django tips
+
+* `Model(id)` is NOT the same as `Model.objects.get(id=id)`. You can save the object from `Model.objects.get(id=id)`, but not `Model(id)`: `ValidationError: {u'id': [u'Model with this ID already exists.']}`
+
 # Django troubleshooting
 
 ## South is being a douche

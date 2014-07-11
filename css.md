@@ -18,6 +18,7 @@
 * Can you use scoped css (`<style scoped>`)? [No](http://caniuse.com/style-scoped), you cannot use scoped CSS.
 * [`:visited`](https://blog.mozilla.org/security/2010/03/31/plugging-the-css-history-leak/) can only change `color`.
 * [`:visited`](https://blog.mozilla.org/security/2010/03/31/plugging-the-css-history-leak/) cannot be read by JavaScript.
+* `transform: translate/scale/rotate/skew/matrix npx npx` and `opacity` apparently [do not trigger repaints](http://aerotwist.com/blog/pixels-are-expensive/) and are thus CPU-friendly. (This does not apply to non-px animations)
 
 ## XPath
 

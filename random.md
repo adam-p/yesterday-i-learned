@@ -149,3 +149,13 @@
 * We do not have enough nuclear weapons to blow up the moon. Even if we do, the moon would just clump back into a moon-size chunk.
 * Hitler was Catholic.
 * >These [banned] words include: "endofunctor", "anamorphism", "existential quantification", "beta reduction", "category theory", "final coalgebra", "Kleisli arrows", "Curry–Howard correspondence" and worst of all, the five letter word beginning with "m".
+* Italian phonotactics do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive extra terminal vowel sounds.
+* During the holocaust, gays in concentration camps had a 60% death rate. When the war was over, they just went to another prison.
+* Every drug approved by the FDA must be tested by what they call the [Limulus amebocyte lysate test](http://m.theatlantic.com/technology/archive/2014/02/the-blood-harvest/284078/) (aka blue blood from horseshoe crabs)
+* To give scrapy two keyword arguments, have multiple `-a`s.
+* "won't touch x with a 10-foot pole" means "won't dare interfering with x".
+* "SourceTree" is a git/hg GUI from Atlassian (making it legit for some reason).
+* A [leaky abstraction](http://en.wikipedia.org/wiki/Leaky_abstraction) is bad... it means "[you need to be aware of the implementation details when using the abstraction](http://stackoverflow.com/a/3883023/1558430)", making the abstraction useless.
+* `\b` represents a [word boundary](http://www.regular-expressions.info/wordboundaries.html) in regex. With one, `test\b` will never match `testicles`.
+* "Mercury" is the Firefox for iOS.
+* You don't shear a sheep; a sheep gets shown.

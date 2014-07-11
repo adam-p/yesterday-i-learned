@@ -9,4 +9,4 @@
 * `/etc/httpd/conf.d/wsgi.conf` also has a load of stuff you can tweak.
 * Get everything from an s3 bucket: `s3cmd get s3://(bucket name)/*`
 * EC2 will wipe out all of your `authorized_keys` in newly-spawned instances unless the instance was created with the "no reboot" option checked.
-* 
+* You can restore a Postgres snapshot with a different name while the current one is being deleted, then rename the new database to the old name to replace it with no downtime.

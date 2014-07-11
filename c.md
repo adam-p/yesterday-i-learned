@@ -4,4 +4,4 @@
 * "You can go further and specify a particular standard, plus extra warnings not included in -Wall: `gcc -std=gnu99 -pedantic -Wall -Wextra -Werror`" - [nitrogen](https://news.ycombinator.com/item?id=7156405)
 * "gcc is 'Gnu Compiler Collection'. If you pass it a C++ file, it will invoke the C++ compiler ('g++') behind the scenes."
 * Undeclared variables are implicitly `int`s. This was deprecated after C99, however.
-* 
+* Writing cross-platform C code: [start from the beginning](http://www.ski-epic.com/source_code_essays/ten_rules_for_writing_cross_platform_c_source_code.html)

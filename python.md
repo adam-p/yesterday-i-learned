@@ -90,4 +90,5 @@ for k, v in d.iteritems():
 * Override `parse_start_url` to diagnose Scrapy errors that occur on start urls.
 * In Django, `admin.site.register(Model)` doesn't need an admin (e.g. `admin.site.register(Model, ModelAdmin)`) if all you want is an automatic form.
 * `\d` [isn't](http://stackoverflow.com/a/6479605/1558430) `0-9` -- it also contains digits from other locales.
-* 
+* Contrary to popular opinion, `requirements.txt` simply came from `pip freeze > requirements.txt`.
+* `pip freeze` also removes duplicate package requirements, so it helps you clean up the file in a way.

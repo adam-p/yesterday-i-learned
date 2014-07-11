@@ -64,6 +64,8 @@
 * [Marionette's UI hash](https://github.com/marionettejs/backbone.marionette/blob/master/docs/marionette.itemview.md#organizing-ui-elements) keeps references to UI elements; `this.ui.checkbox` anywhere in any method means `this.$(the checkbox selector`. This has no use for regions, whose elements are already defined using selectors.
 * Apparently [$.Deferred is a monad](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/).
 * There's a [Promises 2.0](http://blogs.msdn.com/b/rbuckton/archive/2011/08/15/promise-js-2-0-promise-framework-for-javascript.aspx), but who uses it?
+* [Promises are streams](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754#request-and-response).
+* `$.fn.not` is [**not** the opposite of `$.fn.is`](http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/) -- `$.fn.not` always gives you a truthy return.
 
 ## Deferred API
 

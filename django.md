@@ -57,6 +57,10 @@ Then re-run: `./manage.py migrate`
 
 `MigrationHistory.objects.get(app_name="your_app_name", migration="0001_whatever_filename").delete()`
 
+### Failed to migrate models in two apps in the same project that impose foreign key constraints
+
+Try to mark (after the fact, unfortunately) the schema migration that has a schema migration dependency with the [`depends_on` keyword](http://south.readthedocs.org/en/latest/dependencies.html).
+
 ## Base models storing common fields
 
 Add a `class Meta` that contains `abstract = True`. 

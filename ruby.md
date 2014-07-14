@@ -17,3 +17,5 @@
 * All ruby methods specific to an object are avaiable via `something.own_methods.sort`.
 * The Ruby REPL is `irb`.
 * [Ruby doesn't have functions](http://stackoverflow.com/a/4294660/1558430); to get a reference to a callable without calling it, use `func_ref = method(:func_name)`, and call with `func_ref.call`.
+* Results from the last expression is returned.
+* Ruby's `foldr` is called [`inject`](http://blog.jayfields.com/2008/03/ruby-inject.html) (if you use it this way).

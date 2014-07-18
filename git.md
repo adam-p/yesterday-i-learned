@@ -41,6 +41,22 @@ git ls-tree --name-only -z -r HEAD|egrep -z -Z -E '\.(js|css|py|html|sh)$' | xar
 
 ## booboos
 
+### I used a GUI for git and the diffs/patches/merges/pull requests don't turn out right
+
+Be a man.
+
+### I used git in the terminal and the diffs/patches/merges/pull requests don't turn out right
+
+Reset your branch to match the one upstream:
+
+```
+git reset --soft HEAD^  # stash your last commit (or more, if you made more than one commit)
+git stash
+git fetch
+git reset --hard origin/(branch name)
+git stash apply
+```
+
 ### I pushed stupid things onto the remote server
 Run a rebase on your local branch with `git rebase -i HEAD~1`, then force a push to your branch with `git push origin +(branch)`. The commit will still be accessible by commit ID.
 
@@ -63,6 +79,12 @@ Follow any one of [these advice](http://stackoverflow.com/questions/2389361/undo
 git revert -m 1 (the hash where the PR merge happened)  # Preserves history
 git reset --merge (the hash where the PR merge happened)  # Removes history
 ```
+
+### I forgot where I committed my code
+
+If it's in the stash, either [`git log -g stash`](http://stackoverflow.com/questions/14988929/show-all-stashes-in-git-log) or `git diff -g stash` will show the commit.
+
+If it's in a branch, consider running `git log -S "(keyword from diff)" --source --all`, or any other solution [here](http://stackoverflow.com/questions/24828819).
 
 ### I want to remove all commits.
 1. Find the ID of the first commit ever. It will be a hash. Remember the first six characters, e.g. `a1b2c3`.

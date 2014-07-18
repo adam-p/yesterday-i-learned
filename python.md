@@ -92,3 +92,5 @@ for k, v in d.iteritems():
 * `\d` [isn't](http://stackoverflow.com/a/6479605/1558430) `0-9` -- it also contains digits from other locales.
 * Contrary to popular opinion, `requirements.txt` simply came from `pip freeze > requirements.txt`.
 * `pip freeze` also removes duplicate package requirements, so it helps you clean up the file in a way.
+* Generate random test urls using `itertools.product`: http://stackoverflow.com/questions/2535924/simple-way-to-create-possible-case/2535934#2535934
+* It is not necessary to `urlunparse` a url before generating a new url with parts changed. `urlparse(url, schema='http')` changes the schema of that url to http.

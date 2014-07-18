@@ -158,4 +158,5 @@
 * A [leaky abstraction](http://en.wikipedia.org/wiki/Leaky_abstraction) is bad... it means "[you need to be aware of the implementation details when using the abstraction](http://stackoverflow.com/a/3883023/1558430)", making the abstraction useless.
 * `\b` represents a [word boundary](http://www.regular-expressions.info/wordboundaries.html) in regex. With one, `test\b` will never match `testicles`.
 * "Mercury" is the Firefox for iOS.
-* You don't shear a sheep; a sheep gets shown.
+* You don't shear a sheep; a sheep gets shorn.
+* >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.

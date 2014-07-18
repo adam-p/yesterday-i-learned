@@ -38,6 +38,16 @@ Heuristically determine if something is in a set, being correct most of the time
 
 * + Uses less space than full search
 
+## Clustering
+### K-means
+```
+for data in datas:
+    for mean in means:
+        if data is closest to this mean:  # "closest" is the euclidean distance
+            mean.add data
+return means
+```
+
 # Patterns
 ## Creational patterns
 ### Builder

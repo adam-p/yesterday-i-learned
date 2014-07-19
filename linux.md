@@ -50,6 +50,10 @@
 * `aplay` plays any binary. For example, `cat /usr/bin/* | aplay` is possible.
 * `mplayer` also plays any binary as a video. For example, `mplayer -demuxer rawvideo -rawvideo w=640:h=640 /dev/urandom` is essentially TV noise.
 * `rm -rf /` doesn't work anymore -- now you need to be more explicit or something: `rm -rf --no-preserve-root /`
-* [Docker isn't for everyone](https://devopsu.com/blog/docker-misconceptions/)
 * `chattr -type f +i something` blocks the file(s) from being modified. (`i` is immutable)
 * Batch resize images: `for i in $(ls *.jpg); do convert -resize 800x800 $i re_$i; done`
+* [Docker isn't for everyone](https://devopsu.com/blog/docker-misconceptions/) but [you made a cheatsheet anyway](docker.md)
+* `ls` supports sorting by size (`-S`), even for recursive lists (`**`). For example, `ls -SalR **/*.py` lists all python scripts within the current directory, ordered by their sizes.
+* Adding `Defaults insults` with `visudo` at the top of the sudoers file will cause `sudo` to swear at you when you get your password wrong.
+* Besides `!!`, there is also `!!:n`, which selects the nth argument in the last command.
+* It is usually impossible to run `sudo` commands in an ssh one-liner, unless you do so like this: `ssh -t user@host 'sudo make-sandwich'`

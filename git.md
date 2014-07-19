@@ -25,7 +25,37 @@ git show (sha1)
 ### I accidentally added a file, and luckily I haven't committed anything yet
 `git reset HEAD (added file)`
 
+### I am an idiot
+
+[This one-liner](http://stackoverflow.com/a/7010890/1558430) shows your addition/removal statistics.
+
+```
+git log --author="Brian Lai" --pretty=tformat: --numstat | awk '{ add += $1 ; subs += $2 ; loc += $1 - $2 } END { printf "added lines: %s removed lines : %s total lines: %s\n",add,subs,loc }' -
+```
+
+[This other one-liner](http://stackoverflow.com/a/13687302/1558430) compares you with others, in the current code base.
+
+```
+git ls-tree --name-only -z -r HEAD|egrep -z -Z -E '\.(js|css|py|html|sh)$' | xargs -0 -n1 git blame --line-porcelain|grep "^author "|sort|uniq -c|sort -nr
+```
+
 ## booboos
+
+### I used a GUI for git and the diffs/patches/merges/pull requests don't turn out right
+
+Be a man.
+
+### I used git in the terminal and the diffs/patches/merges/pull requests don't turn out right
+
+Reset your branch to match the one upstream:
+
+```
+git reset --soft HEAD^  # stash your last commit (or more, if you made more than one commit)
+git stash
+git fetch
+git reset --hard origin/(branch name)
+git stash apply
+```
 
 ### I pushed stupid things onto the remote server
 Run a rebase on your local branch with `git rebase -i HEAD~1`, then force a push to your branch with `git push origin +(branch)`. The commit will still be accessible by commit ID.
@@ -49,6 +79,12 @@ Follow any one of [these advice](http://stackoverflow.com/questions/2389361/undo
 git revert -m 1 (the hash where the PR merge happened)  # Preserves history
 git reset --merge (the hash where the PR merge happened)  # Removes history
 ```
+
+### I forgot where I committed my code
+
+If it's in the stash, either [`git log -g stash`](http://stackoverflow.com/questions/14988929/show-all-stashes-in-git-log) or `git diff -g stash` will show the commit.
+
+If it's in a branch, consider running `git log -S "(keyword from diff)" --source --all`, or any other solution [here](http://stackoverflow.com/questions/24828819).
 
 ### I want to remove all commits.
 1. Find the ID of the first commit ever. It will be a hash. Remember the first six characters, e.g. `a1b2c3`.
@@ -96,7 +132,7 @@ repo
 `cd (submodule path) && git reset --hard HEAD`
 
 ### "fatal: Not a git repository: (one of your submodules)"
-Nudge around with your `.git/modules/(submodule name)/config` file and see if any obvious errors are in place.
+Nudge around your `.git/modules/(submodule name)/config` file and see if any obvious errors are in place.
 
 ### I cloned a repository without the `--recursive` flag
 At project root, `git submodule init && git submodule update --recursive`
@@ -211,6 +247,13 @@ You cannot have another branch called `a/b`.
 
 Then [sign your commits](http://mikegerwitz.com/papers/git-horror-story) with `git commit -S -am`
 
+And [verify them](http://stackoverflow.com/questions/17371955/verifying-signed-git-commits) with `git log --show-signature`
+
 ## The Stash
 
 * Stashed something, can't get it back out: `git stash apply` or `git stash pop` (the latter removes the stash)
+
+
+## GitHub
+
+* [Permission classes](https://help.github.com/articles/permission-levels-for-an-organization-repository)

@@ -150,3 +150,28 @@
 * "Anyway" is correct, while "Anyways" is not, because of the term *adverbial genitive*. "Always" beat out "Alway" in the same timeline.
 * Every girl loves to eat and travel. Every girl loves family and friends and, sometimes "loves" good scotch or whiskey.
 * Tapping "Cached data" in System>Storage on Android clears caches for all apps. Beware, it also clears Google offline maps and gReader article data.
+* [POST/Redirect/GET](http://en.wikipedia.org/wiki/Post/Redirect/Get): by returning a 30x response in your POST, the user will be forced to GET a different page, which means the user will not be able to POST to the same page again.
+* Albuquerque is pronounced AL-ber-ker-kee.
+* Caps at the ends of bike handles are supposed to prevent them from making a human sausages when it hits any part of the body.
+* The [Sleeper Effect](https://en.wikipedia.org/wiki/Sleeper_effect) refers to the observation that people who badmouth others are less trusted. (Specifically, candidates who tell others not to vote for another candidate will receive fewer votes than if he/she had otherwise said nothing)
+* The [McCollough effect](https://en.wikipedia.org/wiki/McCollough_effect): look at a coloured pattern long enough and eventually colour will appear if you look at the same, yet B/W pattern somewhere else.
+* Those shelves at the end of grocery store aisles have a name. They are called *End Caps*.
+* King George V was the king who renamed the House of Saxe-Coburg and Gotha to Windsor.
+* Poor man's [Laksa](http://en.wikipedia.org/wiki/Laksa) can be imitated with [coconut whatever](http://en.wikipedia.org/wiki/Kerisik), curry, beef broth, chili oil, and cheese. A slightly less poor man can add fishballs instead of fish cake, and pho instead of spaghetti. The working man may even buy bean sprouts for the occasion, and use actual tofu puff instead of pretending tofu is okay.
+* [Earthquake lights](http://en.wikipedia.org/wiki/Earthquake_light) are visible near places before an earthquake happens. There is no concrete explanation so far.
+* It's possible for an egg to crack inside the hen (before it's laid). This can lead to infection and such.
+* The automative "blind spots" exist no matter how you adjust your mirrors because [even though you follow this guide, you can still kill motor cyclists close to you](http://pages.cs.wisc.edu/~gdguo/driving/BlindSpot.htm).
+* We do not have enough nuclear weapons to blow up the moon. Even if we do, the moon would just clump back into a moon-size chunk.
+* Hitler was Catholic.
+* >These [banned] words include: "endofunctor", "anamorphism", "existential quantification", "beta reduction", "category theory", "final coalgebra", "Kleisli arrows", "Curry–Howard correspondence" and worst of all, the five letter word beginning with "m".
+* Italian phonotactics do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive extra terminal vowel sounds.
+* During the holocaust, gays in concentration camps had a 60% death rate. When the war was over, they just went to another prison.
+* Every drug approved by the FDA must be tested by what they call the [Limulus amebocyte lysate test](http://m.theatlantic.com/technology/archive/2014/02/the-blood-harvest/284078/) (aka blue blood from horseshoe crabs)
+* To give scrapy two keyword arguments, have multiple `-a`s.
+* "won't touch x with a 10-foot pole" means "won't dare interfering with x".
+* "SourceTree" is a git/hg GUI from Atlassian (making it legit for some reason).
+* A [leaky abstraction](http://en.wikipedia.org/wiki/Leaky_abstraction) is bad... it means "[you need to be aware of the implementation details when using the abstraction](http://stackoverflow.com/a/3883023/1558430)", making the abstraction useless.
+* `\b` represents a [word boundary](http://www.regular-expressions.info/wordboundaries.html) in regex. With one, `test\b` will never match `testicles`.
+* "Mercury" is the Firefox for iOS.
+* You don't shear a sheep; a sheep gets shorn.
+* >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.

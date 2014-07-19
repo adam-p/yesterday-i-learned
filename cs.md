@@ -80,7 +80,7 @@ Heuristically determine if something is in a set, being correct most of the time
 * [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming\)) are "functional expressiosns" like `== null`.
 * Monads aren't useful alone; they require composition to do real work. *Binding* two monads means `(monad1 ∘ monad2)(x) -> monad1(monad2(x))`.
 * When monads are composed, they can short-circuit evaluations, making programs run faster.
-* 
+* Game theory: sometimes the intuitive option isn't the one you should pick -- nor is the unintuitive option, because that's also what the other guy is thinking. [Here are a few examples](http://wjspaniel.wordpress.com/2014/05/25/game-theory-is-really-counterintuitive/).
 
 # Challenges
 * [ ] Erlang (concurrent programming)

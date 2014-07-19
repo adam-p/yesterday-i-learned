@@ -135,4 +135,18 @@
 * Checking if `nonInteraction` is on for your google analytics: turn the [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en) on and off again (serious), and check if any event you track contains `nonInteraction = 0` (`&ni=0`)
 * **Welp** does *not* stand for "help": [To be used in place of 'well', when one feels there is no more to say.](http://www.urbandictionary.com/define.php?term=Welp&defid=2839204)
 * Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.m.wikipedia.org/wiki/Paddington_Bear#History
-*)
+* Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
+* It is illegal to pay your mortgage with loaned money, at least in the US.
+* Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
+* Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.
+* Mount K2 is the second tallest mountain in the world.
+* `pigz` is gzip, but with parallel processing (and slightly better compression).
+* A "micromort" is the money amount associated with risk for each action a person is willing to pay to die doing that event.
+* Bandy is a sport, like hockey, except the puck is a ball. The Canadian Bandy headquarters is in Winnipeg, and it never wins Russia in their game.
+* At the start of a new job, you are not meant to blend in; instead, find the problems related to the workplace to make sure your next job search includes them as a requirement.
+* Coworkers value three things: *C*ompetence, *C*haracter, and *C*onsistency.
+* The *Guinea Worm* is a parasite that only infects humans. It enters through the digestive system, and reproduces by crawling out of the victim's foot. It will most likely be the first parasite to ever be eradicated.
+* One day your mother put you down and never picked you up again.
+* "Anyway" is correct, while "Anyways" is not, because of the term *adverbial genitive*. "Always" beat out "Alway" in the same timeline.
+* Every girl loves to eat and travel. Every girl loves family and friends and, sometimes "loves" good scotch or whiskey.
+* Tapping "Cached data" in System>Storage on Android clears caches for all apps. Beware, it also clears Google offline maps and gReader article data.

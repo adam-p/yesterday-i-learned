@@ -51,3 +51,5 @@
 * `mplayer` also plays any binary as a video. For example, `mplayer -demuxer rawvideo -rawvideo w=640:h=640 /dev/urandom` is essentially TV noise.
 * `rm -rf /` doesn't work anymore -- now you need to be more explicit or something: `rm -rf --no-preserve-root /`
 * [Docker isn't for everyone](https://devopsu.com/blog/docker-misconceptions/)
+* `chattr -type f +i something` blocks the file(s) from being modified. (`i` is immutable)
+* Batch resize images: `for i in $(ls *.jpg); do convert -resize 800x800 $i re_$i; done`

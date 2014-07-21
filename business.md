@@ -40,7 +40,7 @@ At the cost of high volatility, equity provides the highest return, provided tha
 * *Earnings*, *earnings growth*, and *return on equity (ROE)* should be 10% higher than the year before.
 * *Sales* and *Equity* (if present) should be higher than the year before.
 * *Debt* should be less than half of the company's *assets*.
-* The stock's *price-to-earnings ratio* should be between 20 and 40.
+* The stock's *price-to-earnings ratio* should be between 20 and 40. [Generally speaking, having a high P/E ratio means that investors like you and believe that you have a bright future.](http://techcrunch.com/2014/07/05/the-new-fast-food/)
 * The stock's *price-to-sales ratio* should be close to 1.
 
 ### Looking for a suitable time

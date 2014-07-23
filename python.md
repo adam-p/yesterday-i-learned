@@ -94,3 +94,4 @@ for k, v in d.iteritems():
 * `pip freeze` also removes duplicate package requirements, so it helps you clean up the file in a way.
 * Generate random test urls using `itertools.product`: http://stackoverflow.com/questions/2535924/simple-way-to-create-possible-case/2535934#2535934
 * It is not necessary to `urlunparse` a url before generating a new url with parts changed. `urlparse(url, schema='http')` changes the schema of that url to http.
+* `unicode`'s `translate` is different from `str`'s `translate`; their translation tables are [not interchangeable](http://stackoverflow.com/questions/10385419/python-typeerror-expected-a-character-buffer-object-personal-misunderstanding) (`unicode` strings require `unicode` tables)

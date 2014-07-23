@@ -45,7 +45,7 @@ for data in datas:
     for mean in means:
         if data is closest to this mean:  # "closest" is the euclidean distance
             mean.add data
-return means
+    return means
 ```
 
 # Patterns

@@ -175,3 +175,5 @@
 * "Mercury" is the Firefox for iOS.
 * You don't shear a sheep; a sheep gets shorn.
 * >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.
+* Drying clothes with a few ice cubes in the dryer can [remove wrinkles](http://lifehacker.com/use-ice-cubes-and-your-dryer-to-steam-out-wrinkles-1551615442).
+* Some woman appeared to have typed up an article on [dealing with bitches](http://www.huffingtonpost.com/melanie-curtin/10-easy-ways-to-deal-with-me-when-im-being-a-bitch_b_3676315.html). However, it is a trick, and should not be trusted.

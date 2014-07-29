@@ -177,3 +177,12 @@
 * >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.
 * Drying clothes with a few ice cubes in the dryer can [remove wrinkles](http://lifehacker.com/use-ice-cubes-and-your-dryer-to-steam-out-wrinkles-1551615442).
 * Some woman appeared to have typed up an article on [dealing with bitches](http://www.huffingtonpost.com/melanie-curtin/10-easy-ways-to-deal-with-me-when-im-being-a-bitch_b_3676315.html). However, it is a trick, and should not be trusted.
+* [Consuming salt water immediately before sports](http://m.theglobeandmail.com/life/health-and-fitness/fitness/how-to-stay-hydrated-a-pinch-of-salt/article19780303/?service=mobile&cmpid=rss1) helps retain water.
+* The [polish notation](http://en.wikipedia.org/wiki/Polish_notation) is one way to describe order of operations unambiguously.
+* Running Chrome with the `--no-experiments` argument resets all flags.
+* Running in the rain: given `total rain rate = (rate from top * seconds outdoors) + (rate from side * seconds walking)`, you get less wet if you stand still from time A to time B, and less wet if you run from point A to point B.
+* It is possible to [create burgers from mosquitoes](http://youtube.com/watch?v=DQeyjgSUlrk).
+* "Point blank" does not mean "at close range" but "close enough to disregard veering of projectile due to gravity".
+* *Yersinia pestis* is responsible for the Black Death, which is a combination of bubonic, septecemic, and pneumonic plagues.
+* *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
+* There are many kinds of fats; [brown fats](http://en.wikipedia.org/wiki/Brown_adipose_tissue) are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.

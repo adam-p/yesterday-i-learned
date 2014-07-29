@@ -20,6 +20,7 @@
 * [`:visited`](https://blog.mozilla.org/security/2010/03/31/plugging-the-css-history-leak/) cannot be read by JavaScript.
 * `transform: translate/scale/rotate/skew/matrix npx npx` and `opacity` apparently [do not trigger repaints](http://aerotwist.com/blog/pixels-are-expensive/) and are thus CPU-friendly. (This does not apply to non-px animations)
 * iOS 6/7 support `position: sticky`, which is like `fixed` except dependent on where the element is relative to the viewport.
+* IE8 and under have a 4095-CSS-selector limit in any given page.
 
 ## XPath
 

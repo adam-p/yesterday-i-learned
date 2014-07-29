@@ -58,3 +58,6 @@
 * Besides `!!`, there is also `!!:n`, which selects the nth argument in the last command.
 * It is usually impossible to run `sudo` commands in an ssh one-liner, unless you do so like this: `ssh -t user@host 'sudo make-sandwich'`
 * Argument for SSH timeouts: If you remove users from your system, but they’re still connected via ssh, their connection may remain open indefinitely.
+* While `Ctrl+R` is backwards search, `Ctrl+S` is forward search. (Not very useful, however, because you're almost always near the end of history, where `Ctrl+S` yields nothing)
+* [The `last` command](http://askubuntu.com/a/297637) will show `- crash` if a computer crashed, possibly due to power outage. This is the simplest way to determine if someone used the machine and shut it down afterwards, and when `syslog` is emptied for whatever reason.
+* `readlink (path to link)` outputs where the link is pointing.

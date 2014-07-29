@@ -57,3 +57,4 @@
 * Adding `Defaults insults` with `visudo` at the top of the sudoers file will cause `sudo` to swear at you when you get your password wrong.
 * Besides `!!`, there is also `!!:n`, which selects the nth argument in the last command.
 * It is usually impossible to run `sudo` commands in an ssh one-liner, unless you do so like this: `ssh -t user@host 'sudo make-sandwich'`
+* Want to write your own file deduper? Unfortunately, it is already made and preinstalled as `fdupes`.

@@ -175,3 +175,4 @@
 * "Mercury" is the Firefox for iOS.
 * You don't shear a sheep; a sheep gets shorn.
 * >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.
+* *Impeachment* requires a cause.

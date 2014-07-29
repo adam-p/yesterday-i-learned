@@ -10,6 +10,7 @@
 * [HTML5 tainted canvas](https://developer.mozilla.org/en-US/docs/HTML/CORS_Enabled_Image) is a `(new Image).crossOrigin = ...` change that allows a limited selection of browsers to serve images from any remote origin. This was implemented to allow canvases to reading images to be requested using cookies.
 * `crossOrigin` defaults to anonymous. There is no need to specify `anonymous`.
 * Serving an anonymous image inside a canvas removes a canvas' ability to be read.
+* Hashes can actually go to an ID as well as a name (`#foo` -> `<div id="foo"/>`).
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

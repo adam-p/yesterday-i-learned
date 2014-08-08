@@ -186,3 +186,13 @@
 * *Yersinia pestis* is responsible for the Black Death, which is a combination of bubonic, septecemic, and pneumonic plagues.
 * *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
 * There are many kinds of fats; [brown fats](http://en.wikipedia.org/wiki/Brown_adipose_tissue) are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
+* [People can sue you](http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946) if you give them bad references.
+* There is such a thing as a [Damn Vulnerable Web App](http://www.dvwa.co.uk/) that is built solely for others' testing pleasure.
+* [There aren't actually that many hacker news readers](https://news.ycombinator.com/item?id=8107658); your server health isn't guaranteed if your "thing" goes mainstream, of course.
+* To flash a tab, [change its title](http://stackoverflow.com/questions/4825680/how-do-you-make-chrome-pinned-tabs-flash).
+* [Gremlin](http://bulbflow.com/download/) is "SQL for graph databases", not a tool.
+* The creator of the sugar stick (as opposed to the sugar packet) decided that the right way to open them is [through the middle](http://izismile.com/2011/04/13/do_you_open_sugar_sticks_correctly_4_pics.html).
+* The [zipper merge](http://www.dot.state.mn.us/zippermerge/) reduces queuing traffic by knowing merging should be done at the last minute.
+* "Bilirubin" is the brown substance in urine that signals liver stress.
+* Not feeling well, but don't want to use the phrase "not feeling well"? Use [Malaise!](http://en.wikipedia.org/wiki/Malaise)
+* Apply garlic to oil, before you apply vegetables to oil.

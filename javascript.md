@@ -69,6 +69,7 @@
 * `EADDRINUSE` is node's very polite way of saying "port is taken".
 * [Promises are streams](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754#request-and-response).
 * `$.fn.not` is [**not** the opposite of `$.fn.is`](http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/) -- `$.fn.not` always gives you a truthy return.
+* `(An error).stack` gives you the stack.
 
 ## Deferred API
 

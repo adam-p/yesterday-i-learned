@@ -38,6 +38,7 @@ groovy:000> Boolean.valueOf('true')
 * "You don't have to provide any constructors for your class, but you must be careful when doing this. **The compiler automatically provides a no-argument, default constructor for any class without constructors.**"
 * Functions are not first-class: "The Java programming language doesn't let you pass methods into methods. But you can pass an object into a method and then invoke the object's methods."
 * When accessing class variables, `this` appears to be optional, i.e. `this.foo` works just as well as `foo`.
+* The `this` keyword always means the curernt object, even if the current method is not visibly bound to anything. This is like Python's `self`, except `self` is not specified.
 * [`this`](http://docs.oracle.com/javase/tutorial/java/javaOO/thiskey.html) is used to remove ambiguity when the scope has a variable that has the same name as its outer class attribute.
 * A function that accepts `foo(int[] bar)` really accepts an array of ints, which is created using `new int[n]`.
 * The default "nothing" constant is `null`.
@@ -77,5 +78,11 @@ groovy:000> Boolean.valueOf('true')
 * Checked exceptions (anything with the syntax `type methodName throws SomeExceptionClass`) must be caught immediately above its execution stack.
 * Classes that extends `Serializable` all require a unique `private static final long serialVersionUID;` value that allows a deserialized object to know which class along the class tree to deserialize back into.
 * There is no difference between Long's notation, [`l` and `L`](http://stackoverflow.com/a/770017/1558430).
-* `pom.xml` decides what is compiled along as dependencies.
+* If maven is used, `pom.xml` decides what is compiled along as dependencies.
 * 
+
+# Android
+
+* Download the SDK before attempting to compile anything.
+* Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
+* Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)

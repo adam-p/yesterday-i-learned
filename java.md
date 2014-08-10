@@ -79,10 +79,11 @@ groovy:000> Boolean.valueOf('true')
 * Classes that extends `Serializable` all require a unique `private static final long serialVersionUID;` value that allows a deserialized object to know which class along the class tree to deserialize back into.
 * There is no difference between Long's notation, [`l` and `L`](http://stackoverflow.com/a/770017/1558430).
 * If maven is used, `pom.xml` decides what is compiled along as dependencies.
-* 
+* It is apparently okay to have a type starting with an `@`, such as [`@Interface`](http://stackoverflow.com/questions/918393)
 
 # Android
 
 * Download the SDK before attempting to compile anything.
 * Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
 * Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)
+* For whatever reason, [it is impossible to set a negative value on a NumberPicker](http://stackoverflow.com/questions/20968561/android-numberpicker-negative-values). You can only subtract the value by a negative number after the fact.

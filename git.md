@@ -3,6 +3,14 @@
 ## git asks me for the user name and password every time I pull and push
 Use the SSH URL instead of the HTTPS URL.
 
+### The SSH URL
+
+Your github user name is actually just part of the path.
+
+```
+nix-user@domain.com:path/to/project.git
+```
+
 ## User incompetence
 
 ### I forgot what I did between the last commit and now
@@ -70,6 +78,14 @@ Optionally, run `git commit -a` to commit the correct branch.
 #### If you've already tainted the remote repo
 Run `git reset --soft HEAD^ && git stash && git checkout (correct branch) && git stash pop`.
 Commit your local branch with `git commit -a`, and force-push to cover your remote using `git push --force origin (branch)`.
+
+#### If you just want your change live
+
+Use this syntax to push from a local branch to a remote branch that has a different name.
+
+```
+git push origin local_branch:remote_branch
+```
 
 ### I merged a pull request I didn't want / That PR broke everything and I want it out
 

@@ -62,3 +62,18 @@
 * While `Ctrl+R` is backwards search, `Ctrl+S` is forward search. (Not very useful, however, because you're almost always near the end of history, where `Ctrl+S` yields nothing)
 * [The `last` command](http://askubuntu.com/a/297637) will show `- crash` if a computer crashed, possibly due to power outage. This is the simplest way to determine if someone used the machine and shut it down afterwards, and when `syslog` is emptied for whatever reason.
 * `readlink (path to link)` outputs where the link is pointing.
+* `sudo -s` turns you into root and keeps whichever shell you're using.
+* [`cd -`](http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/) gets you back to the previous directory.
+* Press `Shift+PgUp` and `Shift+PgDn` to scroll up and down.
+
+## Tmux
+
+After press `Ctrl+B`, followed by
+
+* `?`: show help.
+* `c`: make a new window (tab).
+* `p`: go to the previous window (tab).
+* `0` to `9`: select that window (tab).
+* `%`: make a new pane.
+* `left` or `right`: select that pane.
+* `Alt+1`: evenly resize the panes.

@@ -126,6 +126,10 @@ Never guess what features people use, what people want or don't want, or which b
 
 Unless it takes too much time to collect the data (see [1](agile.md#1-defer-building-until-pain).)
 
+#### Retrospectives
+
+Agile development often involves formal [retrospectives](http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective/) that helps identify what was done well last sprint, not done well, and things to continue doing.
+
 ## "7. Definition of Done"
 
 In Kanban, there is a concept called "Plan - Do - Done", that divides all tasks into the three categories.

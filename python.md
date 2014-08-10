@@ -93,6 +93,7 @@ for k, v in d.iteritems():
 * Contrary to popular opinion, `requirements.txt` simply came from `pip freeze > requirements.txt`.
 * `pip freeze` also removes duplicate package requirements, so it helps you clean up the file in a way.
 * Generate random test urls using `itertools.product`: http://stackoverflow.com/questions/2535924/simple-way-to-create-possible-case/2535934#2535934
-* It is not necessary to `urlunparse` a url before generating a new url with parts changed. `urlparse(url, schema='http')` changes the schema of that url to http.
+* It is not necessary to `urlunparse` a url before generating a new url with parts changed. `urlparse(url, scheme='http')` changes the schema of that url to http.
 * `unicode`'s `translate` is different from `str`'s `translate`; their translation tables are [not interchangeable](http://stackoverflow.com/questions/10385419/python-typeerror-expected-a-character-buffer-object-personal-misunderstanding) (`unicode` strings require `unicode` tables)
 * Every single [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/#basic-usage) directory (`venv`) has a `bin/activate` which you can `.`.
+* Trick from the Internet: "To automatically unpack a list containing a single item, append a trailing comma to the variable name on the left of the assignment operation."

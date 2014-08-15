@@ -187,6 +187,9 @@
 * *Yersinia pestis* is responsible for the Black Death, which is a combination of bubonic, septecemic, and pneumonic plagues.
 * *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
 * There are many kinds of fats; [brown fats](http://en.wikipedia.org/wiki/Brown_adipose_tissue) are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
+* > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... ([continued](http://www.reddit.com/r/Archery/comments/2cks3g/what_is_a_fast_flight_string/cjgfwn8))
+* There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly.
+* Ostriches are not from Australia.
 * [People can sue you](http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946) if you give them bad references.
 * There is such a thing as a [Damn Vulnerable Web App](http://www.dvwa.co.uk/) that is built solely for others' testing pleasure.
 * [There aren't actually that many hacker news readers](https://news.ycombinator.com/item?id=8107658); your server health isn't guaranteed if your "thing" goes mainstream, of course.

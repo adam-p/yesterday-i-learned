@@ -200,3 +200,9 @@
 * "Bilirubin" is the brown substance in urine that signals liver stress.
 * Not feeling well, but don't want to use the phrase "not feeling well"? Use [Malaise!](http://en.wikipedia.org/wiki/Malaise)
 * Apply garlic to oil, before you apply vegetables to oil.
+* The [car colours that retain the most value](http://blog.unhaggle.com/4-reasons-car-colour-matter-buying-new-car/) are white, black, and grey. Birds love pooping on [red, blue, and black cars](https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html). Bright colours also correlate to higher insurance premiums. To add on to the insult, [black cars get into accidents most often](http://www.moneysupermarket.com/car-insurance/blog/car-crash-by-colour/) because no one can see them, while silver cars are the safest.
+* At the onset of high stress, your blood thickens. This is to encourage clotting of blood in the case of a physical attack. This is often why stress contributes to heart attacks.
+* The "prop shaft" is the propeller shaft (read: stick) that transfer energy from the engine to the wheel.
+* [Bicycles can be powered by prop shafts.](https://en.wikipedia.org/wiki/Shaft-driven_bicycle)
+* The state anthem of the Russian Federation is literally called the "State Anthem of the Russian Federation".
+* `type foo.txt` is the Windows equivalent of `cat foo.txt`.

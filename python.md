@@ -97,3 +97,4 @@ for k, v in d.iteritems():
 * `unicode`'s `translate` is different from `str`'s `translate`; their translation tables are [not interchangeable](http://stackoverflow.com/questions/10385419/python-typeerror-expected-a-character-buffer-object-personal-misunderstanding) (`unicode` strings require `unicode` tables)
 * Every single [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/#basic-usage) directory (`venv`) has a `bin/activate` which you can `.`.
 * Trick from the Internet: "To automatically unpack a list containing a single item, append a trailing comma to the variable name on the left of the assignment operation."
+* Tastypie allows only GET by default. `authorization = Authorization()` is required in the `Meta` class to allow insecure PATCHes.

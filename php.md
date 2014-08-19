@@ -46,3 +46,4 @@
 * `$str++` incrementss the string bytes by 1 (a becomes b), but [`$str--` removes a character from the string](https://eval.in/60631) because lol
 * `$argv` is a thing.
 * Searching for [`exec($_GET`](https://github.com/search?q=exec%28%24_GET&ref=cmdform&type=Code) gives you a list of exploitable web apps.
+* Every C99 shell has a [backdoor](http://thehackerblog.com/every-c99-php-shell-is-backdoored-aka-free-shells/) that allows the user-set authentication to be bypassed by the author.

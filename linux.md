@@ -65,6 +65,7 @@
 * `sudo -s` turns you into root and keeps whichever shell you're using.
 * [`cd -`](http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/) gets you back to the previous directory.
 * Press `Shift+PgUp` and `Shift+PgDn` to scroll up and down.
+* If you cannot run a program with sudo because "Could not open X display", even though DISPLAY is already something like `:0`, then try running `xhost +` first.
 
 ## Tmux
 

@@ -206,3 +206,7 @@
 * [Bicycles can be powered by prop shafts.](https://en.wikipedia.org/wiki/Shaft-driven_bicycle)
 * The state anthem of the Russian Federation is literally called the "State Anthem of the Russian Federation".
 * `type foo.txt` is the Windows equivalent of `cat foo.txt`.
+* All DNS rules except mail server ones have no priority or order. The most specific pattern is used to route the request.
+* Ansible has an [Ansible Galaxy](https://galaxy.ansible.com/intro) service, which is a playbook repository for never making the same playbook someone else has already made.
+* A [trie](http://en.wikipedia.org/wiki/Trie) is a prefix tree (A -> B -> C = ABC), where the end nodes are the requested node (i.e. A -> B -> ABC = ABC).
+* [Compact prefix trees](http://en.wikipedia.org/wiki/Compact_prefix_tree) are trees that don't branch out until there are multiple entries of the same prefix. For example, if the tree contains Foo, Bar, and Baz, then Foo would be in its own node, and Bar/Baz would share a common "Ba" node, followed by their own "r" and "z".

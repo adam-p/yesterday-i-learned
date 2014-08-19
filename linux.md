@@ -66,6 +66,10 @@
 * [`cd -`](http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/) gets you back to the previous directory.
 * Press `Shift+PgUp` and `Shift+PgDn` to scroll up and down.
 * If you cannot run a program with sudo because "Could not open X display", even though DISPLAY is already something like `:0`, then try running `xhost +` first.
+* To do a port scan on anything, run ` nc -z example.com 1-65535`
+* "A double dash (--) is used in bash built-in commands and many other commands to signify the end of command options, after which only positional parameters are accepted."
+* `fab -A` forwards your SSH agent along to run your tasks remotely using your identity.
+* `:x` is the same as `:wq`. `ZZ` is also the same as `:x`.
 
 ## Tmux
 

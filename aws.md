@@ -11,3 +11,4 @@
 * EC2 will wipe out all of your `authorized_keys` in newly-spawned instances unless the instance was created with the "no reboot" option checked.
 * You can restore a Postgres snapshot with a different name while the current one is being deleted, then rename the new database to the old name to replace it with no downtime.
 * From within an instance, get its hostname: [`curl http://169.254.169.254/latest/meta-data/public-hostname`](http://serverfault.com/questions/403440/print-external-host-name-of-ec2-instance)
+* [Blue-green deployment](http://martinfowler.com/bliki/BlueGreenDeployment.html) involves spinning up a new version of the application, waiting for deployment to complete and its state verified, then replacing green (current) instances in the load balancer with the ones you just spun up (blue).

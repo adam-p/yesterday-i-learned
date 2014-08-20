@@ -72,6 +72,7 @@
 * `(An error).stack` gives you the stack.
 * Jinja2 and AngularJS template tags can conflict, which prevents Jinja2 from rendering the page. [Solution](http://zhangyelei.blogspot.ca/2013/10/variable-placeholder-conflict-between.html) is to override Jinja2's settings with some other tag: `JINJA_ENVIRONMENT=jinja2.Environment( loader=jinja2.FileSystemLoader(os.path.dirname(__file__)), extensions=['jinja2.ext.autoescape'], variable_start_string='((', variable_end_string='))', autoescape=True)` (I think it's a bit hacky, however)
 * **NaCl** in tech usually stands for **Na**tive **Cl**ient.
+* `"use strict";` in global scope affects the entire script file, but not other scripts on the page.
 
 ## Deferred API
 

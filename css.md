@@ -21,6 +21,7 @@
 * `transform: translate/scale/rotate/skew/matrix npx npx` and `opacity` apparently [do not trigger repaints](http://aerotwist.com/blog/pixels-are-expensive/) and are thus CPU-friendly. (This does not apply to non-px animations)
 * iOS 6/7 support `position: sticky`, which is like `fixed` except dependent on where the element is relative to the viewport.
 * IE8 and under have a 4095-CSS-selector limit in any given page.
+* There is a [`text-rendering: optimizeLegibility`](http://aestheticallyloyal.com/public/optimize-legibility/) flag that makes kerning look "normal" according to what the browser. However, page rendering is (slightly) slower, text will sometimes disappear if combined with `text-transform: small-caps`, and disappear completely in WebOS.
 
 ## XPath
 

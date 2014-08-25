@@ -21,7 +21,7 @@ Tires
 
 Power Steering
 ======================
-* [What it looks like](http://repairpal.com/power-steering)
+* [What it looks like][repairpal]
 
 Engine
 ======================
@@ -99,3 +99,5 @@ Misc
 ======================
 * That thing below the cup holder is apparently an ashtray.
 * `7.pdf` describes trailer and towing instructions. It recommends against axle-mounted hitches.
+
+[repairpal]: http://repairpal.com/power-steering

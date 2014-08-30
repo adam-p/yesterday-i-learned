@@ -1,3 +1,8 @@
+* **Tail call optimisation** refers to the behaviour in recursive functions for when a true function (one that has no side effects) calls itself again as the only operation in the last statement, allowing the computer to run that function while preserving the function's address space.
+* **Class P Problems** (or just P) are problems that an algorithm can solve in polynomial time. P is also known as *quickly solvable*.
+* **Class NP Problems** (or just NP) are problems that can be solved quickly, provided that the answer is given. NP is also known as *quickly checkable/verifiable*.
+* **NP-Complete** problems are problems that are both NP and NP hard.
+
 # Being a developer
 
 A senior anything developer needs to know more than just a specific language. 

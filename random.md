@@ -210,3 +210,4 @@
 * Ansible has an [Ansible Galaxy](https://galaxy.ansible.com/intro) service, which is a playbook repository for never making the same playbook someone else has already made.
 * A [trie](http://en.wikipedia.org/wiki/Trie) is a prefix tree (A -> B -> C = ABC), where the end nodes are the requested node (i.e. A -> B -> ABC = ABC).
 * [Compact prefix trees](http://en.wikipedia.org/wiki/Compact_prefix_tree) are trees that don't branch out until there are multiple entries of the same prefix. For example, if the tree contains Foo, Bar, and Baz, then Foo would be in its own node, and Bar/Baz would share a common "Ba" node, followed by their own "r" and "z".
+* [Agile is a philosphy; Scrum is an approach.](http://stackoverflow.com/questions/1586928/how-different-is-scrum-practice-from-agile-practice)

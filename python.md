@@ -98,3 +98,4 @@ for k, v in d.iteritems():
 * Every single [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/#basic-usage) directory (`venv`) has a `bin/activate` which you can `.`.
 * Trick from the Internet: "To automatically unpack a list containing a single item, append a trailing comma to the variable name on the left of the assignment operation."
 * Tastypie allows only GET by default. `authorization = Authorization()` is required in the `Meta` class to allow insecure PATCHes.
+* Python does not optimise tail calls.

@@ -28,7 +28,7 @@ python manage.py migrate --fake
 
 ### `relation_blah_blah_blah already exists` *after* migrate
 
-[Source](https://github.com/devilry/devilry-deploy/blob/master/docs/src/migrationguides/1.4.0.rst#2-----migrate-the-database)
+[Source][github]
 
 If the migration fails with the following error message:
 
@@ -59,7 +59,7 @@ Then re-run: `./manage.py migrate`
 
 ### Failed to migrate models in two apps in the same project that impose foreign key constraints
 
-Try to mark (after the fact, unfortunately) the schema migration that has a schema migration dependency with the [`depends_on` keyword](http://south.readthedocs.org/en/latest/dependencies.html).
+Try to mark (after the fact, unfortunately) the schema migration that has a schema migration dependency with the [`depends_on` keyword][readthedocs].
 
 ## Base models storing common fields
 
@@ -120,3 +120,6 @@ get_object_or_404(Thing.prefetch_related(), id=4)
 ### Django signals (e.g. `post_save`, `m2m_changed`, ...) not working
 
 The file you have these hooks must be touched by python at least once... try importing these hooks from a file that you know django uses. (The imports don't need to be used)
+
+[github]: https://github.com/devilry/devilry-deploy/blob/master/docs/src/migrationguides/1.4.0.rst#2-----migrate-the-database
+[readthedocs]: http://south.readthedocs.org/en/latest/dependencies.html

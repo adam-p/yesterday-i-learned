@@ -35,13 +35,13 @@ git show (sha1)
 
 ### I am an idiot
 
-[This one-liner](http://stackoverflow.com/a/7010890/1558430) shows your addition/removal statistics.
+[This one-liner][stackoverflow] shows your addition/removal statistics.
 
 ```
 git log --author="Brian Lai" --pretty=tformat: --numstat | awk '{ add += $1 ; subs += $2 ; loc += $1 - $2 } END { printf "added lines: %s removed lines : %s total lines: %s\n",add,subs,loc }' -
 ```
 
-[This other one-liner](http://stackoverflow.com/a/13687302/1558430) compares you with others, in the current code base.
+[This other one-liner][stackoverflow 2] compares you with others, in the current code base.
 
 ```
 git ls-tree --name-only -z -r HEAD|egrep -z -Z -E '\.(js|css|py|html|sh)$' | xargs -0 -n1 git blame --line-porcelain|grep "^author "|sort|uniq -c|sort -nr
@@ -69,7 +69,7 @@ git stash apply
 Run a rebase on your local branch with `git rebase -i HEAD~1`, then force a push to your branch with `git push origin +(branch)`. The commit will still be accessible by commit ID.
 
 ### I pushed really stupid things onto the remote server
-Follow [this guide](https://help.github.com/articles/remove-sensitive-data).
+Follow [this guide][github].
 
 ### I committed to the wrong branch
 #### If you haven't pushed the branch to remote yet
@@ -89,7 +89,7 @@ git push origin local_branch:remote_branch
 
 ### I merged a pull request I didn't want / That PR broke everything and I want it out
 
-Follow any one of [these advice](http://stackoverflow.com/questions/2389361/undo-a-git-merge):
+Follow any one of [these advice][stackoverflow 3]:
 
 ```
 git revert -m 1 (the hash where the PR merge happened)  # Preserves history
@@ -98,16 +98,16 @@ git reset --merge (the hash where the PR merge happened)  # Removes history
 
 ### I forgot where I committed my code
 
-If it's in the stash, either [`git log -g stash`](http://stackoverflow.com/questions/14988929/show-all-stashes-in-git-log) or `git diff -g stash` will show the commit.
+If it's in the stash, either [`git log -g stash`][stackoverflow 4] or `git diff -g stash` will show the commit.
 
-If it's in a branch, consider running `git log -S "(keyword from diff)" --source --all`, or any other solution [here](http://stackoverflow.com/questions/24828819).
+If it's in a branch, consider running `git log -S "(keyword from diff)" --source --all`, or any other solution [here][stackoverflow 5].
 
 ### I want to remove all commits.
 1. Find the ID of the first commit ever. It will be a hash. Remember the first six characters, e.g. `a1b2c3`.
 2. Run `git checkout (e.g. a1b2c3)`.
 3. Delete everything on that branch, and commit the branch with `git commit -a`. Give yourself a good reason why you're doing this.
 4. Run `git gc`.
-5. Run [`git filter-branch --parent-filter "sed 's/-p (e.g. a1b2c3)//'" HEAD`](http://stackoverflow.com/a/6149972).
+5. Run [`git filter-branch --parent-filter "sed 's/-p (e.g. a1b2c3)//'" HEAD`][stackoverflow 6].
 6. Optionally, push to remote.
 
 ### I was smart enough to use `--depth=1`, but too dumb to undo it
@@ -115,7 +115,7 @@ Well, now you need `--depth=999`.
 
 ## "Your branch is ahead of..."
 *Your branch has different code than the remote one even if a `git pull origin (branch)` tells you `Already up-to-date.` This will make you deploy incorrect code. Beware!*
-On the branch that says that, do [`git reset --hard origin/(branch) && git pull`](http://stackoverflow.com/a/3882696)
+On the branch that says that, do [`git reset --hard origin/(branch) && git pull`][stackoverflow 7]
 
 ## Cannot checkout master for some reason
 You got this message:
@@ -164,7 +164,7 @@ Run `git rm --cached (path/to/submodule) && git commit -a`
 `cd (submodule path) && git reset --hard origin/(branch) && git pull`
 
 ### What if I want to change where the submodule comes from?
-To [change origin of submodules that have already been cloned](http://stackoverflow.com/questions/10317676/git-change-origin-of-cloned-submodule), follow these steps:
+To [change origin of submodules that have already been cloned][stackoverflow 8], follow these steps:
 
 ```
 cd submodule_folder
@@ -176,7 +176,7 @@ git config remote.origin.url (repo ssh url)
 git does not have permission to modify your files. Give it write permission one way or another, using something like `chmod -R 664 .` (untested)
 
 ## I don't want to share my commit history with others
-[`git archive -o latest.zip HEAD`](http://stackoverflow.com/questions/160608)
+[`git archive -o latest.zip HEAD`][stackoverflow 9]
 
 ## I can't overwrite untracked local files when pulling
 Try `git fetch --all && git reset --hard origin/(branch)`.
@@ -201,7 +201,7 @@ git push origin :refs/tags/12345
 ### Checking out a tag
 `git checkout tags/{tag name}`
 
-## [zsh isn't showing diffs in colour](http://stackoverflow.com/a/12255443/1558430)
+## [zsh isn't showing diffs in colour][stackoverflow 10]
 
 ```
 git config color.diff auto --global
@@ -216,7 +216,7 @@ Run `git checkout HEAD^ -- path_to_file`. The file will be popped out to its pre
 
 ## git 1.7.1 couldn't create orphan branches
 
-[Solution](http://stackoverflow.com/a/1384336/1558430)
+[Solution][stackoverflow 11]
 
 ```
 git symbolic-ref HEAD refs/heads/newbranch 
@@ -228,7 +228,7 @@ git commit -m 'Initial commit'
 ```
 
 ## Git keeps asking me for my SSH password
-[The agent](http://stackoverflow.com/a/17848593/1558430) must be run with `eval \`ssh-agent -s\``. And only after that can you run `ssh-add`.
+[The agent][stackoverflow 12] must be run with `eval \`ssh-agent -s\``. And only after that can you run `ssh-add`.
 
 
 * `git clean` is a version of `git reset --hard HEAD` that removes all untracked files.
@@ -261,9 +261,11 @@ You cannot have another branch called `a/b`.
 
 ### Some idiot impersonated me
 
-Then [sign your commits](http://mikegerwitz.com/papers/git-horror-story) with `git commit -S -am`
+Then [sign your commits][mikegerwitz] with `git commit -S -am`
 
-And [verify them](http://stackoverflow.com/questions/17371955/verifying-signed-git-commits) with `git log --show-signature`
+And [verify them][stackoverflow 13] with `git log --show-signature`
+
+See also: [backing up your keys][stackoverflow 14]
 
 ## The Stash
 
@@ -272,4 +274,22 @@ And [verify them](http://stackoverflow.com/questions/17371955/verifying-signed-g
 
 ## GitHub
 
-* [Permission classes](https://help.github.com/articles/permission-levels-for-an-organization-repository)
+* [Permission classes][github 2]
+
+[github]: https://help.github.com/articles/remove-sensitive-data
+[github 2]: https://help.github.com/articles/permission-levels-for-an-organization-repository
+[mikegerwitz]: http://mikegerwitz.com/papers/git-horror-story
+[stackoverflow]: http://stackoverflow.com/a/7010890/1558430
+[stackoverflow 10]: http://stackoverflow.com/a/12255443/1558430
+[stackoverflow 11]: http://stackoverflow.com/a/1384336/1558430
+[stackoverflow 12]: http://stackoverflow.com/a/17848593/1558430
+[stackoverflow 13]: http://stackoverflow.com/questions/17371955/verifying-signed-git-commits
+[stackoverflow 14]: http://stackoverflow.com/questions/5587513/gnupg-encryption-how-to-export-private-secret-asc-key-to-decrypt-gpg-files-i
+[stackoverflow 2]: http://stackoverflow.com/a/13687302/1558430
+[stackoverflow 3]: http://stackoverflow.com/questions/2389361/undo-a-git-merge
+[stackoverflow 4]: http://stackoverflow.com/questions/14988929/show-all-stashes-in-git-log
+[stackoverflow 5]: http://stackoverflow.com/questions/24828819
+[stackoverflow 6]: http://stackoverflow.com/a/6149972
+[stackoverflow 7]: http://stackoverflow.com/a/3882696
+[stackoverflow 8]: http://stackoverflow.com/questions/10317676/git-change-origin-of-cloned-submodule
+[stackoverflow 9]: http://stackoverflow.com/questions/160608

@@ -212,6 +212,13 @@
 * [Compact prefix trees][wikipedia 28] are trees that don't branch out until there are multiple entries of the same prefix. For example, if the tree contains Foo, Bar, and Baz, then Foo would be in its own node, and Bar/Baz would share a common "Ba" node, followed by their own "r" and "z".
 * According to Alex, "schnitzel" is usually made with beef.
 * Do not buy Honda Fits made before [2014-06-06][mfit 23].
+* People are "in cahoots" means that they are conspiring on something.
+* Authentic chili con carne does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
+* Fun fact: Toucan's bill has a network of blood vessels and expand them to cool down its body temperature — just like the elephants use their big ears: [picture](http://i.imgur.com/ljQSI6s.jpg)
+* Cheese-crusted pizza is patented by someone who did not ask for royalties.
+* With a population density of 406 people per km² – 497 if water is excluded – the Netherlands is a very densely populated country for its size. Only Bangladesh, South Korea and Taiwan have both a larger population and a higher population density. Nevertheless, the Netherlands is the world's second largest exporter of food and agriculture products, after the United States.
+* A cousin, twice *removed* means something like a grandaunt. Each `removed` means one generation apart.
+* [Mocks vs Stubs](http://stackoverflow.com/questions/3459287/whats-the-difference-between-a-mock-stub): "Stub is simple fake object. It just makes sure test runs smoothly. Mock is smarter stub. You verify Your test passes through it." In other words, mocks actually have expectations of what happens when it is run.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

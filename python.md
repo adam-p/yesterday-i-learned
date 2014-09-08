@@ -98,6 +98,8 @@ for k, v in d.iteritems():
 * Every single [virtual environment][python-guide] directory (`venv`) has a `bin/activate` which you can `.`.
 * Trick from the Internet: "To automatically unpack a list containing a single item, append a trailing comma to the variable name on the left of the assignment operation."
 * Tastypie allows only GET by default. `authorization = Authorization()` is required in the `Meta` class to allow insecure PATCHes.
+* An instance's class [can be changed][stackoverflow 14] dynamically, restricted to user-defined classes only; it's unadvisable to do so regardless.
+* `if` statements do NOT have an `else` equivalent of `for...else`, i.e. if [none of the branches are completely run](http://stackoverflow.com/q/21612910/1558430), because `if` statements don't have `break`s.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
@@ -116,6 +118,7 @@ for k, v in d.iteritems():
 [stackoverflow 11]: http://stackoverflow.com/a/2612815/1558430
 [stackoverflow 12]: http://stackoverflow.com/a/6479605/1558430
 [stackoverflow 13]: http://stackoverflow.com/questions/10385419/python-typeerror-expected-a-character-buffer-object-personal-misunderstanding
+[stackoverflow 14]: http://stackoverflow.com/a/8062313/1558430
 [stackoverflow 2]: http://stackoverflow.com/questions/19061990/python-dividing-integers-in-a-list-by-another-list-until-the-result-is-zero/19062037?noredirect=1#comment28174201_19062037
 [stackoverflow 3]: http://stackoverflow.com/a/1261961/1558430
 [stackoverflow 4]: http://stackoverflow.com/questions/1450957/pythons-json-module-converts-int-dictionary-keys-to-strings

@@ -11,6 +11,7 @@
 * `crossOrigin` defaults to anonymous. There is no need to specify `anonymous`.
 * Serving an anonymous image inside a canvas removes a canvas' ability to be read.
 * Hashes can actually go to an ID as well as a name (`#foo` -> `<div id="foo"/>`).
+* In HTML5, `a` tags can have a [`download` attribute](http://www.w3schools.com/tags/att_a_download.asp) that forces the link to be downloaded.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

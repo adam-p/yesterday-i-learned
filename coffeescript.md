@@ -7,5 +7,5 @@
 * Multiline strings are allowed in CoffeeScript.
 * You want to write `if not a instanceof b`? HAH! WRONG! It compiles to `if ((!a) instanceof b)` because coffeescript.
 * `do(a=b, c=d) -> ...` is exactly the same as `(function (a, c) { ... }(b, d));`.
-
+* Apparently the string interpolation syntax in CoffeeScript is [the exact same from Ruby](http://addyosmani.com/blog/backing-up-a-github-account/).
 

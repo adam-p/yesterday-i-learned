@@ -1,3 +1,7 @@
+# Any SQL
+
+* `TRUNCATE some table` differs from `DELETE * FROM some table` in that the `TRUNCATE` statement does not leave behind transaction logs, and thus cannot be rolled back. (Here's a trivia you will never use again)
+
 # MySQL
 
 * To install MySQL server, client, and python adapters: `sudo apt-get install mysql-common mysql-client-4.4 libmysqlclent-dev mysql-server-5.5`

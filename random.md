@@ -219,6 +219,8 @@
 * With a population density of 406 people per km² – 497 if water is excluded – the Netherlands is a very densely populated country for its size. Only Bangladesh, South Korea and Taiwan have both a larger population and a higher population density. Nevertheless, the Netherlands is the world's second largest exporter of food and agriculture products, after the United States.
 * A cousin, twice *removed* means something like a grandaunt. Each `removed` means one generation apart.
 * [Mocks vs Stubs](http://stackoverflow.com/questions/3459287/whats-the-difference-between-a-mock-stub): "Stub is simple fake object. It just makes sure test runs smoothly. Mock is smarter stub. You verify Your test passes through it." In other words, mocks actually have expectations of what happens when it is run.
+* [Agile is a philosphy; Scrum is an approach.](http://stackoverflow.com/questions/1586928/how-different-is-scrum-practice-from-agile-practice)
+* Outhouses have pits underneath...
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

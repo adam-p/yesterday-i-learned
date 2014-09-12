@@ -87,6 +87,8 @@ Use this syntax to push from a local branch to a remote branch that has a differ
 git push origin local_branch:remote_branch
 ```
 
+This is also how you [fast forward remote branches][stackoverflow 15].
+
 ### I merged a pull request I didn't want / That PR broke everything and I want it out
 
 Follow any one of [these advice][stackoverflow 3]:
@@ -285,6 +287,7 @@ See also: [backing up your keys][stackoverflow 14]
 [stackoverflow 12]: http://stackoverflow.com/a/17848593/1558430
 [stackoverflow 13]: http://stackoverflow.com/questions/17371955/verifying-signed-git-commits
 [stackoverflow 14]: http://stackoverflow.com/questions/5587513/gnupg-encryption-how-to-export-private-secret-asc-key-to-decrypt-gpg-files-i
+[stackoverflow 15]: http://stackoverflow.com/questions/10605895/how-to-fast-forward-a-remote-branch
 [stackoverflow 2]: http://stackoverflow.com/a/13687302/1558430
 [stackoverflow 3]: http://stackoverflow.com/questions/2389361/undo-a-git-merge
 [stackoverflow 4]: http://stackoverflow.com/questions/14988929/show-all-stashes-in-git-log

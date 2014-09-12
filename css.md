@@ -22,6 +22,7 @@
 * iOS 6/7 support `position: sticky`, which is like `fixed` except dependent on where the element is relative to the viewport.
 * IE8 and under have a 4095-CSS-selector limit in any given page.
 * There is a [`text-rendering: optimizeLegibility`][aestheticallyloyal] flag that makes kerning look "normal" according to what the browser. However, page rendering is (slightly) slower, text will sometimes disappear if combined with `text-transform: small-caps`, and disappear completely in WebOS.
+* Transforms and translates [*will* mess with z-indices](http://dabblet.com/gist/2463684) by [creating a different stacking context](http://stackoverflow.com/a/10814448), so use these optimisations only when necessary.
 
 ## XPath
 

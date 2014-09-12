@@ -214,6 +214,10 @@
 * Do not buy Honda Fits made before [2014-06-06][mfit 23].
 * [Agile is a philosphy; Scrum is an approach.](http://stackoverflow.com/questions/1586928/how-different-is-scrum-practice-from-agile-practice)
 * Outhouses have pits underneath...
+* People [used](http://royalorderofrogues.com/2013/06/13/wiping-your-butt-with-a-corn-cob/) (or [*use*](https://en.wikipedia.org/wiki/Outhouse#mediaviewer/File:1880_town_outhouse.jpg)...) corncob to wipe their butt cracks in outhouses.
+* How to stop being the guy that rarely says anything: "[talk louder and don't mumble](http://www.reddit.com/r/socialskills/comments/14j3y2/how_to_stop_being_the_guy_that_rarely_says/), it makes what you say seem more important and keeps you in the conversation more."
+* > Most people hang themselves in a sitting position, using a belt and a doorknob. Doesn't matter if your feet touch the ground, as long as your buttocks dont. That way you slowly pass out before you die. No panic, hence no urge to resist.
+* [Sleep deprivation can increase the risk of developing false memories](http://www.reddit.com/r/science/comments/2b21nw/sleep_deprivation_can_increase_the_risk_of/)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

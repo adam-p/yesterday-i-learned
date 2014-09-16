@@ -70,6 +70,14 @@
 * "A double dash (--) is used in bash built-in commands and many other commands to signify the end of command options, after which only positional parameters are accepted."
 * `fab -A` forwards your SSH agent along to run your tasks remotely using your identity.
 * `:x` is the same as `:wq`. `ZZ` is also the same as `:x`.
+* The "array" syntax in bash is:
+
+```
+array=(
+    thing1
+    thing2
+)
+```
 
 ## Tmux
 

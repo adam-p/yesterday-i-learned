@@ -105,6 +105,8 @@ for k, v in d.iteritems():
 * Django `TestCase` has a `@skip` decorator that, if added to any `def test_` methods, will disable the test. (`from django.utils.unittest.case import skip`)
 * [Certain evidence](http://programmers.stackexchange.com/a/187471) points to recommend importing just a module (`import module` instead of `from module import func1, func2`) if a lot of things are used from that module.
     * (Then again, how you can live with writing `module.func1` and `module.func2` all the time is beyond me.)
+* `()` is a thing, and `(this,)` is a thing. A trailing comma is required only if the tuple contains exactly one item.
+* 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

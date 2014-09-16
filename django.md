@@ -3,6 +3,8 @@
 * `Model(id)` is NOT the same as `Model.objects.get(id=id)`. You can save the object from `Model.objects.get(id=id)`, but not `Model(id)`: `ValidationError: {u'id': [u'Model with this ID already exists.']}`
 * Every `<Model>.objects` is just a [subclass of] `models.Manager()`. And you can extend `models.Manager`.*wink wink*
 * [`./manage.py runscript`](http://django-extensions.readthedocs.org/en/latest/runscript.html) is exactly what ought to be done in place of where you used to code your management commands.
+* A [naive datetime object](https://docs.python.org/2/library/datetime.html) does not care about its time zone. An "aware" datetime object, however, does.
+
 
 # Django troubleshooting
 

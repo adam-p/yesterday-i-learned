@@ -103,6 +103,7 @@ for k, v in d.iteritems():
 * Python does not optimise tail calls.
 * `def foo(a, (b, c), d)` destructures the second tuple. (Thanks @sboparen)
 * Django `TestCase` has a `@skip` decorator that, if added to any `def test_` methods, will disable the test. (`from django.utils.unittest.case import skip`)
+* [Certain evidence](http://programmers.stackexchange.com/a/187471) points to recommend importing just a module (`import module` instead of `from module import func1, func2`) if a lot of things are used from that module.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

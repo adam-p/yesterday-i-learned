@@ -107,6 +107,7 @@ for k, v in d.iteritems():
     * (Then again, how you can live with writing `module.func1` and `module.func2` all the time is beyond me.)
 * `()` is a thing, and `(this,)` is a thing. A trailing comma is required only if the tuple contains exactly one item.
 * `setattr(a_django_object, ...)` will silently update the object's `__dict__`. Doing the same `setattr` to an object will cause an `AttributeError` if the attribute was not defined in the class.
+* `python -m webbrowser <url>` opens... that url in your browser.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -273,10 +273,21 @@ See also: [backing up your keys][stackoverflow 14]
 
 * Stashed something, can't get it back out: `git stash apply` or `git stash pop` (the latter removes the stash)
 
-
 ## GitHub
 
 * [Permission classes][github 2]
+
+## Gerrit: using git like subversion
+
+[Gerrit workflow](http://stackoverflow.com/a/10461674)
+
+### Where should I be pull my code?
+
+`ssh://(your user name)@(your gerrit server):(a real port number)/(project name)`
+
+### Where should I be push my code?
+
+I don't know.
 
 ## Usage
 

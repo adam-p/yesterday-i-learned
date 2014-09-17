@@ -278,6 +278,10 @@ See also: [backing up your keys][stackoverflow 14]
 
 * [Permission classes][github 2]
 
+## Usage
+
+* Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?
+
 [github]: https://help.github.com/articles/remove-sensitive-data
 [github 2]: https://help.github.com/articles/permission-levels-for-an-organization-repository
 [mikegerwitz]: http://mikegerwitz.com/papers/git-horror-story

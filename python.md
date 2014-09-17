@@ -108,6 +108,7 @@ for k, v in d.iteritems():
 * `()` is a thing, and `(this,)` is a thing. A trailing comma is required only if the tuple contains exactly one item.
 * `setattr(a_django_object, ...)` will silently update the object's `__dict__`. Doing the same `setattr` to an object will cause an `AttributeError` if the attribute was not defined in the class.
 * `python -m webbrowser <url>` opens... that url in your browser.
+* Python 3.0 ~ 3.2 don't have the `u'unicode string literal'` syntax, which would crash any python2 script that are otherwise the same as its python3 counterpart.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

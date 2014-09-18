@@ -47,6 +47,14 @@ git log --author="Brian Lai" --pretty=tformat: --numstat | awk '{ add += $1 ; su
 git ls-tree --name-only -z -r HEAD|egrep -z -Z -E '\.(js|css|py|html|sh)$' | xargs -0 -n1 git blame --line-porcelain|grep "^author "|sort|uniq -c|sort -nr
 ```
 
+### Other developers are idiots
+
+Implement a git pre-commit hook in your repo so that no one can push code that (various lints) don't like.
+
+```
+ln -s /full/path/to/your/virtualenv/src/scripts/git_precommit_hook.sh /full/path/to/your/virtualenv/.git/hooks/pre-commit
+```
+
 ## booboos
 
 ### I used a GUI for git and the diffs/patches/merges/pull requests don't turn out right

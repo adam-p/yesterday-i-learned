@@ -111,7 +111,9 @@ for k, v in d.iteritems():
 * Python 3.0 ~ 3.2 don't have the `u'unicode string literal'` syntax, which would crash any python2 script that are otherwise the same as its python3 counterpart.
 * Apparently [you can get `easy_install` from `python-setuptools`](http://www.mediawiki.org/wiki/Gerrit/git-review).
 * Apparently [you can get `pip` from `easy_install`](http://www.mediawiki.org/wiki/Gerrit/git-review), too.
-* Python 2.7+ is the only python2 version that comes with the set notation (`{1,2,3}`).
+* Python 2.7+ is the only python2 version that comes with the set notation (`{1, 2, 3}`).
+* [PyLint expects all global variables to be constants, and be named in ALL_UPPERCASE](http://docs.pylint.org/tutorial.html)
+
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

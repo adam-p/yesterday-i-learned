@@ -74,6 +74,7 @@
 * **NaCl** in tech usually stands for **Na**tive **Cl**ient.
 * `"use strict";` in global scope affects the entire script file, but not other scripts on the page.
 * To generate revisions of assets, you might need [gulp-rev][npmjs] (see also: the "Works with gulp-rev" section)
+* `npm` has a [dedupe](https://www.npmjs.org/doc/cli/npm-dedupe.html) option that groups common dependencies higher up the dependency tree.
 
 ## Deferred API
 

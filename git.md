@@ -287,7 +287,9 @@ See also: [backing up your keys][stackoverflow 14]
 
 ### Where should I be push my code?
 
-I don't know.
+> (Gerrit implementing both git and the web server) allows (it) to provide magical refs, such as `refs/for/*` for new change submission and `refs/changes/*` for change replacement.
+
+In other words, if you have a change that you want to end up in `master`, push to `origin (local branch):refs/for/master`, or just `origin HEAD:refs/for/master` if you happen to be on the branch already.
 
 ## Usage
 

@@ -322,6 +322,10 @@ Whatever change you pushed will automatically be bound to you.
 
 In other words, if you have a change that you want to end up in `master`, push to `origin (local branch):refs/for/master`, or just `origin HEAD:refs/for/master` if you happen to be on the branch already.
 
+### How can I trigger Jenkins again after the push?
+
+Edit your commit message online.
+
 ## Usage
 
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?

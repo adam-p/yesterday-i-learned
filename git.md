@@ -115,6 +115,18 @@ If it's in a branch, consider running `git log -S "(keyword from diff)" --source
 ### I was smart enough to use `--depth=1`, but too dumb to undo it
 Well, now you need `--depth=999`.
 
+### I already made my changes in multiple commits, but the repo owner wants me to rebase it to a single commit
+
+You should do it.
+
+Use `git log` to find out how many commits you made since you forked/branched, then run
+
+```
+git rebase -i HEAD~(commit count)
+```
+
+Change the top commit from `pick` to `r` (reword), and all the others `s` (squash).
+
 ## "Your branch is ahead of..."
 *Your branch has different code than the remote one even if a `git pull origin (branch)` tells you `Already up-to-date.` This will make you deploy incorrect code. Beware!*
 On the branch that says that, do [`git reset --hard origin/(branch) && git pull`][stackoverflow 7]

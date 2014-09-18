@@ -301,11 +301,11 @@ See also: [backing up your keys][stackoverflow 14]
 
 `ssh://(your user name)@(your gerrit server):(a real port number)/(project name)`
 
-### Where should I be push my code?
+### How should I modify the code?
 
-> (Gerrit implementing both git and the web server) allows (it) to provide magical refs, such as `refs/for/*` for new change submission and `refs/changes/*` for change replacement.
+`git checkout -b (useful branch name)` because the branch name becomes Gerrit's topic name.
 
-In other words, if you have a change that you want to end up in `master`, push to `origin (local branch):refs/for/master`, or just `origin HEAD:refs/for/master` if you happen to be on the branch already.
+Change your code there, and commit your code.
 
 ### How should I be committing code?
 
@@ -315,6 +315,12 @@ In other words, if you have a change that you want to end up in `master`, push t
 [Your commit message should be meaningful](https://wiki.openstack.org/wiki/GitCommitMessages), but *can* change your commit message on the web interface later.
 
 Whatever change you pushed will automatically be bound to you.
+
+### Where should I be push my code?
+
+> (Gerrit implementing both git and the web server) allows (it) to provide magical refs, such as `refs/for/*` for new change submission and `refs/changes/*` for change replacement.
+
+In other words, if you have a change that you want to end up in `master`, push to `origin (local branch):refs/for/master`, or just `origin HEAD:refs/for/master` if you happen to be on the branch already.
 
 ## Usage
 

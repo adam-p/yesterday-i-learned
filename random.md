@@ -226,7 +226,7 @@
 * > Most people hang themselves in a sitting position, using a belt and a doorknob. Doesn't matter if your feet touch the ground, as long as your buttocks dont. That way you slowly pass out before you die. No panic, hence no urge to resist.
 * [Sleep deprivation can increase the risk of developing false memories](http://www.reddit.com/r/science/comments/2b21nw/sleep_deprivation_can_increase_the_risk_of/)
 * That thing people pull you with on two wheels is called the [rickshaw](http://en.wikipedia.org/wiki/Pulled_rickshaw).
-* 
+* [Code coverage](http://en.wikipedia.org/wiki/Code_coverage) actually means "test coverage", how much code your tests are covering. This is also the reason why all your code has 0 code coverage.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

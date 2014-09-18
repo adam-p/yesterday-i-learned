@@ -307,6 +307,15 @@ See also: [backing up your keys][stackoverflow 14]
 
 In other words, if you have a change that you want to end up in `master`, push to `origin (local branch):refs/for/master`, or just `origin HEAD:refs/for/master` if you happen to be on the branch already.
 
+### How should I be committing code?
+
+1. Install `git-review`
+2. Squash your changes into a single commit (see above), then run `git review`.
+
+[Your commit message should be meaningful](https://wiki.openstack.org/wiki/GitCommitMessages), but *can* change your commit message on the web interface later.
+
+Whatever change you pushed will automatically be bound to you.
+
 ## Usage
 
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?

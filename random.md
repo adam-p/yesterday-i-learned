@@ -225,6 +225,8 @@
 * How to stop being the guy that rarely says anything: "[talk louder and don't mumble](http://www.reddit.com/r/socialskills/comments/14j3y2/how_to_stop_being_the_guy_that_rarely_says/), it makes what you say seem more important and keeps you in the conversation more."
 * > Most people hang themselves in a sitting position, using a belt and a doorknob. Doesn't matter if your feet touch the ground, as long as your buttocks dont. That way you slowly pass out before you die. No panic, hence no urge to resist.
 * [Sleep deprivation can increase the risk of developing false memories](http://www.reddit.com/r/science/comments/2b21nw/sleep_deprivation_can_increase_the_risk_of/)
+* That thing people pull you with on two wheels is called the [rickshaw](http://en.wikipedia.org/wiki/Pulled_rickshaw).
+* 
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

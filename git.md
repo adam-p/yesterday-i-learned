@@ -125,6 +125,10 @@ Use `git log` to find out how many commits you made since you forked/branched, t
 git rebase -i HEAD~(commit count)
 ```
 
+### I made a commit with stupid messages
+
+Either [`git commit --amend`](http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-message-in-git) or `git rebase -i HEAD~1`
+
 Change the top commit from `pick` to `r` (reword), and all the others `s` (squash).
 
 ## "Your branch is ahead of..."

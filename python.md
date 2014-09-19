@@ -117,6 +117,7 @@ for k, v in d.iteritems():
 * [Marisa-trie](https://github.com/kmike/marisa-trie) consumes less memory than if you decide to build your own trie in python.
 * `bytes(...)`: turn strings into sequences of anything from 0 to 255.
 * [`simplejson` is subjectively better than `json`](http://stackoverflow.com/questions/712791/what-are-the-differences-between-json-and-simplejson-python-modules) -- to use either, `import simplejson as json`.
+* It is [an insanely stupid idea](http://stackoverflow.com/questions/6031584/python-importing-from-builtin-library-when-module-with-same-name-exists) to have a folder that has the same name as one of the built-in libraries.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

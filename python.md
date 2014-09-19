@@ -100,6 +100,7 @@ for k, v in d.iteritems():
 * Tastypie allows only GET by default. `authorization = Authorization()` is required in the `Meta` class to allow insecure PATCHes.
 * An instance's class [can be changed][stackoverflow 14] dynamically, restricted to user-defined classes only; it's unadvisable to do so regardless.
 * `if` statements do NOT have an `else` equivalent of `for...else`, i.e. if [none of the branches are completely run](http://stackoverflow.com/q/21612910/1558430), because `if` statements don't have `break`s.
+* `if` statements do NOT have any kind of `for...else`-type block that is run whenever any one or more conditions above are run.
 * Python does not optimise tail calls.
 * `def foo(a, (b, c), d)` destructures the second tuple. (Thanks @sboparen)
 * Django `TestCase` has a `@skip` decorator that, if added to any `def test_` methods, will disable the test. (`from django.utils.unittest.case import skip`)

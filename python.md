@@ -115,6 +115,7 @@ for k, v in d.iteritems():
 * [PyLint expects all global variables to be constants, and be named in ALL_UPPERCASE](http://docs.pylint.org/tutorial.html)
 * Want a monad for absolutely no work? Get [PyMonad](https://pypi.python.org/pypi/PyMonad/)!
 * [Marisa-trie](https://github.com/kmike/marisa-trie) consumes less memory than if you decide to build your own trie in python.
+* `bytes(...)`: turn strings into sequences of anything from 0 to 255.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -229,6 +229,21 @@
 * Pressing `Ctrl+Shift+Enter` instead of `Enter` in Excel sometimes allows `ArrayFormula` operations to be possible, for typically erroneous operations such as `IF(some_range=a_value,some_range)`.
 * Sleep is when many of the adrenal hormones (glucocorticoids, epinephrine) are replenished. Without sleep there is a lack of these hormones. These hormones also police blood pressure, without enough the veins sag, causing the dark color (the blue combines w skin tone to create dark).
 * A 'nightcap' is a drink you consume right before going to bed. It is rumoured to improve sleeping.
+* That thing people pull you with on two wheels is called the [rickshaw](http://en.wikipedia.org/wiki/Pulled_rickshaw).
+* [Code coverage](http://en.wikipedia.org/wiki/Code_coverage) actually means "test coverage", how much code your tests are covering. This is also the reason why all your code has 0 code coverage.
+* [Chicken and pork in Ontario don't have added growth hormones](http://www.eatrightontario.ca/en/Articles/Farming-Food-production/Hormones-and-antibiotics-in-food-production.aspx).
+* By [dipping your nose into beer head](http://www.reddit.com/r/askscience/comments/2h4inh/why_does_shampoo_lather_less_in_dirty_hair_than/), the foam disintegrates because of your nose grease.
+* You have this sinking feeling in your stomach when you are stressed because [blood is leaving it](http://www.reddit.com/r/explainlikeimfive/comments/2h3cr7/eli5_what_is_physically_causing_the_feeling_of/).
+* [All marriages end in death](http://www.reddit.com/r/Showerthoughts/comments/2h10ql/about_50_of_marriages_end_in_divorce_but_the).
+* > "Fear the man with only one gun. He probably knows how to use it."
+* According to Crockford, Netscape called it LiveScript, originally. In their attempt to 'destroy Microsoft', they teamed up with Sun. One of Sun's original goals with Java was making it the client-side scripting language for the browser. However, Netscape had LiveScript. Apparently the negotiations almost broke down over this point. In an enlightened moment, (probably) Marc Andreessen proposed renaming LiveScript to JavaScript (despite the fact that the languages have very little in common), and joy was had. Sun got the JavaScript trademark (and passed it on to Oracle), and Netscape got a perpetual exclusive license to use it. When JavaScript was standardized to avoid Embrace, Extend, Extinguish, Netscape refused to share its license, and so the official language was renamed to ECMAScript, after the standards body. When Sun was bought by Oracle, it also got the trademark, and presumably, Mozilla inherited the exclusive license from Netscape.
+* [IP over DNS](http://code.kryo.se/iodine/): when free Wi-Fi hotspots block you until you pay
+* [Both Mrs and Ms stand for 'mistress'](http://www.newrepublic.com/article/119432/history-female-titles-mistress-miss-mrs-or-ms); Miss used to mean prostitute, which is odd, considering Mistress currently means women having affairs.
+* "Skeet shooting" refers to shooting plates that someone had thrown into the air, with a shotgun.
+* Due to the lineup excluding Pokémon with a 0 or 1 IV in Attack, female Pokémon of species with a seven male to one female ratio can never be Shiny in Generation II.
+* If you want to buy good T-shirts, buy [Mossimo](https://www.reddit.com/r/AskReddit/comments/2es5ki/what_do_you_not_get_the_appeal_of/ck2iy78.compact) from Target.
+* [How to dress for work: 5 common levels of formality](http://www.businessinsider.com/how-to-dress-for-work-business-attire-2014-8)
+* PSKs are [never shared over the network!](https://superuser.com/questions/386984/can-attackers-harvest-wifi-passwords-by-spoofing-essid/386997#386997)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

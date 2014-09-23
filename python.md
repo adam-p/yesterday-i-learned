@@ -100,7 +100,26 @@ for k, v in d.iteritems():
 * Tastypie allows only GET by default. `authorization = Authorization()` is required in the `Meta` class to allow insecure PATCHes.
 * An instance's class [can be changed][stackoverflow 14] dynamically, restricted to user-defined classes only; it's unadvisable to do so regardless.
 * `if` statements do NOT have an `else` equivalent of `for...else`, i.e. if [none of the branches are completely run](http://stackoverflow.com/q/21612910/1558430), because `if` statements don't have `break`s.
+* `if` statements do NOT have any kind of `for...else`-type block that is run whenever any one or more conditions above are run.
 * Python does not optimise tail calls.
+* `def foo(a, (b, c), d)` destructures the second tuple. (Thanks @sboparen)
+* Django `TestCase` has a `@skip` decorator that, if added to any `def test_` methods, will disable the test. (`from django.utils.unittest.case import skip`)
+* [Certain evidence](http://programmers.stackexchange.com/a/187471) points to recommend importing just a module (`import module` instead of `from module import func1, func2`) if a lot of things are used from that module.
+    * (Then again, how you can live with writing `module.func1` and `module.func2` all the time is beyond me.)
+* `()` is a thing, and `(this,)` is a thing. A trailing comma is required only if the tuple contains exactly one item.
+* `setattr(a_django_object, ...)` will silently update the object's `__dict__`. Doing the same `setattr` to an object will cause an `AttributeError` if the attribute was not defined in the class.
+* `python -m webbrowser <url>` opens... that url in your browser.
+* Python 3.0 ~ 3.2 don't have the `u'unicode string literal'` syntax, which would crash any python2 script that are otherwise the same as its python3 counterpart.
+* Apparently [you can get `easy_install` from `python-setuptools`](http://www.mediawiki.org/wiki/Gerrit/git-review).
+* Apparently [you can get `pip` from `easy_install`](http://www.mediawiki.org/wiki/Gerrit/git-review), too.
+* Python 2.7+ is the only python2 version that comes with the set notation (`{1, 2, 3}`).
+* [PyLint expects all global variables to be constants, and be named in ALL_UPPERCASE](http://docs.pylint.org/tutorial.html)
+* Want a monad for absolutely no work? Get [PyMonad](https://pypi.python.org/pypi/PyMonad/)!
+* [Marisa-trie](https://github.com/kmike/marisa-trie) consumes less memory than if you decide to build your own trie in python.
+* `bytes(...)`: turn strings into sequences of anything from 0 to 255.
+* [`simplejson` is subjectively better than `json`](http://stackoverflow.com/questions/712791/what-are-the-differences-between-json-and-simplejson-python-modules) -- to use either, `import simplejson as json`.
+* It is [an insanely stupid idea](http://stackoverflow.com/questions/6031584/python-importing-from-builtin-library-when-module-with-same-name-exists) to have a folder that has the same name as one of the built-in libraries.
+* It wasn't possible to `import (many things with brackets)` [until python 2.7](http://legacy.python.org/dev/peps/pep-0328/).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

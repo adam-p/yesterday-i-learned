@@ -47,6 +47,14 @@ git log --author="Brian Lai" --pretty=tformat: --numstat | awk '{ add += $1 ; su
 git ls-tree --name-only -z -r HEAD|egrep -z -Z -E '\.(js|css|py|html|sh)$' | xargs -0 -n1 git blame --line-porcelain|grep "^author "|sort|uniq -c|sort -nr
 ```
 
+### Other developers are idiots
+
+Implement a git pre-commit hook in your repo so that no one can push code that (various lints) don't like.
+
+```
+ln -s /full/path/to/your/virtualenv/src/scripts/git_precommit_hook.sh /full/path/to/your/virtualenv/.git/hooks/pre-commit
+```
+
 ## booboos
 
 ### I used a GUI for git and the diffs/patches/merges/pull requests don't turn out right
@@ -114,6 +122,22 @@ If it's in a branch, consider running `git log -S "(keyword from diff)" --source
 
 ### I was smart enough to use `--depth=1`, but too dumb to undo it
 Well, now you need `--depth=999`.
+
+### I already made my changes in multiple commits, but the repo owner wants me to rebase it to a single commit
+
+You should do it.
+
+Use `git log` to find out how many commits you made since you forked/branched, then run
+
+```
+git rebase -i HEAD~(commit count)
+```
+
+### I made a commit with stupid messages
+
+Either [`git commit --amend`](http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-message-in-git) or `git rebase -i HEAD~1`
+
+Change the top commit from `pick` to `r` (reword), and all the others `s` (squash).
 
 ## "Your branch is ahead of..."
 *Your branch has different code than the remote one even if a `git pull origin (branch)` tells you `Already up-to-date.` This will make you deploy incorrect code. Beware!*
@@ -273,10 +297,46 @@ See also: [backing up your keys][stackoverflow 14]
 
 * Stashed something, can't get it back out: `git stash apply` or `git stash pop` (the latter removes the stash)
 
-
 ## GitHub
 
 * [Permission classes][github 2]
+
+## Gerrit: using git like subversion
+
+[Gerrit workflow](http://stackoverflow.com/a/10461674)
+
+### Where should I be pull my code?
+
+`ssh://(your user name)@(your gerrit server):(a real port number)/(project name)`
+
+### How should I modify the code?
+
+`git checkout -b (useful branch name)` because the branch name becomes Gerrit's topic name.
+
+Change your code there, and commit your code.
+
+### How should I be committing code?
+
+1. Install `git-review`
+2. Squash your changes into a single commit (see above), then run `git review`.
+
+[Your commit message should be meaningful](https://wiki.openstack.org/wiki/GitCommitMessages), but *can* change your commit message on the web interface later.
+
+Whatever change you pushed will automatically be bound to you.
+
+### Where should I be push my code?
+
+> (Gerrit implementing both git and the web server) allows (it) to provide magical refs, such as `refs/for/*` for new change submission and `refs/changes/*` for change replacement.
+
+In other words, if you have a change that you want to end up in `master`, push to `origin (local branch):refs/for/master`, or just `origin HEAD:refs/for/master` if you happen to be on the branch already.
+
+### How can I trigger Jenkins again after the push?
+
+Edit your commit message online.
+
+## Usage
+
+* Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?
 
 [github]: https://help.github.com/articles/remove-sensitive-data
 [github 2]: https://help.github.com/articles/permission-levels-for-an-organization-repository

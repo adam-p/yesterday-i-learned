@@ -138,6 +138,17 @@ There are many occasions when you want to mark a task as done, but a task is onl
 
 If the feature turns out to be buggy, the task is still considered done. Just file another high priority task to fix that bug.
 
+A checklist is available for determining whether your task is done:
+* Code formatted
+* Code commented
+* Static code analysis passes
+* All test cases pass
+* Tested by yourself
+* Code reviewed by other Developers
+* Tested by QA
+* Acceptance tested by Product Management
+* Code merged into production repository.
+
 ### Deliverables
 
 A task needs a list of deliverables ("what needed to be done" -- and "what got done?") and, preferably, a due date.

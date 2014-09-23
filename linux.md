@@ -70,6 +70,7 @@
 * "A double dash (--) is used in bash built-in commands and many other commands to signify the end of command options, after which only positional parameters are accepted."
 * `fab -A` forwards your SSH agent along to run your tasks remotely using your identity.
 * `:x` is the same as `:wq`. `ZZ` is also the same as `:x`.
+* [nginx](http://nginx.org/en/docs/beginners_guide.html) is not a service. Instead, it is run with `nginx -s [stop|quit|reload]`. (`quit` is graceful, `stop` is not)
 
 ## Tmux
 

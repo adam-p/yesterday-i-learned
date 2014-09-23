@@ -99,6 +99,8 @@
 * Sparse arrays (most values are 0) are [slower on V8 than full arrays][jsperf].
 * [Except in Safari][jsperf 2], never pre-allocate arrays.
 * Avoid element reflowing/redrawing (but this is more of a DOM thing rather than JS)
+* node has a [debugger](http://nodejs.org/api/debugger.html). To use it, run `node debug` where you normally run `node`.
+* "[Every function in Node.js is asynchronous](http://code.tutsplus.com/tutorials/node-js-for-beginners--net-26314)", even the ones that are normally blocking.
 
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/

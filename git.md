@@ -338,6 +338,7 @@ Edit your commit message online.
 
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?
 * `git log --stat` shows diffs as well as the commit messages.
+* Git commits have two dates: commit date and author date. Changing one of the dates (e.g. via cherry-picking) will change the hash of that commit.
 
 [github]: https://help.github.com/articles/remove-sensitive-data
 [github 2]: https://help.github.com/articles/permission-levels-for-an-organization-repository

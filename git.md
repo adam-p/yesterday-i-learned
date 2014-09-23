@@ -337,6 +337,7 @@ Edit your commit message online.
 ## Usage
 
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?
+* `git log --stat` shows diffs as well as the commit messages.
 
 [github]: https://help.github.com/articles/remove-sensitive-data
 [github 2]: https://help.github.com/articles/permission-levels-for-an-organization-repository

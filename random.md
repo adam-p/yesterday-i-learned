@@ -239,7 +239,7 @@
 * Due to the lineup excluding Pokémon with a 0 or 1 IV in Attack, female Pokémon of species with a seven male to one female ratio can never be Shiny in Generation II.
 * If you want to buy good T-shirts, buy [Mossimo](https://www.reddit.com/r/AskReddit/comments/2es5ki/what_do_you_not_get_the_appeal_of/ck2iy78.compact) from Target.
 * [How to dress for work: 5 common levels of formality](http://www.businessinsider.com/how-to-dress-for-work-business-attire-2014-8)
-* 
+* PSKs are [never shared over the network!](https://superuser.com/questions/386984/can-attackers-harvest-wifi-passwords-by-spoofing-essid/386997#386997)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

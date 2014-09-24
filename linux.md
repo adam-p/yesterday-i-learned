@@ -82,6 +82,7 @@ array=(
 
 * `bash` should [be the default](http://askubuntu.com/a/141932) when scripting, because `/bin/sh` is sometimes not actually `sh`.
 * `;;` [terminates a case block](http://tldp.org/LDP/abs/html/special-chars.html)
+* `set -e` in a script terminates the script if there's a single error in the script. Unless... the error happened in some kind of loop.
 
 ## Tmux
 

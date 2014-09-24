@@ -80,6 +80,8 @@ array=(
 )
 ```
 
+* `bash` should [be the default](http://askubuntu.com/a/141932) when scripting, because `/bin/sh` is sometimes not actually `sh`.
+
 ## Tmux
 
 After press `Ctrl+B`, followed by

@@ -85,6 +85,12 @@ array=(
 * `set -e` in a script terminates the script if there's a single error in the script. Unless... the error happened in some kind of loop.
 * [`pushd` and `popd`](http://en.wikipedia.org/wiki/Pushd_and_popd) allows storing the current directory and restoring to that directory in a stack-based fashion.
 * Read your man pages! `cp -f` forces a copy by deleting any destination file(s) that may prevent the copy, and `cp -n` does the exact opposite -- if something already exists, don't copy it.
+* This comparison in bash is true if the script was sourced, not run: `"$0" = "$BASH_SOURCE"` (you can then use this to detect if someone ran your script correctly)
+* There are [four different kinds of redirections](http://askubuntu.com/a/350216):
+    * `> file` redirects stdout to file
+    * `1> file` redirects stdout to file
+    * `2> file` redirects stderr to file
+    * `&> file` redirects stdout and stderr to file
 
 ## Tmux
 

@@ -38,6 +38,7 @@
 * [Don't type "let me know"][letsworkshop] -- it doesn't work
 * Uses SQS to manage spikes in demand. Can't do something right now? Chuck the request to a queue. Take things off the queue at constant rate.
 * [Drop all disk cache (Linux)][stackoverflow 4]: `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
+    * You're `tee`ing here to pipe the 3 into a root command. [Neat](http://www.linuxinsight.com/proc_sys_vm_drop_caches.html)!
 * App engine admin: `--admin_port=8001`
 * [RFC 2324][ietf] for coffee pot communication (not HTTP 418; that's for tea pots)
 * You [can][jetbrains] debug through SSH!

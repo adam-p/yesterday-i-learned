@@ -334,6 +334,14 @@ In other words, if you have a change that you want to end up in `master`, push t
 
 Edit your commit message online.
 
+### How do I update a branch that relies on a remote change that has since been updated?
+
+Your branch looks like `master -> (unmerged Foo) -> (your stuff)` but Foo has updated.
+
+To fix that, pull Foo into a new branch, and run `git rebase -i Foo`.
+
+You will be given the rebase interface. **Remove** Foo from your list of commits.
+
 ## Usage
 
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?

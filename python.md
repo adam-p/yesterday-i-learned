@@ -121,6 +121,24 @@ for k, v in d.iteritems():
 * It is [an insanely stupid idea](http://stackoverflow.com/questions/6031584/python-importing-from-builtin-library-when-module-with-same-name-exists) to have a folder that has the same name as one of the built-in libraries.
 * It wasn't possible to `import (many things with brackets)` [until python 2.7](http://legacy.python.org/dev/peps/pep-0328/).
 * `range()` can actually be faster in some cases - eg. if iterating over the same sequence multiple times.  `xrange()` has to reconstruct the integer object every time, but `range()` will have real integer objects. (It will always perform worse in terms of memory however, and there is no such thing as Python2's `range()` in Python3.)
+* If you aren't being code reviewed or anything, you can subclass `namedtuple` like this:
+
+```
+class Foo(namedtuple('lol', 'a b c')): pass
+```
+
+* `namedtuple` accepts pretty much anything for its second argument. These all work.
+
+```
+namedtuple('a', ['b', 'c'])
+namedtuple('a', 'b, c')
+namedtuple('a', 'b c')
+namedtuple('a', """
+b
+c
+""")
+```
+
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

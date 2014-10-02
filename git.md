@@ -347,6 +347,7 @@ You will be given the rebase interface. **Remove** Foo from your list of commits
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?
 * `git log --stat` shows diffs as well as the commit messages.
 * Git commits have two dates: commit date and author date. Changing one of the dates (e.g. via cherry-picking) will change the hash of that commit.
+* You can `git diff` and `git diff HEAD`. If you already `git add`ed some things and made further changes before committing, `git diff HEAD` shows you changes including in the files already added.
 
 [github]: https://help.github.com/articles/remove-sensitive-data
 [github 2]: https://help.github.com/articles/permission-levels-for-an-organization-repository

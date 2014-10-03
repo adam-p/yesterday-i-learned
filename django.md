@@ -5,6 +5,7 @@
 * [`./manage.py runscript`](http://django-extensions.readthedocs.org/en/latest/runscript.html) is exactly what ought to be done in place of where you used to code your management commands.
 * A [naive datetime object](https://docs.python.org/2/library/datetime.html) does not care about its time zone. An "aware" datetime object, however, does.
 * Giving any `TestCase` a `fixtures` list attribute automatically loads these fixtures whenever the tests are run.
+* The `QuerySet` is a monad. You can call `prefetch_related` and `select_related` in either order and it won't care. (It does care about double splicing and double ordering, however.)
 
 # Django troubleshooting
 

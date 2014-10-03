@@ -27,6 +27,8 @@
 * `*args` is of type tuple, not list.
 * Use the `for-else` loop to avoid setting "flag variables", e.g. `found = False ...`. Faster than flags in Python.
 * These three are successively better than the former.
+* `dict(a dict)` clones the dict (for one level).
+* `list(a list)` clones the list (for one level).
 
 ```
 for k in d:

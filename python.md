@@ -96,6 +96,7 @@ for k, v in d.iteritems():
 * `pip freeze` also removes duplicate package requirements, so it helps you clean up the file in a way.
 * Generate random test urls using `itertools.product`: http://stackoverflow.com/questions/2535924/simple-way-to-create-possible-case/2535934#2535934
 * It is not necessary to `urlunparse` a url before generating a new url with parts changed. `urlparse(url, scheme='http')` changes the schema of that url to http.
+    * I lied. It only works for `scheme`. 
 * `unicode`'s `translate` is different from `str`'s `translate`; their translation tables are [not interchangeable][stackoverflow 13] (`unicode` strings require `unicode` tables)
 * Every single [virtual environment][python-guide] directory (`venv`) has a `bin/activate` which you can `.`.
 * And, get this, your repository does not need to be cloned into the virtual environment directory.

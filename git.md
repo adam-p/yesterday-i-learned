@@ -342,6 +342,18 @@ To fix that, pull Foo into a new branch, and run `git rebase -i Foo`.
 
 You will be given the rebase interface. **Remove** Foo from your list of commits.
 
+### My parent 'branch' updated. How do I update mine?
+
+```
+git checkout (parent)
+git fetch
+git rebase
+git checkout (your branch)
+git rebase -i (parent)
+```
+
+Besides risking accidentally being depdendent on other branches, your old parent will be updated to the new one.
+
 ## Usage
 
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?

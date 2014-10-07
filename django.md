@@ -127,5 +127,11 @@ get_object_or_404(Thing.prefetch_related(), id=4)
 
 The file you have these hooks must be touched by python at least once... try importing these hooks from a file that you know django uses. (The imports don't need to be used)
 
+### [`blank=True` or `null=True`](http://stackoverflow.com/a/8609425)?
+
+Usually, both. `blank=True` makes Django allow None, while `null=True` makes the database tolerate `NULL`.
+
+`null=True` is not required for `TEXT` or `CHAR` fields.
+
 [github]: https://github.com/devilry/devilry-deploy/blob/master/docs/src/migrationguides/1.4.0.rst#2-----migrate-the-database
 [readthedocs]: http://south.readthedocs.org/en/latest/dependencies.html

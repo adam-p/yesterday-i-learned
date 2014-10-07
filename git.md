@@ -352,6 +352,10 @@ git checkout (your branch)
 git rebase -i (parent)
 ```
 
+### What do I do after my changes are approved?
+
+There's a "submit patch n" button under your changeset that means "merge".
+
 Besides risking accidentally being depdendent on other branches, your old parent will be updated to the new one.
 
 ## Usage

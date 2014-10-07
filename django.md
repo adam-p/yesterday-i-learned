@@ -133,5 +133,15 @@ Usually, both. `blank=True` makes Django allow None, while `null=True` makes the
 
 `null=True` is not required for `TEXT` or `CHAR` fields.
 
+### `{{ form.as_table }}` Doesn't return table markup?
+
+Sometimes (but not according to the docs), unless you wrap all that in `<table>` tags, the form will render as line-broken strings:
+
+```
+<table>
+{{ form.as_table }}
+</table>
+```
+
 [github]: https://github.com/devilry/devilry-deploy/blob/master/docs/src/migrationguides/1.4.0.rst#2-----migrate-the-database
 [readthedocs]: http://south.readthedocs.org/en/latest/dependencies.html

@@ -91,6 +91,11 @@ array=(
     * `1> file` redirects stdout to file
     * `2> file` redirects stderr to file
     * `&> file` redirects stdout and stderr to file
+* [Shortcuts for bash variable conditionals](http://docs.codehaus.org/display/ninja/Bash+Default+Values) (if `export FOO=first`)
+    * `echo "The ${FOO-second} choice"  # echo 'second' if FOO is null`
+    * `echo "The ${FOO:-second} choice"  # echo 'second' if FOO is null or empty`
+    * `echo "The ${FOO:-$BAR} choice"  # echo some other variable if FOO is null or empty`
+    * `echo "Today is ${FOO:-$(date +%A)}"  # evaluate some other expression if FOO is null or empty`
 
 ## Tmux
 

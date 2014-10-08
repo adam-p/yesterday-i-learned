@@ -76,6 +76,7 @@
 * To generate revisions of assets, you might need [gulp-rev][npmjs] (see also: the "Works with gulp-rev" section)
 * `npm` has a [dedupe](https://www.npmjs.org/doc/cli/npm-dedupe.html) option that groups common dependencies higher up the dependency tree.
 * Use `bower` in place of npm for client side packaging to [avoid multiple versions of the same library sent to the client](http://stackoverflow.com/a/18652918).
+* [`{} + {}`](http://stackoverflow.com/a/9033306/1558430), when run as-is, is the addition of an [empty block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block) and an empty object. While two empty objects added together is `[object Object][object Object]`, because empty blocks are not empty objects (and it is entirely up to the interpreter and [the spec](http://www.ecma-international.org/ecma-262/5.1/#sec-12.1) to decide which one it is), the explicit construction of objects matters (`(a = {}) + {}` is adding two objects, for example)
 
 ## Deferred API
 

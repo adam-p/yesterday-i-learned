@@ -145,6 +145,9 @@ c
 
 * If a function is decorated with `contextlib.contextmanager`, then [it can be used as a `with` statement](https://docs.python.org/2/library/contextlib.html). The function must contain exactly one `yield`, where things that happen before the `yield` works like `__enter__`, and what happens after the `yield` is treated like `__exit__`.
 * `random.seed()` is better than `random.seed(0)`, because [the parameter default is the system time](https://docs.python.org/2/library/random.html#random.seed).
+* `hash(-2)` is the same as `hash(-1)`.
+* Objects that have an overridden __eq__ cannot be hashed, unless their __hash__ are also defined.
+* Python2 does [float multiplications](https://github.com/python/cpython/blob/10d5f4d9b6279945ba8062fd04c0314e5ead0a53/Objects/intobject.c#L533) internally to compute results of integer multiplications, presumably to find out of two numbers multiplying each other will cause an overflow.
 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master

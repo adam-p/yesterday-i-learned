@@ -11,6 +11,13 @@
         """
 ```
 
+* [PEP 3107](http://legacy.python.org/dev/peps/pep-3107/) hinting:
+
+```
+def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
+    # foo accepts a (commented), b (11), c (any kind of list), and returns 9
+```
+
 * Under normal circumstances, `register.simple_tag` is all you need for your django templating needs.
 * To pretty-format a JSON file, do `cat ugly.json | python -mjson.tool > pretty.json`.
 * `re.VERBOSE`, aka `re.X`, will ignore all whitespaces in a regex. Will Also ignore everything after a `#`.

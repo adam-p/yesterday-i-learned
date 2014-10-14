@@ -55,6 +55,15 @@ Implement a git pre-commit hook in your repo so that no one can push code that (
 ln -s /full/path/to/your/virtualenv/src/scripts/git_precommit_hook.sh /full/path/to/your/virtualenv/.git/hooks/pre-commit
 ```
 
+### My colleagues are idiots, and I am in fact far superior than them
+
+To [disable pre-commit hooks](http://stackoverflow.com/a/7230886) when you commit:
+
+```
+git commit -n
+```
+
+
 ## booboos
 
 ### I used a GUI for git and the diffs/patches/merges/pull requests don't turn out right

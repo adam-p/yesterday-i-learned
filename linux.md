@@ -96,6 +96,7 @@ array=(
     * `echo "The ${FOO:-second} choice"  # echo 'second' if FOO is null or empty`
     * `echo "The ${FOO:-$BAR} choice"  # echo some other variable if FOO is null or empty`
     * `echo "Today is ${FOO:-$(date +%A)}"  # evaluate some other expression if FOO is null or empty`
+* Don't `gzip -r` bro, that creates a `.gz` file for every single file in that directory! Run `tar -zcvf foo.tar.gz directory_name/` instead.
 
 ## Tmux
 

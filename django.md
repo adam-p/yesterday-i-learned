@@ -7,6 +7,7 @@
 * Giving any `TestCase` a `fixtures` list attribute automatically loads these fixtures whenever the tests are run.
 * The `QuerySet` is a monad. You can call `prefetch_related` and `select_related` in either order and it won't care. (It does care about double splicing and double ordering, however.)
 * To override a template that is defined in a package, configure your `TEMPLATE_DIRS` variable to let your own `templates` directory have a higher lookup priority.
+* Adding `{{ block.super }}` inside a block retains whatever was in the block in the parent template.
 
 # Django troubleshooting
 

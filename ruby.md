@@ -1,4 +1,6 @@
 * Methods do not require `()` to call. WTF?
+* Methods that end in `?` are boolean functions by [pure convention](http://stackoverflow.com/a/1345855). 
+* `?F` apparently means [`"F".ord`](http://stackoverflow.com/a/1878406) for Ruby < 1.9, and just `"F"` in Ruby 1.9+.
 * `!` after a method applies changes the current object. So `a.upcase!` means `a = a.upcase`.
 * `.chomp`, which often follows `gets`, removes the extra line at the end of console inputs.
 * "Ruby prioritizes programmer productivity over program optimization."

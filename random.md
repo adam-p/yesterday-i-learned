@@ -246,7 +246,7 @@
 * [How to dress for work: 5 common levels of formality](http://www.businessinsider.com/how-to-dress-for-work-business-attire-2014-8)
 * PSKs are [never shared over the network!](https://superuser.com/questions/386984/can-attackers-harvest-wifi-passwords-by-spoofing-essid/386997#386997)
 * *Pub* is short for Public House.
-* 
+* UDP, despite having no packet delivery guarantee, is [actually 98~100% reliable](http://openmymind.net/How-Unreliable-Is-UDP/).
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

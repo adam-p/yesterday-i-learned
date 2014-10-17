@@ -247,6 +247,8 @@
 * PSKs are [never shared over the network!](https://superuser.com/questions/386984/can-attackers-harvest-wifi-passwords-by-spoofing-essid/386997#386997)
 * *Pub* is short for Public House.
 * UDP, despite having no packet delivery guarantee, is [actually 98~100% reliable](http://openmymind.net/How-Unreliable-Is-UDP/).
+* Printers embed [yellow dots](http://seeingyellow.com/) in the pages that you print to track your location, in the case that you are printing money.
+* If a Oneplus One boot loops because of a [corrupt `persist` partition](http://www.androidpolice.com/2014/10/13/heres-easy-fix-oneplus-one-sudden-death-bug-results-neverending-boot-loops/), run `make_ext4fs /dev/block/mmcblk0p15`
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

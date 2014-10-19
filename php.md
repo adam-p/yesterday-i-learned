@@ -48,3 +48,4 @@
 * Searching for [`exec($_GET`](https://github.com/search?q=exec%28%24_GET&ref=cmdform&type=Code) gives you a list of exploitable web apps.
 * Every C99 shell has a [backdoor](http://thehackerblog.com/every-c99-php-shell-is-backdoored-aka-free-shells/) that allows the user-set authentication to be bypassed by the author.
 * Empirically speaking, it is apparently possible to get a reference of a [require](https://github.com/chintanbanugaria/92five/blob/master/artisan#L30) by [`return`ing something in the file that you require](https://github.com/chintanbanugaria/92five/blob/master/bootstrap/start.php#L76).
+    * I am already taking this back. You [cannot return classes or interfaces](http://stackoverflow.com/a/8084184/1558430).

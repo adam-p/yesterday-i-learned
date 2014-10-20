@@ -25,6 +25,11 @@
 * Transforms and translates [*will* mess with z-indices](http://dabblet.com/gist/2463684) by [creating a different stacking context](http://stackoverflow.com/a/10814448), so use these optimisations only when necessary.
 * `backface-visibility: hidden` means that, if you flip an object by the z-axis (revealing its back, or *backface*), the object will be hidden instead of inverted.
 * `local('☺')` means ["never use the local font"](http://stackoverflow.com/q/3698319/1558430).
+* [Uncommon selectors](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048):
+    * `a:link` (never clicked) and `a:visited` (clicked)
+    * `div + p`: only `p`s immediately after a div
+    * `div ~ p`: only `p`s immediately before a div
+    * `a[href]`: `a`s with any `href`. See also: `a[href^="foo"]` (starts with), `a[href$="foo"]` (ends with),  `a[href*="foo"]` (anywhere), and `a[href~="foo"]` (if `href`, a space-separated value, contains `foo`).
 
 ## XPath
 

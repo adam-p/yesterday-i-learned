@@ -1,4 +1,6 @@
 * Did you realise the difference between `||` and `or`, which both exist?
+   * `$a = false || true === $a = (false || true) === $a = true`
+   * `$a = false or true === ($a = false) or true === $a = false` (easier to understand if you think about `or die()`)
 * http://net-beta.net/ubench/
 * Declare all vars; undeclared ones 10 times slower
 * Check for function calls in for loops

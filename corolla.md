@@ -99,5 +99,6 @@ Misc
 ======================
 * That thing below the cup holder is apparently an ashtray.
 * `7.pdf` describes trailer and towing instructions. It recommends against axle-mounted hitches.
+* Ceramic brakes make noise, but [it's probably okay](http://www.usatoday.com/story/money/cars/2014/08/26/porsche-turbo-s-squeaky-brakes/14647529/).
 
 [repairpal]: http://repairpal.com/power-steering

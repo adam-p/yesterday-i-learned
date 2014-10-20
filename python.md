@@ -155,7 +155,7 @@ c
 * `hash(-2)` is the same as `hash(-1)`.
 * Objects that have an overridden __eq__ cannot be hashed, unless their __hash__ are also defined.
 * Python2 does [float multiplications](https://github.com/python/cpython/blob/10d5f4d9b6279945ba8062fd04c0314e5ead0a53/Objects/intobject.c#L533) internally to compute results of integer multiplications, presumably to find out of two numbers multiplying each other will cause an overflow.
-
+* It is possible to [`__import__('python-module-with-dashes-in-the-filename'`](http://stackoverflow.com/questions/761519/is-it-ok-to-use-dashes-in-python-files-when-trying-to-import-them), but if you create a file such as this, you deserve to be shot.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

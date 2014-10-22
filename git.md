@@ -24,6 +24,15 @@ git status
 ``
 git show (sha1)
 ``
+
+### I have no idea what happened to a lost file
+
+This shows git log for a particular file, even if it's gone:
+
+```
+git log --name-status -- (non-existent file name)
+```
+
 ### I accidentally deleted a file, and thought I could just check it back out
 `git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.
 

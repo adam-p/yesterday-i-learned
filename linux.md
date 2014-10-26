@@ -97,6 +97,10 @@ array=(
     * `echo "The ${FOO:-$BAR} choice"  # echo some other variable if FOO is null or empty`
     * `echo "Today is ${FOO:-$(date +%A)}"  # evaluate some other expression if FOO is null or empty`
 * Don't `gzip -r` bro, that creates a `.gz` file for every single file in that directory! Run `tar -zcvf foo.tar.gz directory_name/` instead.
+* Some vim keys work in shell.
+    * `alt+L` turns the word into lower case.
+    * `alt+U` turns the word into upper case.
+    * `alt+B` goes back a word.
 
 ## Tmux
 

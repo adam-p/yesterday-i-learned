@@ -102,6 +102,7 @@ array=(
     * `alt+U` turns the word into upper case.
     * `alt+B` goes back a word.
 * `export` in scripts means "allow subprocesses to see this variable, too".
+* `ack -g <filename>` is the same as `find . -name <filename>`.
 
 ## Tmux
 

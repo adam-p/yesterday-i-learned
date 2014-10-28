@@ -1,4 +1,4 @@
-* CoffeeScript should not exist.
+* [CoffeeScript should not exist](https://meta.discourse.org/t/is-it-better-for-discourse-to-use-javascript-or-coffeescript/3153/10). Something called the "1JS" princple guarantees that ES5 scripts will continue working when ES6 is out, but CoffeeScript cannot up-compile to ES6.
 * Wrapping JS code in backticks makes it legal CoffeeScript.
 * I take that back. It doesn't work everywhere.
 * Only in CoffeeScript: [classical classes](http://coffeescript.org/#classes), optional arguments (`foo = (bar = {}) ->`), argument unpacking (`foo.bar(args...)`)

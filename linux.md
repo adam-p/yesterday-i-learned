@@ -101,6 +101,7 @@ array=(
     * `alt+L` turns the word into lower case.
     * `alt+U` turns the word into upper case.
     * `alt+B` goes back a word.
+* `export` in scripts means "allow subprocesses to see this variable, too".
 
 ## Tmux
 

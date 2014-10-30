@@ -252,6 +252,7 @@
 * A fake access point that captures your passwords is not called a honeypot, but a [rogue AP](https://wifipineapple.com/).
 * "Improvisation" can be promounced "improvise-A-tion" - but only in British English it seems. Otherwise it is "im-PROV-VI-SA-tion".
 * `sudo` is [required](http://askubuntu.com/questions/460871/how-to-setup-openvpn-client) for openvpn.
+* Three-way merges aren't so much three way, but [two way](http://en.wikipedia.org/wiki/Merge_%28revision_control%29#Three-way_merge), from a branch that has since diverged into two different branches, back into one.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

@@ -251,6 +251,7 @@
 * If a Oneplus One boot loops because of a [corrupt `persist` partition](http://www.androidpolice.com/2014/10/13/heres-easy-fix-oneplus-one-sudden-death-bug-results-neverending-boot-loops/), run `make_ext4fs /dev/block/mmcblk0p15`
 * A fake access point that captures your passwords is not called a honeypot, but a [rogue AP](https://wifipineapple.com/).
 * "Improvisation" can be promounced "improvise-A-tion" - but only in British English it seems. Otherwise it is "im-PROV-VI-SA-tion".
+* `sudo` is [required](http://askubuntu.com/questions/460871/how-to-setup-openvpn-client) for openvpn.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

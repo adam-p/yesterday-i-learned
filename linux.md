@@ -103,6 +103,14 @@ array=(
     * `alt+B` goes back a word.
 * `export` in scripts means "allow subprocesses to see this variable, too".
 * `ack -g <filename>` is the same as `find . -name <filename>`.
+* The SSH config file `.ssh/config` allows aliases to be created so you don't need to type the entire host name, which key to use, even the user name to log in with.
+
+```
+Host (foo)  # so you can just ssh foo
+Hostname 123.123.123.123  # so you can ssh foo and it goes to this IP
+User username  # so you don't need to give it a user name when you ssh foo
+IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all the time
+```
 
 ## Tmux
 

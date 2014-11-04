@@ -254,6 +254,7 @@
 * `sudo` is [required](http://askubuntu.com/questions/460871/how-to-setup-openvpn-client) for openvpn.
 * Three-way merges aren't so much three way, but [two way](http://en.wikipedia.org/wiki/Merge_%28revision_control%29#Three-way_merge), from a branch that has since diverged into two different branches, back into one.
 * `nosetests` (Python?) accepts a `-a foo` parameter, that only runs tests decorated with `@attr('foo')`.
+* "Breaking the seal" contextually refers to the first act of urination during a drinking spree, after which you will need to urinate even more frequently.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

@@ -112,6 +112,8 @@ User username  # so you don't need to give it a user name when you ssh foo
 IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all the time
 ```
 
+* Backticking (`rm ``find . -name "*.pyc"`` `) works for rm, but do make sure find returns the correct things or you will suffer from major anal bleeding.
+
 ## Tmux
 
 After press `Ctrl+B`, followed by

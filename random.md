@@ -255,6 +255,9 @@
 * Three-way merges aren't so much three way, but [two way](http://en.wikipedia.org/wiki/Merge_%28revision_control%29#Three-way_merge), from a branch that has since diverged into two different branches, back into one.
 * `nosetests` (Python?) accepts a `-a foo` parameter, that only runs tests decorated with `@attr('foo')`.
 * "Breaking the seal" contextually refers to the first act of urination during a drinking spree, after which you will need to urinate even more frequently.
+* Hats were worn secondarily because hair was washed weekly instead of daily. Oddly enough, Hitler didn't wear a hat, 10 years before the trend started in the US. As an aside, Adolf means "noble wolf."
+* [BEST rolls you can buy: Charmin. BEST rolls at low cost: Great Value at Wal-Mart or Kirkland at CostCo.](http://www.reddit.com/r/ExpectationVsReality/comments/2kthmh/angel_soft_tp_now_has_60_more_sheets_than_a/clonlkm)
+* [Alba, or Albion](https://en.wikipedia.org/wiki/Alba), used to stand for the island of Britain.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

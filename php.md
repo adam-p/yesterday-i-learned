@@ -52,3 +52,4 @@
 * Empirically speaking, it is apparently possible to get a reference of a [require](https://github.com/chintanbanugaria/92five/blob/master/artisan#L30) by [`return`ing something in the file that you require](https://github.com/chintanbanugaria/92five/blob/master/bootstrap/start.php#L76).
     * I am already taking this back. You [cannot return classes or interfaces](http://stackoverflow.com/a/8084184/1558430).
 * Interfaces cannot define access types (private/protected). Everything is public.
+* `$factorial = function($n) use (&$factorial)`: [For any recursive function,] You need to pass `$factorial` by reference because the variable has not been assigned yet. If you don't pass by reference, PHP will attempt to copy the variable, causing an undefined variable error (notice). - [source](http://www.reddit.com/r/PHP/comments/2leo05/functional_programming_in_php/)

@@ -81,6 +81,8 @@
 * "[Every function in Node.js is asynchronous](http://code.tutsplus.com/tutorials/node-js-for-beginners--net-26314)", even the ones that are normally blocking.
 * `npm ls` lists installed packages.
 * Angular has a [`copy` that does deep copy](https://docs.angularjs.org/api/ng/function/angular.copy). But would you trust it?
+* `list[list.length] = 5` *is* faster than `list.push(5)`, but [the gap is closing](http://jsperf.com/array-push-vs-index-push webtricksandtreats.com/javascript-array-push/)
+* [Webpack](https://github.com/webpack/webpack) is browserify for AMD modules. (more accurately, it is the other way around.)
 
 ## Deferred API
 

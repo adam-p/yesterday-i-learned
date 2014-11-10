@@ -258,6 +258,7 @@
 * Hats were worn secondarily because hair was washed weekly instead of daily. Oddly enough, Hitler didn't wear a hat, 10 years before the trend started in the US. As an aside, Adolf means "noble wolf."
 * [BEST rolls you can buy: Charmin. BEST rolls at low cost: Great Value at Wal-Mart or Kirkland at CostCo.](http://www.reddit.com/r/ExpectationVsReality/comments/2kthmh/angel_soft_tp_now_has_60_more_sheets_than_a/clonlkm)
 * [Alba, or Albion](https://en.wikipedia.org/wiki/Alba), used to stand for the island of Britain.
+* The ugly "Prius design" is called the [kammback](http://en.wikipedia.org/wiki/Kammback) exterior.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

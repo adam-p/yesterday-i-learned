@@ -5,3 +5,4 @@
 * "gcc is 'Gnu Compiler Collection'. If you pass it a C++ file, it will invoke the C++ compiler ('g++') behind the scenes."
 * Undeclared variables are implicitly `int`s. This was deprecated after C99, however.
 * Writing cross-platform C code: [start from the beginning](http://www.ski-epic.com/source_code_essays/ten_rules_for_writing_cross_platform_c_source_code.html)
+* There is such a thing as a [C interpreter](http://www.reddit.com/r/programming/comments/2latu2/c4_c_in_4_functions/clt70uk) and C Scripting... but you probably don't want to do that with `gcc`. `tcc` is a faster choice (`#!/usr/local/bin/tcc -run`)

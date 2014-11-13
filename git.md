@@ -376,6 +376,20 @@ There's a "submit patch n" button under your changeset that means "merge".
 
 Besides risking accidentally being depdendent on other branches, your old parent will be updated to the new one.
 
+### `unpack failed: error Missing tree f0f4a5dd...`
+
+There is a bug in `git-review`. This will happen:
+
+```
+error: 
+fatal: Unpack error, check server log
+To ssh://brian@remote
+ ! [remote rejected] HEAD -> refs/publish/master/foo (n/a (unpacker error))
+error: failed to push some refs to 'remote'
+```
+
+To fix it, replace `git push` with `git push --no-thin` to the `git-review` script.
+
 ## Usage
 
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?

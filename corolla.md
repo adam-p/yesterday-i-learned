@@ -10,13 +10,13 @@ Gasoline, Tank, and Exhaust
 
 Tires
 ======================
-* Your tire size is P185/65R14. 175 is not okay. 60R is not okay.
+* Your tire size is P185/65R14. Any first letter symbol is okay, because P is already the lowest speed rating. 175 is not okay. 60R is not okay.
 * Your tires are supposed to be at 30 PSI, but 33 PSI is probably okay.
 * Summer tires: high speed, low traction, good for highway driving
 * All-season tires: better traction, doesn't work with heavy or loose snow
-* Snow tires: made entirely of grooves.
+* Snow tires: made entirely of grooves. Softer than summer tires, they have lower fuel economy than the latter.
 * Both overinflating and underinflating your tires decrease fuel efficiency and safety.
-* Do not mix tire types
+* Do not mix tire types (winter/all-season)
 * Do not mix tire sizes
 
 Power Steering

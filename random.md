@@ -263,6 +263,20 @@
 * [Winter and all-season tires cannot be mixed](http://www.tirerack.com/tires/tiretech/techpage.jsp?techid=136)
 * "ise" are generally verbs, while "ice" are the noun equivalents of those words. (e.g. advice, practice)
 * Both "Rosetta" and "Rashid" origiinated  from the Coptic (Egyptian) word "Trashit," which was (also) a place name.
+* Saudi Arabia has the [fourth highest military expenditure in the world](http://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures), but still just 10% of the US'.
+* [Kingdom of] Saudi Arabia happens to mean the kingdom of Muhammad ibn Saud, well, a king from... wait for it... [the house of Saud](http://en.wikipedia.org/wiki/House_of_Saud).
+* [The state of Virginia](http://en.wikipedia.org/wiki/Virginia) was the most populous state during the 1800s, and was the state with the most presidents (7).
+* The [USS Monitor](http://en.wikipedia.org/wiki/USS_Monitor), the ugliest warship at the time, had 47 patentable inventions that made it the best warship at the time. Then, because of how good it was, it was lost at sea just a year after it was laid down.
+* Ulysses is derived from *Ulixes*, the Latin name for Odysseus, a character in ancient Greek literature.
+* Coincidentally, [Homer](http://en.wikipedia.org/wiki/Homer), an author, wrote a poem about Odysseus.
+* [Homie](http://en.wikipedia.org/wiki/African_American_Vernacular_English) did not come from the word *Homer*.
+* [Muhammad is not depicted](http://en.wikipedia.org/wiki/Depictions_of_Muhammad) because Muslims are concerned with idoltry, including idoltry of their own prophets.
+* Non-Muslims are prohibited from entering [Mecca](http://en.wikipedia.org/wiki/Mecca), where Muslim pilgrims jostle for a chance to kiss the [Black Stone](http://en.wikipedia.org/wiki/Black_Stone), an Islamic relic which, according to Muslim tradition, dates back to the time of Adam and Eve (making Adam and Eve about 400 years old).
+* Meteorites are meteors that reach the ground.
+* The American civil war began because white people in the Southern states wanted slavery but the North did not. To this day, some black people still hate white people for having this war, AFAIK.
+* Bats are [hosts](http://en.wikipedia.org/wiki/Natural_reservoir) for many viruses that affect primates, including the ebolavirus, rabies, and SARS.
+* Unlike smallpox, [the SARS coronavirus has not been eradicated in the wild](http://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome#Epidemiology). It is obvious, after learning that smallpox is the [only human infectious disease to have been eradicated](http://en.wikipedia.org/wiki/Smallpox).
+* [Some sites](http://gaming.stackexchange.com/questions/191981/why-does-steam-keep-asking-if-im-over-18) always ask for the user's age, to avoid liability of a young user visiting the page while an older user is logged in.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

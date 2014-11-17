@@ -261,6 +261,8 @@
 * The ugly "Prius design" is called the [kammback](http://en.wikipedia.org/wiki/Kammback) exterior.
 * Concentrated sulphuric acid [harmful to the body](https://imgur.com/a/g3poy).
 * [Winter and all-season tires cannot be mixed](http://www.tirerack.com/tires/tiretech/techpage.jsp?techid=136)
+* "ise" are generally verbs, while "ice" are the noun equivalents of those words. (e.g. advice, practice)
+* Both "Rosetta" and "Rashid" origiinated  from the Coptic (Egyptian) word "Trashit," which was (also) a place name.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

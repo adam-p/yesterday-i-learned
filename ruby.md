@@ -1,10 +1,11 @@
 * Methods do not require `()` to call. WTF?
 * Methods that end in `?` are boolean functions by [pure convention](http://stackoverflow.com/a/1345855). 
+* And because boolean functions are purely by convention, this also means they can accept parameters: `@foo.bar?('baz')`
 * `?F` apparently means [`"F".ord`](http://stackoverflow.com/a/1878406) for Ruby < 1.9, and just `"F"` in Ruby 1.9+.
 * `!` after a method applies changes the current object. So `a.upcase!` means `a = a.upcase`.
 * `.chomp`, which often follows `gets`, removes the extra line at the end of console inputs.
 * "Ruby prioritizes programmer productivity over program optimization."
-* `if`, `elsif`, `else`, `end`, because `elseif` is just too long. No need for `:` at the end of each condition.
+* `if`, `elsif`, `else`, `end`, because `elseif` is just too long (but `elif` is too Python, presumably). No need for `:` at the end of each condition.
 * Integer instantiation is `Integer(something)`.
 * `a_string.gsub(/regex/, "what")`
 * `while` is the same everywhere, except you need `end`. No `:` needed.
@@ -21,3 +22,25 @@
 * [Ruby doesn't have functions](http://stackoverflow.com/a/4294660/1558430); to get a reference to a callable without calling it, use `func_ref = method(:func_name)`, and call with `func_ref.call`.
 * Results from the last expression is returned.
 * Ruby's `foldr` is called [`inject`](http://blog.jayfields.com/2008/03/ruby-inject.html) (if you use it this way).
+* [The `do` block has lower precedence than the bracket block syntax](http://stackoverflow.com/a/2122457/1558430), allowing you to do concise loops in some cases:
+
+```
+1.upto 3 do |x|
+    puts x
+end
+
+1.upto 3 { |x| puts x }
+# SyntaxError: compile error
+```
+
+* From above, "A [`do`] block is like an anonymous function or lambda. The variable between *pipe characters* is the parameter for this block."
+* I think functions can themselves be instances. `def something ... ... @names` is perfectly valid syntax.
+* `def`s need `end`s.
+* The Ruby equivalent of `if __name__ == '__FILE__'` is `if __FILE__ == $0`.
+* `some_obj.respond_to?(attribute)` is a special method that checks if an object has that attribute (or method, which is about the same for Ruby).
+* Having a `attr_accessor :name` line in a class creates automatic getters and setters for every instance's `name`, or `@name`.
+* `def initialize` is the... uh... coffeescript? php? version for Ruby.
+* Since `nil` is Ruby's `None`, `.nil?` is the same as `(... is None)`.
+* You *can* have double quotes in interpolated, doubled quoted strings! [The guide](https://www.ruby-lang.org/en/documentation/quickstart/3/)'s example was `puts "Goodbye #{@names.join(", ")}.  Come back soon!"`
+* `Class.new(...)` returns an instance. Because of Ruby's *awesome* bracket omission, `Class.new` also returns one, with no parameters given to the constructor.
+* 

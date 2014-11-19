@@ -277,6 +277,7 @@
 * Bats are [hosts](http://en.wikipedia.org/wiki/Natural_reservoir) for many viruses that affect primates, including the ebolavirus, rabies, and SARS.
 * Unlike smallpox, [the SARS coronavirus has not been eradicated in the wild](http://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome#Epidemiology). It is obvious, after learning that smallpox is the [only human infectious disease to have been eradicated](http://en.wikipedia.org/wiki/Smallpox).
 * [Some sites](http://gaming.stackexchange.com/questions/191981/why-does-steam-keep-asking-if-im-over-18) always ask for the user's age, to avoid liability of a young user visiting the page while an older user is logged in.
+* Der (masculine thing), die (feminine thing), das (neither of the former).
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

@@ -280,6 +280,13 @@
 * Der (masculine thing), die (feminine thing), das (neither of the former).
 * I *do*, thou *dost*, He/she/it *doth*.
 * Buy Lexus, Toyota, or Subaru (in that order). Hondas made in Japan are also acceptable.
+* [A Void](http://en.m.wikipedia.org/wiki/A_Void) is a book without the letter "e" (apart from the author's name).
+* Never buy Seagate drives; [Stop buying WD](https://www.backblaze.com/blog/hard-drive-reliability-update-september-2014/); start buying HGST (Hitachi).
+* The reasoning behind [colors for traffic lights] is because Green represents life flourishing and going. Red was a sign of life stopped and yellow was a caution that would mean red is coming.
+* When your married relationship turns sour, quit your job. When a divorce takes place, you get half. This does not work if the other person is also unemployed.
+* You don't smell the odor compounds when they are dissolved in the saliva. It is only when the saliva dries up, like when you lick the back of your hand, that you can smell them. That's why you tend to smell bad breathe when someone talks; the moving air dries up the mouth and caries the compounds toward you
+* [Tabarnak](http://www.urbandictionary.com/define.php?term=tabarnak)
+* [JSONX](http://www-01.ibm.com/support/knowledgecenter/SS9H2Y_6.0.0/com.ibm.dp.xm.doc/json_jsonx.html) is a format that allows lossless XML conversion to a JSON-like string.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

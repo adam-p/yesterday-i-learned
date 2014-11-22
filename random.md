@@ -287,6 +287,7 @@
 * You don't smell the odor compounds when they are dissolved in the saliva. It is only when the saliva dries up, like when you lick the back of your hand, that you can smell them. That's why you tend to smell bad breathe when someone talks; the moving air dries up the mouth and caries the compounds toward you
 * [Tabarnak](http://www.urbandictionary.com/define.php?term=tabarnak)
 * [JSONX](http://www-01.ibm.com/support/knowledgecenter/SS9H2Y_6.0.0/com.ibm.dp.xm.doc/json_jsonx.html) is a format that allows lossless XML conversion to a JSON-like string.
+* Season cast iron cookware with [flaxseed oil](http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/), apparently.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

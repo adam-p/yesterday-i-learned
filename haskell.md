@@ -77,3 +77,4 @@ foo _ = 0
 * `(foo . bar) 123` is mathematical notation for `foo(bar(123))`.
 * `null lst` checks if a list `lst` is empty.
 * `>>=` is the *bind* operator (monads, composition)
+* Haskell's lazy evaluation works by maintaining a graph of past evaluations, reducing the execution graph by inputs and outputs. It can do so because Haskell is pure functional.

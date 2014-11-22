@@ -83,6 +83,8 @@
 * Angular has a [`copy` that does deep copy](https://docs.angularjs.org/api/ng/function/angular.copy). But would you trust it?
 * `list[list.length] = 5` *is* faster than `list.push(5)`, but [the gap is closing](http://jsperf.com/array-push-vs-index-push webtricksandtreats.com/javascript-array-push/)
 * [Webpack](https://github.com/webpack/webpack) is browserify for AMD modules. (more accurately, it is the other way around.)
+* Because [object keys are always toString'd](https://mathiasbynens.be/notes/javascript-properties), `{ .12e3: 'wut' }` can be retrieved using the key `120`.
+* 
 
 ## Deferred API
 

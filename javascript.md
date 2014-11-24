@@ -14,6 +14,16 @@
 * It is possible to run a WebSocket inside a worker.
 * `+almostAnything` converts it to an integer. (except objects, arrays, strings... so, almost nothing.)
 * A named closure (which is NOT an oxymoron: `(function abc() {... }())` has its function name scoped inside the closure.
+* One use of the named closure (`(function abc() {}())`) is that `abc` is defined only inside the scope, which means recursive closures can be built without using an outside variable.
+* Another use of named closures is if you want to return an object instantiator:
+
+```
+return function IndexError(msg) {
+    // then do whatever you want with this 'class' outside the function 
+    // and all instances will at least have a name
+};
+```
+
 * `function abc()` in IE8 or above are declared twice, due to a bug in [hoisting and initialisation][github].
 * Youtube disables autoplay on mobile devices, even when `autoplay: 1`.
 * Detecting document zoom level [is a piece of ass][stackoverflow 2].
@@ -48,7 +58,6 @@
 * `undefined == null` === `true`. Die in a fire, JS!
 * [Second parameter of `JSON.parse`][stackoverflow 7] (reverse applies to `.stringify`, too)
 * CORS is not supported before IE8; hence JSONP.
-* One use of the named closure (`(function abc() {}())`) is that `abc` is defined only inside the scope, which means recursive closures can be built without using an outside variable.
 * `$.each(string)` [stopped working][stackoverflow 8]. Now you will need to split the string first.
 * [Detecting `{}.__proto__`][zurb] is one of the fastest ways to tell if a browser is running on a [browser that also runs on mobiles][stackoverflow 9].
 * [`debugger`][microsoft].aspx)

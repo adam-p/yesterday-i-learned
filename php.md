@@ -53,3 +53,4 @@
     * I am already taking this back. You [cannot return classes or interfaces](http://stackoverflow.com/a/8084184/1558430).
 * Interfaces cannot define access types (private/protected). Everything is public.
 * `$factorial = function($n) use (&$factorial)`: [For any recursive function,] You need to pass `$factorial` by reference because the variable has not been assigned yet. If you don't pass by reference, PHP will attempt to copy the variable, causing an undefined variable error (notice). - [source](http://www.reddit.com/r/PHP/comments/2leo05/functional_programming_in_php/)
+* [For very large numerical inputs, the php mod operator may produce NEGATIVE values, even if neither operator is negative.](http://stackoverflow.com/a/27113242/1558430) To work around this, you can use `fmod` instead.

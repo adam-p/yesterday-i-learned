@@ -158,6 +158,7 @@ c
 * It is possible to [`__import__('python-module-with-dashes-in-the-filename'`](http://stackoverflow.com/questions/761519/is-it-ok-to-use-dashes-in-python-files-when-trying-to-import-them), but if you create a file such as this, you deserve to be shot.
 * `os.getenv('HOME')` works, only because `$HOME` is populated by the shell.
 * [You can compare tuples](http://stackoverflow.com/a/5292332/1558430)! `(1,2)` is less than `(3, 4)`.
+* You can assign to spliced arrays: `arr[:4] = [9,9]` replaces the first 4 items of the array with `[9,9]`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -12,6 +12,12 @@
 
 # Django troubleshooting
 
+## urlconf
+
+### `urlconf_module, app_name, namespace = arg ... ValueError: need more than 1 value to unpack`
+
+Only Django 1.7 and up accepts plain lists for `include()`. Lower versions of django must wrap their urls in a `patterns('', ...)` first.
+
 ## South is being a douche
 
 ### `relation_blah_blah_blah already exists`

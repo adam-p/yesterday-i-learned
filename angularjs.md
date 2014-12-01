@@ -4,3 +4,4 @@
 * Attaching filters (e.g. `{{ 'world' | greet }}`) to the app: `app.filter('greet', function() { return function(name) { return 'Hello, ' + name + '!'; }; })`
 * Controllers can be nested; everything attached to the parent's `$scope` will also be available to child controllers within.
 * `(app).service() # injects instance of function`; `(app).factory()  # injects function`. [ref](http://viralpatel.net/blogs/angularjs-service-factory-tutorial/)
+* Since it believes JS is the best, AngularJS blocks all `form[action=""]` from submitting.

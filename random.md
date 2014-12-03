@@ -294,14 +294,14 @@
 * *Election* and *Erection* are spelled almost exactly the same. They both mean the same thing too. A dick rising to power.
 * Samsung comprises of 17% of its nation's GDP and they are absolute rulers. Samsung employees have to live in company built high-rise buildings within a boundary. You'd think free housing is awesome right? Wrong. Since you live in a company monitored neighbourhood and go to work pretty much next door. You have to apply for permission to leave. An employee killed herself a couple years ago because she wasn't allowed to leave and hadn't seen her parents for years.
 * Given the high quality and low overall cost of [YKK zippers](http://www.slate.com/articles/business/branded/2012/04/ykk_zippers_why_so_many_designers_use_them_.html), clothing companies use that brand because it is among the last things they choose to skimp out.
- * [Chorioactis](http://en.wikipedia.org/wiki/Chorioactis) is a genus of fungus that is bizzarely found only in Texas and Japan.
- * The smallest muscle in your body, found in the middle ear, dampens the sound of your own voice when you speak. Recordings of your voice sound odd because the stapedius muscle isn't functioning then. (Also: bone vibrations)   
- * [RF chokes](https://google.com/search?q=rf+choke) are rings of (sometimes magnets, sometimes other metals) around a cable that dampens high frequency radiation, allowing the cable to carry actual signals with less noise.
- * The original Jurassic park scene with the T-Rex occurred while raining because [it was much easier at the time to CG shiny objects than matte objects](https://np.reddit.com/r/movies/comments/2ndx0r/the_full_jurassic_world_trailer/cmcs22y).
- * Both God and Devil are each one letter away from their respective descriptor.
- * [The 'speed of gravity' is the same as the speed of light.](http://www.reddit.com/r/askscience/comments/2nukm0/which_is_faster_gravity_or_light/) If the sun goes away, we also have 8 minutes (ish) of time before we are affected gravitationally.
- * The Latin *Kyrie*, KEAR-ee-ay, came from Greek Κύριε, or "Lord".
- * 24 hours after recording the last episode of Father Ted, [Dermot Morgan](http://en.wikipedia.org/wiki/Dermot_Morgan) had a heart attack while hosting a dinner party at his home in south-west London. He was rushed to hospital but died soon afterwards.
+* [Chorioactis](http://en.wikipedia.org/wiki/Chorioactis) is a genus of fungus that is bizzarely found only in Texas and Japan.
+* The smallest muscle in your body, found in the middle ear, dampens the sound of your own voice when you speak. Recordings of your voice sound odd because the stapedius muscle isn't functioning then. (Also: bone vibrations)   
+* [RF chokes](https://google.com/search?q=rf+choke) are rings of (sometimes magnets, sometimes other metals) around a cable that dampens high frequency radiation, allowing the cable to carry actual signals with less noise.
+* The original Jurassic park scene with the T-Rex occurred while raining because [it was much easier at the time to CG shiny objects than matte objects](https://np.reddit.com/r/movies/comments/2ndx0r/the_full_jurassic_world_trailer/cmcs22y).
+* Both God and Devil are each one letter away from their respective descriptor.
+* [The 'speed of gravity' is the same as the speed of light.](http://www.reddit.com/r/askscience/comments/2nukm0/which_is_faster_gravity_or_light/) If the sun goes away, we also have 8 minutes (ish) of time before we are affected gravitationally.
+* The Latin *Kyrie*, KEAR-ee-ay, came from Greek Κύριε, or "Lord".
+* 24 hours after recording the last episode of Father Ted, [Dermot Morgan](http://en.wikipedia.org/wiki/Dermot_Morgan) had a heart attack while hosting a dinner party at his home in south-west London. He was rushed to hospital but died soon afterwards.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

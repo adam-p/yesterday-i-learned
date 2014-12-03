@@ -160,6 +160,7 @@ c
 * [You can compare tuples](http://stackoverflow.com/a/5292332/1558430)! `(1,2)` is less than `(3, 4)`.
 * You can assign to spliced arrays: `arr[:4] = [9,9]` replaces the first 4 items of the array with `[9,9]`.
 * `round()` doesn't work on `Decimal`s. To round a `Decimal` to certain digits, do: `Decimal(123.456789).quantize(Decimal("0.001"))  # 3 decimal points`
+* `Decimal.quantize` is called that because it also makes up more decimal points if you ask it to: `Decimal(1234.56789).quantize(Decimal("0.000000000000000001"))  # Decimal('1234.567890000000033979')`
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

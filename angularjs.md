@@ -6,3 +6,4 @@
 * `(app).service() # injects instance of function`; `(app).factory()  # injects function`. [ref](http://viralpatel.net/blogs/angularjs-service-factory-tutorial/)
 * Since it believes JS is the best, AngularJS blocks all `form[action=""]` from submitting.
 * AngularJS has codenames. `angular.version.codeName`
+* AngularJS applications cannot be nested within each other. This makes apps very difficult to integrate.

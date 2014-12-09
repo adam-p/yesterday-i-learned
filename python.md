@@ -7,7 +7,8 @@
         perpetuates the economic and social differences in our society.
 
         @type peasant: Person
-        @param peasant: Person to repress.
+        @param peasant: Person to oppress.
+                        http://grammarist.com/usage/oppress-repress-suppress/
         """
 ```
 

@@ -7,3 +7,5 @@
 * Since it believes JS is the best, AngularJS blocks all `form[action=""]` from submitting.
 * AngularJS has codenames. `angular.version.codeName`
 * AngularJS applications cannot be nested within each other. This makes apps very difficult to integrate.
+* AngularJS views cannot be nested, either.
+* To stop `{{ templateTags }}` from showing before angularjs loads, use [`ng-bind='templateTags'`](http://stackoverflow.com/a/12866905/1558430) instead to migitate the issue. The element will be blank, but at least it doesn't show anything ugly.

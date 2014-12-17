@@ -10,3 +10,4 @@
 * AngularJS views cannot be nested, either.
 * To stop `{{ templateTags }}` from showing before angularjs loads, use [`ng-bind='templateTags'`](http://stackoverflow.com/a/12866905/1558430) instead to migitate the issue. The element will be blank*, but at least it doesn't show anything ugly.
   * BUT! If there's something in the element, i.e. `<span ng-bind="templateTags">123</span>`, then because the element is HTML valid, that value will show by default.
+* `$scope.$emit()` bubbles up to the `$rootScope` and `$scope.$broadcast()` bubbles down.

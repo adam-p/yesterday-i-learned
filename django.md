@@ -9,6 +9,7 @@
 * To override a template that is defined in a package, configure your `TEMPLATE_DIRS` variable to let your own `templates` directory have a higher lookup priority.
 * Adding `{{ block.super }}` inside a block retains whatever was in the block in the parent template.
 * To filter by any django model field, use the [`DjangoFilterBackend`](http://stackoverflow.com/a/2137652)
+* the `{% django_js %}` tag cannot be compressed!
 
 # Django troubleshooting
 

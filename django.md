@@ -10,6 +10,7 @@
 * Adding `{{ block.super }}` inside a block retains whatever was in the block in the parent template.
 * To filter by any django model field, use the [`DjangoFilterBackend`](http://stackoverflow.com/a/2137652)
 * the `{% django_js %}` tag cannot be compressed!
+* [`authenticate()`](https://docs.djangoproject.com/en/1.6/topics/auth/default/#django.contrib.auth.authenticate) checks the credentials; `login()` actually logs the user in.
 
 # Django troubleshooting
 

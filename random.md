@@ -302,6 +302,7 @@
 * [The 'speed of gravity' is the same as the speed of light.](http://www.reddit.com/r/askscience/comments/2nukm0/which_is_faster_gravity_or_light/) If the sun goes away, we also have 8 minutes (ish) of time before we are affected gravitationally.
 * The Latin *Kyrie*, KEAR-ee-ay, came from Greek Κύριε, or "Lord".
 * 24 hours after recording the last episode of Father Ted, [Dermot Morgan](http://en.wikipedia.org/wiki/Dermot_Morgan) had a heart attack while hosting a dinner party at his home in south-west London. He was rushed to hospital but died soon afterwards.
+* "[Dollar](http://en.wikipedia.org/wiki/Dollar)" came from [Bohamian](http://en.wikipedia.org/wiki/Kingdom_of_Bohemia) Joachims[*thaler*](http://en.wikipedia.org/wiki/Thaler), which translates to Joachim's Valleys
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

@@ -94,6 +94,7 @@ return function IndexError(msg) {
 * [Webpack](https://github.com/webpack/webpack) is browserify for AMD modules. (more accurately, it is the other way around.)
 * Because [object keys are always toString'd](https://mathiasbynens.be/notes/javascript-properties), `{ .12e3: 'wut' }` can be retrieved using the key `120`.
 * Assigning `someArray.length = 0` removes all items from the array. You can also assign other numbers, and if the array length goes from 0 to e.g. 3, the array is `[undefined, undefined, undefined]`.
+* jQuery has a `$.fn.queue(function () { ... })` that is called whenever something gets dequeued, presumably because an operation is done.
 
 ## Deferred API
 

@@ -303,6 +303,13 @@
 * The Latin *Kyrie*, KEAR-ee-ay, came from Greek Κύριε, or "Lord".
 * 24 hours after recording the last episode of Father Ted, [Dermot Morgan](http://en.wikipedia.org/wiki/Dermot_Morgan) had a heart attack while hosting a dinner party at his home in south-west London. He was rushed to hospital but died soon afterwards.
 * "[Dollar](http://en.wikipedia.org/wiki/Dollar)" came from [Bohamian](http://en.wikipedia.org/wiki/Kingdom_of_Bohemia) Joachims[*thaler*](http://en.wikipedia.org/wiki/Thaler), which translates to Joachim's Valleys
+* "Swamp ass" refers to the stench arising from not having wiped thoroughly. Bidets eliminate swamp ass.
+* *Coprinopsis atramentaria*, a kind of mushroom, is toxic only when alcohol is ingested at the same time.
+* [Oyster farming is so low in ecological impact](http://www.slate.com/articles/life/food/2010/04/consider_the_oyster.html) that even vegans can eat oysters, because they don't have pain receptors either.
+* Gullible is spelled with three Ls, not two.
+* [Janissaries](http://en.wikipedia.org/wiki/Janissaries#Revolts_and_disbandment) are Christian slaves in the Ottoman empire. They were subject to multiple types of abuse before gaining enough attention to be taken seriously.
+* Boxxy (Catie Wayne) [does a video show now](http://youtube.com/watch?v=4gw6QnYx5-M). She got slightly less annoying.
+* "Heck" came from **HE**ll and fu**CK**.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

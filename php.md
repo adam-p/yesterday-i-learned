@@ -55,3 +55,4 @@
 * `$factorial = function($n) use (&$factorial)`: [For any recursive function,] You need to pass `$factorial` by reference because the variable has not been assigned yet. If you don't pass by reference, PHP will attempt to copy the variable, causing an undefined variable error (notice). - [source](http://www.reddit.com/r/PHP/comments/2leo05/functional_programming_in_php/)
 * [For very large numerical inputs, the php mod operator may produce NEGATIVE values, even if neither operator is negative.](http://stackoverflow.com/a/27113242/1558430) To work around this, you can use `fmod` instead.
 * Apparently PHP has been encouraging [trailing commas](http://stackoverflow.com/questions/2829581/why-do-php-array-examples-leave-a-trailing-comma) all along. Oops!
+* Instead of using sane notations `[$a, $b] = [$b, $a]` or `array($a, $b) = array($b, $a)`, use `list($a, $b) = array($b, $a)` instead.

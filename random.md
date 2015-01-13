@@ -311,6 +311,14 @@
 * Boxxy (Catie Wayne) [does a video show now](http://youtube.com/watch?v=4gw6QnYx5-M). She got slightly less annoying.
 * "Heck" came from **HE**ll and fu**CK**.
 * *Separate* is pronounced SEP-a-rate as a verb and SEP-rate as an adjective.
+* It is not that dogs see grey; it is just that dogs have much better visual acuity towards the UV spectrum, making them unable to see red.
+* [Pumping car tires with a bike pump] actually works pretty well to top off the pressure but it'll take a good while to pump it up from flat. It won't be hard to pump though. 35 psi is really low for a bike tire.
+* A *foal* is a horse under one year old.
+* In Europe, if you ask for "water", bottled water will be served by default, costing more than other beverages. Always ask for "tap water", or, preferably, "tap water, out of a tap, in a glass, not a bottle, the free kind, the kind I can get for zero Euros".
+* Many modern tank barrels are no longer rifled (riffled? spiral grooves.), because they shoot different types of ordnance that would be damaged by the rifling, such as HEAT rounds.
+* It's the cumin, more than other ingredients, that causes the classic curry body odour. Garlic and onion can, unrelatedly, cause breath problems.
+* [Datura](http://en.wikipedia.org/wiki/Datura) makes you delirious, not high.
+* 
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

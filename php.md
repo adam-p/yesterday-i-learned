@@ -56,3 +56,5 @@
 * [For very large numerical inputs, the php mod operator may produce NEGATIVE values, even if neither operator is negative.](http://stackoverflow.com/a/27113242/1558430) To work around this, you can use `fmod` instead.
 * Apparently PHP has been encouraging [trailing commas](http://stackoverflow.com/questions/2829581/why-do-php-array-examples-leave-a-trailing-comma) all along. Oops!
 * Instead of using sane notations `[$a, $b] = [$b, $a]` or `array($a, $b) = array($b, $a)`, use `list($a, $b) = array($b, $a)` instead.
+* [PHP 5.6](http://php.net/releases/5_6_0.php) introduces most things developers take for granted: `...$argument` packing/unpacking, `Type ...$hinting`, and `**  // exponents`.
+* [`php://`](http://php.net/manual/en/wrappers.php.php) is the portal to stdin and stdout, if necessary.

@@ -322,6 +322,7 @@
 * A [skeleton crew](http://en.wiktionary.org/wiki/skeleton_crew) is the minimum number of people required to do something.
 * "Loose bodies" can commonly be found around the knee. They are usually cysts, usually don't hurt, and they usually do no harm.
 * Random article bringing up a good argument against brace-on-new-lines: [unicode comments can potentially cause an entire line to be ignored](http://www.rapapaing.com/blog/?p=52)
+* "Dry heaving" could have just been called "throwing up nothing", but that's too straightforward -- too "German".
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

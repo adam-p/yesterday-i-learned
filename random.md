@@ -321,6 +321,7 @@
 * During the early Empire, Roman tastes preferred a sweet, strong wine. Keep in mind that this would not be a strong drink by modern standards. Wine maxes out at around 15% ABV; any more alcohol than that and it kills the yeast, stopping any further fermentation. And the Romans, for all their advances, never discovered distillation. So, wine would have been the most alcoholic drink they knew. They rarely drank it straight, which was seen as uncultured and boorish. They watered it down, usually at a ratio of two parts water to one part wine. They also added other ingredients—honey to mask the acidity of wine turning to vinegar, and herbs, spices, resin, and even sea water to cut the sweetness.
 * A [skeleton crew](http://en.wiktionary.org/wiki/skeleton_crew) is the minimum number of people required to do something.
 * "Loose bodies" can commonly be found around the knee. They are usually cysts, usually don't hurt, and they usually do no harm.
+* Random article bringing up a good argument against brace-on-new-lines: [unicode comments can potentially cause an entire line to be ignored](http://www.rapapaing.com/blog/?p=52)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

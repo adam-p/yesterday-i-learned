@@ -318,7 +318,7 @@
 * Many modern tank barrels are no longer rifled (riffled? spiral grooves.), because they shoot different types of ordnance that would be damaged by the rifling, such as HEAT rounds.
 * It's the cumin, more than other ingredients, that causes the classic curry body odour. Garlic and onion can, unrelatedly, cause breath problems.
 * [Datura](http://en.wikipedia.org/wiki/Datura) makes you delirious, not high.
-* 
+* During the early Empire, Roman tastes preferred a sweet, strong wine. Keep in mind that this would not be a strong drink by modern standards. Wine maxes out at around 15% ABV; any more alcohol than that and it kills the yeast, stopping any further fermentation. And the Romans, for all their advances, never discovered distillation. So, wine would have been the most alcoholic drink they knew. They rarely drank it straight, which was seen as uncultured and boorish. They watered it down, usually at a ratio of two parts water to one part wine. They also added other ingredients—honey to mask the acidity of wine turning to vinegar, and herbs, spices, resin, and even sea water to cut the sweetness.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

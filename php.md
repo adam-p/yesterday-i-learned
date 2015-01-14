@@ -58,3 +58,4 @@
 * Instead of using sane notations `[$a, $b] = [$b, $a]` or `array($a, $b) = array($b, $a)`, use `list($a, $b) = array($b, $a)` instead.
 * [PHP 5.6](http://php.net/releases/5_6_0.php) introduces most things developers take for granted: `...$argument` packing/unpacking, `Type ...$hinting`, and `**  // exponents`.
 * [`php://`](http://php.net/manual/en/wrappers.php.php) is the portal to stdin and stdout, if necessary.
+* `define()` is now (5.3) superceded by `const` [because it can now define things in global scope](http://stackoverflow.com/questions/2447791/define-vs-const).

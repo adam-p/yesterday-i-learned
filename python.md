@@ -166,6 +166,7 @@ c
 * `arrow.replace()` accepts singluar nouns like `hour` that replaces the component, or plural forms like `hours` that shifts the value relatively, instead.
 * [Guido](https://mail.python.org/pipermail/python-dev/2010-April/099459.html) doesn't like `merged_dict = dict(some_dict, **another_dict)`, and nor do you. (it only handles string keys)
 * In Python3, arguments can be [forced named](http://stackoverflow.com/a/14298976/1558430): with `def foo(a, * must_use_kwargs_for_this_arg)`.
+* One-liner `if` clauses are executed before the assignment, so `b = a.foo if a else 2` will not raise `AttributeError` even if `a = None`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -60,3 +60,4 @@
 * [`php://`](http://php.net/manual/en/wrappers.php.php) is the portal to stdin and stdout, if necessary.
 * `define()` is now (5.3) superceded by `const` [because it can now define things in global scope](http://stackoverflow.com/questions/2447791/define-vs-const).
 * [It is impossible to catch a warning](http://stackoverflow.com/a/1241751) (or an error, for that matter.) so what PHP people do is create an error handler (`set_error_handler`) that raises exceptions, run the offending code in a try-catch block, and catch the same exception that you throw. After the try-catch block, unset the error handler. "And they say PHP isn't a disaster."
+* Despite how it is worded in the docs, `finally` doesn't catch any exceptions re-thrown from the `catch` block.

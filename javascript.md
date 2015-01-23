@@ -120,6 +120,7 @@ return function IndexError(msg) {
 * Sparse arrays (most values are 0) are [slower on V8 than full arrays][jsperf].
 * [Except in Safari][jsperf 2], never pre-allocate arrays.
 * Avoid element reflowing/redrawing (but this is more of a DOM thing rather than JS)
+* Trig (`sin`, `cos`) is [*MUCH slower*](http://jsperf.com/sin-cos-vs-sqrt) than `sqrt`, in cases where the former is applicable.
 
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/

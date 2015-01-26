@@ -323,6 +323,13 @@
 * "Loose bodies" can commonly be found around the knee. They are usually cysts, usually don't hurt, and they usually do no harm.
 * Random article bringing up a good argument against brace-on-new-lines: [unicode comments can potentially cause an entire line to be ignored](http://www.rapapaing.com/blog/?p=52)
 * "Dry heaving" could have just been called "throwing up nothing", but that's too straightforward -- too "German".
+* "Deed polls" are agreements between two persons, where only one person has an intention. (agreements with intentions from both sides are called contracts)
+* Do not tell others about lottery winnings. There is no gain.
+* Ellie Goulding cheated on Ed Sheeran. His song "Don't" was about them.
+* The Guinness Book of World Records doesn't really have anything to do with beer anymore.
+* The term 'dashboard' comes from horse drawn carriages where a 'board' was placed in front of the driver to protect him from dust, spray, and debris from the horses 'dashing'.
+* Back when pay phones cost a dime, "drop a dime" meant calling the police.
+* [Only learn core technologies that do not go away in five years.](http://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

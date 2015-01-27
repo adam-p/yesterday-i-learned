@@ -332,6 +332,7 @@
 * [Only learn core technologies that do not go away in five years.](http://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791)
 * ["Be a person that you like and people will flock to you"](https://www.reddit.com/r/socialskills/comments/2t7f38/how_do_you_move_past_the_good_acquaintance_stage/) first requires you to know yourself.
 * [Syncthing](http://www.unixmen.com/syncthing-private-secure-tool-sync-filesfolders-computers/) syncs things locally.
+* [The Nazi national flag's circle and swastika are slightly off center, whereas the Nazi party's flag has them at the middle.](http://en.wikipedia.org/wiki/List_of_German_flags)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

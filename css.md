@@ -31,6 +31,7 @@
     * `div ~ p`: only `p`s immediately before a div
     * `a[href]`: `a`s with any `href`. See also: `a[href^="foo"]` (starts with), `a[href$="foo"]` (ends with),  `a[href*="foo"]` (anywhere), and `a[href~="foo"]` (if `href`, a space-separated value, contains `foo`).
 * [Pull and exact amount left and right opposite to each other](http://stackoverflow.com/questions/20979062/bootstrap-right-column-on-top-on-mobile-view) to have a bootstrap left column to appear at the bottom in mobile view.
+* Specificity are defined in sets; `(0,0,999,0)` (999 classes) is never greater than `(0,1,0,0)` (one id).
 
 ## XPath
 

@@ -333,6 +333,9 @@
 * ["Be a person that you like and people will flock to you"](https://www.reddit.com/r/socialskills/comments/2t7f38/how_do_you_move_past_the_good_acquaintance_stage/) first requires you to know yourself.
 * [Syncthing](http://www.unixmen.com/syncthing-private-secure-tool-sync-filesfolders-computers/) syncs things locally.
 * [The Nazi national flag's circle and swastika are slightly off center, whereas the Nazi party's flag has them at the middle.](http://en.wikipedia.org/wiki/List_of_German_flags)
+* Projects fail far more often because the software never really works properly than because they missed a tight market window. According to some random person on the Internet, at least.
+* Soaking pasta for an hour or more before boiling saves a lot of time.
+* The [FICO credit score](http://en.wikipedia.org/wiki/FICO_score#FICO_score) is actually quite well documented and broken down.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

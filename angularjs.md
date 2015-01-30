@@ -35,4 +35,5 @@ myMod.value('greeting', function(name) {})
 ```
 meaning there is no purpose whatsoever to use `.provider`, and almost no reason to use `.factory`, unless you need to set up something in that scope.
 
-* ... "The injector (`$injector`) is responsible for actually creating instances of our services using the code we provided via `$provide`"
+* "The injector (`$injector`) is responsible for actually creating instances of our services using the code we provided via `$provide`", which means `$injector.get('greeting')` is a reinvention of `new greeting`.
+* ... which also means `$injector.invoke(function (greeting) { ... });` merely calls `myFunction` with a `new greeting` given to it.

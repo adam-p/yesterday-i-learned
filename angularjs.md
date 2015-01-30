@@ -11,3 +11,28 @@
 * To stop `{{ templateTags }}` from showing before angularjs loads, use [`ng-bind='templateTags'`](http://stackoverflow.com/a/12866905/1558430) instead to migitate the issue. The element will be blank*, but at least it doesn't show anything ugly.
   * BUT! If there's something in the element, i.e. `<span ng-bind="templateTags">123</span>`, then because the element is HTML valid, that value will show by default.
 * `$scope.$emit()` bubbles up to the `$rootScope` and `$scope.$broadcast()` bubbles down.
+* [AngularJS team](https://github.com/angular/angular.js/wiki/Understanding-Dependency-Injection): we like repeating ourselves, we like repeating ourselves
+```
+myMod.provider('greeting', function() {
+    this.$get = function() {
+        return function(name) {
+        }
+    }
+}
+
+// ===
+
+myMod.factory('greeting', function() {
+    return function() {
+        return function(name) {
+        }
+    }
+}
+
+// ===
+
+myMod.value('greeting', function(name) {})
+```
+meaning there is no purpose whatsoever to use `.provider`, and almost no reason to use `.factory`, unless you need to set up something in that scope.
+
+* ... "The injector (`$injector`) is responsible for actually creating instances of our services using the code we provided via `$provide`"

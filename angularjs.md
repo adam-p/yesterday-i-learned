@@ -1,6 +1,7 @@
 * Installing AngularJS: `bower init && install --save angular#~1.2 angular-resource#~1.2` (among whatever else you plan to use)
 * Creating an app: `app = angular.module('MyApp', ['ngResource'])`
 * Attaching controllers to the app: `app.controller('controllerName', function ($thingsYouUse) {...})`
+* ViewModel is, and Controller isn't: [You'll notice - there are no references to the view and zero DOM manipulation in Angular controllers.][stackoverflow]
 * Attaching filters (e.g. `{{ 'world' | greet }}`) to the app: `app.filter('greet', function() { return function(name) { return 'Hello, ' + name + '!'; }; })`
 * Controllers can be nested; everything attached to the parent's `$scope` will also be available to child controllers within.
 * `(app).service() # injects instance of function`; `(app).factory()  # injects function`. [ref](http://viralpatel.net/blogs/angularjs-service-factory-tutorial/)

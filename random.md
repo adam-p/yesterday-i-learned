@@ -335,6 +335,7 @@
 1. Projects fail far more often because the software never really works properly than because they missed a tight market window. According to some random person on the Internet, at least.
 1. Soaking pasta for an hour or more before boiling saves a lot of time.
 1. The [FICO credit score](http://en.wikipedia.org/wiki/FICO_score#FICO_score) is actually quite well documented and broken down.
+1. The black piece of plastic between the hood and the windscreen is called the *wiper cowl*, not the taint.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

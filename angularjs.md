@@ -17,22 +17,22 @@
 myMod.provider('greeting', function() {
     this.$get = function() {
         return function(name) {
-        }
-    }
-}
+        };
+    };
+})
 
 // ===
 
 myMod.factory('greeting', function() {
     return function() {
         return function(name) {
-        }
-    }
-}
+        };
+    };
+})
 
 // ===
 
-myMod.value('greeting', function(name) {})
+myMod.value('greeting', function(name) {});
 ```
 meaning there is no purpose whatsoever to use `.provider`, and almost no reason to use `.factory`, unless you need to set up something in that scope.
 

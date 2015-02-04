@@ -336,6 +336,10 @@
 1. Soaking pasta for an hour or more before boiling saves a lot of time.
 1. The [FICO credit score](http://en.wikipedia.org/wiki/FICO_score#FICO_score) is actually quite well documented and broken down.
 1. The black piece of plastic between the hood and the windscreen is called the *wiper cowl*, not the taint.
+1. [90% of all male giraffes are homosexual. 1% of females are.](http://en.wikipedia.org/wiki/Homosexual_behavior_in_animals)
+1. [Loan payments](http://www.financeformulas.net/Loan_Payment_Formula.html) are not simply (price * interest). It follows a non-linear exponent.
+1. [Earthquake lights are piezoelectric](http://news.nationalgeographic.com/news/2014/01/140106-earthquake-lights-earthquake-prediction-geology-science/).
+1. The british flag is upside down when [the red (Scottish) line does not touch the pole at the top half of the flag](https://www.google.ca/search?q=british+flag+upside+down)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

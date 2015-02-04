@@ -1,2 +1,2 @@
 * `NaCl` is apparently [native client](http://talks.golang.org/2014/go1.3.slide#11).
-
+* Go makes use of [Duff's devices](http://en.wikipedia.org/wiki/Duff%27s_device) to unroll loops. Performance benchmarks can be found in the [actual commit](https://github.com/golang/go/commit/6c7cbf086c34ebb88311ba12d3a75adcbdce8ac8). "Loop unrolling revolves around lowering the number of branches made, by batching them together.", and comes at the [cost of file size](http://en.wikipedia.org/wiki/Loop_unrolling).

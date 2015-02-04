@@ -340,6 +340,7 @@
 1. [Loan payments](http://www.financeformulas.net/Loan_Payment_Formula.html) are not simply (price * interest). It follows a non-linear exponent.
 1. [Earthquake lights are piezoelectric](http://news.nationalgeographic.com/news/2014/01/140106-earthquake-lights-earthquake-prediction-geology-science/).
 1. The british flag is upside down when [the red (Scottish) line does not touch the pole at the top half of the flag](https://www.google.ca/search?q=british+flag+upside+down)
+1. The [parking pawl](http://en.wikipedia.org/wiki/Parking_pawl) locks your transmission in place when it is in "P". It is a weak mechanism. Never park a car on a hill with just the parking pawl, and always apply the hand brake *before* putting the car into park.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

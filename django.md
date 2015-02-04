@@ -13,6 +13,8 @@
 * [`authenticate()`](https://docs.djangoproject.com/en/1.6/topics/auth/default/#django.contrib.auth.authenticate) checks the credentials; `login()` actually logs the user in.
 * All unsaved models (`pk=None`) of the same type hash to the same thing, both because it is technically correct, and becuase Django devs are morons. Do not store them with `set` -- they will just go away.
 * When you change a DB field to a computed field (`@property`), you can specify `db_field` to keep it pointing to the original column name: http://stackoverflow.com/a/12358707/1558430
+* [`count()` is faster](http://stackoverflow.com/questions/14327036/count-vs-len-on-a-django-queryset) if all you need is a length; `len()` is faster if you already have the whole queryset lazy-evaluated (for instance, when you actually use the whole set in a loop)
+* Model fields can default to a callable (function), but the function takes in nothing, so it is really only good for dates and times.
 
 # Django troubleshooting
 

@@ -15,6 +15,7 @@
 * When you change a DB field to a computed field (`@property`), you can specify `db_field` to keep it pointing to the original column name: http://stackoverflow.com/a/12358707/1558430
 * [`count()` is faster](http://stackoverflow.com/questions/14327036/count-vs-len-on-a-django-queryset) if all you need is a length; `len()` is faster if you already have the whole queryset lazy-evaluated (for instance, when you actually use the whole set in a loop)
 * Model fields can default to a callable (function), but the function takes in nothing, so it is really only good for dates and times.
+* [Generic model serializer](http://ihackernews.com/comments/8971480)
 
 # Django troubleshooting
 

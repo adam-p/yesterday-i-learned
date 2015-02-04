@@ -341,6 +341,9 @@
 1. [Earthquake lights are piezoelectric](http://news.nationalgeographic.com/news/2014/01/140106-earthquake-lights-earthquake-prediction-geology-science/).
 1. The british flag is upside down when [the red (Scottish) line does not touch the pole at the top half of the flag](https://www.google.ca/search?q=british+flag+upside+down)
 1. The [parking pawl](http://en.wikipedia.org/wiki/Parking_pawl) locks your transmission in place when it is in "P". It is a weak mechanism. Never park a car on a hill with just the parking pawl, and always apply the hand brake *before* putting the car into park.
+1. ["Rear-end gearing"](http://www.badasscars.com/index.cfm/page/ptype=product/product_id=398/category_id=13/mode=prod/prd398.htm) describes the gear ratio of the top gear. The lower it is, the fewer rotations per second the engine does, and the quieter the car is (on a highway).
+1. It is impossible to engine brake on a CVT. In fact, CVTs are programmed to automatically apply the brake when no gas is given to it, simulating the ol' braking effect.
+1. Blind programmers use [extremely fast TTS](http://blog.freecodecamp.com/2015/01/a-vision-of-coding-without-opening-your-eyes.html?m=1) to "read" code.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

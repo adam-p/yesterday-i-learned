@@ -16,6 +16,8 @@
 * [`count()` is faster](http://stackoverflow.com/questions/14327036/count-vs-len-on-a-django-queryset) if all you need is a length; `len()` is faster if you already have the whole queryset lazy-evaluated (for instance, when you actually use the whole set in a loop)
 * Model fields can default to a callable (function), but the function takes in nothing, so it is really only good for dates and times.
 * [Generic model serializer](http://ihackernews.com/comments/8971480)
+* [assignment tags](https://docs.djangoproject.com/en/1.7/howto/custom-template-tags/#assignment-tags): `{% some_assignment_tag param1 param2 param3... as variable_you_can_use_below %}`
+* Template rendering is apparently [multi-threaded](https://docs.djangoproject.com/en/1.7/howto/custom-template-tags/#thread-safety-considerations). 
 
 # Django troubleshooting
 

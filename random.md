@@ -344,6 +344,7 @@
 1. ["Rear-end gearing"](http://www.badasscars.com/index.cfm/page/ptype=product/product_id=398/category_id=13/mode=prod/prd398.htm) describes the gear ratio of the top gear. The lower it is, the fewer rotations per second the engine does, and the quieter the car is (on a highway).
 1. It is impossible to engine brake on a CVT. In fact, CVTs are programmed to automatically apply the brake when no gas is given to it, simulating the ol' braking effect.
 1. Blind programmers use [extremely fast TTS](http://blog.freecodecamp.com/2015/01/a-vision-of-coding-without-opening-your-eyes.html?m=1) to "read" code.
+1. [Kitchener](https://www.google.com/maps/place/Kitchener,+ON,+Canada/@43.4476353,-80.5329634,12z/data=!4m2!3m1!1s0x882bf48c03ee5105:0x9525f8e6df5f544b) is twice as large as [Waterloo](https://www.google.com/maps/place/Waterloo,+ON,+Canada/@43.4749939,-80.5371064,12z/data=!4m2!3m1!1s0x882bf1565ffe672b:0x5037b28c7231d90).
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

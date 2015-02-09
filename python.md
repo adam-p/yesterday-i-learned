@@ -168,6 +168,7 @@ c
 * In Python3, arguments can be [forced named](http://stackoverflow.com/a/14298976/1558430): with `def foo(a, * must_use_kwargs_for_this_arg)`.
 * One-liner `if` clauses are executed before the assignment, so `b = a.foo if a else 2` will not raise `AttributeError` even if `a = None`.
 * ["Never (create, change, or delete models) directly"](http://www.dabapps.com/blog/django-models-and-encapsulation/) - Tom Christie
+* `bool` is a subclass of `int`, and cannot be subclassed further.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

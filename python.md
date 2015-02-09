@@ -169,6 +169,7 @@ c
 * One-liner `if` clauses are executed before the assignment, so `b = a.foo if a else 2` will not raise `AttributeError` even if `a = None`.
 * ["Never (create, change, or delete models) directly"](http://www.dabapps.com/blog/django-models-and-encapsulation/) - Tom Christie
 * `bool` is a subclass of `int`, and cannot be subclassed further.
+* "Either or" is `bool(a) != bool(b)`, or just `operator.xor`. This is different from `nand`, which is false when both are false, and not `nor`, which is true when both are true.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -345,6 +345,17 @@
 1. It is impossible to engine brake on a CVT. In fact, CVTs are programmed to automatically apply the brake when no gas is given to it, simulating the ol' braking effect.
 1. Blind programmers use [extremely fast TTS](http://blog.freecodecamp.com/2015/01/a-vision-of-coding-without-opening-your-eyes.html?m=1) to "read" code.
 1. [Kitchener](https://www.google.com/maps/place/Kitchener,+ON,+Canada/@43.4476353,-80.5329634,12z/data=!4m2!3m1!1s0x882bf48c03ee5105:0x9525f8e6df5f544b) is twice as large as [Waterloo](https://www.google.com/maps/place/Waterloo,+ON,+Canada/@43.4749939,-80.5371064,12z/data=!4m2!3m1!1s0x882bf1565ffe672b:0x5037b28c7231d90).
+1. L/100km is better than MPG because L/100km is displayed in proportion to fuel used, not distance travelled (which appears to get larger in value as return deminishes).
+1. [Laser > LED > HID > Halogen](http://www.caradvice.com.au/278125/headlights-explained-halogen-v-hid-v-led-v-laser/)
+1. Boxer engines aren't called boxer engines because they look like boxes... they are called boxer engines because the pistons move relative to each other like boxers' hands.
+1. The `<small>` HTML tag is reserved for defining “smallprint” or legal text.
+1. [Lars Andersen is full of shit](https://youtube.com/watch?v=rDbqz_07dW4)
+1. "Benjamin Franklin was not trusted to write the Declaration of Independence because he might hide a joke in it" is false. [He simply did not care to write it, disliking his work being edited by others.](https://www.reddit.com/r/AskHistorians/comments/2v0l8c/is_it_actually_true_that_benjamin_franklin_was/)
+1. [The Mozambique drill](http://en.wikipedia.org/wiki/Mozambique_Drill) consists of shootong twice in the chest, then one to the head, to make sure someone is dead.
+1. "Cortana" the AI name came from Halo.
+1. "I stand corrected" literally means "I stand wrong"; i.e. I was wrong, I have been corrected.
+1. [Native Americans did not grow corn, beans, and squash together](https://www.reddit.com/r/todayilearned/comments/2us94z/til_the_native_americans_planted_corn_beans_and/cobdujr). The plants do not mutually benefit each other.
+1. Turbochargers force air into the engine using waste exhaust air pressure, which is why it has a lag. Superchargers force air into the engine using pulleys (or fans) that are always pumping air into the engine, which is why it has no lag, but has a base performance penalty.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

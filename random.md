@@ -356,6 +356,13 @@
 1. "I stand corrected" literally means "I stand wrong"; i.e. I was wrong, I have been corrected.
 1. [Native Americans did not grow corn, beans, and squash together](https://www.reddit.com/r/todayilearned/comments/2us94z/til_the_native_americans_planted_corn_beans_and/cobdujr). The plants do not mutually benefit each other.
 1. Turbochargers force air into the engine using waste exhaust air pressure, which is why it has a lag. Superchargers force air into the engine using pulleys (or fans) that are always pumping air into the engine, which is why it has no lag, but has a base performance penalty.
+1. [Vaseline stood for "wasser" (water) + "-line" (oil)](http://en.wikipedia.org/wiki/Petroleum_jelly), and it is not a trademark name in Europe.
+1. Sriracha is not trademarked either. Its inventor is Vietnamese.
+1. Humans [do not sneeze while they sleep](https://www.reddit.com/r/askscience/comments/2vkpv0/do_people_sneeze_while_they_sleep).
+1. Not only does hydrogen leak out of metal containers, it weakens the containers by making them [brittle](http://en.wikipedia.org/wiki/Hydrogen_embrittlement).
+1. "With [aplomb](https://www.google.ca/m?q=aplomb&client=ms-opera-mobile&channel=new&espv=1)" means "with confidence under demanding conditions".
+1. [Primary Japanese pupils take their shoes off at school](http://www.ehow.com/about_6127367_do-students-shoes-off-school_.html?dmsp=manual) (and wear slippers instead) to establish an "equaliser" that make them feel it is their responsibility to clean the place up.
+1. When [European cars claim to have 60 mpg](https://www.google.ca/m?q=highest+mpg+european+cars), remember that is in Imperial gallons, which are 120% of a US gallon, making the car "only" 50 mpg.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

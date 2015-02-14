@@ -170,6 +170,14 @@ c
 * ["Never (create, change, or delete models) directly"](http://www.dabapps.com/blog/django-models-and-encapsulation/) - Tom Christie
 * `bool` is a subclass of `int`, and cannot be subclassed further.
 * "Either or" is `bool(a) != bool(b)`, or just `operator.xor`. This is different from `nand`, which is false when both are false, and not `nor`, which is true when both are true.
+* As much as tuples are immutable, its contents are:
+
+```
+>>> a = ([], [])
+>>> a[0].append(1)
+>>> a
+([1], [])
+```
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

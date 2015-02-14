@@ -363,6 +363,7 @@
 1. "With [aplomb](https://www.google.ca/m?q=aplomb&client=ms-opera-mobile&channel=new&espv=1)" means "with confidence under demanding conditions".
 1. [Primary Japanese pupils take their shoes off at school](http://www.ehow.com/about_6127367_do-students-shoes-off-school_.html?dmsp=manual) (and wear slippers instead) to establish an "equaliser" that make them feel it is their responsibility to clean the place up.
 1. When [European cars claim to have 60 mpg](https://www.google.ca/m?q=highest+mpg+european+cars), remember that is in Imperial gallons, which are 120% of a US gallon, making the car "only" 50 mpg.
+1. [The mass air flow sensor](https://www.youtube.com/watch?v=sBJ_dsJPT7I) optimises the amount of fuel to inject into the engine by detecting the fuel-air ratio.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

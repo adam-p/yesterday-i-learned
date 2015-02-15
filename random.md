@@ -365,6 +365,7 @@
 1. When [European cars claim to have 60 mpg](https://www.google.ca/m?q=highest+mpg+european+cars), remember that is in Imperial gallons, which are 120% of a US gallon, making the car "only" 50 mpg.
 1. [The mass air flow sensor](https://www.youtube.com/watch?v=sBJ_dsJPT7I) optimises the amount of fuel to inject into the engine by detecting the fuel-air ratio.
 1. [KGV](http://www.insidehalton.com/news-story/5338165-7-facts-about-canada-s-flag/) proclaimed Canada's colours to be red and white. Dr. George Stanley recommended so simply because red and white are clearly visible -- the same reason the Nazi party chose red, white, and black.
+1. Caffeine makes exercises [easier, more enjoyable, and makes you (binge) less afterwards](http://jap.physiology.org/content/early/2014/08/14/japplphysiol.00570.2014)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

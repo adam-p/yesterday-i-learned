@@ -366,6 +366,7 @@
 1. [The mass air flow sensor](https://www.youtube.com/watch?v=sBJ_dsJPT7I) optimises the amount of fuel to inject into the engine by detecting the fuel-air ratio.
 1. [KGV](http://www.insidehalton.com/news-story/5338165-7-facts-about-canada-s-flag/) proclaimed Canada's colours to be red and white. Dr. George Stanley recommended so simply because red and white are clearly visible -- the same reason the Nazi party chose red, white, and black.
 1. Caffeine makes exercises [easier, more enjoyable, and makes you (binge) less afterwards](http://jap.physiology.org/content/early/2014/08/14/japplphysiol.00570.2014)
+1. [If](http://www.xda-developers.com/the-paradox-of-choice-and-why-oems-dont-listen/) a democracy would have an overwhelming amount of individuals with low capability quotients, [simulations](http://maxwellsci.com/print/crjss/v2-255-261.pdf) suggest that such a population would choose low capability quotient Heads of State.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

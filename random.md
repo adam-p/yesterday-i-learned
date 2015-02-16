@@ -372,6 +372,8 @@
 1. [The victims of the biggest mass lynching in US history were Italians.](http://en.wikipedia.org/wiki/Anti-Italianism)
 1. [Only 6%](http://www.gilderlehrman.org/history-by-era/slavery-and-anti-slavery/resources/facts-about-slave-trade-and-slavery) of Africans during the slave trade were imported into the US. The rest were into the Caribbeans and South America, where the environment was hostile, the slaves died often, and needed frequent replacement.
 1. Typically, wealthier families produce the best looking offspring. This is most likely because the prettiest women are able to choose wealthy ([and](https://www.reddit.com/r/AskReddit/comments/2w124x/whats_the_least_politically_correct_fact_you_know/comp344), well, handsome, perhaps) husbands. Also, good nutrition and easy living let people's good-lookingness come out.
+1. [Swordfish can be huge](http://cdni.wired.co.uk/620x620/s_v/Swordfish.jpg), but that is not a swordfish. That's a [marlin](http://en.wikipedia.org/wiki/Marlin).
+1. Uncontrolled civilisation goes through [four repeating generations of viewmodels](http://www.generationmodel.eu/gentypmod): idealist (expansive growth) -> reactive (when idealists suddenly gain individuality) -> civic (when individuals split up and enjoy) -> adaptive (during a crisis of some sort)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

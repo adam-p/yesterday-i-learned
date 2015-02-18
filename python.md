@@ -179,6 +179,8 @@ c
 ([1], [])
 ```
 
+* `logging.debug("{}".format(123))` builds strings unnecessarily when logging level is set to above debug. To combat this, use `logging.debug(u"%s", 123)` instead, where the arguments must be positional. For internal reference, the Gerrit ID is 626.
+
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
 [djangoproject 2]: https://docs.djangoproject.com/en/1.4/ref/unicode/

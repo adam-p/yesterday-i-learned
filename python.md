@@ -180,6 +180,7 @@ c
 ```
 
 * `logging.debug("{}".format(123))` builds strings unnecessarily when logging level is set to above debug. To combat this, use `logging.debug(u"%s", 123)` instead, where the arguments must be positional. For internal reference, the Gerrit ID is 626.
+* [`python -W all`](http://stackoverflow.com/a/18996013/1558430) prints all `PendingDeprecationWarning`s, and is the preferred way to run python locally.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -388,6 +388,11 @@ To ssh://brian@remote
 error: failed to push some refs to 'remote'
 ```
 
+### Gerrit says "Can Merge: No" when I rebased locally just fine.
+
+Gerrit does not do three-way merges.
+
+
 To fix it, replace `git push` with `git push --no-thin` to the `git-review` script.
 
 ## Usage

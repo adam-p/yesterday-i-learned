@@ -375,6 +375,8 @@
 1. [Swordfish can be huge](http://cdni.wired.co.uk/620x620/s_v/Swordfish.jpg), but that is not a swordfish. That's a [marlin](http://en.wikipedia.org/wiki/Marlin).
 1. Uncontrolled civilisation goes through [four repeating generations of viewmodels](http://www.generationmodel.eu/gentypmod): idealist (expansive growth) -> reactive (when idealists suddenly gain individuality) -> civic (when individuals split up and enjoy) -> adaptive (during a crisis of some sort)
 1. Normal car wheels expose the brakes to provide better air cooling for the brakes. EVs and hybrids often hide the brakes instead, to provide better aerodynamics for the car.
+1. Over [90%](http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic) of the world drives on the right.
+1. That is the say, even in the middle of England, the [Savoy Hotel](http://en.wikipedia.org/wiki/Savoy_Hotel#Savoy_Court_and_Savoy_Pier) has [right-hand drive](http://en.wikipedia.org/wiki/Hackney_carriage), for [some reason](http://en.wikipedia.org/wiki/Manganese_Bronze_Holdings).
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

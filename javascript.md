@@ -123,6 +123,7 @@ return function IndexError(msg) {
 * Avoid element reflowing/redrawing (but this is more of a DOM thing rather than JS)
 * Trig (`sin`, `cos`) is [*MUCH slower*](http://jsperf.com/sin-cos-vs-sqrt) than `sqrt`, in cases where the former is applicable.
 * [Setting any `window.onunload` handler](http://stackoverflow.com/questions/2638292/after-travelling-back-in-firefox-history-javascript-wont-run) forces javascript to be re-run when the page is loaded from a back button.
+* Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
 
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/

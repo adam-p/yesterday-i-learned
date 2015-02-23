@@ -377,6 +377,7 @@
 1. Normal car wheels expose the brakes to provide better air cooling for the brakes. EVs and hybrids often hide the brakes instead, to provide better aerodynamics for the car.
 1. Over [90%](http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic) of the world drives on the right.
 1. That is the say, even in the middle of England, the [Savoy Hotel](http://en.wikipedia.org/wiki/Savoy_Hotel#Savoy_Court_and_Savoy_Pier) has [right-hand drive](http://en.wikipedia.org/wiki/Hackney_carriage), for [some reason](http://en.wikipedia.org/wiki/Manganese_Bronze_Holdings).
+1. [Type I diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus#Type_1) is the semi-genetic one where insulin level decreases. Type II is the dietary one where the body gets less sensitive to a normal (or low) level of insulin.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

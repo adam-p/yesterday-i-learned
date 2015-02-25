@@ -113,6 +113,7 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 ```
 
 * Backticking (`rm ``find . -name "*.pyc"`` `) works for rm, but do make sure find returns the correct things or you will suffer from major anal bleeding.
+* It is impossible to write a named function with no commands in bash.
 
 ## Tmux
 

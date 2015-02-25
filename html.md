@@ -13,6 +13,8 @@
 * Hashes can actually go to an ID as well as a name (`#foo` -> `<div id="foo"/>`).
 * In HTML5, `a` tags can have a [`download` attribute](http://www.w3schools.com/tags/att_a_download.asp) that forces the link to be downloaded.
 * Websites can restrict content sources by appending a header to the response. Here is the one github uses.
+* [The `address` element was not created for postal addresses (...) unless those addresses are in fact the relevant contact information for a document or section of a document](http://html5doctor.com/the-address-element/)
+* 
 
 ```
 Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.google-analytics.com collector-cdn.github.com; object-src assets-cdn.github.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' assets-cdn.github.com; img-src 'self' data: assets-cdn.github.com identicons.github.com www.google-analytics.com collector.githubapp.com *.githubusercontent.com *.gravatar.com *.wp.com; media-src 'none'; frame-src 'self' render.githubusercontent.com gist.github.com www.youtube.com player.vimeo.com checkout.paypal.com; font-src assets-cdn.github.com; connect-src 'self' ghconduit.com:25035 live.github.com uploads.github.com s3.amazonaws.com

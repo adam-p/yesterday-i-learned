@@ -122,6 +122,9 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
       * `if [$0 == $BASH_SOURCE ]; then  # "missing ]"`
       * `if [$0 == $BASH_SOURCE]; then  # does stupid things`
    * While `if [ $0 == $BASH_SOURCE ]; then` is valid syntax, [ShellCheck](http://www.shellcheck.net/) will complain about "globbing and word splitting". The practice is then `if [ "$0" == "$BASH_SOURCE" ]; then`
+* Like other good things bash offers, assignments do not allow spaces on either side of `=`: `HELLO="world"`
+* Having a `(  block  )` anywhere [creates a subshell](http://www.tldp.org/LDP/abs/html/subshells.html).
+* `[ ... ]` is an alias for `test`.
 
 ## Tmux
 

@@ -113,7 +113,8 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 ```
 
 * Backticking (`rm ``find . -name "*.pyc"`` `) works for rm, but do make sure find returns the correct things or you will suffer from major anal bleeding.
-* It is impossible to write a named function with no commands in bash.
+* It is impossible to write a named function with no commands in bash. The best you can do is a function containing a single `:`, which is a no-op.
+* Running a function requires no brackets. Unlike Ruby's behaviour where brackets *can* be used to make it more explicit, adding `()` after a function re-declares it.
 
 ## Tmux
 

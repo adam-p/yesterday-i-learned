@@ -86,6 +86,7 @@ array=(
 * [`pushd` and `popd`](http://en.wikipedia.org/wiki/Pushd_and_popd) allows storing the current directory and restoring to that directory in a stack-based fashion.
 * Read your man pages! `cp -f` forces a copy by deleting any destination file(s) that may prevent the copy, and `cp -n` does the exact opposite -- if something already exists, don't copy it.
 * This comparison in bash is true if the script was sourced, not run: `"$0" = "$BASH_SOURCE"` (you can then use this to detect if someone ran your script correctly)
+    * `$0` remains the file name if sourced, and `$BASH_SOURCE` is (nothing if sourced, file name if not).
 * There are [four different kinds of redirections](http://askubuntu.com/a/350216):
     * `> file` redirects stdout to file
     * `1> file` redirects stdout to file

@@ -60,7 +60,7 @@ function foo(bar=5) {
 * Keyword unpacking: given an object as the argument, using a ["set notation" from CoffeeScript](https://github.com/jashkenas/coffeescript/issues/2427) unpacks them into the scope:
 
 ```
-function foo({x, y}) {
+function foo({x, y=5}) {  // note: object notation (y:5) is not valid syntax at this particular location
     console.log(x);  // 4
 }
 foo({x: 4, y: 5})

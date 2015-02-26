@@ -56,3 +56,12 @@ function foo(bar=5) {
     console.log(bar);
 }
 ```
+
+* Keyword unpacking: given an object as the argument, using a ["set notation" from CoffeeScript](https://github.com/jashkenas/coffeescript/issues/2427) unpacks them into the scope:
+
+```
+function foo({x, y}) {
+    console.log(x);  // 4
+}
+foo({x: 4, y: 5})
+```

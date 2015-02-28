@@ -380,6 +380,7 @@
 1. [Type I diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus#Type_1) is the semi-genetic one where insulin level decreases. Type II is the dietary one where the body gets less sensitive to a normal (or low) level of insulin.
 1. (Local law) Your car's insurance is tied to you. Lending it to a friend who crashes it means an increase in your premium.
 1. Both ["bury the lead"](http://en.wiktionary.org/wiki/bury_the_lead) and "bury the lede" are used. There is no clear answer.
+1. "GILDAN Ultra Cotton (TM) Heavyweight" is the most comfortable T-shirt in the whole wide world.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

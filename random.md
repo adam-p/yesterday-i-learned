@@ -396,6 +396,12 @@
 1. "Safety is no accident" is technically correct.
 1. [Porsche SE owns Volkswagen AG owns Porsche AG](https://www.reddit.com/r/TopGear/comments/2xagsn/a_garage_full_of_volkswagens/). Therefore, while "Volkswagan owns Porsche", Porsche (SE) has 51% of VW's voting rights, and hence, ownership.
 1. [Opossums](http://en.wikipedia.org/wiki/Opossum) have a remarkably robust immune system, and show partial or total immunity to the venom of rattlesnakes, cottonmouths, and other pit vipers. Opossums are about eight times less likely to carry rabies than wild dogs, and about one in eight hundred opossums is infected with this virus.
+1. Some moths have [interference antennae](http://motherboard.vice.com/read/top-gun-but-for-insects-these-moths-long-tails-are-jammers-for-bat-sonar) that make bats miss them.
+1. Not only is bird poo acidic, the fact that they [expand and contract on top of the paint](http://www.caradvice.com.au/117729/bird-poo-paint-damage-explained-how-to-protect-your-car/) contributes to paint damage over time.
+1. [Gun magazines can be helical](http://imgur.com/a/uFGzs)
+1. [Development mules](http://en.wikipedia.org/wiki/Development_mule) are cars that are camouflaged for hiding details while on their way to test centres.
+1. [Rabbits](https://gfycat.com/PessimisticBrilliantGroundhog) are small, cute, eat their own waste, and can be easily disposed of. They are the ideal pet.
+1. [There is no way to wipe properly](https://www.reddit.com/r/AskReddit/comments/2w3y9f/girls_of_reddit_when_you_are_wearing_those_long/conj3u8) while your nails are long.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

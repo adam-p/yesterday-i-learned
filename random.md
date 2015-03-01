@@ -381,6 +381,21 @@
 1. (Local law) Your car's insurance is tied to you. Lending it to a friend who crashes it means an increase in your premium.
 1. Both ["bury the lead"](http://en.wiktionary.org/wiki/bury_the_lead) and "bury the lede" are used. There is no clear answer.
 1. "GILDAN Ultra Cotton (TM) Heavyweight" is the most comfortable T-shirt in the whole wide world.
+1. [AK-74](http://www.diffen.com/difference/AK-47_vs_AK-74) has better recoil handling, shoots farther, and has less spread. For no reason, then, should it be produced less frequently than the AK-47.
+1. [Foglights are not so much designed to assist the driver's vision in the car which has them on, but rather to make that car more visible to other road users](http://www.bigfooty.com/forum/threads/foglights-why-on-earth-is-it-illegal-to-use-them.700813/). They are only to be used in adverse weather conditions, such as heavy rain or fog, and presumably, snow.
+1. They are called "semi trucks" because it is a shortened version of "semi-trailer truck." A "semi-trailer" is actually just the trailer, but it is a trailer that only has wheels on one end...otherwise it would be a wagon. So the thing you call a semi, is actually a tractor, but refers to a trailer.
+    * Truck = tractor.
+    * Trailer = Wagon = wheels on both ends.
+    * Semi-Trailer = wheels on one end.
+    * Semi-Truck = tractor that pulls semi-trailers.
+    Just like how Fire Trucks have ladders, but Fire Engines do not.
+1. On Walmart promoting bumping up the minimum wage: Their "benevolence" allows them to lobby for higher minimum wages and push Mom-and-Pop retailers out of business without looking hypocritical. Longer-term the lack of competition helps their bottom-line.
+1. When a person is near death, saliva accumulate near the throat, making noises known as the [death rattle](http://en.wikipedia.org/wiki/Death_rattle).
+1. In Jesus' times, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine." The act of Jesus conjuring good wine when everyone is already drunk made him "the ultimate bro". (John 2:9-10)
+1. Facebook has clauses in their open source software that [make their usage completely useless](https://news.ycombinator.com/item?id=8901357).
+1. "Safety is no accident" is technically correct.
+1. [Porsche SE owns Volkswagen AG owns Porsche AG](https://www.reddit.com/r/TopGear/comments/2xagsn/a_garage_full_of_volkswagens/). Therefore, while "Volkswagan owns Porsche", Porsche (SE) has 51% of VW's voting rights, and hence, ownership.
+1. [Opossums](http://en.wikipedia.org/wiki/Opossum) have a remarkably robust immune system, and show partial or total immunity to the venom of rattlesnakes, cottonmouths, and other pit vipers. Opossums are about eight times less likely to carry rabies than wild dogs, and about one in eight hundred opossums is infected with this virus.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

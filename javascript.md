@@ -96,6 +96,7 @@ return function IndexError(msg) {
 * Assigning `someArray.length = 0` removes all items from the array. You can also assign other numbers, and if the array length goes from 0 to e.g. 3, the array is `[undefined, undefined, undefined]`.
 * jQuery has a `$.fn.queue(function () { ... })` that is called whenever something gets dequeued, presumably because an operation is done.
 * [The spec](http://stackoverflow.com/questions/13294658/throw-errormsg-vs-throw-new-errormsg) allows `throw Error()` as well as `throw new Error()`. The two are identical.
+* javascriptkit.com still exists.
 
 ## Deferred API
 
@@ -124,7 +125,6 @@ return function IndexError(msg) {
 * Trig (`sin`, `cos`) is [*MUCH slower*](http://jsperf.com/sin-cos-vs-sqrt) than `sqrt`, in cases where the former is applicable.
 * [Setting any `window.onunload` handler](http://stackoverflow.com/questions/2638292/after-travelling-back-in-firefox-history-javascript-wont-run) forces javascript to be re-run when the page is loaded from a back button.
 * Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
-* javascriptkit.com still exists.
 
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/

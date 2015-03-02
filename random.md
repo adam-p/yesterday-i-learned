@@ -402,6 +402,7 @@
 1. [Development mules](http://en.wikipedia.org/wiki/Development_mule) are cars that are camouflaged for hiding details while on their way to test centres.
 1. [Rabbits](https://gfycat.com/PessimisticBrilliantGroundhog) are small, cute, eat their own waste, and can be easily disposed of. They are the ideal pet.
 1. [There is no way to wipe properly](https://www.reddit.com/r/AskReddit/comments/2w3y9f/girls_of_reddit_when_you_are_wearing_those_long/conj3u8) while your nails are long.
+1. Firefox has a "zoom text only" option in View>Zoom.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

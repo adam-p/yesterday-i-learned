@@ -404,6 +404,7 @@
 1. [There is no way to wipe properly](https://www.reddit.com/r/AskReddit/comments/2w3y9f/girls_of_reddit_when_you_are_wearing_those_long/conj3u8) while your nails are long.
 1. Firefox has a "zoom text only" option in View>Zoom.
 1. As of January 2015, the Swiss had removed all the explosives from their bridges.
+1. While it makes more sense that *adaptor* is the inanimate object and *adapter* is a person who adapts, they turn out to have no difference.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

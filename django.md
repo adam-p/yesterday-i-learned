@@ -18,6 +18,7 @@
 * [Generic model serializer](http://ihackernews.com/comments/8971480)
 * [assignment tags](https://docs.djangoproject.com/en/1.7/howto/custom-template-tags/#assignment-tags): `{% some_assignment_tag param1 param2 param3... as variable_you_can_use_below %}`
 * Template rendering is apparently [multi-threaded](https://docs.djangoproject.com/en/1.7/howto/custom-template-tags/#thread-safety-considerations). 
+* The act of initialising a `QueryDict` [already parses the query string](https://docs.djangoproject.com/en/1.7/ref/request-response/#django.http.QueryDict.__init__). There is no need to use urlparse.
 
 # Django troubleshooting
 

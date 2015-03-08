@@ -406,6 +406,13 @@
 1. As of January 2015, the Swiss had removed all the explosives from their bridges.
 1. While it makes more sense that *adaptor* is the inanimate object and *adapter* is a person who adapts, they turn out to have no difference.
 1. To "[paint oneself into a corner](http://28.media.tumblr.com/tumblr_ltahvlbVHe1qls341o1_500.jpg)" is to paint the floor with no way out
+1. *Bibliotheque*, which means "library", is made of biblio- (book) and -theke (place).
+1. [Amputees come in different levels](http://www.amputee-life.org/2012/10/28/amputee-k-levels/), with k0 being the worst, to k4 being the most benefited from having some instrument.
+1. The original Acura logo did not contain the small horizontal bar joining the two vertical pillars. Not forming the letter "H". Soichiro Honda ordered the 5,000 badges already produced to be destroyed.
+1. [People stumble when one stair is of a different height from the rest](https://www.reddit.com/r/Damnthatsinteresting/comments/2xsw2s/one_of_the_stairs_is_more_forward_a_fraction_of/). This is known. However, it is also known as [*sword step*](http://en.wikipedia.org/wiki/Medieval_fortification#Stairs), for delaying enemy progress when the owner is attacked by someone else. ["This is also, incidentally, why most spiral staircases turn to the right when climbing, so a person descending can more easily swing a sword and use the central pillar as cover."](https://www.reddit.com/r/Damnthatsinteresting/comments/2xsw2s/one_of_the_stairs_is_more_forward_a_fraction_of/cp3a1k6)
+1. The great collectorism occurred [during the 90s](http://www.vice.com/read/the-great-beanie-baby-bubble?utm_source=vicefbus).
+1. "Pussy" in "Don't be a pussy" didn't originate from pussy the cat; it originated from latin [*Pusillanimous*](http://www.merriam-webster.com/dictionary/pusillanimous) for cowardly.
+1. Vikings used ravens to navigate. They brought ravens aboard their ships, then released them and sailed in the same direction to find land. The raven was so important to them that it became the symbol on their flag.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

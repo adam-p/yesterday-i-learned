@@ -182,6 +182,19 @@ c
 * `logging.debug("{}".format(123))` builds strings unnecessarily when logging level is set to above debug. To combat this, use `logging.debug(u"%s", 123)` instead, where the arguments must be positional. For internal reference, the Gerrit ID is 626.
 * Strings can also be formatted traditionally with a keywords: `'Today is %(month)s %(day)s.') % {'month': m, 'day': d}`
 * [`python -W all`](http://stackoverflow.com/a/18996013/1558430) prints all `PendingDeprecationWarning`s, and is the preferred way to run python locally.
+* [`j` is the only notation for complex numbers.](http://stackoverflow.com/a/8370696/1558430)
+
+```python
+>>> abs(1+12i)
+  File "<stdin>", line 1
+    abs(1+12i)
+            ^
+SyntaxError: invalid syntax
+>>> abs(1+12j)
+12.041594578792296
+```
+
+* The `abs()` of a complex number is the dot product of its real-imaginary plane. If this is not intended, use `math.fabs()` instead, which raises on imaginary numbers.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

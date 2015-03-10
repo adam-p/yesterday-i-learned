@@ -125,6 +125,7 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 * Like other good things bash offers, assignments do not allow spaces on either side of `=`: `HELLO="world"`
 * Having a `(  block  )` anywhere [creates a subshell](http://www.tldp.org/LDP/abs/html/subshells.html).
 * `[ ... ]` is an alias for `test`.
+* While `grep` cannot search in multi-line strings, [awk can](http://stackoverflow.com/a/3718035/1558430), using the syntax `awk '/Start pattern/,/End pattern/' filename`.
 
 ## Tmux
 

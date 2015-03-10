@@ -195,6 +195,7 @@ SyntaxError: invalid syntax
 ```
 
 * The `abs()` of a complex number is the dot product of its real-imaginary plane. If this is not intended, use `math.fabs()` instead, which raises on imaginary numbers.
+* Unit test `self.assert*`s take a last parameter that is the failure message: `self.assertIn(0, [1,2,3], "0 not found in list")`
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

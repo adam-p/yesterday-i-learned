@@ -413,6 +413,7 @@
 1. The great collectorism occurred [during the 90s](http://www.vice.com/read/the-great-beanie-baby-bubble?utm_source=vicefbus).
 1. "Pussy" in "Don't be a pussy" didn't originate from pussy the cat; it originated from latin [*Pusillanimous*](http://www.merriam-webster.com/dictionary/pusillanimous) for cowardly.
 1. Vikings used ravens to navigate. They brought ravens aboard their ships, then released them and sailed in the same direction to find land. The raven was so important to them that it became the symbol on their flag.
+1. "Performing a burnout in a front wheel drive vehicle is likely to result in damage to the drivetrain."
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

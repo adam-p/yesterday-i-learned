@@ -414,6 +414,10 @@
 1. "Pussy" in "Don't be a pussy" didn't originate from pussy the cat; it originated from latin [*Pusillanimous*](http://www.merriam-webster.com/dictionary/pusillanimous) for cowardly.
 1. Vikings used ravens to navigate. They brought ravens aboard their ships, then released them and sailed in the same direction to find land. The raven was so important to them that it became the symbol on their flag.
 1. "Performing a burnout in a front wheel drive vehicle is likely to result in damage to the drivetrain."
+1. [HJR](http://www.dpreview.com/forums/post/50107202) stands for "hand jitter reduction", nothing to do with "high".
+1. In the event of a crash where the crash is captured by a dashcam, [read out the licence plate of the other car](https://www.reddit.com/r/LifeProTips/comments/2yy44n/lpt_if_you_have_a_dashcam_and_you_witness_an/). Also do the same for when you communicate with 911, which allows them to quickly identify the information when they replay the recording.
+1. [Nauru](http://en.wikipedia.org/wiki/Nauru) is pronounced na-OO-roo. It means "I go to the beach".
+1. Haboobs are Arabian dust storms that come before an actual storm.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

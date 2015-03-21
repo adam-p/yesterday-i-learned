@@ -418,6 +418,14 @@
 1. In the event of a crash where the crash is captured by a dashcam, [read out the licence plate of the other car](https://www.reddit.com/r/LifeProTips/comments/2yy44n/lpt_if_you_have_a_dashcam_and_you_witness_an/). Also do the same for when you communicate with 911, which allows them to quickly identify the information when they replay the recording.
 1. [Nauru](http://en.wikipedia.org/wiki/Nauru) is pronounced na-OO-roo. It means "I go to the beach".
 1. Haboobs are Arabian dust storms that come before an actual storm.
+1. There are two official color palettes for the French flag : "Dark blue" for public & military buildings and "Light Blue" for TV & government appearences/meetings.
+1. [Ringworm](http://en.wikipedia.org/wiki/Dermatophytosis) is not actually worm; it is fungal.
+1. [Ears also "close"](http://i.word.com/idictionary/rhadamanthine) when a loud noise is heard, much like the eye closes when a bright light is seen.
+1. New Zealand [literally means new sea land](http://i.imgur.com/ex6Zu.jpg).
+1. [Zoodles](https://www.google.ca/m?q=zoodles&client=ms-opera-mobile&channel=new&espv=1) are noodles made with shredded zucchini.
+1. Costco pricing: `{"0.99": "Full price", "asterisk": "Discontinued", "0.79 or .49": "Mfg special offer", ".00": "Priced down, nearly out of stock", ".97": "Store manager deal"}`
+1. [Soak testing](http://en.wikipedia.org/wiki/Soak_testing) is testing the system under sustained load.
+1. Smoke testing is testing for the most basic things of the system.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

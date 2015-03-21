@@ -21,6 +21,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 ```
 
 * In Chrome, `<img>` tags with no `src` have a [grey border](http://stackoverflow.com/questions/10848722/google-chrome-images-have-border) that does not go away with any amount of CSS.
+* HTML5 allows closing tags to be omitted where the semantics are obvious, for example, `li` in `ul`, or `option` in `optgroup`. Then again, your colleagues will kill you, so it is not a usable part of the spec.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

@@ -426,6 +426,14 @@
 1. Costco pricing: `{"0.99": "Full price", "asterisk": "Discontinued", "0.79 or .49": "Mfg special offer", ".00": "Priced down, nearly out of stock", ".97": "Store manager deal"}`
 1. [Soak testing](http://en.wikipedia.org/wiki/Soak_testing) is testing the system under sustained load.
 1. Smoke testing is testing for the most basic things of the system.
+1. `adb install -r` installs the apk without failing when it already exists.
+1. Water (blue) + Sun (yellow) = Plants (green)
+1. "Chlorophyll" is derived from the Greek words χλωρός, chloros ("green") and φύλλον, phyllon ("leaf")
+1. [Breast milk can be bought online](http://www.onlythebreast.com/). It is contaminated with fecal matter, but since [babies benefit from fecal matter](http://thepowerofpoop.com/epatients/fecal-transplant-faqs/), the decision is arguably good for you.
+1. Mixing diesel gas with regular gasoline is worse for diesel engines (timing) than it is for gasoline engines (smoke/poor performance).
+1. ["Soft Coding"](http://thedailywtf.com/articles/Soft_Coding) is the practice of putting everything in a configuration file. It is an antipattern.
+1. [On reddit](https://www.reddit.com/r/WTF/comments/2zgp6i/train_enthusiasts_xpost_from_runexpected/): "Gets real tedious round here, sometimes. Nobody has ever fucked-up; everyone has sterling advice on all matters of discussion; everyone is a doctor, an engineer, a mathematician, a lawyer.. Misinformation Land littered with tiresome puns and cringeworthy, circlejerking references to ye olde threads gone by."
+1. There is, in fact, [a way to tell if an arrow is too stiff for a bow](http://i.imgur.com/P0NFVad.png).
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

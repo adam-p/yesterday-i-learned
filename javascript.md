@@ -98,6 +98,16 @@ return function IndexError(msg) {
 * [The spec](http://stackoverflow.com/questions/13294658/throw-errormsg-vs-throw-new-errormsg) allows `throw Error()` as well as `throw new Error()`. The two are identical.
 * javascriptkit.com still exists.
 * `(new Date).getYear()` returns 115 for year 2015. To get 2015 instead of something useless, call `getFullyear()` instead.
+* It is possible to give properties to a boolean, but because it has no prototype, it is impossible to read them again.
+
+```
+>var a = true
+>a.foo = 'bar'
+>a.foo
+undefined
+>true.prototype
+undefined
+```
 
 ## Deferred API
 

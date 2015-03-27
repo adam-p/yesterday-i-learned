@@ -434,6 +434,7 @@
 1. ["Soft Coding"](http://thedailywtf.com/articles/Soft_Coding) is the practice of putting everything in a configuration file. It is an antipattern.
 1. [On reddit](https://www.reddit.com/r/WTF/comments/2zgp6i/train_enthusiasts_xpost_from_runexpected/): "Gets real tedious round here, sometimes. Nobody has ever fucked-up; everyone has sterling advice on all matters of discussion; everyone is a doctor, an engineer, a mathematician, a lawyer.. Misinformation Land littered with tiresome puns and cringeworthy, circlejerking references to ye olde threads gone by."
 1. There is, in fact, [a way to tell if an arrow is too stiff for a bow](http://i.imgur.com/P0NFVad.png).
+1. A spider's heart is located [at the top of its abdomen](http://en.wikipedia.org/wiki/Spider#/media/File:Spider_internal_anatomy-en.svg). Their stomachs are more like human lungs, made possible because they only ingest enzyme-catalysed liquid.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

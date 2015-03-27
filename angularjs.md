@@ -40,3 +40,4 @@ meaning there is no purpose whatsoever to use `.provider`, and almost no reason 
 * ... which also means `$injector.invoke(function (greeting) { ... });` merely calls `myFunction` with a `new greeting` given to it.
 * In webkit, `$0` is the currently selected element in the inspector. So, [`angular.element($0).scope()`](http://stackoverflow.com/questions/13743058/how-to-access-the-angular-scope-variable-in-browsers-console) gets you the scope of that element.
 * Directives' `link` function is run just once. That function is responsible for attaching itself to element events and run accordingly.
+* `(new $q.defer()).reject` cannot reject multiple things, i.e. a handler attached to `deferred.reject(1, 2, 3)` will only receive 1. jQuery's `Deferred` can, however, so you might want to use that instead.

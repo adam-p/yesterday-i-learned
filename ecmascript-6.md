@@ -65,3 +65,24 @@ function foo({x, y=5}) {  // note: object notation (y:5) is not valid syntax at 
 }
 foo({x: 4, y: 5})
 ```
+
+* Generators require that ugly asterisk after `function`:
+
+```
+   // The asterisk after `function` means that
+   // `objectEntries` is a generator
+   function* objectEntries(obj) {
+        let propKeys = Reflect.ownKeys(obj);
+
+        for (let propKey of propKeys) {
+            // `yield` returns a value and then pauses
+            // the generator. Later, execution continues
+            // where it was previously paused.
+            yield [propKey, obj[propKey]];
+        }
+    }
+
+    for (let [key,value] of objectEntries(jane)) {
+        console.log(`${key}: ${value}`);
+    }
+```

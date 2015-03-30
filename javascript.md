@@ -99,6 +99,7 @@ return function IndexError(msg) {
 * javascriptkit.com still exists.
 * `(new Date).getYear()` returns 115 for year 2015. To get 2015 instead of something useless, call `getFullyear()` instead.
 * It is possible to give properties to a boolean, but because it has no prototype, it is impossible to read them again.
+* [Generators](http://www.2ality.com/2015/03/es6-generators.html) (good article) must be called `function*`s, with that ugly asterisk after the keyword. 
 
 ```
 >var a = true

@@ -163,5 +163,9 @@ Sometimes (but not according to the docs), unless you wrap all that in `<table>`
 </table>
 ```
 
+### Fixtures won't load
+
+[`contenttypes` and `permission` are the culprits](http://stackoverflow.com/questions/853796/problems-with-contenttypes-when-loading-a-fixture-in-django). Remove all of them from the fixture file (using a script or something), then re-run loaddata.
+
 [github]: https://github.com/devilry/devilry-deploy/blob/master/docs/src/migrationguides/1.4.0.rst#2-----migrate-the-database
 [readthedocs]: http://south.readthedocs.org/en/latest/dependencies.html

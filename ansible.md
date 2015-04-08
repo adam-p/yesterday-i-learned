@@ -9,4 +9,4 @@
 
 # Uses
 
-* Even without installing anything or using any playbooks, `ansible webservers -m ping` will ping all of your servers under your webserver section of your inventory file.
+* Even without installing anything or using any playbooks, `ansible webservers -m ping` will ping all of your servers under your webserver section of your inventory file. That's because ansible comes with some number of utilities, `ping` included. See the full list with `ls -laR /usr/share/ansible/`.

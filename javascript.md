@@ -141,6 +141,14 @@ undefined
 * [Setting any `window.onunload` handler](http://stackoverflow.com/questions/2638292/after-travelling-back-in-firefox-history-javascript-wont-run) forces javascript to be re-run when the page is loaded from a back button.
 * Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
 
+## [Lesser console methods](http://www.mitchrobb.com/chromes-console-api-greatest-hits/)
+
+* `console.assert(true, 'This text will never be displayed');`
+* `console.dir(object)  // contents may change as code executes`
+* `console.group()  // starts a group (groupCollapsed starts a collapsed group)`
+* `console.groupEnd() // ends a group`
+* `console.table(objOfObjs, listOfKeys)  // prints out a table of these things`
+
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/
 [backbonejs]: http://backbonejs.org/#FAQ-mvc

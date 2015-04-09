@@ -446,6 +446,8 @@
 1. [Growth like weeds](https://www.reddit.com/r/Damnthatsinteresting/comments/31ve8m/80_days_of_cannabis_growth) does NOT refer to how fast marijuana grows. Marijuana takes the average time for a plant to mature and flower.
 1. [Oxygen candles](http://en.wikipedia.org/wiki/Chemical_oxygen_generator) produce emergency oxygen.
 1. [Imprint the student newspaper is a play on words based on gosling imprinting](http://en.wikipedia.org/wiki/Imprinting)
+1. The [ten code list](http://everets.org/kevin/ten-codes.php) is used by public infrastructure to notify employees of emergencies without telling the public what exactly is happening. The most famous one is perhaps "10-4" (OK).
+
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

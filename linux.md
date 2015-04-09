@@ -127,6 +127,8 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 * `[ ... ]` is an alias for `test`.
 * While `grep` cannot search in multi-line strings, [awk can](http://stackoverflow.com/a/3718035/1558430), using the syntax `awk '/Start pattern/,/End pattern/' filename`.
 * Find any non-ASCII character in a file: `grep -P '[^\x00-\x7f]' file`
+* `cd $SOME_PATH` will go to your home directory if `$SOME_PATH` is blank, which is why people wrap it with double quotes, because `cd "${SOME_PATH}"` = `cd ""`, which doesn't go anywhere.
+
 
 ## Tmux
 

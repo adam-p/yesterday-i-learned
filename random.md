@@ -435,6 +435,17 @@
 1. [On reddit](https://www.reddit.com/r/WTF/comments/2zgp6i/train_enthusiasts_xpost_from_runexpected/): "Gets real tedious round here, sometimes. Nobody has ever fucked-up; everyone has sterling advice on all matters of discussion; everyone is a doctor, an engineer, a mathematician, a lawyer.. Misinformation Land littered with tiresome puns and cringeworthy, circlejerking references to ye olde threads gone by."
 1. There is, in fact, [a way to tell if an arrow is too stiff for a bow](http://i.imgur.com/P0NFVad.png).
 1. A spider's heart is located [at the top of its abdomen](http://en.wikipedia.org/wiki/Spider#/media/File:Spider_internal_anatomy-en.svg). Their stomachs are more like human lungs, made possible because they only ingest enzyme-catalysed liquid.
+1. The word "manifest" originally meant a document that lists what's in a ship/vessel; now it is an (XML) document that lists what's in an EXE file or archive.
+1. To call Rolex a non-profit company is [accurate but misleading](https://www.reddit.com/r/todayilearned/comments/31du56/til_the_rolex_watch_company_is_run_by/cq0sxhu), for the company is marginally non-profit to avoid taxes. IKEA, in particular, exploits this so much that they are one of the world's worst tax avoiders.
+1. Dyslexia is genetic.
+1. ["Breakaway head" screws](https://youtube.com/watch?v=qbo5teyC0hU) are screws those heads go away after screwing in. They are used in prisons, public fixtures, and road signs.
+1. Cats eat baby poop to remove their scent trail, as well as lick the buttocks of their young to help them defecate.
+1. Because PhotoShop, printers, and scanners refuse to print/edit images with the Eurion Constellation on them, there is [a prank app](http://wildsparx.com/eurionize/) that adds it to an image you intend to "simple copy protect".
+1. [Soy sauce and wasabi are not meant to be used in sushi, unless they have already been added by the chef.](https://medium.com/gone/the-ten-commandments-of-sushi-4eac45192c7d) (See article for 9 other points). They are also lunch items, meant to be consumed immediately, ordered piecewise, and served with sake while half of the piece is in the mouth.
+1. [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) states that one extreme is just the same as the other extreme. Extreme right wings are similar to extreme left wings.
+1. [Growth like weeds](https://www.reddit.com/r/Damnthatsinteresting/comments/31ve8m/80_days_of_cannabis_growth) does NOT refer to how fast marijuana grows. Marijuana takes the average time for a plant to mature and flower.
+1. [Oxygen candles](http://en.wikipedia.org/wiki/Chemical_oxygen_generator) produce emergency oxygen.
+1. [Imprint the student newspaper is a play on words based on gosling imprinting](http://en.wikipedia.org/wiki/Imprinting)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

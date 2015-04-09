@@ -34,6 +34,11 @@ At the cost of high volatility, equity provides the highest return, provided tha
 * Never spend all your money on stocks.
 * Invest in a stock only if you have a good answer for "why are you investing in this particular stock?"
 
+### Shorting
+
+["Shorting" stocks](http://www.swing-trade-stocks.com/shorting-stocks.html) involves you borrowing your broker's stocks, buying your copy of these stocks at a lower price, and giving back these stocks to your broker. You end up with these stocks, and the price difference.
+
+
 ### Looking for a suitable company
 
 * Read the company's *annual report*, *Standard & Poor's Stock Report* (See S&P500), and WSJ.

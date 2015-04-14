@@ -140,6 +140,7 @@ undefined
 * Trig (`sin`, `cos`) is [*MUCH slower*](http://jsperf.com/sin-cos-vs-sqrt) than `sqrt`, in cases where the former is applicable.
 * [Setting any `window.onunload` handler](http://stackoverflow.com/questions/2638292/after-travelling-back-in-firefox-history-javascript-wont-run) forces javascript to be re-run when the page is loaded from a back button.
 * Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
+* MDN: ["When defining a variable that is meant to later hold an object, it is advisable to initialize the variable to null as opposed to anything else. That way, you can explicitly check for the value null to determine if the variable has been filled with an object reference at a later time."](http://stackoverflow.com/a/13143055/1558430)
 
 ## [Lesser console methods](http://www.mitchrobb.com/chromes-console-api-greatest-hits/)
 

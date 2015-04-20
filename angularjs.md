@@ -42,3 +42,4 @@ meaning there is no purpose whatsoever to use `.provider`, and almost no reason 
 * Directives' `link` function is run just once. That function is responsible for attaching itself to element events and run accordingly.
 * `(new $q.defer()).reject` cannot reject multiple things, i.e. a handler attached to `deferred.reject(1, 2, 3)` will only receive 1. jQuery's `Deferred` can, however, so you might want to use that instead.
 * [`$state.go('viewName', {parameters...})`](https://github.com/angular-ui/ui-router/wiki/Quick-Reference#stategoto--toparams--options)
+* Not specifying a directive's `scope` automatically makes it inherit everything from the parent scope. The reverse (specifying `scope`), which is quite popular for some reason, is called [isolate scope](https://docs.angularjs.org/guide/scope).

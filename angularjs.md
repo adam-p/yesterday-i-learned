@@ -43,4 +43,4 @@ meaning there is no purpose whatsoever to use `.provider`, and almost no reason 
 * `(new $q.defer()).reject` cannot reject multiple things, i.e. a handler attached to `deferred.reject(1, 2, 3)` will only receive 1. jQuery's `Deferred` can, however, so you might want to use that instead.
 * [`$state.go('viewName', {parameters...})`](https://github.com/angular-ui/ui-router/wiki/Quick-Reference#stategoto--toparams--options)
 * Not specifying a directive's `scope` automatically makes it inherit everything from the parent scope. The reverse (specifying `scope`), which is quite popular for some reason, is called [isolate scope](https://docs.angularjs.org/guide/scope).
-* You can alias a variable with [`ngInit`](http://stackoverflow.com/questions/25938059/how-to-alias-object-property-as-variable-in-ng-repeat): `ng-init='something as original.attribute'`
+* Only in a loop can you alias a variable with [`ngInit`](http://stackoverflow.com/questions/25938059/how-to-alias-object-property-as-variable-in-ng-repeat): `ng-init='something as original.attribute'`

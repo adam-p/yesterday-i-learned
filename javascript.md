@@ -112,6 +112,7 @@ undefined
 * [Generators](http://www.2ality.com/2015/03/es6-generators.html) (good article) must be called `function*`s, with that ugly asterisk after the keyword. 
 * To provide fallback URLs for a library you reference, just [change its path to a list of paths](http://stackoverflow.com/a/12075285/1558430).
 * `$('#password').val()` works on Firefox's autocompleted password fields!
+* The square brackets in `@param {type} [thing]` mean optional parameter in JSDoc.
 
 ## Deferred API
 

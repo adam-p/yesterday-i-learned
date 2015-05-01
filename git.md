@@ -395,6 +395,10 @@ Gerrit does not do three-way merges.
 
 To fix it, replace `git push` with `git push --no-thin` to the `git-review` script.
 
+### Gerrit says I can't create a new branch
+
+That's because you really can't. You can't `git push origin -u anything` unless it already exists.
+
 ## Usage
 
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?

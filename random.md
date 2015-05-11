@@ -447,7 +447,19 @@
 1. [Oxygen candles](http://en.wikipedia.org/wiki/Chemical_oxygen_generator) produce emergency oxygen.
 1. [Imprint the student newspaper is a play on words based on gosling imprinting](http://en.wikipedia.org/wiki/Imprinting)
 1. The [ten code list](http://everets.org/kevin/ten-codes.php) is used by public infrastructure to notify employees of emergencies without telling the public what exactly is happening. The most famous one is perhaps "10-4" (OK).
-
+1. [Unstable rotation](https://youtube.com/watch?v=RWZFhambLDM): objects favour rotational axes that are either lowest or highest in angular momentum, but not the axis in between.
+1. [Ebola can reside in testicles for a very long time](https://www.reddit.com/r/worldnews/comments/358thb/for_the_first_time_ebola_has_been_discovered/).
+1. The extra lace holes at the top of shoes are meant to construct [heel locks](https://youtube.com/watch?v=IijQyX_YCKA) that reduce blisters while running.
+1. [The last entry of copy and pasted lines tend to be wrong](https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect).
+1. "Herbs" are only from leaves of plants, and that "spices" are from everything *but* the leaves.
+1. Fecal popcorning are these minute particles of excrement that if you breath it (in addition to just being disgusting) can lead to very dangerous fungal infections in your lungs.
+1. Astronauts must have good airflow around them when they sleep, otherwise, they could wake up oxygen-deprived and gasping for air because a bubble of their own exhaled carbon dioxide had formed around their heads.
+1. The event horizon is where escape velocity equals the speed of light. The photon sphere is where orbital velocity equals the speed of light.
+1. [Deflashing](http://en.wikipedia.org/wiki/Cryogenic_deflashing) can refer to the removal of *flash*, excess material from plastic moulding.
+1. Hair grown to deliberately irritate is called [Urticating hair](http://en.wikipedia.org/wiki/Urticating_hair).
+1. The feeling of suddenly not knowing yourself is called [depersonalisation](http://en.wikipedia.org/wiki/Depersonalization). It is the most common psychological disorder after anxiety and depression.
+1. "Sitrep" stands for "situation report".
+1. "Bespoke" means "custom made".
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

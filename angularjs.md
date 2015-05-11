@@ -46,3 +46,4 @@ meaning there is no purpose whatsoever to use `.provider`, and almost no reason 
 * Incidentally, `scope: false` makes a directive [use its parent's scope](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/) without creating one for itself.
 * Only in a loop can you alias a variable with [`ngInit`](http://stackoverflow.com/questions/25938059/how-to-alias-object-property-as-variable-in-ng-repeat): `ng-init='something as original.attribute'`
 * [`$scope.$new(true)` creates a new isolate scope](http://stackoverflow.com/a/15560832), where `true` creates an isolate scope, and `false` doesn't. It is not as useful as you think.
+* [`finally` and `delete` are keywords you cannot use in IE8](https://github.com/angular/angular.js/commit/f078762d48d0d5d9796dcdf2cb0241198677582c), whether or not it is an attribute. To use `$q.finally`, you need `$q['finally']`.

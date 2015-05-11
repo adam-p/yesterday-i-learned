@@ -11,3 +11,4 @@
 
 * The [`~ClassName`](http://stackoverflow.com/a/1395509/1558430) definition in a class denotes a destructor, because `ClassName` initially is a constructor, but negated by `~` to give the semantic meaning of a destructor. 
 * `public:` followed by an indented block of methods, means that anything inside the block is public (same applies to `private`)
+* [Trigraphs](http://stackoverflow.com/questions/7825055/what-does-the-c-operator-do) are character mappings that map three characters to a single one, not found on older keyboards. For example, "??!" maps to "|".

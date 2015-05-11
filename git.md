@@ -177,6 +177,11 @@ Run `git pull`. You can now checkout the branch.
 ## "You are in 'detached HEAD' state"
 `git stash && git checkout -b (new branch) && git stash pop`
 
+## Don't know which branches are merged
+
+`git branch --merged` shows all branches that are already merged into your local master.
+`git branch --merged | grep -v "\*" | xargs -n 1 git branch -d` deletes all of them.
+
 ## git submodules
 ### Can't tell if I will be committing a file to the repo or the submodule
 The file will be committed to the closest `.git` repository.

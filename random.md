@@ -474,6 +474,8 @@
 1. Many reptiles have a photoreceptive [parietal eye](http://en.m.wikipedia.org/wiki/Parietal_eye) on top of their heads (where the parietal gland is) that control thermoregulation.
 1. To keep notes organised, [tag their page edges](http://blog.highfivehq.com/posts/a-little-known-hack-from-japan-to-get-your-notebook-organized).
 1. "Rhadamanthine" means "stern" or "inflexible".
+1. To take a screenshot in Firefox, type Shift+F2, then `screenshot --fullpage filename.png`
+1. 
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

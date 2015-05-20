@@ -117,6 +117,7 @@ undefined
 * In addition to the public/private use distinction, ["a deferred (which generally extends Promise) can resolve itself, while a promise *might* not be able to do so."](http://stackoverflow.com/a/6824836) (emphasis mine/yours)
 * (and) *Futures* are deprecated implementations of Promises.
 * [Shebangs are permitted in server-side `.js` files](http://stackoverflow.com/questions/10696222/how-to-make-javascript-support-shebang) run by nodejs or js.
+* You know how you can't just pass `console.log` as a function? Use [`console.log.bind(console)`](http://stackoverflow.com/questions/6789689/javascript-abstract-console-logging) instead.
 
 ## Deferred API
 

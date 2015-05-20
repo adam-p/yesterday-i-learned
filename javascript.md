@@ -64,7 +64,7 @@ return function IndexError(msg) {
 * `_.result(a)` returns `a()` if it is a function, or just `a`.
 * `Number()` returns 1 or 0.
 * If desperate, `_.omit(obj)` makes a copy of the object. `_.omit(obj, key1, key2, ...)` creates a copy without attributes key1 and key2.
-* `navigator.onLine` is `true` when the browser is actually online.
+* `navigator.onLine` is `true` when the browser is actually online, unless you are on a mobile device, in which case it is always `false`.
 * Backbone: `Collection.parse` is called *only* if you resolve the `fetch` XHR with remote JSON. It doesn't do anything if you resolve with an object.
 * [JSON on IE8? Nope][stackoverflow 10]
 * AJAX on IE? Nope. Need to use `this.response || this.responseText` for any AJAX objects made.

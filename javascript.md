@@ -116,6 +116,7 @@ undefined
 * The square brackets in `@param {type} [thing]` mean optional parameter in JSDoc.
 * In addition to the public/private use distinction, ["a deferred (which generally extends Promise) can resolve itself, while a promise *might* not be able to do so."](http://stackoverflow.com/a/6824836) (emphasis mine/yours)
 * (and) *Futures* are deprecated implementations of Promises.
+* [Shebangs are permitted in server-side `.js` files](http://stackoverflow.com/questions/10696222/how-to-make-javascript-support-shebang) run by nodejs or js.
 
 ## Deferred API
 

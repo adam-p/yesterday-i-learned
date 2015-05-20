@@ -113,6 +113,7 @@ undefined
 * To provide fallback URLs for a library you reference, just [change its path to a list of paths](http://stackoverflow.com/a/12075285/1558430).
 * `$('#password').val()` works on Firefox's autocompleted password fields!
 * The square brackets in `@param {type} [thing]` mean optional parameter in JSDoc.
+* In addition to the public/private use distinction, ["a deferred (which generally extends Promise) can resolve itself, while a promise *might* not be able to do so."](http://stackoverflow.com/a/6824836) (emphasis mine/yours)
 
 ## Deferred API
 

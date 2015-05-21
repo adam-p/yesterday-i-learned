@@ -64,7 +64,7 @@ return function IndexError(msg) {
 * `_.result(a)` returns `a()` if it is a function, or just `a`.
 * `Number()` returns 1 or 0.
 * If desperate, `_.omit(obj)` makes a copy of the object. `_.omit(obj, key1, key2, ...)` creates a copy without attributes key1 and key2.
-* `navigator.onLine` is `true` when the browser is actually online.
+* `navigator.onLine` is `true` when the browser is actually online, unless you are on a mobile device, in which case it is always `false`.
 * Backbone: `Collection.parse` is called *only* if you resolve the `fetch` XHR with remote JSON. It doesn't do anything if you resolve with an object.
 * [JSON on IE8? Nope][stackoverflow 10]
 * AJAX on IE? Nope. Need to use `this.response || this.responseText` for any AJAX objects made.
@@ -86,6 +86,7 @@ return function IndexError(msg) {
 * `npm` has a [dedupe](https://www.npmjs.org/doc/cli/npm-dedupe.html) option that groups common dependencies higher up the dependency tree.
 * Use `bower` in place of npm for client side packaging to [avoid multiple versions of the same library sent to the client](http://stackoverflow.com/a/18652918).
 * [`{} + {}`](http://stackoverflow.com/a/9033306/1558430), when run as-is, is the addition of an [empty block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block) and an empty object. While two empty objects added together is `[object Object][object Object]`, because empty blocks are not empty objects (and it is entirely up to the interpreter and [the spec](http://www.ecma-international.org/ecma-262/5.1/#sec-12.1) to decide which one it is), the explicit construction of objects matters (`(a = {}) + {}` is adding two objects, for example)
+* Relatedly, *blocks* (`{...}`) are mere syntax for command groups. The `if` statement executes anything after it, which is either a single command, or a block, which is a group of commands.
 * node has a [debugger](http://nodejs.org/api/debugger.html). To use it, run `node debug` where you normally run `node`.
 * "[Every function in Node.js is asynchronous](http://code.tutsplus.com/tutorials/node-js-for-beginners--net-26314)", even the ones that are normally blocking.
 * `npm ls` lists installed packages.
@@ -113,6 +114,10 @@ undefined
 * To provide fallback URLs for a library you reference, just [change its path to a list of paths](http://stackoverflow.com/a/12075285/1558430).
 * `$('#password').val()` works on Firefox's autocompleted password fields!
 * The square brackets in `@param {type} [thing]` mean optional parameter in JSDoc.
+* In addition to the public/private use distinction, ["a deferred (which generally extends Promise) can resolve itself, while a promise *might* not be able to do so."](http://stackoverflow.com/a/6824836) (emphasis mine/yours)
+* (and) *Futures* are deprecated implementations of Promises.
+* [Shebangs are permitted in server-side `.js` files](http://stackoverflow.com/questions/10696222/how-to-make-javascript-support-shebang) run by nodejs or js.
+* You know how you can't just pass `console.log` as a function? Use [`console.log.bind(console)`](http://stackoverflow.com/questions/6789689/javascript-abstract-console-logging) instead.
 
 ## Deferred API
 

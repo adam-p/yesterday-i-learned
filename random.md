@@ -463,6 +463,22 @@
 1. "Inner-platform effect" refers to software becoming so flexible that its structure becomes its parent programming language/platform.
 1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time. 
 1. Kombucha is fermented tea. Although kombucha is claimed to have several beneficial effects on health, the claims are not supported by scientific evidence.
+1. [Underdrive pulleys](http://en.wikipedia.org/wiki/Underdrive_pulleys) turn at a slower speed than stock. They increase horsepower by removing power from accessories like the AC.
+1. [Opiliones](http://en.m.wikipedia.org/wiki/Opiliones), also called *Harvestmen*, look like spiders, but are much more useful than spiders.
+1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken.
+1. Scottish bank notes are in fact promissory notes, and are worth nothing like GBP in value.
+1. Capsaicin does not affect birds. Hotness in Capsicum plants helps them spread their seeds because it makes them unpleasant for mammals, but still tasty for birds (which, you know, fly).
+1. [Speibecken](http://de.wikipedia.org/wiki/Speibecken) are German Oktoberfest puke sinks. They are not only used during Oktoberfest.
+1. Every year, important people in the [Bilderberg Group](http://en.wikipedia.org/wiki/Bilderberg_Group) meet up, lock themselves in a soundproof room, and discuss world affairs in confidence. No one knows what they talk about.
+1. [The Indian education system] revolve around examinations, the education itself is deeply flawed. Rote memorization in almost every subject, no critical thinking whatsoever, outdated syllabuses, terrible teachers (they aren't paid well so usually "good" people don't get into teaching), and exams that are easy to "game". [Rest of comment](https://www.reddit.com/r/worldnews/comments/2zld47/bbc_news_indian_students_caught_cheating_in_exams/cpk0xow)
+1. [When accompanied by a slightly less attractive person who looks like you, you are more attractive to others around you.](http://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions?language=en)
+1. Rubbing a bruised spot floods the area with pain signals, making it paradoxically less painful. Rubbing a painful spot is also a universal human instinct.
+1. [Quakes][quake] happen everywhere, all planets with tectonic plates, and the moon...
+1. Many reptiles have a photoreceptive [parietal eye](http://en.m.wikipedia.org/wiki/Parietal_eye) on top of their heads (where the parietal gland is) that control thermoregulation.
+1. To keep notes organised, [tag their page edges](http://blog.highfivehq.com/posts/a-little-known-hack-from-japan-to-get-your-notebook-organized).
+1. "Rhadamanthine" means "stern" or "inflexible".
+1. To take a screenshot in Firefox, type Shift+F2, then `screenshot --fullpage filename.png`
+1. 
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html
@@ -496,6 +512,7 @@
 [owasp]: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
 [pnas]: http://www.pnas.org/content/early/2014/05/29/1402786111
 [poopreport]: http://www.poopreport.com/Doctor/Knowledgebase/beer_and_poop.html
+[quake]: http://en.wikipedia.org/wiki/Quake_(natural_phenomenon)
 [readthedocs]: http://django-tastypie.readthedocs.org/en/latest/cookbook.html#using-your-resource-in-regular-views
 [reddit]: http://www.reddit.com/r/AskReddit/comments/1tsfyd/what_is_something_i_could_teach_myself_in_5/
 [reddit 10]: http://www.reddit.com/r/Archery/comments/2cks3g/what_is_a_fast_flight_string/cjgfwn8

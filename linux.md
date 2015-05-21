@@ -130,6 +130,7 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 * Find any non-ASCII character in a file: `grep -P '[^\x00-\x7f]' file`
 * `cd $SOME_PATH` will go to your home directory if `$SOME_PATH` is blank, which is why people wrap it with double quotes, because `cd "${SOME_PATH}"` = `cd ""`, which doesn't go anywhere.
 * `pstree -pu $USER` is `ps` for the USER.
+* `/var/tmp/` is a `/tmp/` that is "cleaned less often."
 
 ## Tmux
 

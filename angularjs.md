@@ -49,3 +49,5 @@ meaning there is no purpose whatsoever to use `.provider`, and almost no reason 
 * [`finally` and `delete` are keywords you cannot use in IE8](https://github.com/angular/angular.js/commit/f078762d48d0d5d9796dcdf2cb0241198677582c), whether or not it is an attribute. To use `$q.finally`, you need `$q['finally']`.
 * `ng-if` creates a child scope while `ng-show`/`ng-hide` does not.
 * One reason why AngularJS is slow: ["The JavaScript browser api is event-driven, it is made to respond when stuff (usually user input) happens. This means that events change data. Many new frameworks (Angular, Meteor) reverse this direction and make data changes trigger events."](https://medium.com/@ilyothehorrid/writing-code-for-humans-5b80a89f439c)
+* [Ionic's `collection-repeat`](http://ionicframework.com/docs/api/directive/collectionRepeat/) is faster for lists than `ng-repeat`.
+* Although [the article](https://medium.com/@fabrik42/cleaner-angularjs-directives-with-curried-functions-57a63c895da5) has nothing to do with currying, binding functions to a scope outside the scope itself is a practice that can be used to flatten a directive.

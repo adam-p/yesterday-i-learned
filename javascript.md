@@ -3,6 +3,7 @@
 * You can't send code to the server by POST and have the browser run the same code. (Refused to execute a JavaScript script. Source code of script found within request.)
 * The window's `storage` event is fired on [every window using the storage except the window that modified storage][stackoverflow].
 * `in` compares by reference, apparently. `'e' in 'hello'.split('')` returns false.
+*  You also shouldn't blindly `in` everything; [`for (var i in window.external)`](http://andrew.hedges.name/experiments/in/) throws exceptions in IE.
 * NaN always compares to false. Only isNaN can compare NaN.
 * Delegated selectors save memory (most of the time): `$(parentObject).on(events, selector[, data], function (event) {})`
 * Delegated events can be triggered by `.trigger("myCustomEvent", [data])`.
@@ -118,6 +119,7 @@ undefined
 * (and) *Futures* are deprecated implementations of Promises.
 * [Shebangs are permitted in server-side `.js` files](http://stackoverflow.com/questions/10696222/how-to-make-javascript-support-shebang) run by nodejs or js.
 * You know how you can't just pass `console.log` as a function? Use [`console.log.bind(console)`](http://stackoverflow.com/questions/6789689/javascript-abstract-console-logging) instead.
+* [`\S` is negated `\s`](http://stackoverflow.com/questions/4377480/what-does-this-s-regex-mean-in-javascript) (so anything but whitespaces)
 
 ## Deferred API
 

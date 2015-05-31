@@ -461,6 +461,9 @@
 1. The feeling of suddenly not knowing yourself is called [depersonalisation](http://en.wikipedia.org/wiki/Depersonalization). It is the most common psychological disorder after anxiety and depression.
 1. "Sitrep" stands for "situation report".
 1. "Bespoke" means "custom made".
+1. "Inner-platform effect" refers to software becoming so flexible that its structure becomes its parent programming language/platform.
+1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time. 
+1. Kombucha is fermented tea. Although kombucha is claimed to have several beneficial effects on health, the claims are not supported by scientific evidence.
 1. [Underdrive pulleys](http://en.wikipedia.org/wiki/Underdrive_pulleys) turn at a slower speed than stock. They increase horsepower by removing power from accessories like the AC.
 1. [Opiliones](http://en.m.wikipedia.org/wiki/Opiliones), also called *Harvestmen*, look like spiders, but are much more useful than spiders.
 1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken.

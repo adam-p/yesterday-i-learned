@@ -119,6 +119,18 @@ According to onymous internet sources,
 
 Run `sudo apt-get install libxml2-dev libxslt-dev python-dev lib32z1-dev`, *then* run `pip install lxml`
 
+## QuerySet
+
+### Queries do crazy things when executed in parallel
+
+Use `@transaction.atomic`.
+
+### Queries do crazy things even when executed in atomic blocks
+
+Use `QuerySet.select_for_update(nowait=bool).filter(...)` in conjunction with `@transaction.atomic`.
+
+All tables read by that `filter()` will be locked and be exclusive to this queryset until the atomic block is done.
+
 ## Misc
 
 ### Filtering by how many other foreign keys an object has

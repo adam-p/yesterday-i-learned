@@ -31,3 +31,5 @@ class Rectangle {
 ```
 
 * [Trigraphs](http://stackoverflow.com/questions/7825055/what-does-the-c-operator-do) are character mappings that map three characters to a single one, not found on older keyboards. For example, "??!" maps to "|".
+* You are supposed to use [Smart pointers](http://en.wikipedia.org/wiki/Smart_pointer) now (C++11), which manages memory allocation for you. You should never (supposedly) create references to objects like in C# and Java either; just create objects and C++ will manage the memory for you.
+* Operators can be overloaded; for example, to overload `+` for adding two `Class`es together, use `Class operator+(const Class&, const Class&);`

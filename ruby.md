@@ -78,4 +78,4 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * `is_a` and `kind_of` are the same method: true if the object is an instance of that class or its subclasses. [`instance_of`](http://stackoverflow.com/a/3893305/1558430), on the other hand, checks for its exact class.
 * [Symbols](http://www.troubleshooters.com/codecorn/ruby/symbols.htm#_What_do_symbols_look_like) are pairs of ids and immutable strings. They look like `:this`, and have performance benefits because of their immutability.
 * Not until Ruby 2.2 did it [GC symbols](https://bugs.ruby-lang.org/issues/7791), creating security issues for Rails sites.
-* 
+* The `gem` thing lets you list available versions if you provide two flags: `gem list package_name --remote --all`

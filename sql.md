@@ -77,6 +77,10 @@ ERROR:  could not create unique index "assets_tile_pkey"
 DETAIL:  Key (id)=(43) is duplicated.
 ```
 
+### New databases don't have extensions installed
+
+Postgres has 'templates', so running `psql -d template1 -c 'CREATE EXTENSION...'` adds the CREATE EXTENSION line to the list of queries to run when creating a database.
+
 # MongoDB
 
 MongoDB is actually NoSQL, so it shouldn't be in this file.

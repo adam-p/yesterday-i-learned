@@ -55,6 +55,29 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 * Dip potatoes lightly in oil.
 * Bake in 350F for 35 minutes.
 
+## "Ghetto sofrito"
+
+Ingredients:
+
+* Lots of black beans
+* 5lb rice
+* 1 bag onions
+* a few bulbs garlic
+* 1 box Goya Sazon
+
+Procedures:
+
+* Cook one cup of rice. 
+* Slice a small onion, smash up a clove of garlic
+* Throw some olive oil or butter, onions and garlic into a HOT pan and fry them till the onion gets glassy. Throw some salt in there.
+* Grind some pepper in.
+* Toss in half a packet of Sazon and stir till you get a paste.
+* Dump in your can of beans and stir.
+* Add a pinch of Cayenne pepper
+* Simmer
+
+* Mix beans with rice.
+
 # Ingredients
 
 ## Hollandaise

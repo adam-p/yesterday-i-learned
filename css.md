@@ -33,6 +33,8 @@
 * [Pull and exact amount left and right opposite to each other](http://stackoverflow.com/questions/20979062/bootstrap-right-column-on-top-on-mobile-view) to have a bootstrap left column to appear at the bottom in mobile view.
 * Specificity are defined in sets; `(0,0,999,0)` (999 classes) is never greater than `(0,1,0,0)` (one id).
 * [Flexbox](http://caniuse.com/#feat=flexbox) is in fact already usable in all reasonable browsers (that is, not IE).
+* Flexbox isn't the end-all, either. It has a [known list of Flexbox bugs](https://github.com/philipwalton/flexbugs) across supported browsers that you should know about.
+
 
 ## XPath
 

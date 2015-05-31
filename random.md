@@ -136,6 +136,7 @@
 1. **Welp** does *not* stand for "help": [To be used in place of 'well', when one feels there is no more to say.][urbandictionary]
 1. Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.m.wikipedia.org/wiki/Paddington_Bear#History
 1. Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
+1. [Mortgage](http://en.wikipedia.org/wiki/Mortgage_loan) is French for "death pledge".
 1. It is illegal to pay your mortgage with loaned money, at least in the US.
 1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
 1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.
@@ -475,7 +476,16 @@
 1. To keep notes organised, [tag their page edges](http://blog.highfivehq.com/posts/a-little-known-hack-from-japan-to-get-your-notebook-organized).
 1. "Rhadamanthine" means "stern" or "inflexible".
 1. To take a screenshot in Firefox, type Shift+F2, then `screenshot --fullpage filename.png`
-1. 
+1. British licence plates are white in front and yellow at the back, to help people identify which way the car is going (it is hard to be sure, particularly when the Brits drive so slowly.)
+1. "Anne Frank was very curious about her lady region and discussed masturbation and menstruation quite a bit in her original writings. The version of her diary thats published and read in schools today is highly edited, leaving out about 99% of her self exploration submissions." [source](https://www.reddit.com/r/AskReddit/comments/36m3ed/reddit_historians_what_are_some_nsfw_rated_facts/)
+1. [Confessional booths](http://libro.uca.edu/lea4/8lea6.htm) were built by the church not to give the person some privacy, but to prevent the priests from having sex with young women who came to confession.
+1. As of Android L, the shell now comes with [htop](http://en.wikipedia.org/wiki/Htop) (or its busybox).
+1. "Compound" is more abrasive than "polish", which is more abrasive than wax. Always wax after doing either one.
+1. [Pescetarians](http://en.wikipedia.org/wiki/Pescetarianism) eat... no meat, except for fish and seafood, which are obviously not meat (because fish don't have feelings).
+1. [Propan-2-ol can remove most things from your car](https://www.youtube.com/watch?v=YCxxxxyd0Ps), as long as you understand that it won't be the most effective.
+1. *Turbo* is from Greek *τύρβη*, "wake", or Latin *turbo*, "spinning top",
+1. [With great ride comes with terrible handling](http://www.cartoq.com/modifying-your-car%E2%80%99s-suspension-to-make-it-stiffer-or-softer/); softening the suspension makes the car turn like a boat. This is also why sports cars have stiff suspensions (and horrible for your back).
+
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

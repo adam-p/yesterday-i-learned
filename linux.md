@@ -132,6 +132,7 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 * The 'h' in `htop` stands for 'Hisham'; Hisham Muhammad is the author of htop.
 * `pstree -pu $USER` is `ps` for the USER.
 * `/var/tmp/` is a `/tmp/` that is "cleaned less often."
+* [`file filename`](http://superuser.com/questions/275502/how-to-get-information-about-an-image-picture-from-the-linux-command-line) gives you information, including dimensions if the file is an image.
 
 ## Tmux
 

@@ -488,7 +488,8 @@
 1. [Propan-2-ol can remove most things from your car](https://www.youtube.com/watch?v=YCxxxxyd0Ps), as long as you understand that it won't be the most effective.
 1. *Turbo* is from Greek *τύρβη*, "wake", or Latin *turbo*, "spinning top",
 1. [With great ride comes with terrible handling](http://www.cartoq.com/modifying-your-car%E2%80%99s-suspension-to-make-it-stiffer-or-softer/); softening the suspension makes the car turn like a boat. This is also why sports cars have stiff suspensions (and horrible for your back).
-
+1. [Almost all modern cars have synchromesh, if you don't have it fitted you will need to 'double declutch'](http://www.drivingfast.net/car-control/rev-matching.htm)
+1. For steaming eggs, [a good ratio of water to eggs would be 1.5:1](http://en.wikipedia.org/wiki/Chinese_steamed_eggs)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

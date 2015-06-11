@@ -490,6 +490,9 @@
 1. [With great ride comes with terrible handling](http://www.cartoq.com/modifying-your-car%E2%80%99s-suspension-to-make-it-stiffer-or-softer/); softening the suspension makes the car turn like a boat. This is also why sports cars have stiff suspensions (and horrible for your back).
 1. [Almost all modern cars have synchromesh, if you don't have it fitted you will need to 'double declutch'](http://www.drivingfast.net/car-control/rev-matching.htm)
 1. For steaming eggs, [a good ratio of water to eggs would be 1.5:1](http://en.wikipedia.org/wiki/Chinese_steamed_eggs)
+1. [shitty link] [It is not illegal to ask interviewees if they have been *convicted* of a crime](http://www.omgfacts.com/lists/21015/If-You-re-Asked-Any-Of-These-8-Questions-In-A-Job-Interview-You-Don-t-Have-To-Answer), but illegal to ask if they have been *arrested*.
+1. It is also unwise (and not required) to answer "[when did you graduate?](http://www.omgfacts.com/lists/21015/If-You-re-Asked-Any-Of-These-8-Questions-In-A-Job-Interview-You-Don-t-Have-To-Answer)", because that gives away your age, and therefore, your ability/experience.
+
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

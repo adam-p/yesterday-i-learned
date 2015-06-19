@@ -37,6 +37,10 @@
 # PostgresQL
 
 * Logging into `psql`: `psql dbname username`
+* Backup a database: [`pg_dumpall > outfile`](http://www.postgresql.org/docs/9.1/static/backup-dump.html#BACKUP-DUMP-ALL) OR `pg_dump specific_db > outfile`
+* Compress a backup: `pg_dump dbname | gzip > outfile.gz`
+* Restore a backup: `psql -f outfile postgres` (the keyword `postgres` here is necessary only if you load into a [large cluster](http://www.postgresql.org/docs/9.1/static/backup-dump.html#BACKUP-DUMP-ALL))
+* Restore a compressed backup: `gunzip -c outfile.gz | psql dbname`
 * Delete a database: (`sudo su - owner_unix_user`), then run `dropdb dbname -Uowner_unix_user -W`. Alternatively, in psql, switch to a database (`\c postgres;`), then `DROP DATABASE dbname;` to delete.
 * [Postgres does not take performance hits from string lengths.](http://www.postgresql.org/docs/8.2/static/datatype-character.html) Putting it in reverse, it also means it cannot be sped up by shortening strings.
 * [`varying` string type has no length limit](http://stackoverflow.com/questions/2904991/postgresql-character-varying-length-limit)

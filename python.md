@@ -199,6 +199,7 @@ SyntaxError: invalid syntax
 * `(str).casefold()` is meant to normalise all variants of the same string, such as `['False', 'false', 'FALSE']` into something you can put into a switch-case block. Then again, there isn't switch-case in Python, only dict keys.
 * The [try-finally block](https://wiki.python.org/moin/HandlingExceptions) has no `except`, so it runs the finally block (which typically rolls back something), then raises the exception.
 * Although there are no docstring type-hinting standards, [this one by PyCharm](https://www.jetbrains.com/pycharm/help/type-hinting-in-pycharm.html) will do: `:param parameter_name: x.y.ParameterClass | None`
+* [`sum()` takes a second parameter](https://docs.python.org/2/library/functions.html#sum), `start`. It really means `sum() + start`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

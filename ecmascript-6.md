@@ -86,3 +86,17 @@ foo({x: 4, y: 5})
         console.log(`${key}: ${value}`);
     }
 ```
+
+* Imports and [default imports](http://www.2ality.com/2014/09/es6-modules-final.html) are similar, the only difference being whether the import is wrapped in braces.
+
+```
+export default function () { return 4 }
+export function foo() { return 5 }
+// ---
+import CallItAnything, {foo} from 'that_file';
+CallItAnything();  // 4
+foo();  // 5
+```
+
+* You can also `import * from 'a library'`.
+* `require('a library')` is slower than imports, as the latter can be optimised statically.

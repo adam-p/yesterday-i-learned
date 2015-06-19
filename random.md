@@ -501,6 +501,13 @@
 1. [Bogons](https://en.wikipedia.org/wiki/Bogon_filtering) are bogus IPs. These IPs have never been assigned to anything by the Internet Assigned Numbers Authority (IANA).
 1. It used to be the case that [`finger`](https://en.wikipedia.org/?title=Finger_protocol) could read a user's `.plan(s)` file, which reveals the user's current activities. It was a form of blogging.
 1. The [Roche (Rosh) Limit](https://en.wikipedia.org/wiki/Roche_limit) is the radius at which a large body can tear a smaller body apart, due to the effect of tidal forces on the smaller body.
+1. Sun Day, Moon Day, Tyr's Day, Odin's Day, Thor's Day, Frig's Day, and Saturn's Day.
+1. The [Baskerville](http://eyeondesign.aiga.org/can-a-font-make-us-believe-something-is-true/) font makes readers believe that which is written is true, much more often than other fonts, including Helvetica.
+1. [Release cards](http://america.aljazeera.com/articles/2015/4/20/release-cards-turn-inmates-and-their-families-into-profit-stream.html) are prison debit cards that charge a lot more (unregulated) fees. Prisoners are profit streams.
+1. [Clutches are in their resting position when down](https://au.answers.yahoo.com/question/index?qid=20080214204415AAAYoox).
+1. Japanese girls have not been [licking doorknobs}(http://japanesegirlslickingdoorknobs.tumblr.com/) for more than three years.
+1. It is pronounced "muh-NYE-ic-oh".
+1. It is pronounced "duh-MON-struh-tive".
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

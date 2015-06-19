@@ -120,6 +120,8 @@ undefined
 * [Shebangs are permitted in server-side `.js` files](http://stackoverflow.com/questions/10696222/how-to-make-javascript-support-shebang) run by nodejs or js.
 * You know how you can't just pass `console.log` as a function? Use [`console.log.bind(console)`](http://stackoverflow.com/questions/6789689/javascript-abstract-console-logging) instead.
 * [`\S` is negated `\s`](http://stackoverflow.com/questions/4377480/what-does-this-s-regex-mean-in-javascript) (so anything but whitespaces)
+* Depending on which browser version you have, you can already do these: `a = () => 'bar'`, `a = function() 'bar'`.
+* You can't `angular.copy` an HTML5 `Geoposition` object. It will lose all coordinate information.
 
 ## Deferred API
 
@@ -149,6 +151,7 @@ undefined
 * [Setting any `window.onunload` handler](http://stackoverflow.com/questions/2638292/after-travelling-back-in-firefox-history-javascript-wont-run) forces javascript to be re-run when the page is loaded from a back button.
 * Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
 * MDN: ["When defining a variable that is meant to later hold an object, it is advisable to initialize the variable to null as opposed to anything else. That way, you can explicitly check for the value null to determine if the variable has been filled with an object reference at a later time."](http://stackoverflow.com/a/13143055/1558430)
+* [Since Cordova 5.0.0](http://stackoverflow.com/a/30028686/1558430), [apps must declare `Content-Security-Policy`](https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md) in order to go online.
 
 ## [Lesser console methods](http://www.mitchrobb.com/chromes-console-api-greatest-hits/)
 

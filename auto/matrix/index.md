@@ -1,14 +1,14 @@
 Gasoline, Tank, and Exhaust
 ======================
 * Use unleaded gasoline, with an octane rating of 87+.
-* Toyota recommends use of gasolines that contain detergent additives to avoid build- up of engine deposits.
+* Toyota recommends use of gasolines that contain detergent additives (which is all gasoline in Canada) to avoid build- up of engine deposits.
 * Gasoline cannot contain more than 10% ethanol. It cannot contain methanol.
 * Your tank is 50L.
 
 Tires
 ======================
 * Your tire size is P205/55R16.
-* Your tires are supposed to be at 32 PSI. The spare, though, should go up to 60 PSI.
+* Your tires are supposed to be at 32 PSI. The spare, however, should go up to 60 PSI.
 * Do not mix tire types (winter/all-season)
 * Do not mix tire sizes
 
@@ -20,12 +20,10 @@ Power Steering
 Engine
 ======================
 * A new engine consumes more oil, since its pistons, piston rings and cylinder walls have not become conditioned.
-* Max crank (start car) time is 30 seconds.
-* There is also a min crank time.
-* 140 km/h is your particular vechicle's maximum rating.
-* Your vehicle can tow a maximum of 680 kg (1500 lb), where the max tongue load (mass actually exerted on the car instead of the trailer's tires) is 68 kg).
+* There seems to be no min crank time, but the maximum recommended crank time is still 30 seconds.
+* 140 km/h is your particular vechicle's maximum rating. There are [youtube videos](https://www.youtube.com/watch?v=QLXmNvEtEK0) showing 170km/h, but you know what will happen.
+* Your vehicle, given its choice of engine trim, cannot officially tow. (2-5)
 * Your engine is fitted with twin ground electrode spark plugs. Use only twin ground electrode spark plugs.
-* "Always turn the overdrive switch on for better fuel economy and quieter driving." (that is, pressed in)
 * Cold engines consume more fuel than warned engines.
 * Warming an engine up by revving it does not save fuel.
 * The Clutch: the outside of the wheel is a fibrous material that grabs to make contact when you let off the clutch pedal. A clutch works by friction, and every time the car is started when the clutch is engaged (touching the wheel), the material wears out a little.
@@ -33,8 +31,7 @@ Engine
 Winter driving
 ======================
 * The gauge beside the fuel level gauge is the coolant temperature gauge. It tells you if your engine is overheating.
-* Your coolant must contain ethylene- glycol type coolant for a proper corrosion protection of aluminum components.
-* Do not use alcohol antifreeze. Use 50%-60% antifreeze.
+* Ethyl-1,2-diol is your only choice of coolant *and* antifreeze.
 * Engine antifreeze can damage the car's paint.
 * The required oil type is 0W-20. 5W-20 may be used temporarily until the next oil change.
 * Squirt lock de- icer or glycerine into the locks to keep them from freezing. 
@@ -44,13 +41,12 @@ Winter driving
 * Pumping the ABS brake pedal makes the stopping distance longer.
 * Your car hardly ever engages ABS, even when you try to brake-test.
 * Locating the weight as far forward as possible helps maintain balance.
-* `2` and `L` are engine braking positions. In these low gears, the engine can easily overheat. Drive with caution.
-* `2` and `L` are not available when overdrive is on.
-* Never shift while pedalling.
+* `3`, `2` and `L` are engine braking positions. In these low gears, the engine can easily overheat. Drive with caution.
+* While it is possible to shift without the brake pedal while driving, it is not at all recommended.
 * Rocking the signal stick up and down is for left/right signals. Forward and backward are for hi-beams.
 * Pulling the washer thingy toward you will squirt washer fluid.
-* That "defrost" button next to the emergency stop button only heats the rear mirror.
-* The defrost button does not make snow go away.
+* That "defrost" button next to the emergency stop button heats the rear mirror, as well as the side mirrors.
+* Defrosting does not make snow go away.
 
 AC
 ======================

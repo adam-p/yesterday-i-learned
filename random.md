@@ -492,7 +492,15 @@
 1. For steaming eggs, [a good ratio of water to eggs would be 1.5:1](http://en.wikipedia.org/wiki/Chinese_steamed_eggs)
 1. [shitty link] [It is not illegal to ask interviewees if they have been *convicted* of a crime](http://www.omgfacts.com/lists/21015/If-You-re-Asked-Any-Of-These-8-Questions-In-A-Job-Interview-You-Don-t-Have-To-Answer), but illegal to ask if they have been *arrested*.
 1. It is also unwise (and not required) to answer "[when did you graduate?](http://www.omgfacts.com/lists/21015/If-You-re-Asked-Any-Of-These-8-Questions-In-A-Job-Interview-You-Don-t-Have-To-Answer)", because that gives away your age, and therefore, your ability/experience.
-
+1. [Young swans are known as *swanlings* or *cygnets*](https://en.wikipedia.org/wiki/Swan), from Greek κύκνος, kýknos and from the Latin word cygnus ("swan") and the Old French suffix -et ("little"). An adult male is a *cob*, from Middle English cobbe (leader of a group); an adult female is a *pen*.
+1. In the year of 1997, you had solved the rubik's cube (keychain), by random chance, while concentrating on taking a shit. You had double-checked and triple-checked the cube, and, indeed, it had been solved. And no one would believe you, because you were taking a shit, and no one saw you.
+1. "We have an anti-evasion law around here which makes it illegal for you to knowingly and intentionally go below the speed limit in order to avoid the possibility of going over and getting a ticket. The penalty is 30 days in jail vs the $100 speeding ticket. Since you admitted to intentionally going under the speed limit, I'm placing you under arrest."
+1. You have to understand the difference between someone who speaks to you on their free time and someone who frees their time to speak to you.
+1. 90% of credit card machines' passwords since 1990 is either 166816 or Z66816.
+1. "Move to management. Fluff the resume a bit and put yourself out there as someone who can manage a decent term project and get stuff done. Job interviews, much like everything in life, comes down to 10% what you say, and 90% how you say it. Come across as wise not old, confident not down on yourself, and have an air of "If you don't hire me you're a f'in moron" without actually saying that, and you might be surprised what you get."
+1. [Bogons](https://en.wikipedia.org/wiki/Bogon_filtering) are bogus IPs. These IPs have never been assigned to anything by the Internet Assigned Numbers Authority (IANA).
+1. It used to be the case that [`finger`](https://en.wikipedia.org/?title=Finger_protocol) could read a user's `.plan(s)` file, which reveals the user's current activities. It was a form of blogging.
+1. The [Roche (Rosh) Limit](https://en.wikipedia.org/wiki/Roche_limit) is the radius at which a large body can tear a smaller body apart, due to the effect of tidal forces on the smaller body.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

@@ -13,7 +13,7 @@
 
 ## Cash
 
-Low volatility, no risk. Never beats inflation.
+Low volatility, no [risk](https://www.reddit.com/r/stocks/comments/32kd0x/whether_youre_new_to_trading_or_notlean_on_these/.compact). Never beats inflation.
 
 ## Bonds
 

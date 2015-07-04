@@ -508,6 +508,7 @@
 1. Japanese girls have not been [licking doorknobs}(http://japanesegirlslickingdoorknobs.tumblr.com/) for more than three years.
 1. It is pronounced "muh-NYE-ic-oh".
 1. It is pronounced "duh-MON-struh-tive".
+1. However much Google results decide to decay, the way to check the device's battery percentage is `cat /sys/class/power_supply/battery/capacity`
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

@@ -105,6 +105,19 @@ This has a downside of no longer allowing the class to be referenced (as foreign
 
 Yeah. Suck it up.
 
+### `RelatedObjectDoesNotExist` when you try to access an attribute by `related_name`
+
+Well, here's somehow where Django decides to conform to `hasattr()`.
+
+```
+>>> foo.ratings
+RelatedObjectDoesNotExist: Foo has no ratings.
+>>> getattr(foo, 'ratings')
+RelatedObjectDoesNotExist: Foo has no ratings.
+>>> hasattr(foo, 'ratings')
+False  # foo has no ratings
+```
+
 ## Don't know what select_related and prefetch_related do
 According to onymous internet sources,
 

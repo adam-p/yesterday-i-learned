@@ -511,7 +511,7 @@
 1. Miserly is pronounced "MY-ser-ly".
 1. "[Dude](https://www.reddit.com/r/todayilearned/comments/384gf5/til_the_word_dude_was_first_used_in_the_late/)" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
 1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.](https://www.reddit.com/r/askscience/comments/3c3rd7/does_lightning_strike_the_ocean_if_so_does_it/)
-
+1. However much Google results decide to decay, the way to check the device's battery percentage is `cat /sys/class/power_supply/battery/capacity`
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

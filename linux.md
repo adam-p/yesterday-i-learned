@@ -133,6 +133,8 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 * `pstree -pu $USER` is `ps` for the USER.
 * `/var/tmp/` is a `/tmp/` that is "cleaned less often."
 * [`file filename`](http://superuser.com/questions/275502/how-to-get-information-about-an-image-picture-from-the-linux-command-line) gives you information, including dimensions if the file is an image.
+* One (and the only useful) [command for locating large files](http://linuxlookup.com/howto/find_all_large_files_linux_system) is `find / -type f -size +20M -exec ls -lh {} \; 2> /dev/null | awk '{ print $NF ": " $5 }' | sort -nk 2,2`
+* Lines cannot be fed into `rm`. To `rm` all files listed by another program per line, run `theprogram | tr "\n" "\0" | xargs -0 rm` (check first)
 
 ## Tmux
 

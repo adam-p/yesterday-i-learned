@@ -506,8 +506,12 @@
 1. [Release cards](http://america.aljazeera.com/articles/2015/4/20/release-cards-turn-inmates-and-their-families-into-profit-stream.html) are prison debit cards that charge a lot more (unregulated) fees. Prisoners are profit streams.
 1. [Clutches are in their resting position when down](https://au.answers.yahoo.com/question/index?qid=20080214204415AAAYoox).
 1. Japanese girls have not been [licking doorknobs}(http://japanesegirlslickingdoorknobs.tumblr.com/) for more than three years.
-1. It is pronounced "muh-NYE-ic-oh".
-1. It is pronounced "duh-MON-struh-tive".
+1. Maniacal is pronounced "muh-NYE-ic-oh".
+1. Demonstrative is pronounced "duh-MON-struh-tive".
+1. Miserly is pronounced "MY-ser-ly".
+1. "[Dude](https://www.reddit.com/r/todayilearned/comments/384gf5/til_the_word_dude_was_first_used_in_the_late/)" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
+1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.](https://www.reddit.com/r/askscience/comments/3c3rd7/does_lightning_strike_the_ocean_if_so_does_it/)
+1. However much Google results decide to decay, the way to check the device's battery percentage is `cat /sys/class/power_supply/battery/capacity`
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

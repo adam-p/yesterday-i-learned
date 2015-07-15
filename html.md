@@ -17,6 +17,7 @@
 * [Nested `span`s are okay.](http://stackoverflow.com/questions/1078127/are-nested-span-tags-ok-in-xhtml) The same probably speaks for other inline elements, too.
 * A `<button>` with undeclared `type` apparently defaults to a submit button.
 * [You can define your own tags](http://stackoverflow.com/questions/9845011/are-custom-elements-valid-html5/9845124#9845124). They just need at least one dash in the tag name, e.g. `<x-hello>`, `<md-tag>`, `com-foo`.
+  The key function here is [`var XFoo = document.registerElement('x-foo');`](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
 
 ```
 Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.google-analytics.com collector-cdn.github.com; object-src assets-cdn.github.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' assets-cdn.github.com; img-src 'self' data: assets-cdn.github.com identicons.github.com www.google-analytics.com collector.githubapp.com *.githubusercontent.com *.gravatar.com *.wp.com; media-src 'none'; frame-src 'self' render.githubusercontent.com gist.github.com www.youtube.com player.vimeo.com checkout.paypal.com; font-src assets-cdn.github.com; connect-src 'self' ghconduit.com:25035 live.github.com uploads.github.com s3.amazonaws.com

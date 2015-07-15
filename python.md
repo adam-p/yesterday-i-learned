@@ -201,6 +201,9 @@ SyntaxError: invalid syntax
 * Although there are no docstring type-hinting standards, [this one by PyCharm](https://www.jetbrains.com/pycharm/help/type-hinting-in-pycharm.html) will do: `:param parameter_name: x.y.ParameterClass | None`
 * [`sum()` takes a second parameter](https://docs.python.org/2/library/functions.html#sum), `start`. It really means `sum() + start`.
 * `history` is always a variable in ipython.
+* Booleans are inherited from `int`, so you can add them together.
+* "Tim Peters also snuck some subtle jokes into the Zen itself (notice the dashes on the TOOWTDI line do it two different ways?"
+
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

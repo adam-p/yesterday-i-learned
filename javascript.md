@@ -122,6 +122,8 @@ undefined
 * [`\S` is negated `\s`](http://stackoverflow.com/questions/4377480/what-does-this-s-regex-mean-in-javascript) (so anything but whitespaces)
 * Depending on which browser version you have, you can already do these: `a = () => 'bar'`, `a = function() 'bar'`.
 * You can't `angular.copy` an HTML5 `Geoposition` object. It will lose all coordinate information.
+* Adding a [label](https://www.reddit.com/r/javascript/comments/3cxkex/til_you_can_break_continue_to_a_label/) on top of a do/for/while loop allows `break` statements to specify how many levels to break, much like PHP's `break n`.
+
 
 ## Deferred API
 

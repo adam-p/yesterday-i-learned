@@ -512,6 +512,18 @@
 1. "[Dude](https://www.reddit.com/r/todayilearned/comments/384gf5/til_the_word_dude_was_first_used_in_the_late/)" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
 1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.](https://www.reddit.com/r/askscience/comments/3c3rd7/does_lightning_strike_the_ocean_if_so_does_it/)
 1. However much Google results decide to decay, the way to check the device's battery percentage is `cat /sys/class/power_supply/battery/capacity`
+1. Not only do dolphins rape whales, [they are also friends with them](http://www.techly.com.au/2015/05/13/dolphins-caught-going-whale-rides-hawaii-yep-thats-exactly-sounds-like/).
+1. [Star anise](https://en.wikipedia.org/wiki/Star_anise) make shikimic acid, an intermediate for oseltamivir (tamiflu).
+1. [Famine suppresses boy genes.](https://youtube.com/watch?v=3IaYhG11ckA) Having the mother around males other than the father also increases chances of stillbirth.
+1. Carbines are shorter versions of rifles.
+1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
+1. [Tap codes](https://en.wikipedia.org/wiki/Tap_code) go through walls, which morse code does not (because it is not possible to have 'long knocks')
+1. An erect turtle penis looks like [Anthurium](https://en.wikipedia.org/wiki/Anthurium), a common type of flower.
+1. [The number of flags behind a government announcement](http://www.theguardian.com/news/datablog/2015/jun/24/10-flag-announcement-brings-government-flag-count-to-all-time-high?CMP=soc_567) has meaning, apparently.
+1. [Beauty sleep](http://www.sleepdex.org/beautysleep.htm): skin breaks down slower during sleep. So it's not that sleep makes you beautiful; it makes you less ugly.
+1. [Funeral biscuits](http://historiccamdencounty.com/ccnews153.shtml) were invented by cavemen to represent "incorporating their essence into one's own" without needing to consume the body of the diseased. Victorians improved the practice by not putting the biscuits directly on top of the dead.
+1. "Plinking" is shooting cans. "Pinking" is arousing a vulva.
+
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

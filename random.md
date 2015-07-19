@@ -523,7 +523,8 @@
 1. [Beauty sleep](http://www.sleepdex.org/beautysleep.htm): skin breaks down slower during sleep. So it's not that sleep makes you beautiful; it makes you less ugly.
 1. [Funeral biscuits](http://historiccamdencounty.com/ccnews153.shtml) were invented by cavemen to represent "incorporating their essence into one's own" without needing to consume the body of the diseased. Victorians improved the practice by not putting the biscuits directly on top of the dead.
 1. "Plinking" is shooting cans. "Pinking" is arousing a vulva.
-
+1. Chapter 11 backruptcy can be filed by people who have money. Case in point was Donald Trump, billionaire, who filed Chapter 11 for the fifth time.
+1. "Thunder Bay is home to ... the highest concentration of persons of Finnish origin per capita in Canada" - D. Maki (Hill)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

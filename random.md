@@ -525,6 +525,9 @@
 1. "Plinking" is shooting cans. "Pinking" is arousing a vulva.
 1. Chapter 11 backruptcy can be filed by people who have money. Case in point was Donald Trump, billionaire, who filed Chapter 11 for the fifth time.
 1. "Thunder Bay is home to ... the highest concentration of persons of Finnish origin per capita in Canada" - D. Maki (Hill)
+1. The Bible never says how many wise men there were.
+1. [Random blanks](https://en.wikipedia.org/wiki/Andriza_Mircovich) are given to soldiers to let them feel that they were not responsible for killing a single person.
+
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

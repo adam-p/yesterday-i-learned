@@ -57,6 +57,7 @@ Further reading: [0001.md](sources/0001.md)
 * Consider buying stocks in a *bull market*: a market where people are starting to gain confidence in investing.
 * Never buy stocks in a *bear market*: a market whose general prices are falling, and people are being pessimistic.
 * *Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns.*
+* [When VIX is low its time to go; When VIX is high its time to buy](https://www.reddit.com/r/StockMarket/comments/3dqggo/when_vix_is_low_its_time_to_go_when_vix_is_high)
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 

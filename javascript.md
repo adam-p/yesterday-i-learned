@@ -123,7 +123,11 @@ undefined
 * Depending on which browser version you have, you can already do these: `a = () => 'bar'`, `a = function() 'bar'`.
 * You can't `angular.copy` an HTML5 `Geoposition` object. It will lose all coordinate information.
 * Adding a [label](https://www.reddit.com/r/javascript/comments/3cxkex/til_you_can_break_continue_to_a_label/) on top of a do/for/while loop allows `break` statements to specify how many levels to break, much like PHP's `break n`.
-
+* [Setting any `window.onunload` handler](http://stackoverflow.com/questions/2638292/after-travelling-back-in-firefox-history-javascript-wont-run) forces javascript to be re-run when the page is loaded from a back button.
+* Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
+* MDN: ["When defining a variable that is meant to later hold an object, it is advisable to initialize the variable to null as opposed to anything else. That way, you can explicitly check for the value null to determine if the variable has been filled with an object reference at a later time."](http://stackoverflow.com/a/13143055/1558430)
+* [Since Cordova 5.0.0](http://stackoverflow.com/a/30028686/1558430), [apps must declare `Content-Security-Policy`](https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md) in order to go online.
+* [Riot.js](https://muut.com/riotjs/) has manual digest cycles. You can change attributes in an element's mounting options all you like, but it will get updated only when the next time any of the tag's internal methods are run.
 
 ## Deferred API
 
@@ -150,10 +154,6 @@ undefined
 * [Except in Safari][jsperf 2], never pre-allocate arrays.
 * Avoid element reflowing/redrawing (but this is more of a DOM thing rather than JS)
 * Trig (`sin`, `cos`) is [*MUCH slower*](http://jsperf.com/sin-cos-vs-sqrt) than `sqrt`, in cases where the former is applicable.
-* [Setting any `window.onunload` handler](http://stackoverflow.com/questions/2638292/after-travelling-back-in-firefox-history-javascript-wont-run) forces javascript to be re-run when the page is loaded from a back button.
-* Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
-* MDN: ["When defining a variable that is meant to later hold an object, it is advisable to initialize the variable to null as opposed to anything else. That way, you can explicitly check for the value null to determine if the variable has been filled with an object reference at a later time."](http://stackoverflow.com/a/13143055/1558430)
-* [Since Cordova 5.0.0](http://stackoverflow.com/a/30028686/1558430), [apps must declare `Content-Security-Policy`](https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md) in order to go online.
 
 ## [Lesser console methods](http://www.mitchrobb.com/chromes-console-api-greatest-hits/)
 

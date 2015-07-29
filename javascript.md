@@ -127,7 +127,6 @@ undefined
 * Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
 * MDN: ["When defining a variable that is meant to later hold an object, it is advisable to initialize the variable to null as opposed to anything else. That way, you can explicitly check for the value null to determine if the variable has been filled with an object reference at a later time."](http://stackoverflow.com/a/13143055/1558430)
 * [Since Cordova 5.0.0](http://stackoverflow.com/a/30028686/1558430), [apps must declare `Content-Security-Policy`](https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md) in order to go online.
-* [Riot.js](https://muut.com/riotjs/) has manual digest cycles. You can change attributes in an element's mounting options all you like, but it will get updated only when the next time any of the tag's internal methods are run.
 
 ## Deferred API
 
@@ -136,6 +135,16 @@ undefined
 * `<Deferred>.done(function, function, ...)`
 * `<Deferred>.always(function, function, ...)`
 * `<Deferred>.fail(function, function, ...)`
+
+## [Promise API](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+* An executor is `function(resolve, reject) { ... }`
+* A *Promise* is `new Promise(executor);`
+* `Promise.all([Promise, Promise, ...]) => <Promise>`
+* `Promise.race([Promise, Promise, ...]) => <Promise>`  aka `Promise.any` if it existed
+* `Promise.resolve(value) => <Promise>`, `Promise.reject(value) => <Promise>` that are pre-resolved/pre-rejected
+* `<Promise>.then(function succeed, function fail) => <Promise>`  If any of these functions return anything, [the new promise will resolve/reject with their return values.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
+* `<Promise>.catch(function error)`  If any of `(succeed, fail)` throws an Error, [the `function error` will receive the same Error.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)
 
 ## [Writing memory-efficient JavaScript][smashingmagazine]
 
@@ -162,6 +171,16 @@ undefined
 * `console.group()  // starts a group (groupCollapsed starts a collapsed group)`
 * `console.groupEnd() // ends a group`
 * `console.table(objOfObjs, listOfKeys)  // prints out a table of these things`
+
+## [Riot.js](https://muut.com/riotjs/)
+
+* Missed the headline. Riot is a UI library, not an MVC framework.
+* Digest cycles are manual. You can change attributes in an element's mounting options all you like, but it will get updated only when the next time any of the tag's internal methods are run.
+* Nested tags do not need to be mounted. They also don't work properly (e.g. adding extra elements onto the page) if they are mounted.
+* Nested tags seem to inherit scopes implicitly, with `this.parent` always being the parent tag. Not sure if it is possible to have isolate scopes yet.
+* There are things that Riot cannot do, like AJAX; the docs recommend using jQuery, and then [`trigger()`ing an observable()](https://muut.com/riotjs/guide/#example-riot-application-de).
+* Putting a `debugger` statement somewhere in Riot tags does trigger the debugger, where the current `this` is some Riot object; however, it cannot direct the debugger to the correct line of execution.
+
 
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/

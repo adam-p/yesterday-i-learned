@@ -4,6 +4,7 @@
 * Every `<Model>.objects` is just a [subclass of] `models.Manager()`. And you can extend `models.Manager`.*wink wink*
 * [`./manage.py runscript`](http://django-extensions.readthedocs.org/en/latest/runscript.html) is exactly what ought to be done in place of where you used to code your management commands.
 * A [naive datetime object](https://docs.python.org/2/library/datetime.html) does not care about its time zone. An "aware" datetime object, however, does.
+* [Django never stores timezones in the database.](https://docs.djangoproject.com/en/1.8/topics/i18n/timezones/) The `USE_TZ` setting is only good for converting these UTC times to the site user's local time.
 * Giving any `TestCase` a `fixtures` list attribute automatically loads these fixtures whenever the tests are run.
 * The `QuerySet` is a monad. You can call `prefetch_related` and `select_related` in either order and it won't care. (It does care about double splicing and double ordering, however.)
 * To override a template that is defined in a package, configure your `TEMPLATE_DIRS` variable to let your own `templates` directory have a higher lookup priority.

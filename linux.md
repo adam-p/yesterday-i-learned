@@ -136,6 +136,16 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 * One (and the only useful) [command for locating large files](http://linuxlookup.com/howto/find_all_large_files_linux_system) is `find / -type f -size +20M -exec ls -lh {} \; 2> /dev/null | awk '{ print $NF ": " $5 }' | sort -nk 2,2`
 * Lines cannot be fed into `rm`. To `rm` all files listed by another program per line, run `theprogram | tr "\n" "\0" | xargs -0 rm` (check first)
 * To save a file without a new line at the end, use `echo -n > file.txt`.
+* Any file can be a swapfile, apparently. To use a blank file as swap, type [these](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04):
+
+```
+sudo fallocate -l 4G /swapfile  # 4GB swap
+sudo chmod 600 /swapfile  # For security
+sudo mkswap /swapfile
+sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
+```
+
+* [Never use echo in a script, they said.](https://www.reddit.com/r/linux/comments/3fhvxy/echo_help/ctovplr) Use `printf '%s\n' -n` in a script, they said. Something about AT&T.
 
 ## Tmux
 

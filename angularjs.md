@@ -52,3 +52,10 @@ meaning there is no purpose whatsoever to use `.provider`, and almost no reason 
 * [Ionic's `collection-repeat`](http://ionicframework.com/docs/api/directive/collectionRepeat/) is faster for lists than `ng-repeat`.
 * Although [the article](https://medium.com/@fabrik42/cleaner-angularjs-directives-with-curried-functions-57a63c895da5) has nothing to do with currying, binding functions to a scope outside the scope itself is a practice that can be used to flatten a directive.
 * Angular promises can also be chained. If a `.then(function () { returns a 5})`, then the next `.then(function (will get the 5) {})`.
+* [Calling a controller](http://stackoverflow.com/questions/12488828/) is possible, though the function will not be bound to any HTML, and it will make you mentally special:
+```
+$injector.get('$controller')('ControllerName', {
+    $scope: $injector.get('$rootScope').$new(true),
+    // all other dependencies ...
+})
+```

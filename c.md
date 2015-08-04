@@ -34,4 +34,7 @@ class Rectangle {
 * You are supposed to use [Smart pointers](http://en.wikipedia.org/wiki/Smart_pointer) now (C++11), which manages memory allocation for you. You should never (supposedly) create references to objects like in C# and Java either; just create objects and C++ will manage the memory for you.
 * Operators can be overloaded; for example, to overload `+` for adding two `Class`es together, use `Class operator+(const Class&, const Class&);`
 * [Function overloading](https://www.reddit.com/r/programming/comments/3en2px/til_you_can_use_function_overloading_in_c/) is not a standard feature in C, but you can do it in C11 in an ugly way.
-* 
+* [Ugly (yet valid) C syntax](http://blog.robertelder.org/weird-c-syntax/):
+    * Inline return type definitions are possible: `struct foo {...} function () { return foo(...) }`
+    * Returning pointers to functions, where `foo` takes in nothing, and returns a function `bar` that takes an int and returns an int: `int ( *foo(void) ) (int i) {  return bar }`
+    * `"Hello"[5] == 5["Hello"]`.

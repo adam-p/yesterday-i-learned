@@ -527,7 +527,11 @@
 1. "Thunder Bay is home to ... the highest concentration of persons of Finnish origin per capita in Canada" - D. Maki (Hill)
 1. The Bible never says how many wise men there were.
 1. [Random blanks](https://en.wikipedia.org/wiki/Andriza_Mircovich) are given to soldiers to let them feel that they were not responsible for killing a single person.
-
+1. A specific breed of dog, the [bloodhound](https://en.wikipedia.org/wiki/Bloodhound), can track a human's scent across different terrains.
+1. [Best general-purpose TCP congestion control algorithm](http://androidmodguide.blogspot.ca/p/tcp-algorithms.html): Cubic (stability) or Westwood (all other occasions)
+1. Aside from the color issue, dogs’ sight is pretty bad. Using a custom eye test for dogs, researchers have found that dogs basically have 20/75 vision compared to a person’s 20/20 vision.
+1. Diesel fuel systems cannot contain air. If a diesel car runs empty, the system needs to be "bled" of air before refuelling.
+1. Pinned-back ears mean the animal is annoyed/ready to attack. This is apparently universal.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

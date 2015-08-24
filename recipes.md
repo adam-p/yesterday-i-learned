@@ -55,6 +55,14 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 * Dip potatoes lightly in oil.
 * Bake in 350F for 35 minutes.
 
+### [Fries](http://aht.seriouseats.com/archives/2010/05/the-burger-lab-how-to-make-perfect-mcdonalds-style-french-fries.html)
+
+* Chop fries.
+* Freeze fries.
+* Dip in white vinegar.
+* Blanch in 75-degree water for 15 minutes.
+* Somehow fry the fries twice. Exact temperatures and durations can be found in the post.
+
 ## "Ghetto sofrito"
 
 Ingredients:
@@ -93,3 +101,14 @@ Procedures:
 ## Red Sauce
 
 * 
+
+## Onion
+
+[Chopping an onion](https://www.youtube.com/watch?v=dCGS067s0zo):
+
+* Cut it in half, or [into quarters](https://www.youtube.com/watch?v=3rZ2il_Amsc). Avoid the root.
+* With the cut halves facing down, cut vertical strokes without touching the root.
+* Holding the onion together. cut horizontal strokes without touching the root.
+* Still holding the onion together. cut vertical strokes to yield cubes. Avoid the root.
+* Discard the root.
+* Season with paprika.

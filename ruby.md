@@ -79,3 +79,4 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * [Symbols](http://www.troubleshooters.com/codecorn/ruby/symbols.htm#_What_do_symbols_look_like) are pairs of ids and immutable strings. They look like `:this`, and have performance benefits because of their immutability.
 * Not until Ruby 2.2 did it [GC symbols](https://bugs.ruby-lang.org/issues/7791), creating security issues for Rails sites.
 * The `gem` thing lets you list available versions if you provide two flags: `gem list package_name --remote --all`
+* `[a..b]` includes the `b`th element. `[a...b]` does not. This makes `[a...b]` the [formally correct slicing operator](https://blog.nelhage.com/2015/08/indices-point-between-elements/).

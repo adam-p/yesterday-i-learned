@@ -30,6 +30,7 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
 * Multiple args: calling a `function(a, b, **kwargs)` where kwargs contains `a=4` or `b=[]` will raise an Exception.
 * `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
 * There is such thing as a [for else][stackoverflow 2] condition, where the `else` part executes only if the for loop is not `break`ed from within.
+* There is also a [while-else loop](http://www.tutorialspoint.com/python/python_while_loop.htm) that runs when the variable changes to `False`.
 * [Django creates the project for you.][djangoproject]
 * Variables can be *accessed* from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`][stackoverflow 3] to change the outer value.
 * `*args` is of type tuple, not list.
@@ -203,7 +204,8 @@ SyntaxError: invalid syntax
 * `history` is always a variable in ipython.
 * Booleans are inherited from `int`, so you can add them together.
 * "Tim Peters also snuck some subtle jokes into the Zen itself (notice the dashes on the TOOWTDI line do it two different ways?"
-
+* Multiple assignments (e.g. `a = b = []`) assigns the same reference to each variable, even if the value is primitive (e.g. `5`).
+* [When called with three arguments, type acts like a constructor, so you can create new types in an inline fashion.](http://ivansmirnov.io/python-metaclasses/)
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

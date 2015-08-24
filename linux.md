@@ -123,9 +123,12 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
       * `if [$0 == $BASH_SOURCE ]; then  # "missing ]"`
       * `if [$0 == $BASH_SOURCE]; then  # does stupid things`
    * While `if [ $0 == $BASH_SOURCE ]; then` is valid syntax, [ShellCheck](http://www.shellcheck.net/) will complain about "globbing and word splitting". The practice is then `if [ "$0" == "$BASH_SOURCE" ]; then`
+* `[ expression ]` and `[[ expression ]]` [have the same function](http://m.odul.us/blog/2015/8/12/stronger-shell), and in general, if you're writing bash scripts, you should just use the `[[ expression ]]` version; the single `[]` version is older and doesn't support as many operations.
 * Like other good things bash offers, assignments do not allow spaces on either side of `=`: `HELLO="world"`
 * Having a `(  block  )` anywhere [creates a subshell](http://www.tldp.org/LDP/abs/html/subshells.html).
+* However, `((1+2))` does math, and `$((1+1))` gets you the result of math.
 * `[ ... ]` is an alias for `test`.
+* In a function, to scope the variable to the function use the `local` keyword.
 * While `grep` cannot search in multi-line strings, [awk can](http://stackoverflow.com/a/3718035/1558430), using the syntax `awk '/Start pattern/,/End pattern/' filename`.
 * Find any non-ASCII character in a file: `grep -P '[^\x00-\x7f]' file`
 * `cd $SOME_PATH` will go to your home directory if `$SOME_PATH` is blank, which is why people wrap it with double quotes, because `cd "${SOME_PATH}"` = `cd ""`, which doesn't go anywhere.
@@ -146,6 +149,9 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 ```
 
 * [Never use echo in a script, they said.](https://www.reddit.com/r/linux/comments/3fhvxy/echo_help/ctovplr) Use `printf '%s\n' -n` in a script, they said. Something about AT&T.
+* `ssh whoami.filippo.io` forwards *all* your public keys to the server. The server will know your email, and because GitHub publishes your key under `github.com/{username}.keys`, the server also knows your github account.
+* [Distro packages go in `/usr/bin`. Other package managers install to `/usr/local/bin`.](http://unix.stackexchange.com/questions/8656/usr-bin-vs-usr-local-bin-on-linux) `/sbin` is for programs that need to be available before "users" are available to the system.
+
 
 ## Tmux
 

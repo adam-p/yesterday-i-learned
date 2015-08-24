@@ -56,6 +56,7 @@ groovy:000> Boolean.valueOf('true')
 * **Enums**: `public enum EnumName { OPTION1, OPTION2, OPTION3, ... }` allows you to use the enum like `EnumName.OPTION1`. Enums do not have instances.
 * All Enum values can be accessed via `EnumName.values()`.
 * [Enums can contain code, variables, and even the void main.](http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
+* [Enums should be used where speed is not an issue](http://trevore.com/post/should-I-use-enums-in-Android)
 * [Making `List`s](http://stackoverflow.com/a/858590/1558430)
 * The "com" is [the company website's TLD](http://stackoverflow.com/questions/2125293/java-packages-com-and-org) by convention.
 * [Generics](https://en.wikipedia.org/wiki/Generics_in_Java): `<T>` means "of type T".

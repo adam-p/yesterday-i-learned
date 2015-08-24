@@ -127,6 +127,11 @@ undefined
 * Changing any part of `window.location` (e.g. `window.location.search = ''`), understandably, navigates away from the current location.
 * MDN: ["When defining a variable that is meant to later hold an object, it is advisable to initialize the variable to null as opposed to anything else. That way, you can explicitly check for the value null to determine if the variable has been filled with an object reference at a later time."](http://stackoverflow.com/a/13143055/1558430)
 * [Since Cordova 5.0.0](http://stackoverflow.com/a/30028686/1558430), [apps must declare `Content-Security-Policy`](https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md) in order to go online.
+* [HTTP PATCH](https://tools.ietf.org/html/rfc5789) is not meant to accept parts of an object; instead, it accepts a list of [JSON operation object](http://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/) describing actions to be taken on the server, e.g. `PATCH /users/123 [{ "op": "replace", "path": "/email", "value": "new.email@example.org" }]` (replaces user 123's email to that.)
+* The "e" in "yeoman" is silent. Probably why Yeoman is called "yo".
+* Relatedly, if "bower" came from "[bowerbird](https://en.wikipedia.org/wiki/Bowerbird)", then bower is homophonous with "bauer", technically a German word.
+* [`switch` is in fact coersion-safe](http://stackoverflow.com/questions/6989902/is-it-safe-to-assume-strict-comparison-in-a-javascript-switch-statement).
+* Jasmine has both [`createSpy` and `createSpyObj`](http://stackoverflow.com/questions/24321307/what-is-the-difference-between-createspy-and-createspyobj). The former gives a function; the latter is an object with methods.
 
 ## Deferred API
 

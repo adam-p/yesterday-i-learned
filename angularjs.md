@@ -59,3 +59,4 @@ $injector.get('$controller')('ControllerName', {
     // all other dependencies ...
 })
 ```
+* `$filter('someFilterName')` gets the filter, so `$filter('someFilterName')('someText')` applies the filter onto that text.

@@ -6,6 +6,7 @@
 * `.chomp`, which often follows `gets`, removes the extra line at the end of console inputs.
 * "Ruby prioritizes programmer productivity over program optimization."
 * `if`, `elsif`, `else`, `end`, because `elseif` is just too long (but `elif` is too Python, presumably). No need for `:` at the end of each condition.
+  * Because if statements can be multi-line, it can be written in any form of indentation: `b = a? 5 else 3 end`, where `end` is required if you didn't oneliner it.
 * Integer instantiation is `Integer(something)`.
 * `a_string.gsub(/regex/, "what")`
 * `while` is the same everywhere, except you need `end`. No `:` needed.
@@ -64,6 +65,7 @@ end
 * One-liner if statements have the following syntax: `condition ? true : false` (no if, no else)
 * One-liner blocks are also possible. `[1,2,3,4].map{|i| i + 1}` is a block that is acting as a lambda.
 * List filters using `select` and blocks: `[1,2,3,4].select{|i| i % 2 == 0}`
+  * `a_list.select(&:foo?)` uses `&` and `Symbol#to_proc` to filter out items in the list whose method `foo?` isn't falsy.
 * Because methods are immediately invoked, obtaining an attribute from it is also an invocation. However:
 
 ```
@@ -80,3 +82,5 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * Not until Ruby 2.2 did it [GC symbols](https://bugs.ruby-lang.org/issues/7791), creating security issues for Rails sites.
 * The `gem` thing lets you list available versions if you provide two flags: `gem list package_name --remote --all`
 * `[a..b]` includes the `b`th element. `[a...b]` does not. This makes `[a...b]` the [formally correct slicing operator](https://blog.nelhage.com/2015/08/indices-point-between-elements/).
+* There is the `||=` operator, which is actually intuitive: `a = a || ...`
+* [`&:`](http://stackoverflow.com/questions/1961030/ruby-ampersand-colon-shortcut) is the pluck shortcut, which means `|thing| thing.foo`. "The `&` calls `Symbol#to_proc` on the object, and passes it as a block to the method." `:foo`, which is a Symbol, is what gets passed into the method.

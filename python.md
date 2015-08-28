@@ -206,6 +206,7 @@ SyntaxError: invalid syntax
 * "Tim Peters also snuck some subtle jokes into the Zen itself (notice the dashes on the TOOWTDI line do it two different ways?"
 * Multiple assignments (e.g. `a = b = []`) assigns the same reference to each variable, even if the value is primitive (e.g. `5`).
 * [When called with three arguments, type acts like a constructor, so you can create new types in an inline fashion.](http://ivansmirnov.io/python-metaclasses/)
+* There's [a whole package](https://pypi.python.org/pypi/lockfile) for the `process.pid` thing.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

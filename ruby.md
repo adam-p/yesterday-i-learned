@@ -20,7 +20,9 @@
 * All ruby methods are available via `something.methods.sort`.
 * All ruby methods specific to an object are avaiable via `something.own_methods.sort`.
 * The Ruby REPL is `irb`.
-* [Ruby doesn't have functions](http://stackoverflow.com/a/4294660/1558430); to get a reference to a callable without calling it, use `func_ref = method(:func_name)`, and call with `func_ref.call`.
+* [Ruby doesn't have functions](http://stackoverflow.com/a/4294660/1558430); to get a reference to a callable without calling it, use `func_ref = method(:func_name)` or `method_ref = instance.method(:method_name)`, and call with `func_ref.call`.
+* It would have been nice to have said that Ruby method names are also symbols.
+* Any class method automatically has a `@` for the instance, but you can [rebind](http://ruby-doc.org/core-1.9.3/UnboundMethod.html) it with `reference_to_method.bind(some_other_instance)`. It doesn't mean the instance now has that method; it just means you are calling the method with another instance.
 * Results from the last expression is returned.
 * Ruby's `foldr` is called [`inject`](http://blog.jayfields.com/2008/03/ruby-inject.html) (if you use it this way).
 * [The `do` block has lower precedence than the bracket block syntax](http://stackoverflow.com/a/2122457/1558430), allowing you to do concise loops in some cases:
@@ -79,8 +81,17 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * `print` is a thing, and `puts` is a thing too. Their equivalents are `print foo,` and `print foo`.
 * `is_a` and `kind_of` are the same method: true if the object is an instance of that class or its subclasses. [`instance_of`](http://stackoverflow.com/a/3893305/1558430), on the other hand, checks for its exact class.
 * [Symbols](http://www.troubleshooters.com/codecorn/ruby/symbols.htm#_What_do_symbols_look_like) are pairs of ids and immutable strings. They look like `:this`, and have performance benefits because of their immutability.
+* Use symbols [whenever you would use a constant](http://stackoverflow.com/a/16621092/1558430), including [dictionary keys](https://github.com/mislav/will_paginate/blob/master/lib/will_paginate.rb).
+* In Ruby 1.9+, [dictionaries whose keys are symbols don't need to use the `=>` association syntax](http://breakthebit.org/post/8453341914/ruby-19-and-the-new-hash-syntax). Use the more "normal" syntax instead: `{simon: "Talek", lorem: "Ipsum"}`
 * Not until Ruby 2.2 did it [GC symbols](https://bugs.ruby-lang.org/issues/7791), creating security issues for Rails sites.
 * The `gem` thing lets you list available versions if you provide two flags: `gem list package_name --remote --all`
 * `[a..b]` includes the `b`th element. `[a...b]` does not. This makes `[a...b]` the [formally correct slicing operator](https://blog.nelhage.com/2015/08/indices-point-between-elements/).
 * There is the `||=` operator, which is actually intuitive: `a = a || ...`
 * [`&:`](http://stackoverflow.com/questions/1961030/ruby-ampersand-colon-shortcut) is the pluck shortcut, which means `|thing| thing.foo`. "The `&` calls `Symbol#to_proc` on the object, and passes it as a block to the method." `:foo`, which is a Symbol, is what gets passed into the method.
+* [Ruby also does the whole `defined?` thing](https://github.com/mislav/will_paginate/blob/master/init.rb) that PHP does. `defined?` appears to be a top-level global, and accepts any class in any namespace.
+* Ruby try/catch/else/finally blocks are named [`begin/rescue/else/ensure`](http://rubylearning.com/satishtalim/ruby_exceptions.html). Because there is no `as`, the exception is assigned with the association syntax (that's right) `rescue SomeExceptionClass => some_variable`
+* There are also `(*positional_arguments)`, `(default=value)`, and  in Ruby 2. There is also `(required_keyword_argument:,  **everything_else)` in Ruby 2.1.
+* A special version of double splat is `(**_)`, which means you ignore all unexpected arguments.
+* Call a function with keyword arguments using a colon instead of equals. `foo(bar: 100)`
+* This also means the minimum Ruby version you should run is 2.
+* `super` (the word) is `super()`.

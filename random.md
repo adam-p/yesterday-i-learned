@@ -534,6 +534,19 @@
 1. Pinned-back ears mean the animal is annoyed/ready to attack. This is apparently universal.
 1. Skyscanner reports that the lowest price for any transatlantic airline ticket dramatically increases if departing less than one week after; no deals otherwise.
 1. When buying things from eBay (which is already a mistake), remember to make sure something is "genuine". Even fake items can be "brand new".
+1. "Nemo" means "nobody" in Latin.
+1. Steller's jay is Alberta's bird.
+1. Raccoons are called Washbär (washing bear) in Germany because they wash things a lot.
+1. s,p,d, and f stand for sharp, principal, diffuse, and fundamental.
+1. Clay bar exposes paint to the elements. It is necessary to clay bar something only if it cannot be polished.
+1. The name "Pineapple" was actually first applied to pine cones in 1398. Pine Cones later took over as the common name, and the fruit became known as the Pineapple due to its similar appearance.
+1. We use 10% of the brain like we use 33% of a stoplight.
+1. All countries, except USA and Canada, follow UNECE standards (United Nations Economic Commission for Europe) for cars. This is why we get so few car models.
+1. Salt and vinegar chips are "artificially flavored". They are sprinkled with sodium acetate, which conveys the flavors of salt and vinegar while not technically being either.
+1. [Plus codes](http://www.androidpolice.com/2015/08/14/plus-codes-are-an-easier-and-more-accurate-way-of-locating-people-and-businesses-in-places-with-no-specific-street-address/): Google Plus Codes
+1. If a house is near Japanese Knotweed, it has already taken its foundation. cannot be sold.
+1. *August* can be an adjective. It means "majestic". So you can be august any time of year.
+1. Star-Spangled Banner was a rip of [To Anacreon in Heaven](http://www.bbc.com/news/magazine-34052000).
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

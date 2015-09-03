@@ -534,6 +534,11 @@
 1. Pinned-back ears mean the animal is annoyed/ready to attack. This is apparently universal.
 1. Skyscanner reports that the lowest price for any transatlantic airline ticket dramatically increases if departing less than one week after; no deals otherwise.
 1. When buying things from eBay (which is already a mistake), remember to make sure something is "genuine". Even fake items can be "brand new".
+1. The "Nippon island effect" describes how the Japanese think they are special (which, in some ways, contributed to their war brutality). Many of them believe that [their intestines are longer than westerners'](https://medium.com/unpublishable-elsewhere/are-japanese-intestines-longer-8a41ca3e7d89) -- because they are studious farmers or something -- without any actual evidence for it.
+1. "Tiredness" is caused by swolling of the brain (caused by) the accumulation of metabolic wastes. The shrinkage of space between the gyri and sulci (mountains and valleys) of the brain reduces the ability for waste to be removed from the system.
+1. The [“Women are wonderful” effect](https://en.wikipedia.org/wiki/%E2%80%9CWomen_are_wonderful%E2%80%9D_effect) is not made up. The “Women are wonderful” effect tends to be most pronounced with women who follow traditional gender roles such as child nurturing and stay at home housewife.
+1. [Crows (meaning Corvus, not just the crows with the common name “crow”) pull tails.](http://corvidblog.tumblr.com/post/37622242234/tail-pulling)  It’s like they can’t help themselves.
+1. [Not supporting unicode in your app can cost lives](http://languagelog.ldc.upenn.edu/nll/?p=73)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

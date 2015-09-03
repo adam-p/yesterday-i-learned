@@ -59,4 +59,5 @@ $injector.get('$controller')('ControllerName', {
     // all other dependencies ...
 })
 ```
+* Obtaining a reference to the injector is possible too, for use in the console: `angular.element(document.body).injector().get('SomeService')`
 * `$filter('someFilterName')` gets the filter, so `$filter('someFilterName')('someText')` applies the filter onto that text.

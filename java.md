@@ -25,6 +25,9 @@ groovy:000> Boolean.valueOf('true')
 * Example `varargs`: `public int foo(int ... params) { }`
 * In a particular case where `varargs` is declared with type `Object`: `public int foo(Object ... params) { }`, `foo` accepts anything.
 * [Everything is passed by value](http://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html); object references do not change outside the function.
+* Strong references are your normal `ObjectClass object = new ObjectClass()`. [Weak references](https://weblogs.java.net/blog/2006/05/04/understanding-weak-references) are references that can be garbage-collected at their own pace, so can sometimes become null. Use WeakReferences by wrapping them: 
+    `WeakReference<ObjectClass> = new WeakReference<ObjectClass>(object)`
+* `PhantomReference`s are a special type of `WeakReference`, which is always null.
 * [Java REPL](http://www.javarepl.com/console.html)
 * There isn't a `===` comparison operator.
 * [Static inner classes are exactly like external classes except that they have access to all members of the outer class, regardless of access qualifier](http://stackoverflow.com/a/4848071/1558430).

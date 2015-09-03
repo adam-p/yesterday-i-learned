@@ -1,3 +1,4 @@
+* In Ruby, you put docstrings outside.
 * Methods do not require `()` to call. WTF?
 * Methods that end in `?` are boolean functions by [pure convention](http://stackoverflow.com/a/1345855). 
 * And because boolean functions are purely by convention, this also means they can accept parameters: `@foo.bar?('baz')`
@@ -95,3 +96,10 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * Call a function with keyword arguments using a colon instead of equals. `foo(bar: 100)`
 * This also means the minimum Ruby version you should run is 2.
 * `super` (the word) is `super()`.
+* [Single-quoted strings are like Python's `r"raw strings"`.](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
+* "Python prevents modification of built-ins — Ruby does not."
+* Only `false` and `nil` are falsy. Everything else, including `0` and `0.0`, is truthy.
+* There is no `del`, but you can set something to `nil`. Referencing something that has been set to `nil` never raises `NameError`, however.
+* [`=~` is "matches"](http://programmers.stackexchange.com/questions/46584/what-should-a-python-developer-know-while-learning-ruby): `if mystring =~ /^\s+hello word!/`
+* [A constant is a thing starting with upper case](http://www.local-guru.net/blog/2009/2/10/ruby-symbols-vs-string-vs-constant) and they can be modified. That's right.
+* 

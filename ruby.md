@@ -23,7 +23,8 @@
 * The Ruby REPL is `irb`.
 * [Ruby doesn't have functions](http://stackoverflow.com/a/4294660/1558430); to get a reference to a callable without calling it, use `func_ref = method(:func_name)` or `method_ref = instance.method(:method_name)`, and call with `func_ref.call`.
 * It would have been nice to have said that Ruby method names are also symbols.
-* Any class method automatically has a `@` for the instance, but you can [rebind](http://ruby-doc.org/core-1.9.3/UnboundMethod.html) it with `reference_to_method.bind(some_other_instance)`. It doesn't mean the instance now has that method; it just means you are calling the method with another instance.
+* Any class method automatically has a `self` (also `@`; see below) for the instance, but you can [rebind](http://ruby-doc.org/core-1.9.3/UnboundMethod.html) it with `reference_to_method.bind(some_other_instance)`. It doesn't mean the instance now has that method; it just means you are calling the method with another instance.
+* [`@foo` directly accesses an attribute.](http://stackoverflow.com/a/1693319). `self.foo` accesses it first through a `def foo`, if one exists, then falls back to `@foo`.
 * Results from the last expression is returned.
 * Ruby's `foldr` is called [`inject`](http://blog.jayfields.com/2008/03/ruby-inject.html) (if you use it this way).
 * [The `do` block has lower precedence than the bracket block syntax](http://stackoverflow.com/a/2122457/1558430), allowing you to do concise loops in some cases:
@@ -102,4 +103,9 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * There is no `del`, but you can set something to `nil`. Referencing something that has been set to `nil` never raises `NameError`, however.
 * [`=~` is "matches"](http://programmers.stackexchange.com/questions/46584/what-should-a-python-developer-know-while-learning-ruby): `if mystring =~ /^\s+hello word!/`
 * [A constant is a thing starting with upper case](http://www.local-guru.net/blog/2009/2/10/ruby-symbols-vs-string-vs-constant) and they can be modified. That's right.
+* [The `require()` method is quite similar to `load()`, but it’s meant for a different purpose. You use `load()` to execute code, and you use `require()` to import libraries.](http://stackoverflow.com/questions/318144/what-is-the-difference-between-include-and-require-in-ruby) [If you `extend` a class with a module, that means you're "bringing in" the module's methods as class methods. If you `include` a class with a module, that means you're "bringing in" the module's methods as instance methods.](http://stackoverflow.com/a/14212020)\
+* `3.times { ... }` means "do this 3 times".
+* If a function accepts nothing, its declaration brackets are optional.
+* [Modules are not classes](http://stackoverflow.com/questions/151505/difference-between-a-class-and-a-module). Modules are mixin-equivalents, whereas classes can be instantiated.
+* Ruby is a lot more heavily influenced by Perl than Python is, which is why its syntax is both more powerful and moronic at the same time.
 * 

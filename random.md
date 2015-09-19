@@ -552,6 +552,17 @@
 1. If a house is near Japanese Knotweed, it has already taken its foundation. cannot be sold.
 1. *August* can be an adjective. It means "majestic". So you can be august any time of year.
 1. Star-Spangled Banner was a rip of [To Anacreon in Heaven](http://www.bbc.com/news/magazine-34052000).
+1. [The quintessential casseroles are 'dump these 4 cans of shit in a baking tin, stir it around, bake'.](https://www.reddit.com/r/AskReddit/comments/3iyf84/reddit_what_is_the_most_quintessential_middle/cukwd8p)
+1. Well, [liquid stainless steel (spray paint)](https://www.gianigranite.com/index.php?route=product/category&path=1_73) exists.
+1. Kazakhstan has the largest and strongest performing economy in Central Asia. It is not a Russian dirt ground with no money.
+1. There is a bunch of paperwork involved when a firearm is discharged, including the exact number of rounds expended.
+1. [SSLv3 has been obsolete for over 16 years and is so full of known problems that the IETF has decided that it must no longer be used.](http://googleonlinesecurity.blogspot.ca/2015/09/disabling-sslv3-and-rc4.html?m=1)
+1. [(Most) Moths make cocoons.](https://en.m.wikipedia.org/wiki/Chrysalis#Chrysalis) Butterflies harden and make chrysalides instead.
+1. [(Most) Moths have apposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.](https://en.m.wikipedia.org/wiki/Eye#Apposition_eyes) Butterflies have superposition eyes ("cones" equivalent) instead.
+1. Chloroform won't knock someone out in seconds. It takes minutes.
+1. > A defibrillator forcefully stops the heart temporarily in an effort to correct a heart in fibrillation. Using a defibrillator on a dead person is like hitting the reset button on an unplugged machine.
+1. There is a two-level LCBO in Ottawa (75 Rideau St.). The lower level is for vintage only.
+1. [Bleach](http://m.nursingtimes.net/5022735.article) might kill warts.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

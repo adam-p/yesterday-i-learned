@@ -100,3 +100,12 @@ foo();  // 5
 
 * You can also `import * from 'a library'`.
 * `require('a library')` is slower than imports, as the latter can be optimised statically.
+* [Arrow functions can be multiline](http://ilikekillnerds.com/2015/01/a-guide-to-es6-arrow-functions/), but they also make the `return` statement compulsary.
+
+```
+var a = (foo) => {
+    return foo;
+};
+
+a(3)  // 3
+```

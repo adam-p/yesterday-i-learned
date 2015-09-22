@@ -35,6 +35,7 @@
 * [Flexbox](http://caniuse.com/#feat=flexbox) is in fact already usable in all reasonable browsers (that is, not IE).
 * Flexbox isn't the end-all, either. It has a [known list of Flexbox bugs](https://github.com/philipwalton/flexbugs) across supported browsers that you should know about.
 * Set a dummy whose top margin is "100%" to have an element [whose height is the same as its width](http://jsfiddle.net/ansciath/B8FU8/).
+* A [tracking](http://www.presslabs.com/blog/web-typography-for-non-designers/) of 100 is [0.1em](http://stackoverflow.com/a/10376142/1558430). Also, 1em is simply 1000.
 
 ## XPath
 

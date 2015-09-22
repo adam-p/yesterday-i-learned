@@ -552,6 +552,17 @@
 1. If a house is near Japanese Knotweed, it has already taken its foundation. cannot be sold.
 1. *August* can be an adjective. It means "majestic". So you can be august any time of year.
 1. Star-Spangled Banner was a rip of [To Anacreon in Heaven](http://www.bbc.com/news/magazine-34052000).
+1. Rebasing someone else's signed commit, understandably, removes the signature.
+1. Hindu revere cows because they were more valuable alive than dead (for their milk and poop). It is not their understanding that cows are gods.
+1. In addition to gear changes, big trucks also brake the engine by limiting fuel intake and exhaust.
+1. [` `](http://stackoverflow.com/questions/31507143/why-does-2-40-equal-42) is an OGHAM SPACE MARK. It is understood by many programming languages as just a space.
+1. White wedding dresses weren't adopted as popular practice until Queen Victoria wore a white lace gown for her wedding to Prince Albert in 1840.
+1. Press on sausages to make them cook faster.
+1. Restaurants don't have secret non stick pans. They just spray concentrated pan coating (and lots of it) every so often.
+1. [Hans Rosling](https://www.reddit.com/r/videos/comments/3jo6fe/swedish_professor_from_karolinska_institute_gives/) says that most of the world is improving as a whole, with clean drinking water, vaccination, and education rates higher than what the media portrays.
+1. Oil prices fall when [none of the oil exporting countries refuse to stop selling.](https://www.reddit.com/r/economy/comments/3i7c3s/oil_sinks_more_than_4_amid_market_turmoil_now/cue5fyh)
+1. [While some think it is to give farmers an extra hour of sunlight in the evenings during warmer months, Daylight Saving Time was seen as a means to help reduce electricity use in buildings.](http://energy.gov/articles/top-8-things-you-didn-t-know-about-daylight-saving-time)
+1. More concisely, ["A Monad is an object whose methods return monads."](http://blog.jorgenschaefer.de/2013/01/monads-for-normal-programmers.html)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

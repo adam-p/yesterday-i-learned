@@ -574,6 +574,17 @@
 1. > A defibrillator forcefully stops the heart temporarily in an effort to correct a heart in fibrillation. Using a defibrillator on a dead person is like hitting the reset button on an unplugged machine.
 1. There is a two-level LCBO in Ottawa (75 Rideau St.). The lower level is for vintage only.
 1. [Bleach](http://m.nursingtimes.net/5022735.article) might kill warts.
+1. It is [impossible to look at a scene and take a picture of it at the same time](http://www.psychologicalscience.org/index.php/news/releases/no-pictures-please-taking-photos-may-impede-memory-of-museum-tour.html) while still enjoying either.
+1. [White noise backup trucks](https://youtube.com/watch?v=fa28lIGuxq8) sound more directional than beeping trucks.
+1. Perfectly clean metal surfaces [will automatically weld together](https://youtube.com/watch?feature=youtu.be&v=Tx3djo_SsJ0) in a vacuum. Metallic atoms don't know about "surfaces" and bond together.
+1. "Covariance" is just a fancy way of saying "if parent method returns `Number` then surely a subclass method can return `float`"
+1. "Contravariance" is just a fancy way of saying "if parent method expects `float` then surely I can write a subclass method that handles both `float` and `int`"
+1. [The last three digits of a Google Play Services package](https://www.reddit.com/r/Android/comments/3mh7vt/new_google_play_services_8118_438/cvf1ni5) defines the compatible android version, CPU architecture, and PPI, respectively. The most common combination is "030", package for Pre-5 devices.
+1. [Animals use salt licks too!](https://en.wikipedia.org/wiki/Mineral_lick) Some pits are natural mineral licks.
+1. Subways are powered by [a third, electrical track](https://askpari.wordpress.com/2012/10/18/how-are-subway-trains-powered/).
+1. [Manual cars don't have park.](http://boards.straightdope.com/sdmb/archive/index.php/t-152702.html). Automatic cars don't have a clutch (they have torque converters).
+1. [Causation](http://news.harvard.edu/gazette/story/2015/09/how-coffee-loves-us-back/): not (having prostate cancer|wanting to kill yourself|getting type 2 diabetes) makes you want to fewer than two cups of coffee.
+1. In Tasker, "top priority" is 50, not 1.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

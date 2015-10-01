@@ -8,6 +8,7 @@
 * [The four stages of company development](http://takeaswig.com/the-end-of-the-facebook-era): Emergence (when it started), Coalescence (when it becomes large enough that people can't ignore it), Bureaucratization (when it becomes a formal giant), and Decline (when it stops being useful)
 * **Speculating**: buying a company's stocks when the company isn't making a profit.
 * Look at a company's political climate in addition to what the company's competition is doing.
+* Related: [Professional style made easy](http://imgur.com/gallery/uuLhR)
 
 # [Looking for a suitable investment class](http://www.iol.co.za/business/personal-finance/financial-planning/investments/investing-101-how-to-beat-inflation-1.1674984)
 
@@ -66,6 +67,15 @@ Further reading: [0001.md](sources/0001.md)
 * When a better stock exists
 * When the company is acquired
 * When the company goes bankrupt (selling it doesn't give you money, but you can claim it as capital loss)
+
+## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
+
+* Don't attempt to manage unmotivated people.
+* Give feedback frequently and directly.
+* Fire quickly.
+* Listen when people explain the reasoning behind their decisions.
+* Define success clearly, so people can meet it.
+* "Sometimes people talk shit. Sometimes people have bad days. Don't take either personally."
 
 # Terms
 

@@ -53,6 +53,7 @@
 * Running a SQL file: [`psql -U username -d myDataBase -a -f myInsertFile`](http://stackoverflow.com/a/12085561/1558430)
 * Re-index a table: `REINDEX TABLE tablename;` (doesn't work if the index is broken, which is *retarded*
   `REINDEX TABLE tablename force;` doesn't work.
+* [Read the docs](https://wiki.postgresql.org/wiki/Things_to_find_out_about_when_moving_from_MySQL_to_PostgreSQL). Postgres strings must be enclosed with single quotes. Double quotes only work for system identifiers.
 
 ## Performance
 

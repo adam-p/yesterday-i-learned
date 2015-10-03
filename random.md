@@ -563,6 +563,8 @@
 1. > A defibrillator forcefully stops the heart temporarily in an effort to correct a heart in fibrillation. Using a defibrillator on a dead person is like hitting the reset button on an unplugged machine.
 1. There is a two-level LCBO in Ottawa (75 Rideau St.). The lower level is for vintage only.
 1. [Bleach](http://m.nursingtimes.net/5022735.article) might kill warts.
+1. Five years into your career, you have never worked in a cubicle.
+1. On [water bug bites](https://en.wikipedia.org/wiki/Belostomatidae): "Their bite is considered one of the most painful that can be inflicted by any insect; however, though excruciatingly painful, it is of no medical significance."
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

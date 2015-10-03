@@ -209,7 +209,8 @@ SyntaxError: invalid syntax
 * There's [a whole package](https://pypi.python.org/pypi/lockfile) for the `process.pid` thing.
 * Sending gzip requests through the `requests` library is [completely manual](http://stackoverflow.com/questions/28656068/compressing-request-body-with-python-requests). You really have to construct a gzip stream and modify the headers.
 * As an asider, [`Transfer-Encoding: gzip` is a better header than `Content-Encoding: gzip`](http://stackapps.com/questions/916/why-content-encoding-gzip-rather-than-transfer-encoding-gzip) because the latter does not imply the final content type of `.gz`.
-
+* In Python 3, unbound methods don't exist. There is `unbound_method()` in six that achieves a similar goal.
+* [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) documents the API. 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

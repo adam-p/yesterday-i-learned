@@ -61,3 +61,10 @@ $injector.get('$controller')('ControllerName', {
 ```
 * Obtaining a reference to the injector is possible too, for use in the console: `angular.element(document.body).injector().get('SomeService')`
 * `$filter('someFilterName')` gets the filter, so `$filter('someFilterName')('someText')` applies the filter onto that text.
+* `$provide.decorator('ServiceName', function($delegate))` is a thing. `$delegate` is the original service that you can work with in the decorator.
+* If you throw an error through [`$exceptionHandlerProvider`](https://docs.angularjs.org/api/ngMock/provider/$exceptionHandlerProvider),
+* Get a template, for whatever reason, using `$templateCache.get(id)`.
+* [It has its own `.bind()`.](https://docs.angularjs.org/api/ng/function/angular.bind)
+* `angular.bootstrap(document, ['yourRootModule'])` doesn't work in conjunction with Ionic.
+* `angular.identity(val)` is exactly `function (val) {return val}`.
+* 

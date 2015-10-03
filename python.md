@@ -211,6 +211,21 @@ SyntaxError: invalid syntax
 * As an asider, [`Transfer-Encoding: gzip` is a better header than `Content-Encoding: gzip`](http://stackapps.com/questions/916/why-content-encoding-gzip-rather-than-transfer-encoding-gzip) because the latter does not imply the final content type of `.gz`.
 * In Python 3, unbound methods don't exist. There is `unbound_method()` in six that achieves a similar goal.
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) documents the API. 
+* `max(None, 0)` is 0. `max(0, None)` is also 0. `min(None, 0)` is `None`. Therefore, `None < 0`. In fact, `None < float('-inf')`.
+* `UnicodeEncodeError` and `UnicodeDecodeError` in a nutshell:
+
+```
+>>> "{}".format('Café')                  # str to str
+'Caf\xc3\xa9'                            # ok
+>>> u"{}".format(u'Café')                # utf8 to utf8
+u'Caf\xe9'                               # ok
+>>> u"{}".format('Café'.decode('utf8'))  # utf8 to utf8
+u'Caf\xe9'                               # ok
+>>> "{}".format(u'Café')                 # utf8 to str
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xe9' in position 3: ordinal not in range(128)
+>>> u"{}".format('Café')                 # str to utf8
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal not in range(128)
+```
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

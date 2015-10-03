@@ -238,7 +238,11 @@ You need a `^`. Run `git cherry-pick -m 1 --ff (older hash)^..(newer hash)`. `m`
 Fetch the repository first. Then, the hash of the commit can be cherry picked.
 
 ## My tags won't go onto the remote repo
-`git push --tags`
+`git push --tags` (pushes just the tags)
+
+or
+
+`git push --follow-tags`  (pushes all tags on the current branch along with the branch itself)
 
 ## ... but I accidentally all the tags
 Delete a tag locally, then push it.

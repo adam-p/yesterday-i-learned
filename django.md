@@ -146,6 +146,10 @@ Use `QuerySet.select_for_update(nowait=bool).filter(...)` in conjunction with `@
 
 All tables read by that `filter()` will be locked and be exclusive to this queryset until the atomic block is done.
 
+### `__in` queries don't preserve order
+
+Use [`in_bulk`](https://docs.djangoproject.com/en/1.8/ref/models/querysets/#in-bulk) instead, which is also unordered, but at least returns a `dict` so you can re-order it to your liking back to a `list`.
+
 ## Misc
 
 ### Filtering by how many other foreign keys an object has

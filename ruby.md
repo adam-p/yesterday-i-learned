@@ -108,4 +108,8 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * If a function accepts nothing, its declaration brackets are optional.
 * [Modules are not classes](http://stackoverflow.com/questions/151505/difference-between-a-class-and-a-module). Modules are mixin-equivalents, whereas classes can be instantiated.
 * Ruby is a lot more heavily influenced by Perl than Python is, which is why its syntax is both more powerful and moronic at the same time.
-* 
+* [`p foo`](http://stackoverflow.com/questions/1255324/p-vs-puts-in-ruby) == `puts foo.inspect`
+* Slicing a string from some index until the end is not `[n..]`, but [`[n..-1]`](http://stackoverflow.com/questions/3611586/ruby-string-slice-index-strn-infinity), for some reason.
+* Similarly, slicing a string from the beginning is not `[..n]` either. It is `[0..n]`.
+* The parameter used when making a new Hash (dict) is the default value for any keys, default being `nil`. `Hash.new(0)` will have all defaults being 0.
+* Like in python, positional/keyword arguments can have a default only if the arguments before them are also positional/keyword.

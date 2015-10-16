@@ -29,7 +29,8 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
   which provides all references before inserting.
 * Multiple args: calling a `function(a, b, **kwargs)` where kwargs contains `a=4` or `b=[]` will raise an Exception.
 * `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
-* There is such thing as a [for else][stackoverflow 2] condition, where the `else` part executes only if the for loop is not `break`ed from within.
+* There is such thing as a [for else][stackoverflow 2] condition, where the `else` part doesn't execute only if the for loop is `break`ed from within.
+* `for` also runs `else` if the loop is never run (e.g. has 0 items).
 * There is also a [while-else loop](http://www.tutorialspoint.com/python/python_while_loop.htm) that runs when the variable changes to `False`.
 * [Django creates the project for you.][djangoproject]
 * Variables can be *accessed* from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`][stackoverflow 3] to change the outer value.
@@ -224,6 +225,10 @@ UnicodeEncodeError: 'ascii' codec can't encode character u'\xe9' in position 3: 
 >>> u"{}".format('Café')                 # str to utf8
 UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal not in range(128)
 ```
+
+* [**There's no formal guarantee about the stability of sets (or dicts, for that matter.)**](http://stackoverflow.com/a/3812600) However, in the CPython implementation, as long as nothing changes the set, the items will be produced in the same order.
+* [Assigning attributes to a function doesn't raise `AttributeError`s](https://mail.python.org/pipermail/python-dev/2000-April/003364.html). PEP 232 [tries to justify it](https://www.python.org/dev/peps/pep-0232/)--the gist being, "it doesn't hurt."
+* `isinstance()` accepts a tuple worth of types.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

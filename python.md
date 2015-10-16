@@ -210,6 +210,8 @@ SyntaxError: invalid syntax
 * There's [a whole package](https://pypi.python.org/pypi/lockfile) for the `process.pid` thing.
 * Sending gzip requests through the `requests` library is [completely manual](http://stackoverflow.com/questions/28656068/compressing-request-body-with-python-requests). You really have to construct a gzip stream and modify the headers.
 * As an asider, [`Transfer-Encoding: gzip` is a better header than `Content-Encoding: gzip`](http://stackapps.com/questions/916/why-content-encoding-gzip-rather-than-transfer-encoding-gzip) because the latter does not imply the final content type of `.gz`.
+* In Python 3, unbound methods don't exist. There is `unbound_method()` in six that achieves a similar goal.
+* [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger/) documents the API. 
 * `max(None, 0)` is 0. `max(0, None)` is also 0. `min(None, 0)` is `None`. Therefore, `None < 0`. In fact, `None < float('-inf')`.
 * `UnicodeEncodeError` and `UnicodeDecodeError` in a nutshell:
 

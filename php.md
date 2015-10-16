@@ -63,3 +63,5 @@
 * Despite how it is worded in the docs, `finally` doesn't run if any exception is re-thrown from the `catch` block.
 * Use [`hash_equals`](http://php.net/manual/en/function.hash-equals.php) for comparing strings sensitive to timing attack.
 * Because PHP is weakly-typed, [any md5 string in the form `0e\d+` will be considered as scientific notation](https://www.reddit.com/r/lolphp/comments/34sxw5/md5240610708_md5qnkcdzo/.compact), causing the `==` operator to compare them as numbers.
+* PHP has its own [`realpath_cache`](http://jpauli.github.io/2014/06/30/realpath-cache.html) that may cause problems if you attempt to manipulate the same file more than once in multiple system calls.
+* 

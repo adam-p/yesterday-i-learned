@@ -38,3 +38,4 @@ class Rectangle {
     * Inline return type definitions are possible: `struct foo {...} function () { return foo(...) }`
     * Returning pointers to functions, where `foo` takes in nothing, and returns a function `bar` that takes an int and returns an int: `int ( *foo(void) ) (int i) {  return bar }`
     * `"Hello"[5] == 5["Hello"]`.
+* You can still specify the namespace, `foo::some_func()`, in a file/method `using namespace foo`.

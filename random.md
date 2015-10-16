@@ -574,6 +574,8 @@
 1. > A defibrillator forcefully stops the heart temporarily in an effort to correct a heart in fibrillation. Using a defibrillator on a dead person is like hitting the reset button on an unplugged machine.
 1. There is a two-level LCBO in Ottawa (75 Rideau St.). The lower level is for vintage only.
 1. [Bleach](http://m.nursingtimes.net/5022735.article) might kill warts.
+1. Five years into your career, you have never worked in a cubicle.
+1. On [water bug bites](https://en.wikipedia.org/wiki/Belostomatidae): "Their bite is considered one of the most painful that can be inflicted by any insect; however, though excruciatingly painful, it is of no medical significance."
 1. It is [impossible to look at a scene and take a picture of it at the same time](http://www.psychologicalscience.org/index.php/news/releases/no-pictures-please-taking-photos-may-impede-memory-of-museum-tour.html) while still enjoying either.
 1. [White noise backup trucks](https://youtube.com/watch?v=fa28lIGuxq8) sound more directional than beeping trucks.
 1. Perfectly clean metal surfaces [will automatically weld together](https://youtube.com/watch?feature=youtu.be&v=Tx3djo_SsJ0) in a vacuum. Metallic atoms don't know about "surfaces" and bond together.

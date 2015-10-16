@@ -132,6 +132,7 @@ undefined
 * Relatedly, if "bower" came from "[bowerbird](https://en.wikipedia.org/wiki/Bowerbird)", then bower is homophonous with "bauer", technically a German word.
 * [`switch` is in fact coersion-safe](http://stackoverflow.com/questions/6989902/is-it-safe-to-assume-strict-comparison-in-a-javascript-switch-statement).
 * Jasmine has both [`createSpy` and `createSpyObj`](http://stackoverflow.com/questions/24321307/what-is-the-difference-between-createspy-and-createspyobj). The former gives a function; the latter is an object with methods.
+* `npm install linux` is [finally possible](http://hyperos.io/), thanks to HyperCore Linux.
 * Lodash's `_.curry()` allows the use of itself as placeholders. `_.curry(func, _, 'foo')` curries `func` with the second argument specified.
 * Assigning a property to `"a string"` and expecting it not to persist is [all well and good](http://stackoverflow.com/questions/5201138/why-cant-i-add-properties-to-a-string-object-in-javascript), but only AngularJS throws an Error when you do it. In other cases, the property simply reads `undefined`.
 * You can `throw` anything. You can even `throw 'Hi';`. The argument given to the `catch` block is exactly what was thrown.

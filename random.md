@@ -584,13 +584,22 @@
 1. [The last three digits of a Google Play Services package](https://www.reddit.com/r/Android/comments/3mh7vt/new_google_play_services_8118_438/cvf1ni5) defines the compatible android version, CPU architecture, and PPI, respectively. The most common combination is "030", package for Pre-5 devices.
 1. [Animals use salt licks too!](https://en.wikipedia.org/wiki/Mineral_lick) Some pits are natural mineral licks.
 1. Subways are powered by [a third, electrical track](https://askpari.wordpress.com/2012/10/18/how-are-subway-trains-powered/).
-1. [Manual cars don't have park.](http://boards.straightdope.com/sdmb/archive/index.php/t-152702.html). Automatic cars don't have a clutch (they have torque converters).
+1. [Manual cars don't have park.](http://boards.straightdope.com/sdmb/archive/index.php/t-152702.html). ~~Automatic cars don't have a clutch (they have torque converters)~~.
 1. [Causation](http://news.harvard.edu/gazette/story/2015/09/how-coffee-loves-us-back/): not (having prostate cancer|wanting to kill yourself|getting type 2 diabetes) makes you want to fewer than two cups of coffee.
 1. In Tasker, "top priority" is 50, not 1.
 1. Diesel engines somehow need to be made from steel (except when VW makes them, in which case they are made in aluminium)
 1. https://www.youtube.com/watch?v=P_sUhTWtvG4
 1. Nutmeg is toxic with no pleasant overdose effects.
-1.
+1. Nigeria is the world's [top exporter of yams](https://en.wikipedia.org/wiki/Yam_%28vegetable%29).
+1. [Marshmallow](https://en.wikipedia.org/wiki/Althaea_(genus)) is a plant.
+1. By detecting the Earth's mass, magnetic field strength, and earthquake data, scientists conclude that the center of the Earth is made of solid iron, with liquid iron surrounding it.
+1. [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter) states that a function/method can only call the following functions/methods:
+  * itself: other methods in its own instance/class
+  * parameters: methods of any objects passed directly into the function/method
+  * methods of any objects created by the function/method
+  * scope variables
+1. (Soluble) fibres lower cholesterol via Le Chatelier's Principle:
+>When fiber interferes with absorption of bile in the intestines, the bile is excreted in the feces. To make up for this loss of bile, the liver makes more bile salts. The body uses cholesterol to make bile salts. So in order to obtain the cholesterol necessary to make more bile salts, the liver increases its production of LDL receptors. These receptors are responsible for pulling cholesterol out of LDL molecules in the bloodstream. Therefore, the more bile salts are made from the liver, the more LDL cholesterol is pulled from the blood.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

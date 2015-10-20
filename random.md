@@ -587,6 +587,9 @@
 1. [Manual cars don't have park.](http://boards.straightdope.com/sdmb/archive/index.php/t-152702.html). ~~Automatic cars don't have a clutch (they have torque converters)~~.
 1. [Causation](http://news.harvard.edu/gazette/story/2015/09/how-coffee-loves-us-back/): not (having prostate cancer|wanting to kill yourself|getting type 2 diabetes) makes you want to fewer than two cups of coffee.
 1. In Tasker, "top priority" is 50, not 1.
+1. Diesel engines somehow need to be made from steel (except when VW makes them, in which case they are made in aluminium)
+1. https://www.youtube.com/watch?v=P_sUhTWtvG4
+1. Nutmeg is toxic with no pleasant overdose effects.
 1. Nigeria is the world's [top exporter of yams](https://en.wikipedia.org/wiki/Yam_%28vegetable%29).
 1. [Marshmallow](https://en.wikipedia.org/wiki/Althaea_(genus)) is a plant.
 1. By detecting the Earth's mass, magnetic field strength, and earthquake data, scientists conclude that the center of the Earth is made of solid iron, with liquid iron surrounding it.

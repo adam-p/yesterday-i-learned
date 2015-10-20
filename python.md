@@ -36,9 +36,9 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
 * Variables can be *accessed* from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`][stackoverflow 3] to change the outer value.
 * `*args` is of type tuple, not list.
 * Use the `for-else` loop to avoid setting "flag variables", e.g. `found = False ...`. Faster than flags in Python.
-* These three are successively better than the former.
 * `dict(a dict)` clones the dict (for one level).
 * `list(a list)` clones the list (for one level).
+* These three are successively better than the former.
 
 ```
 for k in d:

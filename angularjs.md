@@ -67,4 +67,6 @@ $injector.get('$controller')('ControllerName', {
 * [It has its own `.bind()`.](https://docs.angularjs.org/api/ng/function/angular.bind)
 * `angular.bootstrap(document, ['yourRootModule'])` doesn't work in conjunction with Ionic.
 * `angular.identity(val)` is exactly `function (val) {return val}`.
+* ["If you use ng model there has to be a dot somewhere"](http://stackoverflow.com/questions/17606936/angularjs-dot-in-ng-model): not doing so creates a new child scope where the model differs from the parent's.
+* Modules should be grouped by views, not by types (services/controllers/...)
 * 

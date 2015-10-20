@@ -597,6 +597,9 @@
   * scope variables
 1. (Soluble) fibres lower cholesterol via Le Chatelier's Principle:
 >When fiber interferes with absorption of bile in the intestines, the bile is excreted in the feces. To make up for this loss of bile, the liver makes more bile salts. The body uses cholesterol to make bile salts. So in order to obtain the cholesterol necessary to make more bile salts, the liver increases its production of LDL receptors. These receptors are responsible for pulling cholesterol out of LDL molecules in the bloodstream. Therefore, the more bile salts are made from the liver, the more LDL cholesterol is pulled from the blood.
+1. [Never buy a VW in September](https://www.reddit.com/r/Justrolledintotheshop/comments/3ovdzr/just_got_my_internetordered_mounted_wheels_and/cw148dj) (because Oktoberfest)
+1. [YUI](https://github.com/yui/yui3/wiki/Graded-Browser-Support) started the whole browser grading thing.
+1. >[Don't be the only person using Tor on a monitored network at a given time](https://youtube.com/watch?v=eQ2OZKitRwc)
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

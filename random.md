@@ -603,6 +603,9 @@
 1. [Never buy a VW in September](https://www.reddit.com/r/Justrolledintotheshop/comments/3ovdzr/just_got_my_internetordered_mounted_wheels_and/cw148dj) (because Oktoberfest)
 1. [YUI](https://github.com/yui/yui3/wiki/Graded-Browser-Support) started the whole browser grading thing.
 1. >[Don't be the only person using Tor on a monitored network at a given time](https://youtube.com/watch?v=eQ2OZKitRwc)
+1. TDD prohibits writing more code than the bare minimum required for the failing unit tests to pass.
+1. Car bumpers designed to [withstand impact speeds up to 10mph](http://m.carcomplaints.com/Toyota/Matrix/2009/body_paint/structure-body-bumpers.shtml).
+1. [Original Nylon stockings did not run.](https://www.reddit.com/r/askscience/comments/3q6vjf/if_nylon_stockings_rip_all_the_time_why_dont_we/) Planned obsolescence made newer generations progressively worse.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

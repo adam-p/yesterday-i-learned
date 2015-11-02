@@ -136,6 +136,8 @@ undefined
 * Lodash's `_.curry()` allows the use of itself as placeholders. `_.curry(func, _, 'foo')` curries `func` with the second argument specified.
 * Assigning a property to `"a string"` and expecting it not to persist is [all well and good](http://stackoverflow.com/questions/5201138/why-cant-i-add-properties-to-a-string-object-in-javascript), but only AngularJS throws an Error when you do it. In other cases, the property simply reads `undefined`.
 * You can `throw` anything. You can even `throw 'Hi';`. The argument given to the `catch` block is exactly what was thrown.
+* Douglas Crockford is [actually a moron](https://github.com/douglascrockford/JSLint/commits/master).
+* Running just `karma start` without `--single-run` predictably runs karma whenever a file is changed.
 
 ## Deferred API
 

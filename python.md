@@ -231,6 +231,14 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 * [**There's no formal guarantee about the stability of sets (or dicts, for that matter.)**](http://stackoverflow.com/a/3812600) However, in the CPython implementation, as long as nothing changes the set, the items will be produced in the same order.
 * [Assigning attributes to a function doesn't raise `AttributeError`s](https://mail.python.org/pipermail/python-dev/2000-April/003364.html). PEP 232 [tries to justify it](https://www.python.org/dev/peps/pep-0232/)--the gist being, "it doesn't hurt."
 * `isinstance()` accepts a tuple worth of types.
+* Installing `python-examples` apparently [gives access to `reindent.py`](http://stackoverflow.com/a/1024489/1558430), which obviously reindents python scripts.
+* Splicing a `range` (which is `xrange`) in python3 gives you another `range`. The equivalent `xrange` cannot be spliced in python2.
+* By overriding the behaviour of `__lt__`, `__gt__`, `__eq__`, etc., things that often do comparisons (and therefore return bools) now return SQL "Expression" objects, like so:
+
+```
+>>> str(db.Column('a') > db.Column('b'))
+'a > b'  # look ma, not a bool
+```
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

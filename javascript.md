@@ -54,7 +54,7 @@ return function IndexError(msg) {
 * [The 3 snapshot technique][google]: First take a snapshot, then do something and take another snapshot. Repeat the exact same things and take snapshot 3. Finally, "filter objects allocated between snapshots 1 and 2 in snapshot 3's summary view"
 * `_.once` keeps returning the value of the original call in subsequent calls.
 * Terminology: `_gaq.push(['_trackEvent', 'category', 'action', 'label', 'value']);` [source][google 2]
-* [No such thing as tail call optimization][stackoverflow 6]... not one that works, anyway
+* ~~[No such thing as tail call optimization][stackoverflow 6]... not one that works, anyway~~ES6 has tail call optimisation.
 * [Trampolines][raganwald] are `while` wrappers that call an inner function for as long as the function remains a function, not a primitive value.
 * `undefined == null` === `true`. Die in a fire, JS!
 * [Second parameter of `JSON.parse`][stackoverflow 7] (reverse applies to `.stringify`, too)

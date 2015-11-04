@@ -89,7 +89,7 @@ for k, v in d.iteritems():
 * `re.sub(pattern, repl, string)` is technically `re.sub(pattern, lambda repl: repl, string)`, which allows [text munging][python 6].
 * `yield`s are formally referred to as [coroutines][wikipedia] -- function with multiple entry/resume points.
 * The `signal` package has an `alarm` method that can [timeout a long-running function][python 7].
-* [Python3 exceptions are only accessible within the `except` block, for GC reasons][toptal]
+* [Python3 exceptions are only accessible within the `except` block, for GC reasons][toptal]. Interestingly, even if the same name existed outside the `except` block, [Python3 will remove the variable of the same name from the outer scope](http://www.wefearchange.org/2013/04/python-3-language-gotcha-and-short.html).
 * Set generators are [already available in python2.7][wikipedia 2].
 * The `set`'s `discard` method makes stupid things like `new_set = {x for x in old_set if x != 'foo'}` a little bit redundant.
 * Lambda expressions can have parameter defaults, positional and keyword arguments!
@@ -239,6 +239,22 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 >>> str(db.Column('a') > db.Column('b'))
 'a > b'  # look ma, not a bool
 ```
+
+* [An `Enum`'s class attributes have itself as its own class](https://docs.python.org/3/library/enum.html). `isinstance(Color.green, Color) is True`.
+* But with every `Enum` having every attribute in its own class, they don't have access to other attributes: `Color.red.blue  # AttributeError`
+* Depending on version, [Python2 and 3 raise different errors](http://stackoverflow.com/a/23703899/1558430) when an `object()` is asked if it is equal to another `object()`.
+* Exploiting the tuple syntax can make multidimentional "arrays" very easy to work with:
+
+```
+>>> a = {(1,2): 4}  # This can be a subclass of `dict` with list indexing
+>>> a[1,2]
+4
+```
+
+* If you use `python2` to run a script with a `#!/... python3` shebang in it, it runs with python2, man. Duh.
+* `UnicodeError` is the superclass of `UnicodeDecodeError`, `UnicodeEncodeError`, and the lesser-known `UnicodeTranslateError`.
+* The `exceptions` library contains all built-in exceptions. All files have an implicit `from exceptions import *`.
+
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

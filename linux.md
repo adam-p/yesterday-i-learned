@@ -8,7 +8,17 @@
 * `-f` for `tail` autoscrolls it.
 * Count instances of `foo`: `foo | grep -c .`
 * Log in as someone else: `(sudo) su - username`
-* `cat * > new_file` overwrites contents in `new_file` with everything else in the folder.
+* `>` [redirects to (and overwrites) a file](http://linuxcommand.org/lts0060.php), while `<` redirects a file to a command. Both must appear after a command. So if you expect something like
+
+```
+input_file.txt > command > output_file.txt      # You'd be bitterly disappointed
+command < input_file.txt > output_file.txt      # Instead, you live with this garbage
+cat input_file.txt | command > output_file.txt  # or win the useless cat award
+```
+
+* `cat * > new_file` overwrites contents in `new_file` with everything else in the folder. However, [``cat anything``](http://porkmail.org/era/unix/award.html#backticks) (with the backticks) is dangerous.
+* Unrelatedly, simply `< file` shows the file in zsh (adding a useless new line every time you run it), whereas in bash it does nothing.
+* And then there's [this](http://stackoverflow.com/a/876242/1558430), for *appending* both stdout (1) and stderr (2) to the same file: `cmd >> file.txt 2> &1` (send output to file.txt, then also send errors to wherever the output is going)
 * [Obscure restart keyboard command: `Ctrl + Alt + PrtSc (SysRq) + reisub`][jovicailic]
 
     * R: Switch the keyboard from raw mode to XLATE mode
@@ -154,6 +164,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * "FYI it is pronounced ma-tay not mait. as in Yerba **Mate** which it is named after. It is from South America so it doesn't matter where you are from. You should pronounce it as it's native word." - [Matt Nelson](https://www.youtube.com/channel/UCJpf7lnaGv5Ya-O-g5wpBqQ)
 * "Who cares" - [CarMoves](https://www.youtube.com/user/CarMoves)
 * Solaris has a version of `killall` that does not take parameters. It kills all killable processes.
+* `bash -v` means verbose, not version (`--version`).
+* The ["where am I" one-liner](http://stackoverflow.com/a/246128/1558430), `DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"`, is well-documented.
 
 ## Tmux
 

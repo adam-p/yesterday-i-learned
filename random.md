@@ -600,6 +600,21 @@
   * scope variables
 1. (Soluble) fibres lower cholesterol via Le Chatelier's Principle:
 >When fiber interferes with absorption of bile in the intestines, the bile is excreted in the feces. To make up for this loss of bile, the liver makes more bile salts. The body uses cholesterol to make bile salts. So in order to obtain the cholesterol necessary to make more bile salts, the liver increases its production of LDL receptors. These receptors are responsible for pulling cholesterol out of LDL molecules in the bloodstream. Therefore, the more bile salts are made from the liver, the more LDL cholesterol is pulled from the blood.
+1. Alembic is called Alembic because it works with SQL[Alchemy](https://en.wikipedia.org/wiki/Alembic).
+1. [The thing you hammer to the ground to hold something down is called a stake](https://www.google.com/search?q=wooden+stake). It's probably where the other definitions of the word "stake" comes from.
+1. The higher the tire's [aspect ratio number](https://www.google.com/search?q=tire+aspect+ratio+chart), the smoother the ride you can expect the car to be. For example, 100/90R15 would be smoother than 100/50R15.
+1. It is also true that the lower the aspect ratio is, the less likely the tire would distort, improving handling.
+1. The process of cutting a ring around a tree has a name; it is called [girdling](https://en.wikipedia.org/wiki/Girdling). Girdling around the base kills the entire tree; girdling branches might make the tree bear larger fruit.
+1. All-season tires are suitable in the winter only if said winter never drops below -5 degrees celsius.
+1. Pierre Trudeau founded Petro Canada (as a government operation). Now Suncor owns it.
+1. [Bananas are berries.](https://en.wikipedia.org/wiki/Banana)
+1. Brussels sprouts [grow on stalks](https://en.wikipedia.org/wiki/Brussels_sprout#/media/File:Brussels-sprouts-on-stalk.jpg).
+1. Common coffee filters will filter away 100% of instant decaf coffee.
+1. Halloween: a contraction of *All Hallows' Evening*, [dedicated to remembering the dead, including saints (hallows), martyrs, and all the faithful departed](https://en.wikipedia.org/wiki/Halloween). Christians in some parts of the world abstain from meat, and visit graveyards to pray. The tradition failed to spread to North America, however, where it has become the St.Patrick's Day of celebrations. Christmas is next.
+1. Following Halloween is All Saints' Day, which celebrates those who went to heaven.
+1. Following All Saints' Day is All Souls' Day, which remembers the souls who died.
+1. With All Saints' Day and All Souls' Day, it is obvious that the Roman Catholic Church knows who went to heaven and who went to hell, but has no information about life after death.
+1. There is a word for [soaking rice in a thing that has taste](https://google.com/?q=rice+pilaf).
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

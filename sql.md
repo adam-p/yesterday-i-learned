@@ -86,6 +86,12 @@ DETAIL:  Key (id)=(43) is duplicated.
 
 Postgres has 'templates', so running `psql -d template1 -c 'CREATE EXTENSION...'` adds the CREATE EXTENSION line to the list of queries to run when creating a database.
 
+### Permission denied (while reading an `.sql`)
+
+`sudo -u someone psql -f filename` reads the file as someone instead of you. If that someone cannot access the file but you can, pipe the file in as yourself:
+
+`sudo -u someone psql < filename`
+
 # MongoDB
 
 MongoDB is actually NoSQL, so it shouldn't be in this file.

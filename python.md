@@ -36,9 +36,9 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
 * Variables can be *accessed* from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`][stackoverflow 3] to change the outer value.
 * `*args` is of type tuple, not list.
 * Use the `for-else` loop to avoid setting "flag variables", e.g. `found = False ...`. Faster than flags in Python.
-* These three are successively better than the former.
 * `dict(a dict)` clones the dict (for one level).
 * `list(a list)` clones the list (for one level).
+* These three are successively better than the former.
 
 ```
 for k in d:
@@ -89,7 +89,7 @@ for k, v in d.iteritems():
 * `re.sub(pattern, repl, string)` is technically `re.sub(pattern, lambda repl: repl, string)`, which allows [text munging][python 6].
 * `yield`s are formally referred to as [coroutines][wikipedia] -- function with multiple entry/resume points.
 * The `signal` package has an `alarm` method that can [timeout a long-running function][python 7].
-* [Python3 exceptions are only accessible within the `except` block, for GC reasons][toptal]
+* [Python3 exceptions are only accessible within the `except` block, for GC reasons][toptal]. Interestingly, even if the same name existed outside the `except` block, [Python3 will remove the variable of the same name from the outer scope](http://www.wefearchange.org/2013/04/python-3-language-gotcha-and-short.html).
 * Set generators are [already available in python2.7][wikipedia 2].
 * The `set`'s `discard` method makes stupid things like `new_set = {x for x in old_set if x != 'foo'}` a little bit redundant.
 * Lambda expressions can have parameter defaults, positional and keyword arguments!
@@ -231,6 +231,30 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 * [**There's no formal guarantee about the stability of sets (or dicts, for that matter.)**](http://stackoverflow.com/a/3812600) However, in the CPython implementation, as long as nothing changes the set, the items will be produced in the same order.
 * [Assigning attributes to a function doesn't raise `AttributeError`s](https://mail.python.org/pipermail/python-dev/2000-April/003364.html). PEP 232 [tries to justify it](https://www.python.org/dev/peps/pep-0232/)--the gist being, "it doesn't hurt."
 * `isinstance()` accepts a tuple worth of types.
+* Installing `python-examples` apparently [gives access to `reindent.py`](http://stackoverflow.com/a/1024489/1558430), which obviously reindents python scripts.
+* Splicing a `range` (which is `xrange`) in python3 gives you another `range`. The equivalent `xrange` cannot be spliced in python2.
+* By overriding the behaviour of `__lt__`, `__gt__`, `__eq__`, etc., things that often do comparisons (and therefore return bools) now return SQL "Expression" objects, like so:
+
+```
+>>> str(db.Column('a') > db.Column('b'))
+'a > b'  # look ma, not a bool
+```
+
+* [An `Enum`'s class attributes have itself as its own class](https://docs.python.org/3/library/enum.html). `isinstance(Color.green, Color) is True`.
+* But with every `Enum` having every attribute in its own class, they don't have access to other attributes: `Color.red.blue  # AttributeError`
+* Depending on version, [Python2 and 3 raise different errors](http://stackoverflow.com/a/23703899/1558430) when an `object()` is asked if it is equal to another `object()`.
+* Exploiting the tuple syntax can make multidimentional "arrays" very easy to work with:
+
+```
+>>> a = {(1,2): 4}  # This can be a subclass of `dict` with list indexing
+>>> a[1,2]
+4
+```
+
+* If you use `python2` to run a script with a `#!/... python3` shebang in it, it runs with python2, man. Duh.
+* `UnicodeError` is the superclass of `UnicodeDecodeError`, `UnicodeEncodeError`, and the lesser-known `UnicodeTranslateError`.
+* The `exceptions` library contains all built-in exceptions. All files have an implicit `from exceptions import *`.
+
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

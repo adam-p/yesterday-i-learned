@@ -54,7 +54,7 @@ return function IndexError(msg) {
 * [The 3 snapshot technique][google]: First take a snapshot, then do something and take another snapshot. Repeat the exact same things and take snapshot 3. Finally, "filter objects allocated between snapshots 1 and 2 in snapshot 3's summary view"
 * `_.once` keeps returning the value of the original call in subsequent calls.
 * Terminology: `_gaq.push(['_trackEvent', 'category', 'action', 'label', 'value']);` [source][google 2]
-* [No such thing as tail call optimization][stackoverflow 6]... not one that works, anyway
+* ~~[No such thing as tail call optimization][stackoverflow 6]... not one that works, anyway~~ES6 has tail call optimisation.
 * [Trampolines][raganwald] are `while` wrappers that call an inner function for as long as the function remains a function, not a primitive value.
 * `undefined == null` === `true`. Die in a fire, JS!
 * [Second parameter of `JSON.parse`][stackoverflow 7] (reverse applies to `.stringify`, too)
@@ -136,6 +136,8 @@ undefined
 * Lodash's `_.curry()` allows the use of itself as placeholders. `_.curry(func, _, 'foo')` curries `func` with the second argument specified.
 * Assigning a property to `"a string"` and expecting it not to persist is [all well and good](http://stackoverflow.com/questions/5201138/why-cant-i-add-properties-to-a-string-object-in-javascript), but only AngularJS throws an Error when you do it. In other cases, the property simply reads `undefined`.
 * You can `throw` anything. You can even `throw 'Hi';`. The argument given to the `catch` block is exactly what was thrown.
+* Douglas Crockford is [actually a moron](https://github.com/douglascrockford/JSLint/commits/master).
+* Running just `karma start` without `--single-run` predictably runs karma whenever a file is changed.
 
 ## Deferred API
 

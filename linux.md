@@ -166,6 +166,9 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * Solaris has a version of `killall` that does not take parameters. It kills all killable processes.
 * `bash -v` means verbose, not version (`--version`).
 * The ["where am I" one-liner](http://stackoverflow.com/a/246128/1558430), `DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"`, is well-documented.
+* [The K in KDE stood for Kool.](https://tlhp.cf/kde-history/) They had to drop that name before version 2.
+* >[`tee`](http://www.westwind.com/reference/os-x/commandline/pipes.html) allows you to both redirect output to a file, and pass it to further commands in the pipeline: `ps -ax | tee processes.txt | more`
+* The *SIGWINCH* signal is sent to a process when its controlling terminal changes its size.
 
 ## Tmux
 

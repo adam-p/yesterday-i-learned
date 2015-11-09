@@ -169,6 +169,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * [The K in KDE stood for Kool.](https://tlhp.cf/kde-history/) They had to drop that name before version 2.
 * >[`tee`](http://www.westwind.com/reference/os-x/commandline/pipes.html) allows you to both redirect output to a file, and pass it to further commands in the pipeline: `ps -ax | tee processes.txt | more`
 * The *SIGWINCH* signal is sent to a process when its controlling terminal changes its size.
+* `grep --include \*.txt` looks for strings only in files with that extension.
 
 ## Tmux
 

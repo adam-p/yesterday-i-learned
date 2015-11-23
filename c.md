@@ -1,9 +1,11 @@
 ## C
 
+* The variable convention seems to be `underscored_things`.
 * *Pointers* (e.g. `int* something`) are something you declare. It *points* to something of the declared type. It should only be assigned addresses (`&something`).
 * "Accessing" what a pointer is pointing to uses something like Python's unpacking syntax: if `int* foo` points to something that's `14`, `*foo` gives you `14`.
 * A pointer can also be used as if it were a variable. For example, if `*foo` were pointing at something that's 14, you can just `*foo = 50` to change it to 50.
 * Declare an array of things: `type var_name[size];`, not `type [size]var_name;`.
+* `sizeof` is a thing, and gives you the size of the type, not the object. This means to know how long an array is, you need to do some maths.
 * `cin >> any_variable` assigns the variable (including array items) with whatever the user typed in standard in.
 * [`O=(int)&O`](https://github.com/duckythescientist/obfuscatedLife/blob/master/remarks.md#int-_2048ointo______): setting a variable equal to the int cast of its memory address is a very short way of generating a random integer.
 * [`yada = - ~yada` is equivalent to `++yada` because of 2's complement.](https://github.com/duckythescientist/obfuscatedLife/blob/master/remarks.md#while__-__2048___oo0x41c64e6d123450x7fffffff1024150)
@@ -21,13 +23,13 @@
 * [`#include "files"`, and `#include <headers>`.](http://stackoverflow.com/a/50266/1558430)
 * [`splint`](http://splint.org/) lints C.
 * Splint *really* wants any function calls with unused results to have `(void)` in front of them.
-* `puts` is a *nix command.
+* ~~`puts` is a *nix command.~~
 * The only way to write a function that accepts no arguments is to have a `void` in it, i.e. [`rtype func_name(void) { ... }`](http://stackoverflow.com/a/3156437/1558430)
 * `main` must [either](http://stackoverflow.com/questions/3156423/why-dont-we-use-void-in-main#comment3246503_3156423) take nothing (`void`), or exactly these two parameters: `int argc, char* argv[]`, and return an `int`.
 * `$()` in Makefile is [more portable](http://stackoverflow.com/questions/2214575/passing-arguments-to-make-run#comment2167270_2214593) than `${}`.
 * Valgrind the debugger does various checks after compilation. It needs the `-g` flag for CC above to be set.
 * `//` commenting must not be used.
-* `printf` and co. expects `%f` to actually be `double`, not `float`.
+* `printf` and co. expect `%f` to actually be `double`, not `float`.
 * [`float` requires a trailing `f`](http://stackoverflow.com/a/5026592/1558430); `double` does not. This means all number literals with decimal points are doubles. However, it is possible, for some reason, to assign `float to_a_doule = 10.0`, or `double from_a_float = 10.0f`.
 * `long` requires a trailing capital `L`, and its formatting string is `%ld` ('long number').
 * `%e` (scientific notation) should only be used on `double`s.
@@ -46,12 +48,12 @@
 * There are [only three error codes](https://en.wikipedia.org/wiki/Errno.h) you can use.
 * > ["The `.PHONY` rule keeps make from doing something with a file named `clean`."](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 * [`main` must be a function.](http://stackoverflow.com/questions/33305574/why-does-const-int-main-195-result-in-a-working-program-but-without-the-const) Don't let anyone tell you different.
-
+* When creating an array of a given type, a continuous chunk of memory is assigned, exactly (the size of the type) * (the number of things).
+* [Given the way arrays are created](http://stackoverflow.com/questions/381542/with-c-arrays-why-is-it-the-case-that-a5-5a), `foo[4]` is really `*(foo + 4)` or `*(4 + foo)`, which makes `4[foo]` equivalent.
+* `thing_t` is supposed to mean "a type called 'thing'". C programmers are against the Hungarian notation.
 
 ## C++
 
-* The variable convention seems to be `underscored_things`.
-* `sizeof` is a thing (maybe for C, as well)
 * The [`~ClassName`](http://stackoverflow.com/a/1395509/1558430) definition in a class denotes a destructor, because `ClassName` initially is a constructor, but negated by `~` to give the semantic meaning of a destructor. 
 * `public:` followed by an indented block of methods, means that anything inside the block is public (same applies to `private`)
 
@@ -73,5 +75,5 @@ class Rectangle {
 * [Ugly (yet valid) C syntax](http://blog.robertelder.org/weird-c-syntax/):
     * Inline return type definitions are possible: `struct foo {...} function () { return foo(...) }`
     * Returning pointers to functions, where `foo` takes in nothing, and returns a function `bar` that takes an int and returns an int: `int ( *foo(void) ) (int i) {  return bar }`
-    * `"Hello"[5] == 5["Hello"]`.
+    * [`"Hello"[5] == 5["Hello"]`.](http://stackoverflow.com/a/381549/1558430)
 * You can still specify the namespace, `foo::some_func()`, in a file/method `using namespace foo`.

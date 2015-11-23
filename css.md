@@ -37,6 +37,9 @@
 * Set a dummy whose top margin is "100%" to have an element [whose height is the same as its width](http://jsfiddle.net/ansciath/B8FU8/).
 * Such a font as [OpenDyslexic](http://opendyslexic.org/) exists.
 * A [tracking](http://www.presslabs.com/blog/web-typography-for-non-designers/) of 100 is [0.1em](http://stackoverflow.com/a/10376142/1558430). Also, 1em is simply 1000.
+* Gradient generators are [discouraged](http://codepen.io/thebabydino/full/pjxVWp) because they generate `-ms-` attributes that never worked in the first place.
+* [`@font-face`](https://www.reddit.com/r/netsec/comments/3py3f2/css_based_attack_abusing_unicoderange_of_fontface/) can be used to leak characters in a secure text field. The workaround is specifying a [content security policy](http://www.html5rocks.com/en/tutorials/security/content-security-policy/) whitelist.
+* [Enforce HTML semantics](http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/) by only using semantic selectors.
 
 ## XPath
 

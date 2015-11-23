@@ -618,9 +618,27 @@
 1. [Never buy a VW in September](https://www.reddit.com/r/Justrolledintotheshop/comments/3ovdzr/just_got_my_internetordered_mounted_wheels_and/cw148dj) (because Oktoberfest)
 1. [YUI](https://github.com/yui/yui3/wiki/Graded-Browser-Support) started the whole browser grading thing.
 1. >[Don't be the only person using Tor on a monitored network at a given time](https://youtube.com/watch?v=eQ2OZKitRwc)
-1. TDD prohibits writing more code than the bare minimum required for the failing unit tests to pass.
+1. TDD prohibits writing more code than the [bare minimum](http://www.fatvat.co.uk/2015/10/mindless-tdd.html?m=1) required for the failing unit tests to pass.
 1. Car bumpers designed to [withstand impact speeds up to 10mph](http://m.carcomplaints.com/Toyota/Matrix/2009/body_paint/structure-body-bumpers.shtml).
 1. [Original Nylon stockings did not run.](https://www.reddit.com/r/askscience/comments/3q6vjf/if_nylon_stockings_rip_all_the_time_why_dont_we/) Planned obsolescence made newer generations progressively worse.
+1. [Dysprosium](https://en.wikipedia.org/wiki/Dysprosium) is an element. That is its only purpose.
+1. It is [always wise to wear black](http://www.buytshirtsonline.co.uk/colour-perception/). Black instils confidence, intelligence, and attracts (at least) the opposite sex. It is also the best colour to wear to interviews, funerals, weddings, and some sort of gaming event.
+1. ["The more development I do the more I feel like increased Lines Of Code (LOC), nearly always results in increased bugs."](http://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio/)
+1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
+1. Ontario only: [there is a maximum on how much your landlord can raise your rent](http://www.ontariotenants.ca/research/rent-increase.phtml), and it is different every year.
+1. Since caliphate is pronounced [kaLEEfa](https://en.wikipedia.org/wiki/Caliphate), it is never possible to pronounce it correctly.
+1. [Caribou eyes change colour](https://i.imgur.com/779RwKL.jpg) every season to see in the optimum spectrum. (Pictured: different species)
+1. A fool-proof way to poach an egg is to [strain away all of the egg white](http://www.seriouseats.com/2013/03/how-to-poach-eggs-easy-way-poached-breakfast-video.html), says mister López-Alt.
+1. Discarded human waste, along with disintegrating [mudbricks](https://en.wikipedia.org/wiki/Mud_brick), create [tells](https://en.wikipedia.org/wiki/Tell), elevated mounds of stuff. Sometimes "Tel" gets into the location's name. Tel Aviv might be one.
+1. [Cob](https://en.wikipedia.org/wiki/Cob_(building)) is poor man's building material, similar to [adobe](https://en.wikipedia.org/wiki/Adobe), which a company named itself for its building block properties.
+1. [Fourier series visual](https://upload.wikimedia.org/wikipedia/commons/1/1a/Fourier_series_square_wave_circles_animation.gif)
+1. "Widening a road makes more cars drive on it" is called [induced demand](https://en.wikipedia.org/wiki/Induced_demand#/search).
+1. [The Passion of the Christ](https://en.wikipedia.org/wiki/The_Passion_of_the_Christ#Reception) was a controversial film, because viewers didn't know [the meaning of the word Passion in Christian context](https://en.wikipedia.org/wiki/Passion_(Christianity)).
+1. The refugee issue is caused by [western interests in a natural gas pipeline](https://www.reddit.com/r/worldnews/comments/3q744o/saudi_arabia_to_run_out_of_cash_in_fewer_than_5/cwcuknu) from Saudi to Europe.
+1. [Car bumpers don't work if they don't bump into each other, obviously.](https://youtube.com/watch?v=yLW2OVtP6_w) The consequence is very costly collisions, which benefit the auto makers.
+1. In-N-Out [cook beef patties with mustard](http://muslimeater.com/2015/05/29/how-to-make-halal-in-n-out-double-double-animal-style-burgers-at-home/).
+1. [Kentucky, Massachusetts, Pennsylvania, and Virginia](https://en.wikipedia.org/wiki/US_states) use the official title of Commonwealth rather than State.
+1. [Make intuitive design decisions](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570) when making an app. No one finds cryptic icons and hidden navigation useful.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

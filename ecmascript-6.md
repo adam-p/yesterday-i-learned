@@ -3,6 +3,7 @@
     * If there's a `var` in an `if` block, it will be declared outside the block [to the nearest function scope](http://ariya.ofilabs.com/2013/05/es6-and-block-scope.html). `let` limits its scope to inside the block (which, if you like brackets, makes some sense)
     * `let`s cannot be declared in the same scope twice. So, you cannot use `let`s in multiple `switch` statements.
     * You can use `for(let i = 0;...)` to limit `i` to the `for` block, and jshint won't complain like it does for `var`.
+* `const` [does NOT](http://exploringjs.com/es6/ch_variables.html) mean immutable. If you `const` an object, it is still mutable; the const itself just cannot be reassigned.
 * [Array comprehension](http://ariya.ofilabs.com/2013/02/es6-and-destructuring-assignment.html):
 
 ```

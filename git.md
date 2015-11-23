@@ -227,6 +227,10 @@ git does not have permission to modify your files. Give it write permission one 
 ## I don't want to share my commit history with others
 [`git archive -o latest.zip HEAD`][stackoverflow 9]
 
+## I want to create an empty repo
+
+`git commit --allow-empty -m 'empty initial commit yo'`
+
 ## I can't overwrite untracked local files when pulling
 Try `git fetch --all && git reset --hard origin/(branch)`.
 

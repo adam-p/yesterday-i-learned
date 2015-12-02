@@ -639,6 +639,17 @@
 1. In-N-Out [cook beef patties with mustard](http://muslimeater.com/2015/05/29/how-to-make-halal-in-n-out-double-double-animal-style-burgers-at-home/).
 1. [Kentucky, Massachusetts, Pennsylvania, and Virginia](https://en.wikipedia.org/wiki/US_states) use the official title of Commonwealth rather than State.
 1. [Make intuitive design decisions](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570) when making an app. No one finds cryptic icons and hidden navigation useful.
+1. [NASA had almost achieved 100% code quality](http://www.fastcompany.com/28121/they-write-right-stuff) at 1/420000 E/LoC. Perfect software may actually be possible. Don't give up!
+1. On fuel octane rating: Most countries use MON, US uses RON/MON average, which results in a lower number. MON 91 is the US 87.
+1. Why do Matthew, Mark, John, and Luke have so much in common? Supposing if a [Q source](https://en.wikipedia.org/wiki/Q_source) was supplying such information to Matthew and Luke, then it would explain most of it.
+1. *Gospel* doesn't just mean any book in the New Testament; a gospel is an account describing the life, death, and resurrection of Jesus of Nazareth.
+1. The [Criterion of embarrassment](https://en.wikipedia.org/wiki/Criterion_of_embarrassment) says that the author (God/Jesus) wouldn't write something embarrassing about himself, therefore the Bible's accounts are probably true.
+1. Jerusalem is pronounced "yuh Hoo sa LA yim".
+1. All features have bugs until people stop complaining about them.
+1. [State modification is the root of all evil](http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/): don't ever write code that modifies state unless specified otherwise.
+1. You can't (or couldn't) [self serve gasoline in Oregon](http://m.mentalfloss.com/article.php?id=18812), citing fire hazards.
+1. Caesium: Due to the bright blue lines in its emission spectrum, they chose a name derived from the Latin word caesius, meaning sky-blue. (It is thus pronounced "KAY see um")
+1. 
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

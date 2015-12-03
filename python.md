@@ -154,6 +154,7 @@ c
 ```
 
 * If a function is decorated with `contextlib.contextmanager`, then [it can be used as a `with` statement](https://docs.python.org/2/library/contextlib.html). The function must contain exactly one `yield`, where things that happen before the `yield` works like `__enter__`, and what happens after the `yield` is treated like `__exit__`.
+* [`contextlib.suppress(BaseException)`](https://docs.python.org/3/library/contextlib.html#contextlib.suppress) is basically the `never_fail` decorator. And oops, it is only for Python 3.
 * `random.seed()` is better than `random.seed(0)`, because [the parameter default is the system time](https://docs.python.org/2/library/random.html#random.seed).
 * `hash(-2)` is the same as `hash(-1)`.
 * Objects that have an overridden __eq__ cannot be hashed, unless their __hash__ are also defined.
@@ -255,6 +256,10 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 * `UnicodeError` is the superclass of `UnicodeDecodeError`, `UnicodeEncodeError`, and the lesser-known `UnicodeTranslateError`.
 * The `exceptions` library contains all built-in exceptions. All files have an implicit `from exceptions import *`.
 * `mock.patch` [needs](http://alexmarandon.com/articles/python_mock_gotchas/) a direct reference to the function where it is called. To patch `from a import b` running in module `c`, patch `c.b`, not `a.b`.
+* Whatever you think `-0.0` is, it exists... and it is equal to `0.0`.
+* [`pwd.getpwall()`](https://docs.python.org/2.7/library/pwd.html), misleadingly, does not return a list of all passwords. They are usually `*` or `x`, due to the use of a shadow password system, explained in the link.
+* The implementation of [`keyword.iskeyword()`](https://hg.python.org/cpython/file/2.7/Lib/keyword.py#l17) is a real misfortune.
+* Python2 has [`WeakReference`](https://docs.python.org/2/library/weakref.html)s too!
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

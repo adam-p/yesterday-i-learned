@@ -139,6 +139,8 @@ undefined
 * Douglas Crockford is [actually a moron](https://github.com/douglascrockford/JSLint/commits/master).
 * Running just `karma start` without `--single-run` predictably runs karma whenever a file is changed.
 * `String(null)` works; `null.toString()` doesn't.
+* [ALWAYS](http://blog.heroku.com/archives/2015/11/10/node-habits-2016) make an `.npmrc` that sets `save=true` and `save-exact=true`.
+* [`includes()` rather than `contains()`](http://www.2ality.com/2015/11/tc39-process.html?m=1), because MooTools, apparently. Incidentally, `[NaN, NaN].indexOf(NaN)` never finds any, and `includes()` does.
 
 ## Deferred API
 

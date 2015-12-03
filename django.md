@@ -24,6 +24,7 @@
 * The result of calling `build_absolute_uri()` on a fake Request gives you `http://testserver/(...)`.
 * The Django admin lists fields in the order the fields themselves are declared in your models file. For example, `class Foo: bar = ..., baz = ...` actually shows `bar` before `baz` in the admin.
 * Django 1.8 apparently lets you aggregate by an expression now, e.g. `.aggregate(Min('price') + 1)`
+* [`QuerySet.iterator()`](https://docs.djangoproject.com/en/1.8/ref/models/querysets/#django.db.models.query.QuerySet.iterator) does exactly that: make a queryset that you cannot reuse, probably for the greater good.
 
 ## WSGI
 

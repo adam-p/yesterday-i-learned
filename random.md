@@ -606,6 +606,9 @@
 1. TDD prohibits writing more code than the bare minimum required for the failing unit tests to pass.
 1. Car bumpers designed to [withstand impact speeds up to 10mph](http://m.carcomplaints.com/Toyota/Matrix/2009/body_paint/structure-body-bumpers.shtml).
 1. [Original Nylon stockings did not run.](https://www.reddit.com/r/askscience/comments/3q6vjf/if_nylon_stockings_rip_all_the_time_why_dont_we/) Planned obsolescence made newer generations progressively worse.
+1. [All clementines are mandarins](http://blog.fooducate.com/2013/12/04/whats-the-difference-between-tangerines-clementines-and-mandarins/). Always buy clementines because they are seedless, and easy to peel.
+1. A "crop" is also where birds store their eaten food after having swallowed it, but before digesting it.
+1. [Here](https://en.wikipedia.org/wiki/Incest#/media/File%3ATable_of_Consanguinity_showing_degrees_of_relationship.png) is a nice chart describing your relationships with what "removed" means.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

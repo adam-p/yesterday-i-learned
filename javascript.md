@@ -138,6 +138,7 @@ undefined
 * You can `throw` anything. You can even `throw 'Hi';`. The argument given to the `catch` block is exactly what was thrown.
 * Douglas Crockford is [actually a moron](https://github.com/douglascrockford/JSLint/commits/master).
 * Running just `karma start` without `--single-run` predictably runs karma whenever a file is changed.
+* `String(null)` works; `null.toString()` doesn't.
 
 ## Deferred API
 

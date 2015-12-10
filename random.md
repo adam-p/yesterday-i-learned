@@ -649,6 +649,16 @@
 1. [State modification is the root of all evil](http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/): don't ever write code that modifies state unless specified otherwise.
 1. You can't (or couldn't) [self serve gasoline in Oregon](http://m.mentalfloss.com/article.php?id=18812), citing fire hazards.
 1. Caesium: Due to the bright blue lines in its emission spectrum, they chose a name derived from the Latin word caesius, meaning sky-blue. (It is thus pronounced "KAY see um")
+1. [This is *snooker*, not pool and *you do not have to pick a pocket for the black ball*. In snooker it is customary to apologise for shots where you get extremely lucky, which is why the player gave an apologetic wave to his opponent.](https://www.reddit.com/r/instant_regret/comments/3vc263/billiards_blunder/)
+1. [Fish yawn](http://www.youtube.com/watch?v=bIv3fgZ7sR4&t=2m30s), aquatic animals yawn, [unborn babies yawn](http://www.tandfonline.com/doi/abs/10.3109/14722240500284070), all [known] vertebrates yawn.
+1. [The disciple whom Jesus loved](https://en.wikipedia.org/wiki/Disciple_whom_Jesus_loved) is not his wife like some moron said on Youtube. Jesus has no wife.
+1. The pattern [`aaaa aaa aaa aaaaa`](https://news.ycombinator.com/item?id=10693936) causes Windows <2000 to glitch out while assuming the format is unicode.
+1. After the caterpillar becomes a butterfly, the toxin shift to different parts of the body. Since many birds attack the wings of the butterfly, having three times the cardiac glycosides in the wings leaves predators with a very foul taste and may prevent them from ever ingesting the body of the butterfly. **WITH THAT SAID** In order to combat predators that remove the wings only to ingest the abdomen, [monarchs](https://en.wikipedia.org/wiki/Monarch_butterfly) keep the most potent cardiac glycosides in their abdomens.
+1. Russia has an [exclave](https://en.wikipedia.org/wiki/Enclave_and_exclave) called [Kaliningrad Oblast](https://en.wikipedia.org/wiki/Kaliningrad_Oblast). It is named after [a Soviet somebody called Kalinin](https://en.wikipedia.org/wiki/Mikhail_Kalinin).
+1. [The least tolerant *person* wins](http://c2.com/cgi/wiki?LeastFlexibleProtocolWins) as the highest common denominator.
+1. The Greek word "Kyrios" means "lord, Lord, master" in one word.
+1. People take on [regnal names](https://en.wikipedia.org/wiki/Regnal_name), different from their own names, when they take reign. Queen Elizabeth might not have been called Elizabeth. Not all of the King Georges were called George before they were King. > *Prince Albert, Duke of York, assumed the throne as King George VI instead of using the King Albert.*
+1. An English subset called [E-Prime](https://en.wikipedia.org/wiki/E-Prime) prohibits all variants of the phrase "to be", so as to make the language less ambiguous. This may be useful (see what I did there) for docstrings.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

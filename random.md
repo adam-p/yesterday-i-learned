@@ -621,6 +621,9 @@
 1. TDD prohibits writing more code than the [bare minimum](http://www.fatvat.co.uk/2015/10/mindless-tdd.html?m=1) required for the failing unit tests to pass.
 1. Car bumpers designed to [withstand impact speeds up to 10mph](http://m.carcomplaints.com/Toyota/Matrix/2009/body_paint/structure-body-bumpers.shtml).
 1. [Original Nylon stockings did not run.](https://www.reddit.com/r/askscience/comments/3q6vjf/if_nylon_stockings_rip_all_the_time_why_dont_we/) Planned obsolescence made newer generations progressively worse.
+1. [All clementines are mandarins](http://blog.fooducate.com/2013/12/04/whats-the-difference-between-tangerines-clementines-and-mandarins/). Always buy clementines because they are seedless, and easy to peel.
+1. A "crop" is also where birds store their eaten food after having swallowed it, but before digesting it.
+1. [Here](https://en.wikipedia.org/wiki/Incest#/media/File%3ATable_of_Consanguinity_showing_degrees_of_relationship.png) is a nice chart describing your relationships with what "removed" means.
 1. [Dysprosium](https://en.wikipedia.org/wiki/Dysprosium) is an element. That is its only purpose.
 1. It is [always wise to wear black](http://www.buytshirtsonline.co.uk/colour-perception/). Black instils confidence, intelligence, and attracts (at least) the opposite sex. It is also the best colour to wear to interviews, funerals, weddings, and some sort of gaming event.
 1. ["The more development I do the more I feel like increased Lines Of Code (LOC), nearly always results in increased bugs."](http://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio/)

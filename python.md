@@ -255,6 +255,7 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 * If you use `python2` to run a script with a `#!/... python3` shebang in it, it runs with python2, man. Duh.
 * `UnicodeError` is the superclass of `UnicodeDecodeError`, `UnicodeEncodeError`, and the lesser-known `UnicodeTranslateError`.
 * The `exceptions` library contains all built-in exceptions. All files have an implicit `from exceptions import *`.
+* `mock.patch` [needs](http://alexmarandon.com/articles/python_mock_gotchas/) a direct reference to the function where it is called. To patch `from a import b` running in module `c`, patch `c.b`, not `a.b`.
 * Whatever you think `-0.0` is, it exists... and it is equal to `0.0`.
 * [`pwd.getpwall()`](https://docs.python.org/2.7/library/pwd.html), misleadingly, does not return a list of all passwords. They are usually `*` or `x`, due to the use of a shadow password system, explained in the link.
 * The implementation of [`keyword.iskeyword()`](https://hg.python.org/cpython/file/2.7/Lib/keyword.py#l17) is a real misfortune.

@@ -662,6 +662,16 @@
 1. The Greek word "Kyrios" means "lord, Lord, master" in one word.
 1. People take on [regnal names](https://en.wikipedia.org/wiki/Regnal_name), different from their own names, when they take reign. Queen Elizabeth might not have been called Elizabeth. Not all of the King Georges were called George before they were King. > *Prince Albert, Duke of York, assumed the throne as King George VI instead of using the King Albert.*
 1. An English subset called [E-Prime](https://en.wikipedia.org/wiki/E-Prime) prohibits all variants of the phrase "to be", so as to make the language less ambiguous. This may be useful (see what I did there) for docstrings.
+1. Jojoba is pronounced 'hoHOEba', because reasons.
+1. Unmanaged cow herds in India scavenge for food in landfill sites. [They are filled with plastic.](http://topdocumentaryfilms.com/plastic-cow/)
+1. Crab sticks are also called [seafood extenders](https://google.com/search?q=seafood+extender)
+1. "According to the United States Department of Agriculture National Nutrient Database, (crab sticks) contains about 76% water, 15% protein, 6.85% carbohydrate, and 0.9% fat."
+1. Tilapia die in waters below 21 degrees C.
+1. Toyota is [still making sewing machines](http://gb.home-sewing.com/en_gb/). Toyoda started it in 1946, after the motor corporation.
+1. [The fact that smoke calms bees has been known since ancient times](https://en.wikipedia.org/wiki/Bee_smoker); however, the scientific explanation was unknown until the 20th century and is still not fully understood.
+1. [The Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium): in Game Theory, if all players have nothing to gain by changing their strategies. Bitcoin achieved such an equilibrium with its miners.
+1. Korea is named after [高麗](https://en.wikipedia.org/wiki/Goryeo), pronounced "GOlia".
+1. North Korea, on the other hand, calls itself [朝鮮](https://en.wikipedia.org/wiki/Joseon), the dynasty after 高麗.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

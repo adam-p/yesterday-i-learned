@@ -260,6 +260,9 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 * [`pwd.getpwall()`](https://docs.python.org/2.7/library/pwd.html), misleadingly, does not return a list of all passwords. They are usually `*` or `x`, due to the use of a shadow password system, explained in the link.
 * The implementation of [`keyword.iskeyword()`](https://hg.python.org/cpython/file/2.7/Lib/keyword.py#l17) is a real misfortune.
 * Python2 has [`WeakReference`](https://docs.python.org/2/library/weakref.html)s too!
+* `basestring` is just `str` in python3.
+* Python3's type hinting [enforces nothing](https://www.python.org/dev/peps/pep-0484/#the-meaning-of-annotations). For the same reason, they called it annotations. For really enforcing these rules, consider [mypy](http://mypy.readthedocs.org/en/latest/duck_type_compatibility.html).
+* 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

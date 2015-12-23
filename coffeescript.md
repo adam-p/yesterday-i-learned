@@ -9,3 +9,4 @@
 * `do(a=b, c=d) -> ...` is exactly the same as `(function (a, c) { ... }(b, d));`.
 * Apparently the string interpolation syntax in CoffeeScript is [the exact same from Ruby](http://addyosmani.com/blog/backing-up-a-github-account/).
 * Anonymous classes are as intuitive as you might expect: `class[ extends AnotherClass]`
+* All functions are anonymous functions assigned to variable names. So, you cannot have named functions. This is slower at the cost of (perhaps) fewer hoisting gotchas.

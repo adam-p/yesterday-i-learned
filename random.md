@@ -652,6 +652,14 @@
 1. [State modification is the root of all evil](http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/): don't ever write code that modifies state unless specified otherwise.
 1. You can't (or couldn't) [self serve gasoline in Oregon](http://m.mentalfloss.com/article.php?id=18812), citing fire hazards.
 1. Caesium: Due to the bright blue lines in its emission spectrum, they chose a name derived from the Latin word caesius, meaning sky-blue. (It is thus pronounced "KAY see um")
+1. CloudWatch is a hypervisor. It can tell how much CPU an EC2 instance is using, and how much network traffic goes in and out of it, but it does not know the instance's internals, e.g. memory, process count, ?.
+1. `$x()` does an XPath search in Chrome's console.
+1. [Phantom Orchid](https://en.wikipedia.org/wiki/Cephalanthera_austiniae) has no chlorophyll.
+1. [The Earth is a dynamo](https://en.m.wikipedia.org/wiki/Geomagnetic_reversal), so its field strength depends on [how aligned the two poles are](https://en.wikipedia.org/wiki/Geomagnetic_reversal#/media/File%3ANASA_54559main_comparison1_strip.gif). If they are not aligned, the field strength is low, and may even be reversed.
+1. The Sun undergoes spontaneous magnetic reversals every 9–12 years, where it increases in field strength.
+1. [Trinidad](https://en.wikipedia.org/wiki/Trinidad) isn't in Asia, dumbass.
+1. You can be [doing some crazy things](http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html) to get the average of a 5-star rating.
+1. [Xylitol](https://en.wikipedia.org/wiki/Xylitol) works by starving the bacteria, not by healing the teeth in any way. It also has no effect if other sugars are ingested before or after.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

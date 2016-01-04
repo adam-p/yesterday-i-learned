@@ -57,14 +57,14 @@
 
 ## Performance
 
+* When in doubt: use `EXPLAIN ANALYZE (your query here);` to help you out.
 * Selecting an indexed column, but while using a function-wrapped parameter (e.g. `WHERE SOMETHING(ROW) == 1`) disables the index.
 * [There are function-based indices](http://use-the-index-luke.com/sql/where-clause/functions) but it is discouraged for their own performance reasons.
 * Multi-column indices are position-dependent; `CREATE INDEX tbl_idx ON tbl (a, b)` is different from `CREATE INDEX tbl_idx ON tbl (b, a)`, where selecting by `b` requires the second index.
 * Continuing from the point above, if the first column in a multi-column index (^ i.e. `a`) is selected as a range, the subsequent indices (i.e. `b`) are useless in the same query. 
   **Make sure the first column in a multi-column index is selected exactly.**
 * Getting the create table SQL for a table: [see guide](http://stackoverflow.com/a/16154183/1558430)
-* 
-  
+
 ## Troubleshooting
 
 ### Corrupted index

@@ -672,7 +672,15 @@
 1. [The Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium): in Game Theory, if all players have nothing to gain by changing their strategies. Bitcoin achieved such an equilibrium with its miners.
 1. Korea is named after [高麗](https://en.wikipedia.org/wiki/Goryeo), pronounced "GOlia".
 1. North Korea, on the other hand, calls itself [朝鮮](https://en.wikipedia.org/wiki/Joseon), the dynasty after 高麗.
-1. 
+1. There *were* three great races: [Caucasoid](https://en.wikipedia.org/wiki/Caucasian_race), [Mongoloid](https://en.wikipedia.org/wiki/Mongoloid), and Negroid. Caucasoids are characterised by narrow noses; Mongoloids by their [eyes](https://en.wikipedia.org/wiki/Epicanthic_fold); Negroids by their broad and round noses ("nasal cavity").
+1. [A red flag](https://en.wikipedia.org/wiki/No_quarter) (as opposed to a white flag) indicates the desire not to capture anyone. There is no flag for desiring not to be captured.
+1. [Rate law](https://www.youtube.com/watch?v=WDXzVI8SmfE): "Zeroth order" (`kA^0`, i.e. rate is constant `k`), "First order" (`kA^1`, i.e. doubling concentration doubles the rate), "Second order" (`kA^2`, i.e. more sensitive to rate than first order)
+1. Apparently you have a degree in science.
+1. Because [it is illegal for websites to tell you if the government is spying on you](http://www.techspot.com/news/63292-tech-companies-face-criminal-charges-if-they-notify.html?), [they tell you if you are not being spied on](https://en.wikipedia.org/wiki/Warrant_canary) instead.
+1. According to [the comments](https://www.trudeaumetre.ca/promise/7304), firearms licence holders are subject to daily automated background checks.
+1. The reason [(microwaving your own fucking hand)](https://www.youtube.com/watch?v=WcOhd9ikNAw) is bad is because microwaves are primarily absorbed below the skin, thus bypassing the nerves. [You could be literally cooking your muscles without ever realizing it.](https://www.reddit.com/r/holdmybeaker/comments/3z2uoj/hmb_while_i_microwave_my_hand/cyiur98)
+1. There are differences between goblins and hobgoblins, but they are both made up so the differences are not important.
+1. Rice is grown in water to deter weeds. It otherwise does not need that much water to grow.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

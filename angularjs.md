@@ -69,4 +69,5 @@ $injector.get('$controller')('ControllerName', {
 * `angular.identity(val)` is exactly `function (val) {return val}`.
 * ["If you use ng model there has to be a dot somewhere"](http://stackoverflow.com/questions/17606936/angularjs-dot-in-ng-model): not doing so creates a new child scope where the model differs from the parent's.
 * Modules should be grouped by views, not by types (services/controllers/...)
-* 
+* Specifying 'controller as' in ngRoute is simply what you think it was: [`controller as ctrl`](http://stackoverflow.com/a/23861159/1558430)
+* DO NOT use `controllerAs` in an app that is already using `$scope` by convention.

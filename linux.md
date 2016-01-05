@@ -138,6 +138,9 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 * Having a `(  block  )` anywhere [creates a subshell](http://www.tldp.org/LDP/abs/html/subshells.html).
 * However, `((1+2))` does math, and `$((1+1))` gets you the result of math.
 * `[ ... ]` is an alias for `test`.
+* `if` statements don't necessarily need `[]`. They do different things.
+  * To check if a command was truthy, simply `if something; then`.
+  * To check if a command was falsy, similarly `if ! something; then`.
 * In a function, to scope the variable to the function use the `local` keyword.
 * While `grep` cannot search in multi-line strings, [awk can](http://stackoverflow.com/a/3718035/1558430), using the syntax `awk '/Start pattern/,/End pattern/' filename`.
 * Find any non-ASCII character in a file: `grep -P '[^\x00-\x7f]' file`
@@ -170,6 +173,11 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * >[`tee`](http://www.westwind.com/reference/os-x/commandline/pipes.html) allows you to both redirect output to a file, and pass it to further commands in the pipeline: `ps -ax | tee processes.txt | more`
 * The *SIGWINCH* signal is sent to a process when its controlling terminal changes its size.
 * `grep --include \*.txt` looks for strings only in files with that extension.
+* Bash functions are groups of commands; they can `return` at most an exit code (0 ~ 255). Because they are not functions, they don't actually have the word `function` in the declaration...
+* Though functions do [allow variables to be `local`](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming), which is nice.
+* [`trap`](http://stackoverflow.com/questions/360201/how-do-i-kill-background-processes-jobs-when-my-shell-script-exits) allows cleanup code to be run if someone presses Ctrl+C. If implemented properly, that is.
+* [Google has a bash style guide](https://google.github.io/styleguide/shell.xml).
+* [Using `env` to find bash](http://unix.stackexchange.com/a/206366) or any other shell or command interpreter is considered a security risk because an unknown binary (malware) might be used to execute the script.
 
 ## Tmux
 

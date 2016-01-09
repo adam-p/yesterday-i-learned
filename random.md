@@ -689,6 +689,16 @@
 1. The reason [(microwaving your own fucking hand)](https://www.youtube.com/watch?v=WcOhd9ikNAw) is bad is because microwaves are primarily absorbed below the skin, thus bypassing the nerves. [You could be literally cooking your muscles without ever realizing it.](https://www.reddit.com/r/holdmybeaker/comments/3z2uoj/hmb_while_i_microwave_my_hand/cyiur98)
 1. There are differences between goblins and hobgoblins, but they are both made up so the differences are not important.
 1. Rice is grown in water to deter weeds. It otherwise does not need that much water to grow.
+1. [It takes 66 days](http://jamesclear.com/new-habit)--not 21--on average, anyway, to form a habit.
+1. ['Don't let your spit dry out close to your lips and form a grainy white coating.'](https://www.reddit.com/r/AskReddit/comments/3zk98y/what_are_some_simple_things_you_can_do_to_make/cymrexk).
+1. By twisted American logic, 'one half hour' means half an hour, not (one + half) hour.
+1. [368,000 people drown every year](https://en.wikipedia.org/wiki/Drowning), slightly less than falling (556,000).
+1. Apparently that's not enough, [1.4 million people die from car accidents each year](https://en.wikipedia.org/wiki/Traffic_collision).
+1. ‘Deserves it! I daresay he does. Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement.' - Gandalf on Saudi beheadings
+1. [Pterosaurs](https://en.wikipedia.org/wiki/Pterosaur) are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.
+1. The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
+1. In Japan, crab sticks are literally ground meat ("Surimi").
+1. 
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

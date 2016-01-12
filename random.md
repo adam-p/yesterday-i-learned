@@ -684,6 +684,24 @@
 1. Once a jog exceeds [10km/h](https://en.wikipedia.org/wiki/Jogging), it becomes a run.
 1. Level of language proficiency can [now](http://www.deutsch-als-fremdsprache.org/en/faq/323-what-does-language-level-a1-a2-b1-b2-c1-and-c2-mean.html) be split into A (understand), B (operate), C (communicate).
 1. If an attacker keeps connections open using [partial requests](https://en.wikipedia.org/wiki/Slowloris_%28software%29), it can take down a server with minimal (and sometimes undetectable) bandwidth.
+1. There *were* three great races: [Caucasoid](https://en.wikipedia.org/wiki/Caucasian_race), [Mongoloid](https://en.wikipedia.org/wiki/Mongoloid), and Negroid. Caucasoids are characterised by narrow noses; Mongoloids by their [eyes](https://en.wikipedia.org/wiki/Epicanthic_fold); Negroids by their broad and round noses ("nasal cavity").
+1. [A red flag](https://en.wikipedia.org/wiki/No_quarter) (as opposed to a white flag) indicates the desire not to capture anyone. There is no flag for desiring not to be captured.
+1. [Rate law](https://www.youtube.com/watch?v=WDXzVI8SmfE): "Zeroth order" (`kA^0`, i.e. rate is constant `k`), "First order" (`kA^1`, i.e. doubling concentration doubles the rate), "Second order" (`kA^2`, i.e. more sensitive to rate than first order)
+1. Apparently you have a degree in science.
+1. Because [it is illegal for websites to tell you if the government is spying on you](http://www.techspot.com/news/63292-tech-companies-face-criminal-charges-if-they-notify.html?), [they tell you if you are not being spied on](https://en.wikipedia.org/wiki/Warrant_canary) instead.
+1. According to [the comments](https://www.trudeaumetre.ca/promise/7304), firearms licence holders are subject to daily automated background checks.
+1. The reason [(microwaving your own fucking hand)](https://www.youtube.com/watch?v=WcOhd9ikNAw) is bad is because microwaves are primarily absorbed below the skin, thus bypassing the nerves. [You could be literally cooking your muscles without ever realizing it.](https://www.reddit.com/r/holdmybeaker/comments/3z2uoj/hmb_while_i_microwave_my_hand/cyiur98)
+1. There are differences between goblins and hobgoblins, but they are both made up so the differences are not important.
+1. Rice is grown in water to deter weeds. It otherwise does not need that much water to grow.
+1. [It takes 66 days](http://jamesclear.com/new-habit)--not 21--on average, anyway, to form a habit.
+1. ['Don't let your spit dry out close to your lips and form a grainy white coating.'](https://www.reddit.com/r/AskReddit/comments/3zk98y/what_are_some_simple_things_you_can_do_to_make/cymrexk).
+1. By twisted American logic, 'one half hour' means half an hour, not (one + half) hour.
+1. [368,000 people drown every year](https://en.wikipedia.org/wiki/Drowning), slightly less than falling (556,000).
+1. Apparently that's not enough, [1.4 million people die from car accidents each year](https://en.wikipedia.org/wiki/Traffic_collision).
+1. ‘Deserves it! I daresay he does. Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement.' - Gandalf on Saudi beheadings
+1. [Pterosaurs](https://en.wikipedia.org/wiki/Pterosaur) are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.
+1. The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
+1. In Japan, crab sticks are literally ground meat ("Surimi").
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

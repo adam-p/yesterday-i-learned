@@ -680,6 +680,10 @@
 1. [The Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium): in Game Theory, if all players have nothing to gain by changing their strategies. Bitcoin achieved such an equilibrium with its miners.
 1. Korea is named after [高麗](https://en.wikipedia.org/wiki/Goryeo), pronounced "GOlia".
 1. North Korea, on the other hand, calls itself [朝鮮](https://en.wikipedia.org/wiki/Joseon), the dynasty after 高麗.
+1. To create a GIF with gimp, simply export the layers (as frames) to a file with a `.gif` extension.
+1. Once a jog exceeds [10km/h](https://en.wikipedia.org/wiki/Jogging), it becomes a run.
+1. Level of language proficiency can [now](http://www.deutsch-als-fremdsprache.org/en/faq/323-what-does-language-level-a1-a2-b1-b2-c1-and-c2-mean.html) be split into A (understand), B (operate), C (communicate).
+1. If an attacker keeps connections open using [partial requests](https://en.wikipedia.org/wiki/Slowloris_%28software%29), it can take down a server with minimal (and sometimes undetectable) bandwidth.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

@@ -82,6 +82,27 @@ var func: FuncSignature = function (foo: string, bar: string): number {
 
 `var func: FuncSignature` can be saved and used on multiple functions, so you might save some work by doing so.
 
+#### Function subtyping
+
+From [the Handbook](http://www.typescriptlang.org/Handbook#type-compatibility-comparing-two-functions), a variable can be assigned a function, then be assigned another function with fewer [but the same types of remaining] parameters than it:
+
+```
+var x = (a: number) => 0;
+var y = (b: number, s: string) => 0;
+
+y = x; // "every parameter of x has a corresponding compatible parameter in y, so the assignment is allowed"
+x = y; // "y has a required second parameter that x does not have, so the assignment is disallowed"
+```
+
+Incidentally, since the handbook talks about 'required parameters', this is valid:
+
+```
+var x = (a: number) => 0;
+var y = (b: number, s?: string) => 0;  // Optional s
+
+y = x; x = y;
+```
+
 ### Array interfaces
 If for some reason you need to make an interface for an already-typed array, you may:
 

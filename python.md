@@ -265,6 +265,22 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 * Splicing indices don't have to be integers... at least not now. `[1,2,3][:None]` returns a copy of `[1,2,3]`, just as `[1,2,3][:]` would.
 * Python's `foo = set()` has an `update(bar)`, too. It just adds what's in `bar` into `foo`.
 * Comparing any integer outside [-5, 256] with `is` is [incorrect](http://stackoverflow.com/a/306353/1558430): "The current implementation keeps an array of integer objects for all integers between -5 and 256, when you create an int in that range you actually just get back a reference to the existing object."
+* Returning inside a `try` *or* an `except` block will still run the `finally` block, if one exists.
+
+```
+def foo():
+    try:
+        raise Exception(4)
+        return 5
+    except:
+        return 6
+    finally:
+        print 'bar'
+
+print foo()
+# bar
+# 6
+```
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

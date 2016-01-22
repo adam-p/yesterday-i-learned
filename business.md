@@ -9,6 +9,7 @@
 * **Speculating**: buying a company's stocks when the company isn't making a profit.
 * Look at a company's political climate in addition to what the company's competition is doing.
 * Related: [Professional style made easy](http://imgur.com/gallery/uuLhR)
+* Do remember that [technical debt](https://news.ycombinator.com/item?id=10925141) *is* debt; the time you borrow to make a feature must be paid back *soon*, and not *eventually*.
 
 # [Looking for a suitable investment class](http://www.iol.co.za/business/personal-finance/financial-planning/investments/investing-101-how-to-beat-inflation-1.1674984)
 

@@ -702,6 +702,8 @@
 1. [Pterosaurs](https://en.wikipedia.org/wiki/Pterosaur) are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.
 1. The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
 1. In Japan, crab sticks are literally ground meat ("Surimi").
+1. [Straw man](https://en.wikipedia.org/wiki/Straw_man), in the simplest terms, is "addressing the wrong point".
+1. ["When you have a conversation with an idiot, nobody watching can tell which one of you is the idiot."](https://news.ycombinator.com/item?id=10929547)
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

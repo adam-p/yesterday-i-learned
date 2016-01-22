@@ -145,6 +145,8 @@ undefined
 * TypeScript had the audacity to create a `void` type, which is `null ∪ undefined`.
 * The modulo operator (`%`) does not do type checking. So, in an interesting way, one can write `"Hello %s" % "world"` in JS as if it does something, but in fact simply creating a `NaN`.
 * [`n`](http://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version) is the npm package that upgrades nodejs.
+* For supporting the delusional "more choices is better" ideology, [npm allows its JS engine to be swapped out](http://www.marcusoft.net/2015/03/packagejson-and-engines-and-enginestrict.html) using either `engines` in `package.json`, or [an `.npmrc` file](http://blog.npmjs.org/post/110924823920/npm-weekly-5) that does the same.
+* `karma start --reporters dots` runs `karma` without the annoying long list of successes.
 
 
 ## Deferred API

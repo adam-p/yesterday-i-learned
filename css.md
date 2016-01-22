@@ -40,6 +40,13 @@
 * Gradient generators are [discouraged](http://codepen.io/thebabydino/full/pjxVWp) because they generate `-ms-` attributes that never worked in the first place.
 * [`@font-face`](https://www.reddit.com/r/netsec/comments/3py3f2/css_based_attack_abusing_unicoderange_of_fontface/) can be used to leak characters in a secure text field. The workaround is specifying a [content security policy](http://www.html5rocks.com/en/tutorials/security/content-security-policy/) whitelist.
 * [Enforce HTML semantics](http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/) by only using semantic selectors.
+* A `::selection` pseudoselector may be effective against text selection on your website:
+
+```
+*::selection {
+    text-shadow: none !important;
+}
+```
 
 ## XPath
 

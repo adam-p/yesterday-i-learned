@@ -21,6 +21,15 @@ var [m, d, y] = [3, 14, 1977];  // need to wrap both in array notation
 var [,,y] = [3, 14, 1977];  // can ignore variables you don't need
 ```
 
+[Destructuring objects](https://github.com/DrkSephy/es6-cheatsheet#destructuring-objects)
+
+```
+let luke = { occupation: 'jedi', father: 'anakin' }
+let {occupation, father} = luke;
+console.log(occupation); // 'jedi'
+console.log(father); // 'anakin'
+```
+
 * [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html): a virtual wrapper that can handle property reads and changes on the original object.
 
 ```

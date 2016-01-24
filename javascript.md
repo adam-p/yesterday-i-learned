@@ -142,6 +142,12 @@ undefined
 * [ALWAYS](http://blog.heroku.com/archives/2015/11/10/node-habits-2016) make an `.npmrc` that sets `save=true` and `save-exact=true`.
 * [`includes()` rather than `contains()`](http://www.2ality.com/2015/11/tc39-process.html?m=1), because MooTools, apparently. Incidentally, `[NaN, NaN].indexOf(NaN)` never finds any, and `includes()` does.
 * > [sessionStorage is just like localStorage, but it's local to the tab](https://github.com/mozilla/localforage/issues/2#issuecomment-27452423), so if you have two tabs on the same site they won't see each other's sessionStorage. [Opening a page in a new tab or window will cause a new session to be initiated.](https://developer.mozilla.org/en/docs/Web/API/Window/sessionStorage)
+* TypeScript had the audacity to create a `void` type, which is `null ∪ undefined`.
+* The modulo operator (`%`) does not do type checking. So, in an interesting way, one can write `"Hello %s" % "world"` in JS as if it does something, but in fact simply creating a `NaN`.
+* [`n`](http://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version) is the npm package that upgrades nodejs.
+* For supporting the delusional "more choices is better" ideology, [npm allows its JS engine to be swapped out](http://www.marcusoft.net/2015/03/packagejson-and-engines-and-enginestrict.html) using either `engines` in `package.json`, or [an `.npmrc` file](http://blog.npmjs.org/post/110924823920/npm-weekly-5) that does the same.
+* `karma start --reporters dots` runs `karma` without the annoying long list of successes.
+
 
 ## Deferred API
 

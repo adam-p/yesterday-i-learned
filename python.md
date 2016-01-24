@@ -84,7 +84,7 @@ for k, v in d.iteritems():
 * There is a `3to2`!
 * You can [decorate functions with classes][bitbucket] that have `__call__`!
 * Instance variables (`class.foo == 'far'`) are class variables (`class.foo == Class.foo`) as long as [the instance doesn't change its instance variable's value][stackoverflow 10].
-* `[:]` [copies a list][stackoverflow 11] (Fast copy; Thanks Ford)
+* `[:]` (aka `[None:None]`) [copies a list][stackoverflow 11] (Fast copy; Thanks Ford)
 * `enumerate()`: returns tuples with index as the first value
 * `re.sub(pattern, repl, string)` is technically `re.sub(pattern, lambda repl: repl, string)`, which allows [text munging][python 6].
 * `yield`s are formally referred to as [coroutines][wikipedia] -- function with multiple entry/resume points.
@@ -263,7 +263,25 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 * `basestring` is just `str` in python3.
 * Python3's type hinting [enforces nothing](https://www.python.org/dev/peps/pep-0484/#the-meaning-of-annotations). For the same reason, they called it annotations. For really enforcing these rules, consider [mypy](http://mypy.readthedocs.org/en/latest/duck_type_compatibility.html).
 * `set().update(...)` can handle lists as well, not just sets.
-* 
+* Splicing indices don't have to be integers... at least not now. `[1,2,3][:None]` returns a copy of `[1,2,3]`, just as `[1,2,3][:]` would.
+* Python's `foo = set()` has an `update(bar)`, too. It just adds what's in `bar` into `foo`.
+* Comparing any integer outside [-5, 256] with `is` is [incorrect](http://stackoverflow.com/a/306353/1558430): "The current implementation keeps an array of integer objects for all integers between -5 and 256, when you create an int in that range you actually just get back a reference to the existing object."
+* Returning inside a `try` *or* an `except` block will still run the `finally` block, if one exists.
+
+```
+def foo():
+    try:
+        raise Exception(4)
+        return 5
+    except:
+        return 6
+    finally:
+        print 'bar'
+
+print foo()
+# bar
+# 6
+```
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -680,6 +680,10 @@
 1. [The Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium): in Game Theory, if all players have nothing to gain by changing their strategies. Bitcoin achieved such an equilibrium with its miners.
 1. Korea is named after [高麗](https://en.wikipedia.org/wiki/Goryeo), pronounced "GOlia".
 1. North Korea, on the other hand, calls itself [朝鮮](https://en.wikipedia.org/wiki/Joseon), the dynasty after 高麗.
+1. To create a GIF with gimp, simply export the layers (as frames) to a file with a `.gif` extension.
+1. Once a jog exceeds [10km/h](https://en.wikipedia.org/wiki/Jogging), it becomes a run.
+1. Level of language proficiency can [now](http://www.deutsch-als-fremdsprache.org/en/faq/323-what-does-language-level-a1-a2-b1-b2-c1-and-c2-mean.html) be split into A (understand), B (operate), C (communicate).
+1. If an attacker keeps connections open using [partial requests](https://en.wikipedia.org/wiki/Slowloris_%28software%29), it can take down a server with minimal (and sometimes undetectable) bandwidth.
 1. There *were* three great races: [Caucasoid](https://en.wikipedia.org/wiki/Caucasian_race), [Mongoloid](https://en.wikipedia.org/wiki/Mongoloid), and Negroid. Caucasoids are characterised by narrow noses; Mongoloids by their [eyes](https://en.wikipedia.org/wiki/Epicanthic_fold); Negroids by their broad and round noses ("nasal cavity").
 1. [A red flag](https://en.wikipedia.org/wiki/No_quarter) (as opposed to a white flag) indicates the desire not to capture anyone. There is no flag for desiring not to be captured.
 1. [Rate law](https://www.youtube.com/watch?v=WDXzVI8SmfE): "Zeroth order" (`kA^0`, i.e. rate is constant `k`), "First order" (`kA^1`, i.e. doubling concentration doubles the rate), "Second order" (`kA^2`, i.e. more sensitive to rate than first order)
@@ -726,6 +730,8 @@
 1. Soft suspensions result in more body roll, thus more roll-over accidents. Instead, harder suspensions break your spine on a day-to-day basis, saving you from potential accidents.
 1. All [Stanley Cup](https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions) finals from 1940 to 2015 were won with four points.
 1. [猛龍過江](https://en.wikipedia.org/wiki/Way_of_the_Dragon) was the only movie directed by Bruce Lee.
+1. [Straw man](https://en.wikipedia.org/wiki/Straw_man), in the simplest terms, is "addressing the wrong point".
+1. ["When you have a conversation with an idiot, nobody watching can tell which one of you is the idiot."](https://news.ycombinator.com/item?id=10929547)
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

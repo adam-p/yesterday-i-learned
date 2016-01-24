@@ -179,6 +179,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * [`trap`](http://stackoverflow.com/questions/360201/how-do-i-kill-background-processes-jobs-when-my-shell-script-exits) allows cleanup code to be run if someone presses Ctrl+C. If implemented properly, that is.
 * [Google has a bash style guide](https://google.github.io/styleguide/shell.xml).
 * [Using `env` to find bash](http://unix.stackexchange.com/a/206366) or any other shell or command interpreter is considered a security risk because an unknown binary (malware) might be used to execute the script.
+* "[The buffers](http://www.linuxhowtos.org/System/Linux%20Memory%20Management.htm) remember what's in directories, what file permissions are, and keep track of what memory is being written from or read to for a particular block device. The cache only contains the contents of the files themselves."
 
 ## Tmux
 

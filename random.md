@@ -698,6 +698,34 @@
 1. [Pterosaurs](https://en.wikipedia.org/wiki/Pterosaur) are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.
 1. The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
 1. In Japan, crab sticks are literally ground meat ("Surimi").
+1. "In spelling sushi, its first letter s is replaced with z when a prefix is attached, as in nigirizushi, due to consonant mutation called rendaku ("sequential voicing") in Japanese."
+1. Ampersand = ["and per se, And [the now-removed alphabet)"](http://blog.dictionary.com/ampersand/)
+1. [Design a thing before building it.](https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) Also in the link: software design tips
+1. [Scion](https://en.m.wikipedia.org/wiki/Scion_%28grafting%29) is a branch to be grafted into/onto another tree, hence the name of the car brand, which was branched off Toyota.
+1. Jews call meatloaf "Klops", the German word for meatball.
+1. In Canada: ["It is legal to sell and serve dog meat, providing that it must be killed and gutted in front of federal inspectors."](https://en.wikipedia.org/wiki/Dog_meat#Canada)
+1. In USA: ["The term "dog" has been used as a synonym for sausage since 1884 and accusations that sausage makers used dog meat date to at least 1845."](https://en.wikipedia.org/wiki/Dog_meat#United_States_of_America)
+1. One in four Canadian households / one in ten Canadians owns guns. This figure is roughly [below USA's median](http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm).
+1. The [Bohr Effect](https://en.wikipedia.org/wiki/Bohr_effect) explains why increasing CO2 concentration makes hemoglobin release their oxygen (affinity curve).
+1. Canadians travelling in the US [cannot be searched without a warrant](https://www.youtube.com/watch?v=fVGp_H2uCCk)
+1. It is possible to fill tires with foam so they never go flat, but [the tires will be heavy and the ride will be hard](http://www.bowentire.com/about-us/news/articletype/articleview/articleid/152/foam-filled-tires-and-run-flats-there-is-a-difference.aspx).
+1. To combat lactose intolerance, drink milk with a meal.
+1. [There are no speed cameras](https://en.wikipedia.org/wiki/Speed_limit_enforcement#Canada), only speed police.
+1. [Acclimatization](https://www.reddit.com/r/explainlikeimfive/comments/418tjp/eli5people_who_are_exposed_to_the_cold_more_build/cz0fqcc), adjusting to the cold, takes 10 or more days.
+1. The question mark is also called the interrogation mark, whether or not the question is interrogative.
+1. Having people ask ["why do Star Wars laser guns shoot slower than light"](http://scifi.stackexchange.com/questions/13702/why-are-blaster-bolts-in-star-wars-moving-slower-than-speed-of-light), the guns were changed to plasma rifles.
+1. Human flesh is very sweet [^1](https://www.youtube.com/watch?v=vw_tClcS6To) [^2](http://www.huffingtonpost.com/2014/04/29/what-does-human-taste-like_n_5233724.html)
+1. See also: humans should not eat humans, because diseases can transmit freely between members of the same species.
+1. [A cold engine should never be red-lined.](https://www.reddit.com/r/AskAShittyMechanic/comments/3uvjzb/engine_warm_up_advice/) (It sounds obvious when it is phrased this way)
+1. The AKM is [strikingly similar](http://i.imgur.com/cWz7YIG.jpg) to the AK-47, with AK-47 having a larger sight.
+1. (Unconfirmed) Most deaths from an overdose occur when an addict who has gone clean relapses and administers their old dose without realising that they have lost the tolerance they had built up.
+1. [Corn can be cooked in a microwave](http://archaeointernet.blogspot.rs/2015/10/corn-in-microwave.html).
+1. Carrie Fisher had a close relationship with James Blunt, as his post-war therapist.
+1. [Leaving your comfort zone](http://lifehacker.com/how-being-uncomfortable-helps-you-grow-1748360327) is the only way one can grow.
+1. Always buy LCD monitors in pairs or triplets. It is unlikely to be able to get the same monitor again when you want a dual monitor setup.
+1. Soft suspensions result in more body roll, thus more roll-over accidents. Instead, harder suspensions break your spine on a day-to-day basis, saving you from potential accidents.
+1. All [Stanley Cup](https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions) finals from 1940 to 2015 were won with four points.
+1. [猛龍過江](https://en.wikipedia.org/wiki/Way_of_the_Dragon) was the only movie directed by Bruce Lee.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

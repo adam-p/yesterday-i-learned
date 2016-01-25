@@ -77,3 +77,22 @@ class Rectangle {
     * Returning pointers to functions, where `foo` takes in nothing, and returns a function `bar` that takes an int and returns an int: `int ( *foo(void) ) (int i) {  return bar }`
     * [`"Hello"[5] == 5["Hello"]`.](http://stackoverflow.com/a/381549/1558430)
 * You can still specify the namespace, `foo::some_func()`, in a file/method `using namespace foo`.
+* `std::cout` is [more proper](http://stackoverflow.com/a/4781861/1558430) than `printf` in C++.
+* If your header files are C++ only, [name them `.hpp`](http://stackoverflow.com/questions/152555/h-or-hpp-for-your-class-definitions). Otherwise, header files that can be used for both C and C++ should use `.h`.
+* C++ struct values can have defaults:
+
+```
+struct Foo {
+    int no_default;
+    int yes_default = 0;
+};
+```
+
+* There is [struct inheritance](http://stackoverflow.com/questions/979211/struct-inheritance-in-c). Use the colon to denote structs with all fields in the parent struct:
+
+```
+struct A { };
+struct B : A { };  // Has all A's fields
+```
+
+* > [In C++, a struct can have methods, inheritance, etc. just like a C++ class.](http://stackoverflow.com/a/979241/1558430)

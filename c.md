@@ -106,3 +106,5 @@ struct B : A { };  // Has all A's fields
 4. `std::string s("foo");`
 ```
 > "One of the main benefits of using std::string is that it manages the underlying string buffer for you automatically, so new-ing it kind of defeats that purpose."
+* Function/method names are [`UpperCamelCase`](https://google.github.io/styleguide/cppguide.html#Function_Names), unless they are cheap, (e.g.) "so cheap that you normally wouldn't bother caching its return value when calling it in a loop", in which case they are `underscored_things`; such a function normally consists of only one comparison.
+* 

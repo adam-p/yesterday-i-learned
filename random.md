@@ -199,12 +199,12 @@
 1. The creator of the sugar stick (as opposed to the sugar packet) decided that the right way to open them is [through the middle][izismile].
 1. The [zipper merge][dot] reduces queuing traffic by knowing merging should be done at the last minute.
 1. "Bilirubin" is the brown substance in urine that signals liver stress.
-1. Not feeling well, but don't want to use the phrase "not feeling well"? Use [Malaise!][wikipedia 25]
+1. Not feeling well, but don't want to use the phrase "not feeling well"? Use [Malaise!][wikipedia 25] (ma-LAYS)
 1. Apply garlic to oil, before you apply vegetables to oil.
 1. The [car colours that retain the most value][unhaggle] are white, black, and grey. Birds love pooping on [red, blue, and black cars][autos]. Bright colours also correlate to higher insurance premiums. To add on to the insult, [black cars get into accidents most often][moneysupermarket] because no one can see them, while silver cars are the safest.
 1. At the onset of high stress, your blood thickens. This is to encourage clotting of blood in the case of a physical attack. This is often why stress contributes to heart attacks.
 1. The "prop shaft" is the propeller shaft (read: stick) that transfer energy from the engine to the wheel.
-1. [Bicycles can be powered by prop shafts.][wikipedia 26]
+1. [Bicycles can be powered by prop shafts rather than chains.][wikipedia 26]
 1. The state anthem of the Russian Federation is literally called the "State Anthem of the Russian Federation".
 1. `type foo.txt` is the Windows equivalent of `cat foo.txt`.
 1. All DNS rules except mail server ones have no priority or order. The most specific pattern is used to route the request.
@@ -212,6 +212,7 @@
 1. A [trie][wikipedia 27] is a prefix tree (A -> B -> C = ABC), where the end nodes are the requested node (i.e. A -> B -> ABC = ABC).
 1. [Compact prefix trees][wikipedia 28] are trees that don't branch out until there are multiple entries of the same prefix. For example, if the tree contains Foo, Bar, and Baz, then Foo would be in its own node, and Bar/Baz would share a common "Ba" node, followed by their own "r" and "z".
 1. According to Alex, "schnitzel" is usually made with beef.
+1. [*Wiener Schnitzel*](https://en.wikipedia.org/wiki/Wiener_Schnitzel) is a protected term for Viennese schnitzel made with veal (calves).
 1. Do not buy Honda Fits made before [2014-06-06][mfit 23].
 1. People are "in cahoots" means that they are conspiring on something.
 1. Authentic chili con carne does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
@@ -703,7 +704,7 @@
 1. The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
 1. In Japan, crab sticks are literally ground meat ("Surimi").
 1. "In spelling sushi, its first letter s is replaced with z when a prefix is attached, as in nigirizushi, due to consonant mutation called rendaku ("sequential voicing") in Japanese."
-1. Ampersand = ["and per se, And [the now-removed alphabet)"](http://blog.dictionary.com/ampersand/)
+1. Ampersand = ["and per se, And (the now-removed alphabet)"](http://blog.dictionary.com/ampersand/)
 1. [Design a thing before building it.](https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) Also in the link: software design tips
 1. [Scion](https://en.m.wikipedia.org/wiki/Scion_%28grafting%29) is a branch to be grafted into/onto another tree, hence the name of the car brand, which was branched off Toyota.
 1. Jews call meatloaf "Klops", the German word for meatball.
@@ -736,6 +737,21 @@
 1. [Target fixation](https://en.wikipedia.org/wiki/Target_fixation), where humans can be so concentrated on meeting a goal that they ignore all risks, can endanger them while doing sports.
 1. There exists a [GeoJSON spec](http://geojson.org/), which is not quite what [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/install/#overview) uses; use [GeoJSONLint](http://geojsonlint.com/) to find out more.
 1. Snowflakes can in fact [be alike](http://www.nytimes.com/2016/01/23/science/who-ever-said-no-two-snowflakes-were-alike.html); the major factor is air turbulence, which can be controlled.
+1. During prohibition, ["Go ugly early"](http://www.urbandictionary.com/define.php?term=go+ugly+early) was a phrase used by [Harry's Chocolate Shop](http://www.harryschocolateshop.com/), a Bar in West Lafayette, IN which called itself a chocolate shop to avoid being known as a bar. Their slogan "Go Ugly Early" was the opposite of its real meaning "come pretty late".
+1. [You can microwave quinoa like oatmeal](https://www.reddit.com/r/EatCheapAndHealthy/comments/42ykrn/friendly_reminder_that_you_can_microwave_quinoa/)
+1. "500cals * 7 = 3500cals = 1lb of fat" - Winona
+1. Herr Hitler sagte (SAAG te), "mein Auto sollte wie ein Käfer (KAY fer) aussehen (to appear)." Mister Hitler said, "my car should look like a beetle."
+1. The first beetle was built by Dr. Porsche.
+1. "Kraft" happens to be the German noun for "strength". That is, [Kraft Foods](https://en.wikipedia.org/wiki/Kraft_Foods_Inc) has nothing to do with it; it was just James Kraft's name.
+1. It is probably wise to buy cars based on its insurance cost, which is [apparently available in the form of a spreadsheet](http://www.ibc.ca/on/auto/buying-auto-insurance/how-auto-insurance-premiums/how-cars-measure-up).
+1. The bauhinia, [Bauhinia × blakeana](https://en.wikipedia.org/wiki/Bauhinia_%C3%97_blakeana), is sterile. Someone has been planting it everywhere.
+1. Three-toed sloths are mostly diurnal, while two-toed sloths are nocturnal. Sloths are also known to urinate once a week.
+1. Almost all mammals, including elements and giraffes, have 7 neckbones, [except manatees and sloths (9)](http://www.sciencedaily.com/releases/2011/05/110505212314.htm)
+1. "Shinny" is another word for [pickup hockey](https://i.imgur.com/zAwz5jB.gifv).
+1. In the order of increasing formality: Bō (坊, boy), Chan, Kun (君, male), San, Shi (氏, people you have never met), Sama (様).
+1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"](https://en.wikipedia.org/wiki/Japanese_honorifics#San)
+1. [*Monseigneur*](https://en.wikipedia.org/wiki/Monseigneur) is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy](https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise).
+1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

@@ -8,6 +8,17 @@
 * Whisk until mixture is close to solid.
 * *Then* add **salt** and **pepper** to taste. This must be done at the end.
 
+## [Omelette](https://www.youtube.com/watch?v=6vST9jh7vUM)
+
+* Whisk three eggs in an "8" motion until foamy (not just runny).
+* Add salt and pepper into the mixture.
+* Heat pan with olive oil.
+* Load mixture into pan. Do not move mixture.
+* When the bottom is "sort of dry", lift it up and insert some butter.
+* Cook some more.
+* Add cheese, [mushrooms](https://www.youtube.com/watch?v=Ow9pGXT3KwY), or something.
+* For authentic Jean Imbert experience, fold the thing in half when pouring it out.
+
 # Lunch
 
 ## [Spinach Pasta](http://m.allrecipes.com/recipe/16142/spinach-pasta-salad)

@@ -170,3 +170,21 @@ interface Point3d extends Point {  // Magic
     z: number;
 }
 ```
+
+### Generics
+
+A generic class is defined as such:
+
+```
+class Foo<T> {
+    someMethodThatUsesT(bar: T) {
+        alert(bar);
+    }
+}
+```
+
+And a generic class is instantiated as such:
+
+```
+var newInstance = new Foo<string>();  // you can now call someMethodThatUsesT with only strings.
+```

@@ -3,6 +3,7 @@
     * If there's a `var` in an `if` block, it will be declared outside the block [to the nearest function scope](http://ariya.ofilabs.com/2013/05/es6-and-block-scope.html). `let` limits its scope to inside the block (which, if you like brackets, makes some sense)
     * `let`s cannot be declared in the same scope twice. So, you cannot use `let`s in multiple `switch` statements.
     * You can use `for(let i = 0;...)` to limit `i` to the `for` block, and jshint won't complain like it does for `var`.
+    * You can also use `let` to directly make a block: `let(foo='bar', baz='buz') { /* use foo inside */}`
 * `const` [does NOT](http://exploringjs.com/es6/ch_variables.html) mean immutable. If you `const` an object, it is still mutable; the const itself just cannot be reassigned.
 * [Array comprehension](http://ariya.ofilabs.com/2013/02/es6-and-destructuring-assignment.html):
 
@@ -118,4 +119,35 @@ var a = (foo) => {
 };
 
 a(3)  // 3
+```
+
+## ES7
+
+### Function bind syntax
+
+With the new [function bind syntax](http://blog.jeremyfairbank.com/javascript/javascript-es7-function-bind-syntax/), which is simply syntactic sugar. The JavaScript world is ecstatic about this new proposal:
+
+> Why? Why do we need YET ANOTHER FUCKING WAY OF BINDING `this`? As if constructor binding, function binding, method binding, `call()` `apply()` and `bind()` were'nt enough, we now need FUCKING SYNTACTIC SUPPORT FOR IT? NO. JUST NO. Javascript is turning into a clown car
+
+```
+log = console.log.bind(console);  // is the same as...
+log = ::console.log;  // default bind to itself
+
+bar.call(foo);  // is the same as...
+foo::bar();
+
+world.apply(foo, arguments);  // is the same as...
+foo::world(...arguments);
+```
+
+The new syntax *can* be chained, much like the previous one can be chained.
+
+```
+world
+    .apply(foo, arguments)
+    .apply(foo, arguments);  // is the same as...
+
+foo
+    ::world(...arguments)
+    ::world(...arguments);
 ```

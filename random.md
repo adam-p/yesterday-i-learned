@@ -735,6 +735,7 @@
 1. [Alcohol can be used as an internal antiseptic](https://www.reddit.com/r/askscience/comments/41mciq/if_alcohol_kills_bacteria_why_dont_adults_do/), but because it is so short-lived, it is rubbish as one.
 1. [Target fixation](https://en.wikipedia.org/wiki/Target_fixation), where humans can be so concentrated on meeting a goal that they ignore all risks, can endanger them while doing sports.
 1. There exists a [GeoJSON spec](http://geojson.org/), which is not quite what [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/install/#overview) uses; use [GeoJSONLint](http://geojsonlint.com/) to find out more.
+1. Snowflakes can in fact [be alike](http://www.nytimes.com/2016/01/23/science/who-ever-said-no-two-snowflakes-were-alike.html); the major factor is air turbulence, which can be controlled.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

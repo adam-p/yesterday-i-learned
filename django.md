@@ -99,6 +99,11 @@ Then re-run: `./manage.py migrate`
 
 Try to mark (after the fact, unfortunately) the schema migration that has a schema migration dependency with the [`depends_on` keyword][readthedocs].
 
+### Doing a data migration that needs access to the model class
+
+It is possible that your model has changed (e.g. somebody added new field).
+Instead of `from app.models import Foo`, you might need to use [`Foo = apps.get_model('app', 'Foo')`](https://realpython.com/blog/python/data-migrations/) to get the *historical* model, which might avoid any issues that may arise.
+
 ## Base models storing common fields
 
 Add a `class Meta` that contains `abstract = True`. 

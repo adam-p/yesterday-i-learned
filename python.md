@@ -284,7 +284,7 @@ print foo()
 ```
 
 * As far as SQLAlchemy is concerned, [there is no difference between `== true()` and `.is_(True)`](https://groups.google.com/forum/#!msg/sqlalchemy/T2bKLjzO6KA/1EwA6spA9QsJ). Howveer, pep8 and co. will complain about the former, so you should use the latter.
-* 
+* `__all__` only concerns `import *` statements. It carries no weight anywhere else.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -96,3 +96,13 @@ struct B : A { };  // Has all A's fields
 ```
 
 * > [In C++, a struct can have methods, inheritance, etc. just like a C++ class.](http://stackoverflow.com/a/979241/1558430)
+* It is possible--get this--to redefine a class/instance method. Instead of using [interfaces](http://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm) like normal humans would (hint: they don't exist), you may define a class in the header, then change the definition of the class.
+* According to your colleagues, `new Something()` gives you a pointer to something, whereas `Something()` gives you the exact thing. For the case of `std::string`, [this helpful post](http://stackoverflow.com/questions/8069092/c-string-declaration) explains **four** variants:
+
+```
+1. `std::string s = std::string("foo");  // creates a temporary std::string object containing "foo", then assigns it to s`
+2. `std::string s = "foo";`  // equivalent to 1. Internally, this runs one of the constructors in std::string that accepts const char*.
+3. `std::string s = new std::string("foo"); // compiler error while trying to assign a pointer to a variable of type std::string`
+4. `std::string s("foo");`
+```
+> "One of the main benefits of using std::string is that it manages the underlying string buffer for you automatically, so new-ing it kind of defeats that purpose."

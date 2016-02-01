@@ -77,3 +77,5 @@ class Rectangle {
     * Returning pointers to functions, where `foo` takes in nothing, and returns a function `bar` that takes an int and returns an int: `int ( *foo(void) ) (int i) {  return bar }`
     * [`"Hello"[5] == 5["Hello"]`.](http://stackoverflow.com/a/381549/1558430)
 * You can still specify the namespace, `foo::some_func()`, in a file/method `using namespace foo`.
+* Function/method names are [`UpperCamelCase`](https://google.github.io/styleguide/cppguide.html#Function_Names), unless they are cheap, (e.g.) "so cheap that you normally wouldn't bother caching its return value when calling it in a loop", in which case they are `underscored_things`; such a function normally consists of only one comparison.
+* 

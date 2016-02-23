@@ -752,6 +752,28 @@
 1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"](https://en.wikipedia.org/wiki/Japanese_honorifics#San)
 1. [*Monseigneur*](https://en.wikipedia.org/wiki/Monseigneur) is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy](https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise).
 1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.
+1. [Cold FX](http://news.nationalpost.com/news/canada/class-action-lawsuit-reveals-company-sat-on-2004-study-indicating-cold-fx-does-nothing-to-fight-colds) does not fight colds.
+1. A [permabear](http://www.davemanuel.com/investor-dictionary/permabear/) is the kind of jerkwad investors who are always negative about the stock market.
+1. [*"Suppose you could design your dream job that you'll be starting on Monday. It's at your ideal company with your ideal job title and salary. All you have to do is tell them what you want to do at your job and you can have it. What does your job entail?"*](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/) My job might be Jesus, which is enabling people to do what they can do.
+1. [Apparently](https://www.reddit.com/r/AskReddit/comments/3y6hbd/what_is_totally_worth_its_risk/cyb3z33), as you grow/age, you are supposed to move to more stable investments.
+1. [What not to do if you use Tor](https://www.whonix.org/wiki/DoNot): remember to separate your tor life like your work life. Never look at the same thing with and without tor, among other things.
+1. Protein deficiency can [enlarge your stomach](https://en.wikipedia.org/wiki/Kwashiorkor) (at least if you are an African child).
+1. [Parrot fish](https://en.wikipedia.org/wiki/Parrotfish#Mucus) make a [mucous cocoon](http://i.imgur.com/Wfsuq4E.jpg) at night to protect against predators and/or blood parasites.
+1. Bruce Lee took the [wrong kind of painkiller](https://en.wikipedia.org/wiki/Equagesic), had his brain swell by 13%, and died young. His son, Brandon, also a martial arts actor, died when [an idiot](https://en.wikipedia.org/wiki/Brandon_Lee#Death) made blanks out of live rounds.
+1. 西貢 is in the east, because Hong Kong.
+1. 張惠妹 was born Amit Kulilay (阿密特·古歷來) in Eastern Taiwan. She never claimed to know Cantonese.
+1. The Peak Tower is situated in the trough between two peaks. Dat gap is called "[Victoria Gap](https://en.wikipedia.org/wiki/Victoria_Gap)".
+1. Des Voeux is actually Des Vœux, because the French.
+1. Gold is not the most corrosion-resistant metal, apparently... iridium is.
+1. Iridium is also the third least abundant rare earth element, so anything with iridium implies it being expensive.
+1. The tip material in modern fountain pens is still conventionally called "iridium", although there is seldom any iridium in it; other metals such as tungsten have taken its place.
+1. Cheaper gasoline is sold to active farmers. It is called dyed diesel (because it is dyed, to...), or [purple gas](https://en.wiktionary.org/wiki/purple_gas) if it is actually gasoline.
+1. If priests take the [canon law](https://en.wikipedia.org/wiki/Canon_law) seriously (which they should, because they are priests), then they cannot reveal a confessional, even if it concerns illegal activities.
+1. [Tasmania](https://en.m.wikipedia.org/wiki/Tasmania) is a country next to Australia, not a jungle.
+1. The Japanese walked to Japan. The sea that separated Korea and Japan did not exist.
+1. No useful advice ever precedes "it's that simple".
+1. Born in San Francisco, and married a white woman from California, not only was Bruce Lee bilingual, he also knew some Japanese, and had neat handwriting for all languages.
+1. Sun Yat-Sen knew English and Japanese as well. He was the number one med school student in Hong Kong. He died of liver cancer.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

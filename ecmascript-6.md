@@ -151,3 +151,8 @@ foo
     ::world(...arguments)
     ::world(...arguments);
 ```
+
+### Async/Await
+
+[Only in an `async`-marked function can you use `await`](http://masnun.com/2015/11/11/using-es7-asyncawait-today-with-babel.html).
+If a promise is resolved, then the lines after `await` run. Otherwise, it throws an error and any `catch` blocks run.

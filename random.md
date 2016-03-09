@@ -752,6 +752,14 @@
 1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"](https://en.wikipedia.org/wiki/Japanese_honorifics#San)
 1. [*Monseigneur*](https://en.wikipedia.org/wiki/Monseigneur) is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy](https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise).
 1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.
+1. You can set your TTL as low as you want; DNS servers just [won't honour it](http://serverfault.com/questions/225999/any-disadvantage-to-short-dns-ttl). Even if they do, low TTLs increase load on the DNS.
+1. VLC was made [just to let some students justify the funding for faster networks](https://news.ycombinator.com/item?id=11016265). The VLC icon was from a [story about a VLC member stealing a cone while intoxicated](https://forum.videolan.org/viewtopic.php?t=9792).
+1. Suicide by paracetamol takes between 3–5 days to 4–6 weeks.
+1. The phytohemagglutinin in as few as 25 unsoaked kidney Beans can kill you. If they are slow cooked, the toxicity increases fivefold.
+1. Investment "Rule of 72"... 72/rate = investment doubles in n years
+1. Even if a function does not have side effects, it must return the same value for any given set of inputs to be considered a [pure function](https://en.wikipedia.org/wiki/Pure_function).
+1. *Correctness* means never returning an incorrect result; *Robustness* means never failing, even if it means having to return an incorrect result.
+1. [Ezekiel](https://en.wikipedia.org/wiki/Ezekiel) is pronounced yuh-hez-KEL.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

@@ -84,6 +84,7 @@ groovy:000> Boolean.valueOf('true')
 * There is no difference between Long's notation, [`l` and `L`](http://stackoverflow.com/a/770017/1558430).
 * If maven is used, `pom.xml` decides what is compiled along as dependencies.
 * It is apparently okay to have a type starting with an `@`, such as [`@Interface`](http://stackoverflow.com/questions/918393)
+* Java-style assertions use the colon, i.e. `assert a == 0: "a is not 0.";`
 
 # [Android](https://www.reddit.com/r/androiddev/comments/3ka9j0/what_to_know_for_a_mobile_developer_interview/)
 

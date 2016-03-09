@@ -154,6 +154,7 @@ c
 ```
 
 * If a function is decorated with `contextlib.contextmanager`, then [it can be used as a `with` statement](https://docs.python.org/2/library/contextlib.html). The function must contain exactly one `yield`, where things that happen before the `yield` works like `__enter__`, and what happens after the `yield` is treated like `__exit__`.
+* Eloborating on `contextmanager`, the `yield` must be *run* only once; the statement cannot be in a loop.
 * [`contextlib.suppress(BaseException)`](https://docs.python.org/3/library/contextlib.html#contextlib.suppress) is basically the `never_fail` decorator. And oops, it is only for Python 3.
 * `random.seed()` is better than `random.seed(0)`, because [the parameter default is the system time](https://docs.python.org/2/library/random.html#random.seed).
 * `hash(-2)` is the same as `hash(-1)`.
@@ -285,6 +286,10 @@ print foo()
 
 * As far as SQLAlchemy is concerned, [there is no difference between `== true()` and `.is_(True)`](https://groups.google.com/forum/#!msg/sqlalchemy/T2bKLjzO6KA/1EwA6spA9QsJ). Howveer, pep8 and co. will complain about the former, so you should use the latter.
 * `__all__` only concerns `import *` statements. It carries no weight anywhere else.
+* `{}` is [definitely](https://www.reddit.com/r/learnpython/comments/42ymhl/returning_is_faster_than_returning_dict_even/) faster than `dict()`. This is also why you should always use literals where possible.
+* Django's [`TransactionTestCase`](https://docs.djangoproject.com/en/1.9/topics/testing/tools/#django.test.TransactionTestCase) is different from its `TestCase` in that while `TestCase` uses a transaction to roll back the database after each test, and--get this--`TransactionTestCase` does *not* use transactions. It just truncates all the tables.
+* `list` is a type.
+* You can test if a function was called with anything using [`mock.assert_called_once_with('foo', bar=ANY)`](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.ANY)
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

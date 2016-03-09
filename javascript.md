@@ -147,6 +147,9 @@ undefined
 * [`n`](http://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version) is the npm package that upgrades nodejs.
 * For supporting the delusional "more choices is better" ideology, [npm allows its JS engine to be swapped out](http://www.marcusoft.net/2015/03/packagejson-and-engines-and-enginestrict.html) using either `engines` in `package.json`, or [an `.npmrc` file](http://blog.npmjs.org/post/110924823920/npm-weekly-5) that does the same.
 * `karma start --reporters dots` runs `karma` without the annoying long list of successes.
+* JS Dates can be [invalid](http://stackoverflow.com/questions/1353684/detecting-an-invalid-date-date-instance-in-javascript). They are invalid if you add like a billion years to it, or the 30th of February, such that `isNaN(dateObj.getTime()) === true` (except in IE8, which [does not work](http://stackoverflow.com/questions/13878515/javascript-valid-date-checking-does-not-work-in-ie8-and-firefox) ).
+* [There are no leap seconds](http://www.ecma-international.org/ecma-262/5.1/#sec-15.9.1.1).
+* Calling [`url = URL.createObjectURL(blobOrFile)`](https://developer.mozilla.org/en/docs/Web/API/URL/createObjectURL) and opening it (either through `window.open` or some link-clicking means) will allow a file to be downloaded. Afterwards, remember to call `URL.revokeObjectURL(url)`
 
 
 ## Deferred API

@@ -85,6 +85,7 @@ groovy:000> Boolean.valueOf('true')
 * If maven is used, `pom.xml` decides what is compiled along as dependencies.
 * It is apparently okay to have a type starting with an `@`, such as [`@Interface`](http://stackoverflow.com/questions/918393)
 * Java-style assertions use the colon, i.e. `assert a == 0: "a is not 0.";`
+* [`getBoolean(thing, prop)`](http://with-example.blogspot.ca/2013/07/booleangetboolean-vs-booleanparseboolean.html) checks if thing.prop is `"true"`; `parseBoolean(thing)` check if `thing` is `"true"` regardless of case.
 
 # [Android](https://www.reddit.com/r/androiddev/comments/3ka9j0/what_to_know_for_a_mobile_developer_interview/)
 

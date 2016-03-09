@@ -60,6 +60,7 @@ Every 8000km:
 * Check that all exterior light bulbs are functioning
 * Inspect front and rear brake components
 * Inspect and top off fluid levels
+* Tighten nuts and bolts on chassis and body 
 
 Every 16000km or one year:
 * Change engine oil and filter

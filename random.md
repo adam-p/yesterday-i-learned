@@ -134,7 +134,7 @@
 1. *Santorum (n.)* was a term made up to upset Rick Santorum, an imbecile residing in the United States.
 1. Checking if `nonInteraction` is on for your google analytics: turn the [Google Analytics Debugger][google] on and off again (serious), and check if any event you track contains `nonInteraction = 0` (`&ni=0`)
 1. **Welp** does *not* stand for "help": [To be used in place of 'well', when one feels there is no more to say.][urbandictionary]
-1. Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.m.wikipedia.org/wiki/Paddington_Bear#History
+1. Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.wikipedia.org/wiki/Paddington_Bear#History
 1. Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
 1. [Mortgage](http://en.wikipedia.org/wiki/Mortgage_loan) is French for "death pledge".
 1. It is illegal to pay your mortgage with loaned money, at least in the US.
@@ -281,7 +281,7 @@
 1. Der (masculine thing), die (feminine thing), das (neither of the former).
 1. I *do*, thou *dost*, He/she/it *doth*.
 1. Buy Lexus, Toyota, or Subaru (in that order). Hondas made in Japan are also acceptable.
-1. [A Void](http://en.m.wikipedia.org/wiki/A_Void) is a book without the letter "e" (apart from the author's name).
+1. [A Void](http://en.wikipedia.org/wiki/A_Void) is a book without the letter "e" (apart from the author's name).
 1. Never buy Seagate drives; [Stop buying WD](https://www.backblaze.com/blog/hard-drive-reliability-update-september-2014/); start buying HGST (Hitachi).
 1. The reasoning behind [colors for traffic lights] is because Green represents life flourishing and going. Red was a sign of life stopped and yellow was a caution that would mean red is coming.
 1. When your married relationship turns sour, quit your job. When a divorce takes place, you get half. This does not work if the other person is also unemployed.
@@ -466,7 +466,7 @@
 1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time. 
 1. Kombucha is fermented tea. Although kombucha is claimed to have several beneficial effects on health, the claims are not supported by scientific evidence.
 1. [Underdrive pulleys](http://en.wikipedia.org/wiki/Underdrive_pulleys) turn at a slower speed than stock. They increase horsepower by removing power from accessories like the AC.
-1. [Opiliones](http://en.m.wikipedia.org/wiki/Opiliones), also called *Harvestmen*, look like spiders, but are much more useful than spiders.
+1. [Opiliones](http://en.wikipedia.org/wiki/Opiliones), also called *Harvestmen*, look like spiders, but are much more useful than spiders.
 1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken.
 1. Scottish bank notes are in fact promissory notes, and are worth nothing like GBP in value.
 1. Capsaicin does not affect birds. Hotness in Capsicum plants helps them spread their seeds because it makes them unpleasant for mammals, but still tasty for birds (which, you know, fly).
@@ -476,7 +476,7 @@
 1. [When accompanied by a slightly less attractive person who looks like you, you are more attractive to others around you.](http://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions?language=en)
 1. Rubbing a bruised spot floods the area with pain signals, making it paradoxically less painful. Rubbing a painful spot is also a universal human instinct.
 1. [Quakes][quake] happen everywhere, all planets with tectonic plates, and the moon...
-1. Many reptiles have a photoreceptive [parietal eye](http://en.m.wikipedia.org/wiki/Parietal_eye) on top of their heads (where the parietal gland is) that control thermoregulation.
+1. Many reptiles have a photoreceptive [parietal eye](http://en.wikipedia.org/wiki/Parietal_eye) on top of their heads (where the parietal gland is) that control thermoregulation.
 1. To keep notes organised, [tag their page edges](http://blog.highfivehq.com/posts/a-little-known-hack-from-japan-to-get-your-notebook-organized).
 1. "Rhadamanthine" means "stern" or "inflexible".
 1. To take a screenshot in Firefox, type Shift+F2, then `screenshot --fullpage filename.png`
@@ -569,8 +569,8 @@
 1. Kazakhstan has the largest and strongest performing economy in Central Asia. It is not a Russian dirt ground with no money.
 1. There is a bunch of paperwork involved when a firearm is discharged, including the exact number of rounds expended.
 1. [SSLv3 has been obsolete for over 16 years and is so full of known problems that the IETF has decided that it must no longer be used.](http://googleonlinesecurity.blogspot.ca/2015/09/disabling-sslv3-and-rc4.html?m=1)
-1. [(Most) Moths make cocoons.](https://en.m.wikipedia.org/wiki/Chrysalis#Chrysalis) Butterflies harden and make chrysalides instead.
-1. [(Most) Moths have apposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.](https://en.m.wikipedia.org/wiki/Eye#Apposition_eyes) Butterflies have superposition eyes ("cones" equivalent) instead.
+1. [(Most) Moths make cocoons.](https://en.wikipedia.org/wiki/Chrysalis#Chrysalis) Butterflies harden and make chrysalides instead.
+1. [(Most) Moths have apposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.](https://en.wikipedia.org/wiki/Eye#Apposition_eyes) Butterflies have superposition eyes ("cones" equivalent) instead.
 1. Chloroform won't knock someone out in seconds. It takes minutes.
 1. > A defibrillator forcefully stops the heart temporarily in an effort to correct a heart in fibrillation. Using a defibrillator on a dead person is like hitting the reset button on an unplugged machine.
 1. There is a two-level LCBO in Ottawa (75 Rideau St.). The lower level is for vintage only.
@@ -656,7 +656,7 @@
 1. CloudWatch is a hypervisor. It can tell how much CPU an EC2 instance is using, and how much network traffic goes in and out of it, but it does not know the instance's internals, e.g. memory, process count, ?.
 1. `$x()` does an XPath search in Chrome's console.
 1. [Phantom Orchid](https://en.wikipedia.org/wiki/Cephalanthera_austiniae) has no chlorophyll.
-1. [The Earth is a dynamo](https://en.m.wikipedia.org/wiki/Geomagnetic_reversal), so its field strength depends on [how aligned the two poles are](https://en.wikipedia.org/wiki/Geomagnetic_reversal#/media/File%3ANASA_54559main_comparison1_strip.gif). If they are not aligned, the field strength is low, and may even be reversed.
+1. [The Earth is a dynamo](https://en.wikipedia.org/wiki/Geomagnetic_reversal), so its field strength depends on [how aligned the two poles are](https://en.wikipedia.org/wiki/Geomagnetic_reversal#/media/File%3ANASA_54559main_comparison1_strip.gif). If they are not aligned, the field strength is low, and may even be reversed.
 1. The Sun undergoes spontaneous magnetic reversals every 9–12 years, where it increases in field strength.
 1. [Trinidad](https://en.wikipedia.org/wiki/Trinidad) isn't in Asia, dumbass.
 1. You can be [doing some crazy things](http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html) to get the average of a 5-star rating.
@@ -706,7 +706,7 @@
 1. "In spelling sushi, its first letter s is replaced with z when a prefix is attached, as in nigirizushi, due to consonant mutation called rendaku ("sequential voicing") in Japanese."
 1. Ampersand = ["and per se, And (the now-removed alphabet)"](http://blog.dictionary.com/ampersand/)
 1. [Design a thing before building it.](https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) Also in the link: software design tips
-1. [Scion](https://en.m.wikipedia.org/wiki/Scion_%28grafting%29) is a branch to be grafted into/onto another tree, hence the name of the car brand, which was branched off Toyota.
+1. [Scion](https://en.wikipedia.org/wiki/Scion_%28grafting%29) is a branch to be grafted into/onto another tree, hence the name of the car brand, which was branched off Toyota.
 1. Jews call meatloaf "Klops", the German word for meatball.
 1. In Canada: ["It is legal to sell and serve dog meat, providing that it must be killed and gutted in front of federal inspectors."](https://en.wikipedia.org/wiki/Dog_meat#Canada)
 1. In USA: ["The term "dog" has been used as a synonym for sausage since 1884 and accusations that sausage makers used dog meat date to at least 1845."](https://en.wikipedia.org/wiki/Dog_meat#United_States_of_America)
@@ -760,6 +760,57 @@
 1. Even if a function does not have side effects, it must return the same value for any given set of inputs to be considered a [pure function](https://en.wikipedia.org/wiki/Pure_function).
 1. *Correctness* means never returning an incorrect result; *Robustness* means never failing, even if it means having to return an incorrect result.
 1. [Ezekiel](https://en.wikipedia.org/wiki/Ezekiel) is pronounced yuh-hez-KEL.
+1. [Cold FX](http://news.nationalpost.com/news/canada/class-action-lawsuit-reveals-company-sat-on-2004-study-indicating-cold-fx-does-nothing-to-fight-colds) does not fight colds.
+1. A [permabear](http://www.davemanuel.com/investor-dictionary/permabear/) is the kind of jerkwad investors who are always negative about the stock market.
+1. [*"Suppose you could design your dream job that you'll be starting on Monday. It's at your ideal company with your ideal job title and salary. All you have to do is tell them what you want to do at your job and you can have it. What does your job entail?"*](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/) My job might be Jesus, which is enabling people to do what they can do.
+1. [Apparently](https://www.reddit.com/r/AskReddit/comments/3y6hbd/what_is_totally_worth_its_risk/cyb3z33), as you grow/age, you are supposed to move to more stable investments.
+1. [What not to do if you use Tor](https://www.whonix.org/wiki/DoNot): remember to separate your tor life like your work life. Never look at the same thing with and without tor, among other things.
+1. Protein deficiency can [enlarge your stomach](https://en.wikipedia.org/wiki/Kwashiorkor) (at least if you are an African child).
+1. [Parrot fish](https://en.wikipedia.org/wiki/Parrotfish#Mucus) make a [mucous cocoon](http://i.imgur.com/Wfsuq4E.jpg) at night to protect against predators and/or blood parasites.
+1. Bruce Lee took the [wrong kind of painkiller](https://en.wikipedia.org/wiki/Equagesic), had his brain swell by 13%, and died young. His son, Brandon, also a martial arts actor, died when [an idiot](https://en.wikipedia.org/wiki/Brandon_Lee#Death) made blanks out of live rounds.
+1. 西貢 is in the east, because Hong Kong.
+1. 張惠妹 was born Amit Kulilay (阿密特·古歷來) in Eastern Taiwan. She never claimed to know Cantonese.
+1. The Peak Tower is situated in the trough between two peaks. Dat gap is called "[Victoria Gap](https://en.wikipedia.org/wiki/Victoria_Gap)".
+1. Des Voeux is actually Des Vœux, because the French.
+1. Gold is not the most corrosion-resistant metal, apparently... iridium is.
+1. Iridium is also the third least abundant rare earth element, so anything with iridium implies it being expensive.
+1. The tip material in modern fountain pens is still conventionally called "iridium", although there is seldom any iridium in it; other metals such as tungsten have taken its place.
+1. Cheaper gasoline is sold to active farmers. It is called dyed diesel (because it is dyed, to...), or [purple gas](https://en.wiktionary.org/wiki/purple_gas) if it is actually gasoline.
+1. If priests take the [canon law](https://en.wikipedia.org/wiki/Canon_law) seriously (which they should, because they are priests), then they cannot reveal a confessional, even if it concerns illegal activities.
+1. [Tasmania](https://en.wikipedia.org/wiki/Tasmania) is a country next to Australia, not a jungle.
+1. The Japanese walked to Japan. The sea that separated Korea and Japan did not exist.
+1. No useful advice ever precedes "it's that simple".
+1. Born in San Francisco, and married a white woman from California, not only was Bruce Lee bilingual, he also knew some Japanese, and had neat handwriting for all languages.
+1. Sun Yat-Sen knew English and Japanese as well. He was the number one med school student in Hong Kong. He died of liver cancer.
+1. A [milliard](https://en.wikipedia.org/wiki/Long_and_short_scales#Comparison) is exactly one thousand times bigger than what you would expect, a million.
+1. Mushrooms are 90%+ water by volume. Besides Vitamin B (and D, if grown in the sun), there is no significant value in consuming them.
+1. Istanbul is Europe's largest city. Then Moscow, Paris, London, Madrid.
+1. A "noose" is the way the rope is tied when you try to hang yourself.
+1. [Elton John](https://en.wikipedia.org/wiki/Elton_John) was born Reginald Kenneth Dwight, with neither Elton nor John in his name. Elton and John came from Bluesology saxophonist Elton Dean and Long John Baldry.
+1. [Norway](https://en.wikipedia.org/wiki/Norway) aka North Way is north of Suðrvegr (South Way, aka Germany).
+1. Manboobs feel the same as woman boobs.
+1. Grated cheese can apparently [contain cellulose](http://www.bloomberg.com/news/articles/2016-02-24/wal-mart-sued-over-parmesan-cheese-with-wood-pulp-filler).
+1. [1 out of 4](http://www.internetworldstats.com/stats7.htm) in the top 10 Internet languages is right to left.
+1. In [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt), "shall" is the same as "must". "Should" is optional only if you have grounds to break the rule; "may" is optional.
+1. If you are indispensable, you cannot be promoted, but you can sometimes get a raise.
+1. By EU law, [Black Forest Ham](https://en.wikipedia.org/wiki/Black_Forest_ham) must come from Black Forest, Germany. It is also dry-cured, contains 20% fat, and is almost never circular (but more bacon-shaped). So, the black forest ham you have been eating is not black forest ham.
+1. The captain ought to go down with the ship, but can also do whatever they want if all others have evacuated.
+1. If your brie isn't oozing, it is not the real thing. Also, never bring brie to a party, because what you buy is never the real thing.
+1. Extra large eggs are 63-70g, large 56-63g, and medium 49-56g. Their price multipliers are 1.12, 1.00, and 1.13, respectively.
+1. There is a [Bavarian accent](https://www.youtube.com/watch?v=TEkI0cH_rK4&app=desktop) that even Germans make fun of.
+1. [Brittany](https://en.wikipedia.org/wiki/Brittany) is a place in France.
+1. [Robert Landsburg](https://en.wikipedia.org/wiki/Robert_Landsburg) died filming [the eruption of Mt. St. Helens](https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens), which is in 1980, not the ancient past.
+1. Tom Hanks *loves* typewriters.
+1. In terms of greenhouse gas grams per calorie, [vegetarian and vegan diets can be more harmful to the environment](http://www.cmu.edu/news/stories/archives/2015/december/diet-and-environment.html) because of how little energy there is in, e.g. celery.
+1. [For best results](https://blog.cardiogr.am/2016/02/12/do-you-really-need-10000-steps-a-day-2/), do 45 minutes of high-intensity exercise per *week*. Benefits plateau beyond that.
+1. *The Six* may refer to: The city of Toronto
+1. Going to the Internet and looking at what it suggests you may like is [no better than television](https://news.ycombinator.com/item?id=10812332).
+1. [IEDs are meant to strike mental suffering](https://www.reddit.com/r/todayilearned/comments/47j3el/til_during_the_ww1_germans_protested_against_the/d0ea25i), not physical.
+1. [Antidepressant use is linked to significant rise in suicide rates](http://thefreethoughtproject.com/suicide-epidemic-etc/).
+1. The Japanese believe that [three things: a sword, a bronze mirror, and a cashew](https://en.wikipedia.org/wiki/Imperial_Regalia_of_Japan) came from [瓊瓊杵尊](https://en.wikipedia.org/wiki/Ninigi-no-Mikoto), the Japanese Jesus.
+1. [*Immaculate conception*](https://en.wikipedia.org/wiki/Immaculate_Conception) refers to Mary being born sin-free, not the virgin birth of Jesus.
+1. Acai (Açaí) rhymes with Asahi.
+1. "userdebug" seen in Android's build string apparently means something. ["No root because it's a 'user' build, which is what manufacturers ship. 'userdebug' builds which contain root also contain debugging tools and other things that some users might consider to be bugs."](https://www.reddit.com/r/oneplus/comments/3sre4p/exodus_511_nightlies_vs_60_sultans_rom/cx07d0u)
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro
@@ -784,9 +835,9 @@
 [lifehacker]: http://lifehacker.com/what-happens-to-the-brain-when-you-meditate-and-how-it-1202533314
 [lifehacker 2]: http://lifehacker.com/the-differences-between-british-and-american-cooking-vo-1574080813
 [lifehacker 3]: http://lifehacker.com/use-ice-cubes-and-your-dryer-to-steam-out-wrinkles-1551615442
-[m]: http://en.m.wikipedia.org/wiki/Imago
-[m 2]: http://en.m.wikipedia.org/wiki/Osmeterium
-[m 3]: http://en.m.wikipedia.org/wiki/Paddington_Bear#History
+[m]: http://en.wikipedia.org/wiki/Imago
+[m 2]: http://en.wikipedia.org/wiki/Osmeterium
+[m 3]: http://en.wikipedia.org/wiki/Paddington_Bear#History
 [mfit 23]: http://www.nytimes.com/2014/08/22/automobiles/2015-honda-fit-gets-second-chance-in-iihs-crash-test.html
 [moneysupermarket]: http://www.moneysupermarket.com/car-insurance/blog/car-crash-by-colour/
 [newrelic]: http://blog.newrelic.com/2014/04/11/crazy-things-found-developing-new-relic-browser/?mpc=SM-TWIT-generic-EN-100-browserdev-crazythings

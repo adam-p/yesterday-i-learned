@@ -290,6 +290,14 @@ print foo()
 * Django's [`TransactionTestCase`](https://docs.djangoproject.com/en/1.9/topics/testing/tools/#django.test.TransactionTestCase) is different from its `TestCase` in that while `TestCase` uses a transaction to roll back the database after each test, and--get this--`TransactionTestCase` does *not* use transactions. It just truncates all the tables.
 * `list` is a type.
 * You can test if a function was called with anything using [`mock.assert_called_once_with('foo', bar=ANY)`](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.ANY)
+* [Welcome to unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/), where `e < f < é`:
+
+```
+>>> words = ['cafeteria', 'caffeine', 'café']
+>>> words.sort()
+>>> words
+['cafeteria', 'caffeine', 'café']
+```
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

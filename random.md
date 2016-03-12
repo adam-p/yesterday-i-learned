@@ -811,6 +811,11 @@
 1. [*Immaculate conception*](https://en.wikipedia.org/wiki/Immaculate_Conception) refers to Mary being born sin-free, not the virgin birth of Jesus.
 1. Acai (Açaí) rhymes with Asahi.
 1. "userdebug" seen in Android's build string apparently means something. ["No root because it's a 'user' build, which is what manufacturers ship. 'userdebug' builds which contain root also contain debugging tools and other things that some users might consider to be bugs."](https://www.reddit.com/r/oneplus/comments/3sre4p/exodus_511_nightlies_vs_60_sultans_rom/cx07d0u)
+1. Salt can thicken soap (and then thin it). "The sodium ions from the salt lower the charge density of the micelle surface. This makes them more able to pack closer together and creates a thicker solution." "We call this the Salt Curve"
+1. On South Park, they would say "you bastards" to the writers, not the character who killed Kenny.
+1. While both [Saint Nicholas and Santa Claus](https://en.wikipedia.org/wiki/Saint_Nicholas#Santa_Claus) were responsible for *secret* gifting, the commercial Christmas only consists of public gifting, stashed under a tree notwithstanding.
+1. [Grouper](https://en.wikipedia.org/wiki/Grouper) is literally 石斑.
+1. Coriander *is* [cilantro](https://en.wikipedia.org/wiki/Coriander), and is a leafy herb that [Mexicans poop on](https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9).
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

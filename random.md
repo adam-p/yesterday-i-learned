@@ -811,7 +811,14 @@
 1. [*Immaculate conception*](https://en.wikipedia.org/wiki/Immaculate_Conception) refers to Mary being born sin-free, not the virgin birth of Jesus.
 1. Acai (Açaí) rhymes with Asahi.
 1. "userdebug" seen in Android's build string apparently means something. ["No root because it's a 'user' build, which is what manufacturers ship. 'userdebug' builds which contain root also contain debugging tools and other things that some users might consider to be bugs."](https://www.reddit.com/r/oneplus/comments/3sre4p/exodus_511_nightlies_vs_60_sultans_rom/cx07d0u)
-1. 
+1. [Hanlon's_razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): if an act can happen because someone is stupid, then it is okay to just assume it was that (stupidity).
+1. Ri Sol-ju, the wife of Kim Jong Un, looks a lot better than Kim Jong Un.
+1. It is not uncommon for people to [hear explosions just as they fall asleep](https://en.wikipedia.org/wiki/Exploding_head_syndrome).
+1. [Curves of constant width](https://en.wikipedia.org/wiki/Curve_of_constant_width) are the general answer to a brain teaser: "What shape can you make a manhole cover so that it cannot fall down through the hole?", where only circular manhole covers have a stationary center.
+1. The X Files theme song is called "Materia Primoris".
+1. [Do not remove popcorn ceiling yourself](https://www.reddit.com/r/videos/comments/49p218/a_brilliant_way_to_remove_popcorn_ceilings/).
+1. In November 1999, the corporate name of [7-Eleven] was changed from The Southland Corporation to 7-Eleven Inc.
+1. Unlike their counterparts in America, Canadian Slurpees do not contain yucca extract, which gives it the airy consistency American Slurpees are known for.
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

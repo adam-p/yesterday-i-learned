@@ -819,6 +819,12 @@
 1. [Do not remove popcorn ceiling yourself](https://www.reddit.com/r/videos/comments/49p218/a_brilliant_way_to_remove_popcorn_ceilings/).
 1. In November 1999, the corporate name of [7-Eleven] was changed from The Southland Corporation to 7-Eleven Inc.
 1. Unlike their counterparts in America, Canadian Slurpees do not contain yucca extract, which gives it the airy consistency American Slurpees are known for.
+1. Salt can thicken soap (and then thin it). "The sodium ions from the salt lower the charge density of the micelle surface. This makes them more able to pack closer together and creates a thicker solution." "We call this the Salt Curve"
+1. On South Park, they would say "you bastards" to the writers, not the character who killed Kenny.
+1. While both [Saint Nicholas and Santa Claus](https://en.wikipedia.org/wiki/Saint_Nicholas#Santa_Claus) were responsible for *secret* gifting, the commercial Christmas only consists of public gifting, stashed under a tree notwithstanding.
+1. [Grouper](https://en.wikipedia.org/wiki/Grouper) is literally 石斑.
+1. Coriander *is* [cilantro](https://en.wikipedia.org/wiki/Coriander), and is a leafy herb that [Mexicans poop on](https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9).
+1. 
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

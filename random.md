@@ -189,7 +189,7 @@
 1. *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
 1. There are many kinds of fats; [brown fats][wikipedia 24] are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
 1. > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... ([continued][reddit 10])
-1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly.
+1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly. ["Locals pronounce it Laos."](https://www.youtube.com/watch?v=jbDZ-z18UOw)
 1. Ostriches are not from Australia.
 1. [People can sue you][workopolis] if you give them bad references.
 1. There is such a thing as a [Damn Vulnerable Web App][dvwa] that is built solely for others' testing pleasure.
@@ -816,6 +816,8 @@
 1. While both [Saint Nicholas and Santa Claus](https://en.wikipedia.org/wiki/Saint_Nicholas#Santa_Claus) were responsible for *secret* gifting, the commercial Christmas only consists of public gifting, stashed under a tree notwithstanding.
 1. [Grouper](https://en.wikipedia.org/wiki/Grouper) is literally 石斑.
 1. Coriander *is* [cilantro](https://en.wikipedia.org/wiki/Coriander), and is a leafy herb that [Mexicans poop on](https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9).
+1. [Refried beans](https://en.wikipedia.org/wiki/Refried_beans) is cooked and mashed, not fried.
+1. Alec Guinness (Ben Kenobi) died ages ago (2000). He was old enough to experience the Jedi purge and two other world wars.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

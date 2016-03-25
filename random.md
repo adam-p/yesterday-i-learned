@@ -787,10 +787,12 @@
 1. Istanbul is Europe's largest city. Then Moscow, Paris, London, Madrid.
 1. A "noose" is the way the rope is tied when you try to hang yourself.
 1. [Elton John](https://en.wikipedia.org/wiki/Elton_John) was born Reginald Kenneth Dwight, with neither Elton nor John in his name. Elton and John came from Bluesology saxophonist Elton Dean and Long John Baldry.
+1. [50 Cent](https://en.wikipedia.org/wiki/50_Cent) was born Curtis James Jackson III, with neither 50 nor Cent in his name.
+1. [Kesha](https://en.wikipedia.org/wiki/Kesha), on the other hand, was born d  Kesha (Sebert).
 1. [Norway](https://en.wikipedia.org/wiki/Norway) aka North Way is north of Suðrvegr (South Way, aka Germany).
 1. Manboobs feel the same as woman boobs.
 1. Grated cheese can apparently [contain cellulose](http://www.bloomberg.com/news/articles/2016-02-24/wal-mart-sued-over-parmesan-cheese-with-wood-pulp-filler).
-1. [1 out of 4](http://www.internetworldstats.com/stats7.htm) in the top 10 Internet languages is right to left.
+1. [1 out of 4](http://www.internetworldstats.com/stats7.htm) top 10 Internet languages is right to left.
 1. In [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt), "shall" is the same as "must". "Should" is optional only if you have grounds to break the rule; "may" is optional.
 1. If you are indispensable, you cannot be promoted, but you can sometimes get a raise.
 1. By EU law, [Black Forest Ham](https://en.wikipedia.org/wiki/Black_Forest_ham) must come from Black Forest, Germany. It is also dry-cured, contains 20% fat, and is almost never circular (but more bacon-shaped). So, the black forest ham you have been eating is not black forest ham.
@@ -826,6 +828,8 @@
 1. Coriander *is* [cilantro](https://en.wikipedia.org/wiki/Coriander), and is a leafy herb that [Mexicans poop on](https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9).
 1. [Refried beans](https://en.wikipedia.org/wiki/Refried_beans) is cooked and mashed, not fried.
 1. Alec Guinness (Ben Kenobi) died ages ago (2000). He was old enough to experience the Jedi purge and two other world wars.
+1. [Adding automatic transmission fluid does not clean your engine](https://www.reddit.com/r/Justrolledintotheshop/comments/4b2kyu/my_sister_bought_a_car_that_has_missed_an_oil/d15mu5n); not sure why it must be said.
+1. There are more binary stars (orbits around another star) than unary stars.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

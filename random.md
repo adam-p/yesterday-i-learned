@@ -841,6 +841,7 @@
 1. [Weevel](https://en.wikipedia.org/wiki/Weevil) (beetle) eggs can be found in [all bought grains](https://www.reddit.com/r/todayilearned/comments/4doi5h/til_weevil_eggs_are_in_most_grains_that_we_buy/). They grow in your rice.
 1. Want to cancel something attached to your home? Just claim to be moving in with someone else.
 1. busybox is just [a bunch of hardlinks](https://www.reddit.com/r/askscience/comments/4d1w8x/why_can_you_rename_or_change_the_path_of_an_open/d1njoxz) to the same file. This saves space.
+1. Surgeons use [bone wax](https://en.wikipedia.org/wiki/Bone_wax) (beeswax, almond oil, salicylic acid) to mechanically stop bleeding.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

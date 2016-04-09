@@ -830,6 +830,17 @@
 1. Alec Guinness (Ben Kenobi) died ages ago (2000). He was old enough to experience the Jedi purge and two other world wars.
 1. [Adding automatic transmission fluid does not clean your engine](https://www.reddit.com/r/Justrolledintotheshop/comments/4b2kyu/my_sister_bought_a_car_that_has_missed_an_oil/d15mu5n); not sure why it must be said.
 1. There are more binary stars (orbits around another star) than unary stars.
+1. According to The Hangover, Baklava is pronounced bakLAva. However, everybody else on the Internet says BAKlava.
+1. [Common sense](https://www.reddit.com/r/AskReddit/comments/4c2hat/fast_food_workerswhat_should_we_never_order_from/) is ordering things from a fast food restaurant only if the ingredients appear in more than one item, which makes sure they are fresh.
+1. The "only male child"s of the world are people who, since the beginning of life, 
+1. Moscow, in its native tongue, sounds like "MOSKva".
+1. A [perennial plant](https://en.wikipedia.org/wiki/Perennial_plant) is a plant that lives for more than two years. Other terms are annuals (one year) and biennials (two years).
+1. [Homeless people are still eligible for OHIP](https://ca.answers.yahoo.com/question/index?qid=20081106221150AADQP6y), but you should talk to Salvation Army about this, who supposedly helps with homeless matters.
+1. [Ragu](https://en.wikipedia.org/wiki/Rag%C3%B9) is meant to be made with fettuccine. That makes spaghetti and meatballs fettuccine and meatballs.
+1. The event that killed the dinosaurs was only [the third largest extinction event](http://www.bbc.co.uk/nature/extinction_events). The [Permian mass extinction](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), instead, was the only mass extinction of insects, and killed off 96% of the species.
+1. [Weevel](https://en.wikipedia.org/wiki/Weevil) (beetle) eggs can be found in [all bought grains](https://www.reddit.com/r/todayilearned/comments/4doi5h/til_weevil_eggs_are_in_most_grains_that_we_buy/). They grow in your rice.
+1. Want to cancel something attached to your home? Just claim to be moving in with someone else.
+1. busybox is just [a bunch of hardlinks](https://www.reddit.com/r/askscience/comments/4d1w8x/why_can_you_rename_or_change_the_path_of_an_open/d1njoxz) to the same file. This saves space.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

@@ -842,6 +842,9 @@
 1. Want to cancel something attached to your home? Just claim to be moving in with someone else.
 1. busybox is just [a bunch of hardlinks](https://www.reddit.com/r/askscience/comments/4d1w8x/why_can_you_rename_or_change_the_path_of_an_open/d1njoxz) to the same file. This saves space.
 1. Surgeons use [bone wax](https://en.wikipedia.org/wiki/Bone_wax) (beeswax, almond oil, salicylic acid) to mechanically stop bleeding.
+1. Newman is from Seinfeld. He predates Gabe Newell. He stole a few eggs, and was [killed in Jurassic Park](https://en.wikipedia.org/wiki/Wayne_Knight#Film).
+1. [Seinfeld](https://en.wikipedia.org/wiki/Jerry_Seinfeld) directed [*Seinfeld*](https://en.wikipedia.org/wiki/Seinfeld), where there exists a scene in Seinfeld (in [The Pilot](https://en.wikipedia.org/wiki/The_Pilot_%28Seinfeld%29), which isn't the pilot), where Seinfeld shoots a comedy as Seinfeld. As Seinfeld.
+1. George Costanza later became a [professional poker player](https://en.wikipedia.org/wiki/Jason_Alexander#Poker_career). He has two biblical children, Gabriel and Noah.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

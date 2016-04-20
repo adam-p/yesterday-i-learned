@@ -6,6 +6,7 @@ Further reading:
 
 * [The codeless code](http://thecodelesscode.com)
 * [Methodology cancer](http://www.javacodegeeks.com/2014/04/development-methodologies.html)
+* [The Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html)
 
 ## "1. Defer building until pain"
 
@@ -152,3 +153,16 @@ A checklist is available for determining whether your task is done:
 ### Deliverables
 
 A task needs a list of deliverables ("what needed to be done" -- and "what got done?") and, preferably, a due date.
+
+## Root Cause Analysis
+
+If something goes wrong, ask [Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html), whether or not it seems relevant, to drill down to the root cause.
+Each why should follow with another why, so the answer becomes more and more fundamental.
+The final Why should be answered with "how can it not happen again" as a retrospective.
+
+>    why was the website down? The CPU utilization on all our front-end servers went to 100%
+>    why did the CPU usage spike? A new bit of code contained an infinite loop!
+>    why did that code get written? So-and-so made a mistake
+>    why did his mistake get checked in? He didn't write a unit test for the feature
+>    why didn't he write a unit test? He's a new employee, and he was not properly trained in TDD
+>    die Endlösung: change the new engineer orientation to include TDD

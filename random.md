@@ -189,7 +189,7 @@
 1. *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
 1. There are many kinds of fats; [brown fats][wikipedia 24] are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
 1. > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... ([continued][reddit 10])
-1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly.
+1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly. ["Locals pronounce it Laos."](https://www.youtube.com/watch?v=jbDZ-z18UOw)
 1. Ostriches are not from Australia.
 1. [People can sue you][workopolis] if you give them bad references.
 1. There is such a thing as a [Damn Vulnerable Web App][dvwa] that is built solely for others' testing pleasure.
@@ -787,10 +787,12 @@
 1. Istanbul is Europe's largest city. Then Moscow, Paris, London, Madrid.
 1. A "noose" is the way the rope is tied when you try to hang yourself.
 1. [Elton John](https://en.wikipedia.org/wiki/Elton_John) was born Reginald Kenneth Dwight, with neither Elton nor John in his name. Elton and John came from Bluesology saxophonist Elton Dean and Long John Baldry.
+1. [50 Cent](https://en.wikipedia.org/wiki/50_Cent) was born Curtis James Jackson III, with neither 50 nor Cent in his name.
+1. [Kesha](https://en.wikipedia.org/wiki/Kesha), on the other hand, was born d  Kesha (Sebert).
 1. [Norway](https://en.wikipedia.org/wiki/Norway) aka North Way is north of Suðrvegr (South Way, aka Germany).
 1. Manboobs feel the same as woman boobs.
 1. Grated cheese can apparently [contain cellulose](http://www.bloomberg.com/news/articles/2016-02-24/wal-mart-sued-over-parmesan-cheese-with-wood-pulp-filler).
-1. [1 out of 4](http://www.internetworldstats.com/stats7.htm) in the top 10 Internet languages is right to left.
+1. [1 out of 4](http://www.internetworldstats.com/stats7.htm) top 10 Internet languages is right to left.
 1. In [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt), "shall" is the same as "must". "Should" is optional only if you have grounds to break the rule; "may" is optional.
 1. If you are indispensable, you cannot be promoted, but you can sometimes get a raise.
 1. By EU law, [Black Forest Ham](https://en.wikipedia.org/wiki/Black_Forest_ham) must come from Black Forest, Germany. It is also dry-cured, contains 20% fat, and is almost never circular (but more bacon-shaped). So, the black forest ham you have been eating is not black forest ham.
@@ -837,6 +839,25 @@
 1. Winning is only half the battle.
 1. Washroom hand dryers spread around 60~1300 times more germs than paper towels, [according to a flawed study](http://www.telegraph.co.uk/news/2016/04/13/dyson-airblades-spread-germs-1300-times-more-than-paper-towels/).
 1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"](http://stackoverflow.com/questions/4568267/android-min-sdk-version-vs-target-sdk-version) is the level at which you, the developer, have made sure the app still works by handling missing features properly.
+1. [Refried beans](https://en.wikipedia.org/wiki/Refried_beans) is cooked and mashed, not fried.
+1. Alec Guinness (Ben Kenobi) died ages ago (2000). He was old enough to experience the Jedi purge and two other world wars.
+1. [Adding automatic transmission fluid does not clean your engine](https://www.reddit.com/r/Justrolledintotheshop/comments/4b2kyu/my_sister_bought_a_car_that_has_missed_an_oil/d15mu5n); not sure why it must be said.
+1. There are more binary stars (orbits around another star) than unary stars.
+1. According to The Hangover, Baklava is pronounced bakLAva. However, everybody else on the Internet says BAKlava.
+1. [Common sense](https://www.reddit.com/r/AskReddit/comments/4c2hat/fast_food_workerswhat_should_we_never_order_from/) is ordering things from a fast food restaurant only if the ingredients appear in more than one item, which makes sure they are fresh.
+1. The "only male child"s of the world are people who, since the beginning of life, 
+1. Moscow, in its native tongue, sounds like "MOSKva".
+1. A [perennial plant](https://en.wikipedia.org/wiki/Perennial_plant) is a plant that lives for more than two years. Other terms are annuals (one year) and biennials (two years).
+1. [Homeless people are still eligible for OHIP](https://ca.answers.yahoo.com/question/index?qid=20081106221150AADQP6y), but you should talk to Salvation Army about this, who supposedly helps with homeless matters.
+1. [Ragu](https://en.wikipedia.org/wiki/Rag%C3%B9) is meant to be made with fettuccine. That makes spaghetti and meatballs fettuccine and meatballs.
+1. The event that killed the dinosaurs was only [the third largest extinction event](http://www.bbc.co.uk/nature/extinction_events). The [Permian mass extinction](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), instead, was the only mass extinction of insects, and killed off 96% of the species.
+1. [Weevel](https://en.wikipedia.org/wiki/Weevil) (beetle) eggs can be found in [all bought grains](https://www.reddit.com/r/todayilearned/comments/4doi5h/til_weevil_eggs_are_in_most_grains_that_we_buy/). They grow in your rice.
+1. Want to cancel something attached to your home? Just claim to be moving in with someone else.
+1. busybox is just [a bunch of hardlinks](https://www.reddit.com/r/askscience/comments/4d1w8x/why_can_you_rename_or_change_the_path_of_an_open/d1njoxz) to the same file. This saves space.
+1. Surgeons use [bone wax](https://en.wikipedia.org/wiki/Bone_wax) (beeswax, almond oil, salicylic acid) to mechanically stop bleeding.
+1. Newman is from Seinfeld. He predates Gabe Newell. He stole a few eggs, and was [killed in Jurassic Park](https://en.wikipedia.org/wiki/Wayne_Knight#Film).
+1. [Seinfeld](https://en.wikipedia.org/wiki/Jerry_Seinfeld) directed [*Seinfeld*](https://en.wikipedia.org/wiki/Seinfeld), where there exists a scene in Seinfeld (in [The Pilot](https://en.wikipedia.org/wiki/The_Pilot_%28Seinfeld%29), which isn't the pilot), where Seinfeld shoots a comedy as Seinfeld. As Seinfeld.
+1. George Costanza later became a [professional poker player](https://en.wikipedia.org/wiki/Jason_Alexander#Poker_career). He has two biblical children, Gabriel and Noah.
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

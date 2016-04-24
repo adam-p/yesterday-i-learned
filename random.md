@@ -845,6 +845,17 @@
 1. Newman is from Seinfeld. He predates Gabe Newell. He stole a few eggs, and was [killed in Jurassic Park](https://en.wikipedia.org/wiki/Wayne_Knight#Film).
 1. [Seinfeld](https://en.wikipedia.org/wiki/Jerry_Seinfeld) directed [*Seinfeld*](https://en.wikipedia.org/wiki/Seinfeld), where there exists a scene in Seinfeld (in [The Pilot](https://en.wikipedia.org/wiki/The_Pilot_%28Seinfeld%29), which isn't the pilot), where Seinfeld shoots a comedy as Seinfeld. As Seinfeld.
 1. George Costanza later became a [professional poker player](https://en.wikipedia.org/wiki/Jason_Alexander#Poker_career). He has two biblical children, Gabriel and Noah.
+1. To protect your feet on a long hike, [wear silk socks, then wool ('darn tough') socks over them](https://www.reddit.com/r/WTF/comments/4e2759/feet_of_an_infantryman_after_manchu_mile/).
+1. [Hallelujah](http://biblehub.com/text/psalms/115-17.htm) is a breakup of yə-hal-lū- (praise, probably) and yāh (the Lord).
+1. Your current temperature can fall outside your daily high/low simply because [the three numbers all came from different providers](https://www.reddit.com/r/explainlikeimfive/comments/2xcz41/eli5_why_are_the_daily_highlow_temperature/).
+1. Australia has over 10000 beaches.
+1. The last public execution by guillotine was in 1939. Private execution by guillotine went until 1977.
+1. [Last rites](https://en.wikipedia.org/wiki/Last_rites) (rituals), which is not last *rights*... are prayers by priests to patients shortly before their death. This also applies to executions.
+1. Wet cured ham is [apparently ready to eat](http://www.recipetips.com/kitchen-tips/t--749/roasting-ham.asp), if you can tolerate the texture.
+1. Analgesic is pronounced an-alJEEsik, or an-alGEEsik if you are actually Greek.
+1. You are never supposed to sign things with your master pubkey.
+1. The [PGP fingerprint](http://security.stackexchange.com/questions/74009/what-is-an-openpgp-key-id-collision) derives its short key (its last 32 bits) and long key (its last 64 bits). RFC 4880 outlines short ID collisions.
+1. 
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

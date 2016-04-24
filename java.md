@@ -64,6 +64,7 @@ groovy:000> Boolean.valueOf('true')
 * The "com" is [the company website's TLD](http://stackoverflow.com/questions/2125293/java-packages-com-and-org) by convention.
 * [Generics](https://en.wikipedia.org/wiki/Generics_in_Java): `<T>` means "of type T".
 * The [`@Override`](http://stackoverflow.com/a/94447/1558430) denotes "I override a parent method"; whether or not it does anything is up to the compiler.
+* `@Override` "came from" `java.lang` automatically for every file, just like the implied `from exceptions import *` in Python.
 * Interfaces can be private. There are virtual no uses for this case.
 * [JLS = Java Language Specification](http://docs.oracle.com/javase/specs/)
 * A class method that returns an instance of itself is used for chaining. Not memory-efficient; just chaining.
@@ -86,6 +87,7 @@ groovy:000> Boolean.valueOf('true')
 * It is apparently okay to have a type starting with an `@`, such as [`@Interface`](http://stackoverflow.com/questions/918393)
 * Java-style assertions use the colon, i.e. `assert a == 0: "a is not 0.";`
 * [`getBoolean(thing, prop)`](http://with-example.blogspot.ca/2013/07/booleangetboolean-vs-booleanparseboolean.html) checks if thing.prop is `"true"`; `parseBoolean(thing)` check if `thing` is `"true"` regardless of case.
+* Apparently, empty character literals (`''`) are not allowed. It makes no sense anyhow. Empty string is `""`.
 
 # [Android](https://www.reddit.com/r/androiddev/comments/3ka9j0/what_to_know_for_a_mobile_developer_interview/)
 
@@ -94,3 +96,10 @@ groovy:000> Boolean.valueOf('true')
 * Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)
 * For whatever reason, [it is impossible to set a negative value on a NumberPicker](http://stackoverflow.com/questions/20968561/android-numberpicker-negative-values). You can only subtract the value by a negative number after the fact.
 * Do know what these mean: activity/fragment lifecycles, device rotation, services, broadcasts, background tasks, asynchronous tasks, views, adapters, recyclerview, "view holder pattern"
+* Strings are put inside `project_root/app/src/main/res/values/strings.xml`, because nested folders are the best.
+* [The plus thing in the XML](http://developer.android.com/training/basics/firstapp/building-ui.html), like `android:id="@+id/edit_message"`, is required only for the line that defines it.
+* `android:hint` are placeholder texts.
+* [`layout_weight` is a relative number](http://stackoverflow.com/questions/3995825/what-does-androidlayout-weight-mean). A `layout_weight` of 1 means 100% of the width *IF* the control happens to be the only control inside a `LinearView` with the weight specified. If two controls have the weight specified (say 1, 1), then each control shares 50% of the width.
+* If `layout_weight` is given, [then](http://developer.android.com/training/basics/firstapp/building-ui.html) `layout_width` is useless (irrelevant), and should be set to 0dp or 0px.
+* The back button does ["back navigation"](http://developer.android.com/design/patterns/navigation.html) (whichever activity shown in reverse chronological order); the in-app backs do "up navigation". The term "up" refers to the hierarchical parent of the current activity, a hierarchy you declare in `AndroidManifest.xml`.
+* 

@@ -826,6 +826,19 @@
 1. While both [Saint Nicholas and Santa Claus](https://en.wikipedia.org/wiki/Saint_Nicholas#Santa_Claus) were responsible for *secret* gifting, the commercial Christmas only consists of public gifting, stashed under a tree notwithstanding.
 1. [Grouper](https://en.wikipedia.org/wiki/Grouper) is literally 石斑.
 1. Coriander *is* [cilantro](https://en.wikipedia.org/wiki/Coriander), and is a leafy herb that [Mexicans poop on](https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9).
+1. *Carabinieri* is the Italian word for police. *Carabineer* is a soldier who uses a carbine.
+1. Email titles should be [no more than 78 characters in length](http://stackoverflow.com/questions/1592291/what-is-the-email-subject-length-limit); line-wrapping can extend the length indefinitely. Most frameworks limit the length to 255 characters anyway.
+1. A [higher-order function](https://github.com/hemanth/functional-programming-jargon#higher-order-functions-hof) (more jargons inside link) is a function that accepts a function and returns a function. A decorator is a higher-order function.
+1. New Zealand is on its own geographical (not political) continent called [Zealandia](https://m.reddit.com/r/askscience/comments/14dkm7/is_new_zealand_a_part_of_the_australian_continent/).
+1. The Micro USB connector standard is rated [10 insertions for 3 years](http://electronics.stackexchange.com/questions/18552/why-was-mini-usb-deprecated-in-favor-of-micro-usb). Interestingly, [the original USB was rated at 1500 insertions](https://en.wikipedia.org/wiki/USB#Durability), but you don't ever see them breaking.
+1. [NiMH batteries should be taken out of the charger shortly after charging completes](http://batteryuniversity.com/learn/article/do_and_dont_battery_table).
+1. Naval Maps are centered at America, [cutting Asia in half](http://i.imgur.com/iF89Wxe.jpg).
+1. Since mercury adheres to itself stronger than usual liquids (read: high surface tension), [sponges cannot absorb it](http://i.imgur.com/K4IoziO.gif).
+1. [Papa and Mama don't have lettuce, but the Uncle and Teen do.](https://www.reddit.com/r/canada/comments/4ee6cw/til_aw_canada_no_longer_has_any_corporate/) Uncle and Teen also share the same L nose, while the rest of the family all have round noses.
+1. [Death throes](http://www.ldoceonline.com/dictionary/death-throes), not death rows!
+1. Winning is only half the battle.
+1. Washroom hand dryers spread around 60~1300 times more germs than paper towels, [according to a flawed study](http://www.telegraph.co.uk/news/2016/04/13/dyson-airblades-spread-germs-1300-times-more-than-paper-towels/).
+1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"](http://stackoverflow.com/questions/4568267/android-min-sdk-version-vs-target-sdk-version) is the level at which you, the developer, have made sure the app still works by handling missing features properly.
 1. [Refried beans](https://en.wikipedia.org/wiki/Refried_beans) is cooked and mashed, not fried.
 1. Alec Guinness (Ben Kenobi) died ages ago (2000). He was old enough to experience the Jedi purge and two other world wars.
 1. [Adding automatic transmission fluid does not clean your engine](https://www.reddit.com/r/Justrolledintotheshop/comments/4b2kyu/my_sister_bought_a_car_that_has_missed_an_oil/d15mu5n); not sure why it must be said.

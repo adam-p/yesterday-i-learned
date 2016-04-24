@@ -38,6 +38,7 @@
 
 * Logging into `psql`: `psql dbname username`
 * Backup a database: [`pg_dumpall > outfile`](http://www.postgresql.org/docs/9.1/static/backup-dump.html#BACKUP-DUMP-ALL) OR `pg_dump specific_db > outfile`
+* [Transfer/Migrate a database to another postgres version](http://www.postgresql.org/docs/9.0/static/migration.html): `pg_dumpall -p 5432 | psql -d postgres -p 6543` (old port to new port)
 * Compress a backup: `pg_dump dbname | gzip > outfile.gz`
 * Restore a backup: `psql -f outfile postgres` (the keyword `postgres` here is necessary only if you load into a [large cluster](http://www.postgresql.org/docs/9.1/static/backup-dump.html#BACKUP-DUMP-ALL))
 * Restore a compressed backup: `gunzip -c outfile.gz | psql dbname`

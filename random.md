@@ -868,7 +868,18 @@
 1. Analgesic is pronounced an-alJEEsik, or an-alGEEsik if you are actually Greek.
 1. You are never supposed to sign things with your master pubkey.
 1. The [PGP fingerprint](http://security.stackexchange.com/questions/74009/what-is-an-openpgp-key-id-collision) derives its short key (its last 32 bits) and long key (its last 64 bits). RFC 4880 outlines short ID collisions.
-1. 
+1. Use (or host) [ipMagnet](https://github.com/cbdevnet/ipmagnet) to check if a torrent client is under the influence of a proxy or VPN.
+1. [This one guy on the Internet](https://www.reddit.com/r/WTF/comments/4grnx9/bee_removes_nail_to_get_into_wall/d2k6swz) claims that [bees undo nails](http://i.imgur.com/AJoxtZi.gifv) all the time.
+1. Red to positive, red to positive, black to negative, [BLACK TO GROUND](https://www.reddit.com/r/WTF/comments/4gmejc/jump_starting_a_car_what_could_possibly_go_wrong/d2iujyp).
+1. "Elbow grease" came from [writing a lot](http://english.stackexchange.com/questions/26818/where-did-elbow-grease-come-from), but as you know, the elbow never actually reaches the paper.
+1. (RE: blind people wiping) They fold it. If it sticks together, they wipe again.
+1. Ringworm itches the jock; [Schistosomatidae](https://en.m.wikipedia.org/wiki/Schistosomatidae) itches the [swim](https://en.m.wikipedia.org/wiki/Swimmer%27s_itch).
+1. Shedding snakes have a white coating on the eyes, like cataract.
+1. Mix yogurt with (cooked) oatmeal to make oatmeal taste less like gruel.
+1. One guy on the Internet claims that [women have longer teeth than men](https://www.reddit.com/r/AskReddit/comments/4egt3z/what_are_lesser_known_biological_differences/d201l2o). (Thread: "What are lesser known biological differences between men and women?")
+1. [Work is not life](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/).
+1. [The anus is more resistant to bacteria than the rest of the body is](https://www.reddit.com/r/askscience/comments/squri/how_come_when_when_you_wipe_to_hard_after_going/).
+1. Having a child is not hard; [having a child and doing the chores that you are already doing, on the other hand, is hard](https://www.reddit.com/r/AskReddit/comments/4dx953/what_is_it_that_nobody_tells_you_about_having/d1v4msv).
 1. 
 
 [ansible]: https://galaxy.ansible.com/intro

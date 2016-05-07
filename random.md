@@ -861,6 +861,10 @@
 1. To protect your feet on a long hike, [wear silk socks, then wool ('darn tough') socks over them][reddit 64].
 1. [Hallelujah][biblehub] is a breakup of yə-hal-lū- (praise, probably) and yāh (the Lord).
 1. Your current temperature can fall outside your daily high/low simply because [the three numbers all came from different providers][reddit 65].
+1. A device running Ubuntu 14.04 LTS will only tell you there is a new Ubuntu update after the first point release goes live.
+1. The ["ViewModel" in "MVVM"](http://stackoverflow.com/questions/667781/what-is-the-difference-between-mvc-and-mvvm) implies two-way binding. It can (and should) co-exist with MVC, which is then called MVCVM.
+1. It is not legal (in many jurisdictions) to turn left into a left turn lane. The lane is only for turning left from it.
+1. The right turn signal is meant to be used in a roundabout once you pass the exit before the one you intend to exit. This is consistent with other right hand turns.
 1. Australia has over 10000 beaches.
 1. The last public execution by guillotine was in 1939. Private execution by guillotine went until 1977.
 1. [Last rites][wikipedia 209] (rituals), which is not last *rights*... are prayers by priests to patients shortly before their death. This also applies to executions.

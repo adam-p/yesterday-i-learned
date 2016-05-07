@@ -880,7 +880,7 @@
 1. [Work is not life](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/).
 1. [The anus is more resistant to bacteria than the rest of the body is](https://www.reddit.com/r/askscience/comments/squri/how_come_when_when_you_wipe_to_hard_after_going/).
 1. Having a child is not hard; [having a child and doing the chores that you are already doing, on the other hand, is hard](https://www.reddit.com/r/AskReddit/comments/4dx953/what_is_it_that_nobody_tells_you_about_having/d1v4msv).
-1. 
+1. An A record for ipv6 is called an [AAAA record](https://my.bluehost.com/cgi/help/aaaa_record).
 
 [ansible]: https://galaxy.ansible.com/intro
 [autos]: https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html

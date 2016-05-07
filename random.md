@@ -1317,7 +1317,6 @@
 [wikipedia 27]: http://en.wikipedia.org/wiki/Trie
 [wikipedia 28]: http://en.wikipedia.org/wiki/Compact_prefix_tree
 [wikipedia 29]: http://en.wikipedia.org/wiki/Paddington_Bear#History
-1. Common beef cuts are ranked in this order: **rib eye** (fatty
 [wikipedia 3]: http://en.wikipedia.org/wiki/APL_(programming_language
 [wikipedia 30]: http://en.wikipedia.org/wiki/Mortgage_loan
 [wikipedia 31]: https://en.wikipedia.org/wiki/Wiener_Schnitzel

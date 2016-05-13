@@ -39,6 +39,7 @@ cat input_file.txt | command > output_file.txt  # or win the useless cat award
 * Running `ssh -D 9090 user@host` on your local computer, then asking your browser (e.g. firefox) to use that localhost port as a SOCKS proxy, will turn port 9090 into a proxy, *provided that `network.proxy.socks_remote_dns` is set to `true`*.
 * Bash: `. ` is an alias of `source `.
 * Bash: [`case...esac`][tutorialspoint]. Gee...
+* Unlike `if` and `case`, the terminator for the `while` statement is `done` rather than `elihw`.
 * Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .
 * `alias ll='ls -al'` is present in *many* distros.
 * `su` accepts arguments. And it is "switch" user, not "super" user.

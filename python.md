@@ -302,6 +302,7 @@ print foo()
 * There is no `.none()` in SQLAlchemy; only [`.filter(sqlalchemy.sql.false())`](http://stackoverflow.com/questions/10345327/sqlalchemy-create-an-intentionally-empty-query). The latter still incurs one query.
 * `ModelA.query.join(ModelB)` does a JOIN on whichever `db.relationship(ModelB)` ModelA defines. Don't ask what happens if there are multiple relationships right now.
 * The `entry_points` thing in setup.py installs scripts inside your `(venv path)/bin/` directory.
+* SQLAlchemy's equivalent of `.values_list('id', flat=True)` is `.options(load_only('id'))`. I have not tested this.
 * 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master

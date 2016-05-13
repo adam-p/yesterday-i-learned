@@ -138,6 +138,7 @@
 1. Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
 1. [Mortgage][wikipedia 30] is French for "death pledge".
 1. It is illegal to pay your mortgage with loaned money, at least in the US.
+1. It is (however) legal to pay your mortgage [with your retirement savings plan](http://www.fcac-acfc.gc.ca/Eng/resources/publications/mortgages/Pages/BuyingYo-Acheterv-11.aspx), at least in Canada. It is called the Home Buyers' Plan.
 1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
 1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.
 1. Mount K2 is the second tallest mountain in the world.
@@ -885,8 +886,9 @@
 1. [The anus is more resistant to bacteria than the rest of the body is][reddit 69].
 1. Having a child is not hard; [having a child and doing the chores that you are already doing, on the other hand, is hard][reddit 70].
 1. An A record for ipv6 is called an [AAAA record][bluehost].
-
-
+1. [Bliss point](https://en.wikipedia.org/wiki/Bliss_point_%28food%29)... describes what it means to have "just the right amount of salt, sugar, and fat" to make something taste best.
+1. [Wild animals chew off the umbilical cord.](http://mentalfloss.com/article/64416/do-other-animals-have-belly-buttons) A question, then, is: why do mothers know to chew the cord off?
+1. [Wild animals eat the placenta](https://en.wikipedia.org/wiki/Placentophagy). So, how do herbivores digest the placenta?
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

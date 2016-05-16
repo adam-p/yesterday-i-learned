@@ -110,6 +110,7 @@ foo();  // 5
 ```
 
 * You can also `import * from 'a library'`.
+* You [cannot](http://stackoverflow.com/questions/30340005/importing-modules-using-es6-syntax-and-dynamic-path) import dynamic paths. (In python, you `__import__(dynamic)`.)
 * `require('a library')` is slower than imports, as the latter can be optimised statically.
 * [Arrow functions can be multiline](http://ilikekillnerds.com/2015/01/a-guide-to-es6-arrow-functions/), but they also make the `return` statement compulsary.
 

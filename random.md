@@ -885,8 +885,38 @@
 1. [The anus is more resistant to bacteria than the rest of the body is][reddit 69].
 1. Having a child is not hard; [having a child and doing the chores that you are already doing, on the other hand, is hard][reddit 70].
 1. An A record for ipv6 is called an [AAAA record][bluehost].
-
-
+1. Chickens *do* ["lay eggs out of their anus"](http://www.motherrisingbirth.com/2011/08/wisdom-wednesday-chicken-egg-exit.html) (cloaca), but since the cloaca turns inside out (v. pinksock) when laying eggs, the poop and egg don't come into contact.
+1. [The Ivory Coast](https://en.wikipedia.org/wiki/Ivory_Coast) is a country in west Africa.
+1. Faster RAM can be used in slower slots (provided that the type is the same).
+1. DDR4 RAM is not backwards compatible with DDR3 slots.
+1. Fiat 500 is called Fiat 500 because [it had a 479cc engine](https://en.wikipedia.org/wiki/Fiat_500#Nuova_500_.281957.E2.80.931960.29), and because Fiat are Italian and round up willy nilly.
+1. "Baguettes" can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
+1. Charisma is essentially the ability to tell good stories.
+1. "Never let an animal see you as 'the path of least resistance.'" - /u/Quinn_tEskimo's grandpa 
+1. [The meta-programming and object injection that makes (Ruby) easy to install 1,000 gems into your project without a single line of configuration, is exactly why it’s hard to debug. It also gives you zero confidence or guarantees about what you’ve just added to your work and whether it all plays nice together. You may have just peed in your own kiddie pool. The magic of active record, the crazy levels of duck typing and the expressiveness of ruby, are exactly why it runs poorly even on your development box, and costs so much in server fees when you try to scale. It’s why you have to build a caching strategy in as a requirement from first line of code.](https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.fodj13lg5)
+1. Quirrell stuttered because he was tormented by the back of his head.
+1. [Apparently](http://www.beyondhogwarts.com/harry-potter/articles/doing-the-math-how-many-kids-are-at-hogwarts.html), there are only ~280 students in Hogwarts at any time.
+1. Marrying a native [North] American man for tax credit is [not really worth it](http://www.cbc.ca/news/business/taxes/first-nations-pay-more-tax-than-you-think-1.2971040), particularly if for tax credit alone. You also have to suffer the consequences of marrying a man (if you are heterosexual). Said native man also loses the perpetual tax exemption if he marries a non-native man (or other hipster kins, such as women).
+1. The [Beaufort scale](https://en.m.wikipedia.org/wiki/Beaufort_scale) is how tall the waves are given a certain wind speed. If the waves are 9ft tall, then the Beaufort scale is 9ft.
+1. [Women always scream, often while doing nothing, it is a global phenomenon](https://www.reddit.com/r/videos/comments/4ju3ip/still_one_of_the_eeriest_videos_ive_seen_the/d39un1a).
+1. Always begin a conversation with ["Can we talk?"](https://www.reddit.com/comments/4jymdh).
+1. [A saline solution is used to flush air out of organs while transplants are performed.](https://www.reddit.com/comments/4jt2eb)
+1. Connoisseur is spelled *connaisseur* in French. The connoisseur spelling is traditional.
+1. [Disrupting REM sleep impairs memory](https://www.reddit.com/comments/4j3i45). Drinking, then, impairs memory.
+1. [Habibi](https://en.m.wikipedia.org/wiki/Habibi) is Arabic for darling.
+1. While it is well-known that [Google A/B tests everything, including colour](http://www.telegraph.co.uk/technology/2016/05/09/google-is-testing-a-radical-change-by-turning-all-links-black/), their designers don't like it either, apparently: ""I can't operate in an environment like that. I've grown tired of debating such miniscule design decisions. There are more exciting design problems in this world to tackle."
+1. [Assassination](https://www.reddit.com/r/news/comments/4iclf5/opposition_party_leader_in_venezuela_assassinated/d2x1npm) refers specifically to the murder of a politician.
+1. Winnipeg uses Resolute's timezone, throwing off [developers who try to be too clever](https://www.reddit.com/r/Android/comments/4hohcg/nova_launcher_updated_to_43_with_n_dev_preview_2/d2rkp84): "Nova's night mode uses timezones to approximate location if it doesn't have the location permission. For some reason carriers in Mantioba CA use the timezone of America/Resolute instead of America/Winnipeg. And Resolute is really far north and doesn't have traditional sunset/sunrises which throws things off. There was some code to handle these types of locations, but it wasn't behaving as it should."
+1. The mother and baby [share stem cells](https://www.reddit.com/comments/4javmv).
+1. The [clothespin](https://en.m.wikipedia.org/wiki/Clothespin) was invented in Vermont.
+1. [Thailand hand-peels shrimps.](https://www.washingtonpost.com/news/wonk/wp/2015/12/15/the-shocking-truth-about-shrimp-today/)
+1. To... kill an unconscious person, [cover their nose with one of their hands' webbing, then apply pressure to it by having them lie face down](https://www.reddit.com/r/me_irl/comments/4hu8ih/me_irl/d2siwsx).
+1. [Forest fires happen in Alberta all the time](http://imgur.com/oHTv2ol). Fort Mac is an exception only because people live there.
+1. Remember [the woman who had an abortion for a beach day](https://www.reddit.com/comments/4ib8pf). "No bashing."
+1. Remember, [Americans can obtain travel visas to Mexico](https://mobile.twitter.com/MexicAnarchist/status/701195992071331841).
+1. Men having vasectomies done may be allergic to [protamine](https://en.wikipedia.org/wiki/Protamine_sulfate), the counter to blood thinner [heparin](https://en.wikipedia.org/wiki/Heparin), because protamine is synthesised from fish sperm, and [that sperm-related coincidence is significant](https://www.reddit.com/r/todayilearned/comments/4ieqnu/til_that_within_one_year_after_a_vasectomy_sixty/d2xhccn).
+1. It is very hard to [get up from lying down while holding something](https://www.youtube.com/watch?v=GdAXt7YyGe0), empirically speaking.
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

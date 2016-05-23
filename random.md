@@ -138,6 +138,7 @@
 1. Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
 1. [Mortgage][wikipedia 30] is French for "death pledge".
 1. It is illegal to pay your mortgage with loaned money, at least in the US.
+1. It is (however) legal to pay your mortgage [with your retirement savings plan](http://www.fcac-acfc.gc.ca/Eng/resources/publications/mortgages/Pages/BuyingYo-Acheterv-11.aspx), at least in Canada. It is called the Home Buyers' Plan.
 1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
 1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.
 1. Mount K2 is the second tallest mountain in the world.
@@ -885,6 +886,7 @@
 1. [The anus is more resistant to bacteria than the rest of the body is][reddit 69].
 1. Having a child is not hard; [having a child and doing the chores that you are already doing, on the other hand, is hard][reddit 70].
 1. An A record for ipv6 is called an [AAAA record][bluehost].
+<<<<<<< HEAD
 1. Chickens *do* ["lay eggs out of their anus"](http://www.motherrisingbirth.com/2011/08/wisdom-wednesday-chicken-egg-exit.html) (cloaca), but since the cloaca turns inside out (v. pinksock) when laying eggs, the poop and egg don't come into contact.
 1. [The Ivory Coast](https://en.wikipedia.org/wiki/Ivory_Coast) is a country in west Africa.
 1. Faster RAM can be used in slower slots (provided that the type is the same).
@@ -916,6 +918,14 @@
 1. Remember, [Americans can obtain travel visas to Mexico](https://mobile.twitter.com/MexicAnarchist/status/701195992071331841).
 1. Men having vasectomies done may be allergic to [protamine](https://en.wikipedia.org/wiki/Protamine_sulfate), the counter to blood thinner [heparin](https://en.wikipedia.org/wiki/Heparin), because protamine is synthesised from fish sperm, and [that sperm-related coincidence is significant](https://www.reddit.com/r/todayilearned/comments/4ieqnu/til_that_within_one_year_after_a_vasectomy_sixty/d2xhccn).
 1. It is very hard to [get up from lying down while holding something](https://www.youtube.com/watch?v=GdAXt7YyGe0), empirically speaking.
+=======
+1. [Bliss point](https://en.wikipedia.org/wiki/Bliss_point_%28food%29)... describes what it means to have "just the right amount of salt, sugar, and fat" to make something taste best.
+1. [Wild animals chew off the umbilical cord.](http://mentalfloss.com/article/64416/do-other-animals-have-belly-buttons) A question, then, is: why do mothers know to chew the cord off?
+1. [Wild animals eat the placenta](https://en.wikipedia.org/wiki/Placentophagy). So, how do herbivores digest the placenta?
+1. There is normally no way to [transfer a file using Bluetooth](http://stackoverflow.com/questions/18884705/transfer-data-between-ios-and-android-via-bluetooth) on iOS. Get a Mac.
+1. For a single ball-picking event involving 5 balls, 3 green and 2 blue, the *probability* of picking a green ball is 3/5 = 60%; [the *odds*](http://mathforum.org/library/drmath/view/56706.html) of picking a green ball is (3:2), which is not 60%. An odds of 150% [might make sense](http://www.miniwebtool.com/ratio-to-percentage-calculator/?numerator=3&denominator=2), [depending on who you ask](https://en.wikipedia.org/wiki/Odds#Mathematical_relations).
+1. According to [random people on the Internet working on an app](https://hbr.org/2016/03/why-your-late-twenties-is-the-worst-time-of-your-life), you won't be an actual adult until you get married and have kids; and, before then, you will live the worst time of your life.
+>>>>>>> c14c9b15279983409defedc8b723278b13632dd4
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/

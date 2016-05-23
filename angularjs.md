@@ -72,3 +72,4 @@ $injector.get('$controller')('ControllerName', {
 * Specifying 'controller as' in ngRoute is simply what you think it was: [`controller as ctrl`](http://stackoverflow.com/a/23861159/1558430)
 * DO NOT use `controllerAs` in an app that is already using `$scope` by convention.
 * [Create `.constant`s for global libraries](https://github.com/johnpapa/angular-styleguide/blob/master/README.md#constants), and voila! Injectable libraries!
+* `$q` promises [DO](http://stackoverflow.com/questions/20068467/do-never-resolved-promises-cause-memory-leak) cause small memory leaks.

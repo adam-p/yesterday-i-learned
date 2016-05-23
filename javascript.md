@@ -151,7 +151,7 @@ undefined
 * [There are no leap seconds](http://www.ecma-international.org/ecma-262/5.1/#sec-15.9.1.1).
 * Calling [`url = URL.createObjectURL(blobOrFile)`](https://developer.mozilla.org/en/docs/Web/API/URL/createObjectURL) and opening it (either through `window.open` or some link-clicking means) will allow a file to be downloaded. Afterwards, remember to call `URL.revokeObjectURL(url)`
 * [Karma is for testing client code only](http://stackoverflow.com/questions/16660670/how-to-test-nodejs-backend-code-with-karma-testacular),
-
+* Replacing `it(...)` with `fit(...)` in a karma test suite will skip all tests except those marked with `fit`.
 
 ## Deferred API
 
@@ -166,6 +166,8 @@ undefined
 * An executor is `function(resolve, reject) { ... }`
 * A *Promise* is `new Promise(executor);`
 * `Promise.all([Promise, Promise, ...]) => <Promise>`
+* If all promises in a `.all()` succeed, the call is resolved with an *array* of their resolves.
+* If any promise in a `.all()` fails, the entire call fails. The error in the `.catch()` is the error from the first failed call.
 * `Promise.race([Promise, Promise, ...]) => <Promise>`  aka `Promise.any` if it existed
 * `Promise.resolve(value) => <Promise>`, `Promise.reject(value) => <Promise>` that are pre-resolved/pre-rejected
 * `<Promise>.then(function succeed, function fail) => <Promise>`  If any of these functions return anything, [the new promise will resolve/reject with their return values.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)

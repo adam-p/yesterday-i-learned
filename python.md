@@ -303,6 +303,7 @@ print foo()
 * `ModelA.query.join(ModelB)` does a JOIN on whichever `db.relationship(ModelB)` ModelA defines. Don't ask what happens if there are multiple relationships right now.
 * The `entry_points` thing in setup.py installs scripts inside your `(venv path)/bin/` directory.
 * SQLAlchemy's equivalent of `.values_list('id', flat=True)` is `.options(load_only('id'))`. I have not tested this.
+* [Putting code in the `try-else` block](http://stackoverflow.com/a/855764/1558430) is meant to *avoid* catching the same exception in the `else` block, while still running a `finally` if the `else` block fails; basically, syntactic sugar for two try blocks.
 * 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master

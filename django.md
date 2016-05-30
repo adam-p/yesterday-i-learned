@@ -27,6 +27,7 @@
 * [`QuerySet.iterator()`](https://docs.djangoproject.com/en/1.8/ref/models/querysets/#django.db.models.query.QuerySet.iterator) does exactly that: make a queryset that you cannot reuse, probably for the greater good.
 * Instead of making another Query just to fetch the same object again, there already is an [`obj.refresh_from_db()`](https://docs.djangoproject.com/en/1.9/ref/models/instances/#django.db.models.Model.refresh_from_db) available.
 * [Signals are synchronous and blocking](http://www.slideshare.net/flywindy/two-scoops-ofdjangologgingandsignals).
+* If you are smart enough to use `.save(update_fields=['foo'])`, [be smart enough to know](https://code.djangoproject.com/ticket/22981) that `auto_now[_add]` fields will be updated only if they are specified in `update_fields`.
 
 ## WSGI
 

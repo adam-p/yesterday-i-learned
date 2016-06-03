@@ -934,7 +934,17 @@
 1. It is possible to over-tighten the bolts for the wheel nuts. Use a torque wrench to (do something...?)
 1. The [confusion](http://bulbapedia.bulbagarden.net/wiki/Status_condition#Confusion) status always strikes with 40-point typeless damage.
 1. There is [no law about "safe transport of ammunition"](http://www.cdnshootingsports.org/legal_storage_and_transport.html). A police can still get you into trouble, which means it is best to transport them in a manner that makes you appear to be a careful person.
-1. 
+1. [Woman saves cat](https://www.youtube.com/watch?v=oP5qPvCAyfE)
+1. Ménage à trois ("household of three") means poly(tri)amory in French.
+1. [Men who like their meat well-done are (more) likely to get prostate cancer.](http://www.cnn.com/2011/11/23/health/well-done-red-meat-prostate-cancer/). Maybe not exactly twice as likely, but more likely.
+1. "Make a bee line" means shortest path.
+1. >You can't have a noun on its own in French, even if the 'the' isn't actually said | "Hello rabbit" -> "Bonjour le rapin" | "Never leave the baby alone"
+1. [Ferris wheels are effectively flat-packed](https://youtube.com/watch?v=uS2PICO2qyE).
+1. Having a c-section has no affect [sic] on how quickly your period will return to normal. What will affect menstruation, however, is whether or not you breastfeed your baby. If you don't nurse, it will probably take about six to eight weeks for your period to come back after delivery. - [parents.com](http://www.parents.com/advice/pregnancy-birth/giving-birth/will-a-c-section-affect-my-periods/)
+1. [Meconium](https://en.wikipedia.org/wiki/Meconium) is the baby's first poop. It is dark green. It is odourless, and is made of intestinal epithelial cells, lanugo, mucus, amniotic fluid, bile, and water.
+1. It is worth buying peppercorns whole: pepper loses flavour and aroma through evaporation, so airtight storage helps preserve its spiciness longer. Pepper can also lose flavour when exposed to light, which can transform piperine into nearly tasteless isochavicine.
+1. [Government-approved level P7 paper shredders](https://www.semshred.com/level_6_shredders) produce fragments 1mm x 1mm in size.
+1.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

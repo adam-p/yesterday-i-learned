@@ -930,6 +930,10 @@
 1. Vintergatan means "Winter street/road" and is the Swedish name for the Milky Way. ["But you can only see it in the summer"](https://www.reddit.com/r/videos/comments/48klsm/musical_marble_machine_mind_blown_man_builds_real/d0knu3b?context=10000)
 1. If you want to control someone, [look at her forehead](https://m.imgur.com/gallery/HAn3e). If you want to marry someone, make sure she's a female (or whatever), then look at her chin.
 1. [Re: "A perk of your gender"](https://www.reddit.com/r/AskReddit/comments/4ij2xh/whats_a_perk_of_your_gender_that_you_think_most/d2yi5t7) *if im taking a shit and theres that little bit thats hard to get out - you can stick a finger up your vag and push through the (fairly thin and flexible) wall between your vagina and anus and get it out.* - /u/drizzzzzzle
+1. [Escalator](https://en.wikipedia.org/wiki/Escalator#History) was a trademarked term, lost because of it being [so popular](https://en.wikipedia.org/wiki/Mind_share).
+1. It is possible to over-tighten the bolts for the wheel nuts. Use a torque wrench to (do something...?)
+1. The [confusion](http://bulbapedia.bulbagarden.net/wiki/Status_condition#Confusion) status always strikes with 40-point typeless damage.
+1. There is [no law about "safe transport of ammunition"](http://www.cdnshootingsports.org/legal_storage_and_transport.html). A police can still get you into trouble, which means it is best to transport them in a manner that makes you appear to be a careful person.
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/

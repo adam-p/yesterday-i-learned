@@ -1,8 +1,6 @@
 1. To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
-1. When grass is first laid, its roots have not properly grown, and it must be watered once every day for a week.
 1. Add any event by URL: https://www.google.com/calendar/render?action=TEMPLATE&text=(event+name)&dates=20130704T230000Z/20130705T020000Z&details=(deta+ils)&location=(loca+tion)
 1. Use single quotes (`git commit -am 'Nailed it!'`) to leave a commit message with an exclamation mark.
-1. A notched tail flipper found on a lobster indicates [a breeding female][wikipedia]. Researchers notch the tails, not the males, so there really wasn't much to be learnt here.
 1. [Albinism][wikipedia 2] affects vertebrates. That, and lobsters, which are not vertebrates.
 1. The Korean blood cake is also called *sundae*: https://en.wikipedia.org/wiki/Sundae_(Korean_food)
 1. Because `iif` is a library function, it cannot short-circuit.
@@ -18,9 +16,6 @@
 1. Download HTTP directory listings / crawl a sub-site with `wget`: [`wget -m -np http://cordova.apache.org/docs/en/3.2.0/`][stackoverflow 2]. Don't rely on it, however.
 1. (Naming) [Safari won't handle `css.gz` or `js.gz`.][stackoverflow 3]
 1. An "heir presumptive" is different from an "heir apparent" in that the presumptive can be displaced by someone who is born later in higher priority (?). An example would be if the Queen's parents had another younger son.
-1. Both infarction and infraction are words. Infraction (-frac-) means breakage. Infarction implies blockage.
-1. Mosquitoes hibernate.
-1. [Old age is not a scientifically recognized cause of death][wikipedia 5] (because old people die of *soemthing*)
 1. [Euthanasia is neither a natural nor unnatural cause of death][wikipedia 5].
 1. Understeer: the front wheels are fully turned, but the car is still going forward.
 1. Oversteer: the front wheels are turning fine, but the back is steering too much.
@@ -468,7 +463,7 @@
 1. Kombucha is fermented tea. Although kombucha is claimed to have several beneficial effects on health, the claims are not supported by scientific evidence.
 1. [Underdrive pulleys][wikipedia 87] turn at a slower speed than stock. They increase horsepower by removing power from accessories like the AC.
 1. [Opiliones][wikipedia 88], also called *Harvestmen*, look like spiders, but are much more useful than spiders.
-1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken.
+1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken orally.
 1. Scottish bank notes are in fact promissory notes, and are worth nothing like GBP in value.
 1. Capsaicin does not affect birds. Hotness in Capsicum plants helps them spread their seeds because it makes them unpleasant for mammals, but still tasty for birds (which, you know, fly).
 1. [Speibecken][wikipedia 89] are German Oktoberfest puke sinks. They are not only used during Oktoberfest.
@@ -520,7 +515,6 @@
 1. Carbines are shorter versions of rifles.
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
 1. [Tap codes][wikipedia 100] go through walls, which morse code does not (because it is not possible to have 'long knocks')
-1. An erect turtle penis looks like [Anthurium][wikipedia 101], a common type of flower.
 1. [The number of flags behind a government announcement][theguardian] has meaning, apparently.
 1. [Beauty sleep][sleepdex]: skin breaks down slower during sleep. So it's not that sleep makes you beautiful; it makes you less ugly.
 1. [Funeral biscuits][historiccamdencounty] were invented by cavemen to represent "incorporating their essence into one's own" without needing to consume the body of the diseased. Victorians improved the practice by not putting the biscuits directly on top of the dead.
@@ -944,7 +938,15 @@
 1. [Meconium](https://en.wikipedia.org/wiki/Meconium) is the baby's first poop. It is dark green. It is odourless, and is made of intestinal epithelial cells, lanugo, mucus, amniotic fluid, bile, and water.
 1. It is worth buying peppercorns whole: pepper loses flavour and aroma through evaporation, so airtight storage helps preserve its spiciness longer. Pepper can also lose flavour when exposed to light, which can transform piperine into nearly tasteless isochavicine.
 1. [Government-approved level P7 paper shredders](https://www.semshred.com/level_6_shredders) produce fragments 1mm x 1mm in size.
-1.
+1. You can [buy debt](https://www.youtube.com/watch?v=hxUAntt1z2c) for a fraction of the actual amount of the debt, in the hopes that the debt will eventually be paid back. This is also why banks sell debt: they don't think the debt will be paid back.
+1. The word Christ is derived from the Greek Χριστός (Christos), which is a translation of the Hebrew משיח (Meshiakh), meaning the "anointed", and usually transliterated into English as "Messiah". It is not part of Jesus' name.
+1. There are two James and two Simons apostles.
+1. The Gospel of Matthew is a creative reinterpretation of Mark. [Luke, is, as well](https://jerichobrisance.files.wordpress.com/2013/10/new-testament-timeline-jerichobrisance1.png). Luke has both expanded Mark and corrected his grammar and syntax—Mark wrote poor Greek. So, really, the first four gospels were ordered Mark, Matthew, Luke, then John, all completed after the death of Jesus (obviously) and also the apostles themselves (because they don't live that long.) Matthew was not written by Matthew, Luke was not written by Luke, Mark was not written by Mark.
+1. "Judas Iscariot hung himself and all the guts fell out" was reconstructed from "He died by hanging" and "he fell headlong; his bowels gushed out". [They may be independent/contradictory/non-contradictory events](https://carm.org/bible-difficulties/matthew-mark/how-did-judas-die-hanging-or-falling-down).
+1. Tabernacle just means Hut.
+1. [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS) on top of REST emulates old-school terminals by transferring not only the requested data to the client, but a list of possible actions on it, too.
+1. "If whales have 1000 times more cells than we do, why don't they get cancer 1000 times more often" is called the [Peto's paradox](https://en.m.wikipedia.org/wiki/Peto%27s_paradox).
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm
@@ -1246,7 +1248,6 @@
 [wikipedia]: http://en.wikipedia.org/wiki/Homarus_americanus
 [wikipedia 10]: http://en.wikipedia.org/wiki/Vole
 [wikipedia 100]: https://en.wikipedia.org/wiki/Tap_code
-[wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
 [wikipedia 102]: https://en.wikipedia.org/wiki/Andriza_Mircovich
 [wikipedia 103]: https://en.wikipedia.org/wiki/Bloodhound
 [wikipedia 104]: https://en.wikipedia.org/wiki/%E2%80%9CWomen_are_wonderful%E2%80%9D_effect

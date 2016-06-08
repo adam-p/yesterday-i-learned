@@ -2,6 +2,7 @@
 * **Class P Problems** (or just P) are problems that an algorithm can solve in polynomial time. P is also known as *quickly solvable*.
 * **Class NP Problems** (or just NP) are problems that can be solved quickly, provided that the answer is given. NP is also known as *quickly checkable/verifiable*.
 * **NP-Complete** problems are problems that are both NP and NP hard.
+* The [null object pattern](https://en.wikipedia.org/wiki/Null_Object_pattern) involves overloading a function with one that specifically handles the base case of "null".
 
 # Being a developer
 

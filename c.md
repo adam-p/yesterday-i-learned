@@ -51,6 +51,8 @@
 * When creating an array of a given type, a continuous chunk of memory is assigned, exactly (the size of the type) * (the number of things).
 * [Given the way arrays are created](http://stackoverflow.com/questions/381542/with-c-arrays-why-is-it-the-case-that-a5-5a), `foo[4]` is really `*(foo + 4)` or `*(4 + foo)`, which makes `4[foo]` equivalent.
 * `thing_t` is supposed to mean "a type called 'thing'". C programmers are against the Hungarian notation.
+* [C pointers are not integers](http://nullprogram.com/blog/2016/05/30/); Any pointer type may be converted to an integer type, but the result depends on implementation. (If the pointer is a large negative number, for example, then the behaviour is undefined.)
+*
 
 ## C++
 

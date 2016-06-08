@@ -122,6 +122,10 @@ var a = (foo) => {
 a(3)  // 3
 ```
 
+* Classes are not hoisted, even if they down-transpile to a function.
+* Classes can be anonymous.
+
+
 ## ES7
 
 ### Function bind syntax
@@ -155,5 +159,10 @@ foo
 
 ### Async/Await
 
-[Only in an `async`-marked function can you use `await`](http://masnun.com/2015/11/11/using-es7-asyncawait-today-with-babel.html).
+* `async function`s always return a promise. A `return 5` in an async function returns a promise that resolves with 5.
+* `async function`s always reject with the error if an error is thrown in it.
+* `await asyncFunction()` always returns the value that the function resolves.
+
+[Only in an `async`-marked function can you use `await`](http://masnun.com/2015/11/11/using-es7-asyncawait-today-with-babel.html). An `await` in a non-`async function` throws a SyntaxError.
 If a promise is resolved, then the lines after `await` run. Otherwise, it throws an error and any `catch` blocks run.
+If an async function has multiple return points: since a promise can only resolve once, it will always resolve with the first value.

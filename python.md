@@ -305,6 +305,23 @@ print foo()
 * SQLAlchemy's equivalent of `.values_list('id', flat=True)` is `.options(load_only('id'))`. I have not tested this.
 * [Putting code in the `try-else` block](http://stackoverflow.com/a/855764/1558430) is meant to *avoid* catching the same exception in the `else` block, while still running a `finally` if the `else` block fails; basically, syntactic sugar for two try blocks.
 * `sys.modules` contains an import, e.g. `datetime`, only after you import it.
+* You can `''.join([u'a', u'\u3000', 'bunch', 'of', u'unicode', 'strings'])`, but not `'{}'.format(u'a unicode \u3000 string')`, because reasons. (python2)
+* `dict()` unzips iterables of iterables. `dict( (('a', 'b'), ('c', 'd')) ) == {'a': 'b', 'c': 'd'}` (and if there are key conflicts, keys with a higher list index prevails)
+* Providing the same kwargs to a `partial()`ed function overrides the default:
+
+```
+>>> import functools
+>>> def foo(**kwargs):
+...     print kwargs
+... 
+>>> foo2 = functools.partial(foo, a=2)
+>>> foo2()
+{'a': 2}                                                                                         
+>>> foo2(a=4)
+{'a': 4}
+```
+
+* 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

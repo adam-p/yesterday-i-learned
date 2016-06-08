@@ -1,8 +1,6 @@
 1. To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
-1. When grass is first laid, its roots have not properly grown, and it must be watered once every day for a week.
 1. Add any event by URL: https://www.google.com/calendar/render?action=TEMPLATE&text=(event+name)&dates=20130704T230000Z/20130705T020000Z&details=(deta+ils)&location=(loca+tion)
 1. Use single quotes (`git commit -am 'Nailed it!'`) to leave a commit message with an exclamation mark.
-1. A notched tail flipper found on a lobster indicates [a breeding female][wikipedia]. Researchers notch the tails, not the males, so there really wasn't much to be learnt here.
 1. [Albinism][wikipedia 2] affects vertebrates. That, and lobsters, which are not vertebrates.
 1. The Korean blood cake is also called *sundae*: https://en.wikipedia.org/wiki/Sundae_(Korean_food)
 1. Because `iif` is a library function, it cannot short-circuit.
@@ -18,9 +16,6 @@
 1. Download HTTP directory listings / crawl a sub-site with `wget`: [`wget -m -np http://cordova.apache.org/docs/en/3.2.0/`][stackoverflow 2]. Don't rely on it, however.
 1. (Naming) [Safari won't handle `css.gz` or `js.gz`.][stackoverflow 3]
 1. An "heir presumptive" is different from an "heir apparent" in that the presumptive can be displaced by someone who is born later in higher priority (?). An example would be if the Queen's parents had another younger son.
-1. Both infarction and infraction are words. Infraction (-frac-) means breakage. Infarction implies blockage.
-1. Mosquitoes hibernate.
-1. [Old age is not a scientifically recognized cause of death][wikipedia 5] (because old people die of *soemthing*)
 1. [Euthanasia is neither a natural nor unnatural cause of death][wikipedia 5].
 1. Understeer: the front wheels are fully turned, but the car is still going forward.
 1. Oversteer: the front wheels are turning fine, but the back is steering too much.
@@ -468,7 +463,7 @@
 1. Kombucha is fermented tea. Although kombucha is claimed to have several beneficial effects on health, the claims are not supported by scientific evidence.
 1. [Underdrive pulleys][wikipedia 87] turn at a slower speed than stock. They increase horsepower by removing power from accessories like the AC.
 1. [Opiliones][wikipedia 88], also called *Harvestmen*, look like spiders, but are much more useful than spiders.
-1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken.
+1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken orally.
 1. Scottish bank notes are in fact promissory notes, and are worth nothing like GBP in value.
 1. Capsaicin does not affect birds. Hotness in Capsicum plants helps them spread their seeds because it makes them unpleasant for mammals, but still tasty for birds (which, you know, fly).
 1. [Speibecken][wikipedia 89] are German Oktoberfest puke sinks. They are not only used during Oktoberfest.
@@ -520,7 +515,6 @@
 1. Carbines are shorter versions of rifles.
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
 1. [Tap codes][wikipedia 100] go through walls, which morse code does not (because it is not possible to have 'long knocks')
-1. An erect turtle penis looks like [Anthurium][wikipedia 101], a common type of flower.
 1. [The number of flags behind a government announcement][theguardian] has meaning, apparently.
 1. [Beauty sleep][sleepdex]: skin breaks down slower during sleep. So it's not that sleep makes you beautiful; it makes you less ugly.
 1. [Funeral biscuits][historiccamdencounty] were invented by cavemen to represent "incorporating their essence into one's own" without needing to consume the body of the diseased. Victorians improved the practice by not putting the biscuits directly on top of the dead.
@@ -930,6 +924,10 @@
 1. Vintergatan means "Winter street/road" and is the Swedish name for the Milky Way. ["But you can only see it in the summer"](https://www.reddit.com/r/videos/comments/48klsm/musical_marble_machine_mind_blown_man_builds_real/d0knu3b?context=10000)
 1. If you want to control someone, [look at her forehead](https://m.imgur.com/gallery/HAn3e). If you want to marry someone, make sure she's a female (or whatever), then look at her chin.
 1. [Re: "A perk of your gender"](https://www.reddit.com/r/AskReddit/comments/4ij2xh/whats_a_perk_of_your_gender_that_you_think_most/d2yi5t7) *if im taking a shit and theres that little bit thats hard to get out - you can stick a finger up your vag and push through the (fairly thin and flexible) wall between your vagina and anus and get it out.* - /u/drizzzzzzle
+1. [Escalator](https://en.wikipedia.org/wiki/Escalator#History) was a trademarked term, lost because of it being [so popular](https://en.wikipedia.org/wiki/Mind_share).
+1. It is possible to over-tighten the bolts for the wheel nuts. Use a torque wrench to (do something...?)
+1. The [confusion](http://bulbapedia.bulbagarden.net/wiki/Status_condition#Confusion) status always strikes with 40-point typeless damage.
+1. There is [no law about "safe transport of ammunition"](http://www.cdnshootingsports.org/legal_storage_and_transport.html). A police can still get you into trouble, which means it is best to transport them in a manner that makes you appear to be a careful person.
 1. [Woman saves cat](https://www.youtube.com/watch?v=oP5qPvCAyfE)
 1. Ménage à trois ("household of three") means poly(tri)amory in French.
 1. [Men who like their meat well-done are (more) likely to get prostate cancer.](http://www.cnn.com/2011/11/23/health/well-done-red-meat-prostate-cancer/). Maybe not exactly twice as likely, but more likely.
@@ -944,6 +942,14 @@
 1. According to the [Nazi National Anthem](https://www.youtube.com/watch?v=-7MJdeIZb3w), "Geist" means spirit.
 1. For 90% of the tools, [learn to use the tool](http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room), unless it is PHP, in which case learn to use a torch.
 1. "Cut out all these exclamation points. An exclamation point is like laughing at your own joke." -F. Scott Fitzgerald
+1. You can [buy debt](https://www.youtube.com/watch?v=hxUAntt1z2c) for a fraction of the actual amount of the debt, in the hopes that the debt will eventually be paid back. This is also why banks sell debt: they don't think the debt will be paid back.
+1. The word Christ is derived from the Greek Χριστός (Christos), which is a translation of the Hebrew משיח (Meshiakh), meaning the "anointed", and usually transliterated into English as "Messiah". It is not part of Jesus' name.
+1. There are two James and two Simons apostles.
+1. The Gospel of Matthew is a creative reinterpretation of Mark. [Luke, is, as well](https://jerichobrisance.files.wordpress.com/2013/10/new-testament-timeline-jerichobrisance1.png). Luke has both expanded Mark and corrected his grammar and syntax—Mark wrote poor Greek. So, really, the first four gospels were ordered Mark, Matthew, Luke, then John, all completed after the death of Jesus (obviously) and also the apostles themselves (because they don't live that long.) Matthew was not written by Matthew, Luke was not written by Luke, Mark was not written by Mark.
+1. "Judas Iscariot hung himself and all the guts fell out" was reconstructed from "He died by hanging" and "he fell headlong; his bowels gushed out". [They may be independent/contradictory/non-contradictory events](https://carm.org/bible-difficulties/matthew-mark/how-did-judas-die-hanging-or-falling-down).
+1. Tabernacle just means Hut.
+1. [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS) on top of REST emulates old-school terminals by transferring not only the requested data to the client, but a list of possible actions on it, too.
+1. "If whales have 1000 times more cells than we do, why don't they get cancer 1000 times more often" is called the [Peto's paradox](https://en.m.wikipedia.org/wiki/Peto%27s_paradox).
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
@@ -1246,7 +1252,6 @@
 [wikipedia]: http://en.wikipedia.org/wiki/Homarus_americanus
 [wikipedia 10]: http://en.wikipedia.org/wiki/Vole
 [wikipedia 100]: https://en.wikipedia.org/wiki/Tap_code
-[wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
 [wikipedia 102]: https://en.wikipedia.org/wiki/Andriza_Mircovich
 [wikipedia 103]: https://en.wikipedia.org/wiki/Bloodhound
 [wikipedia 104]: https://en.wikipedia.org/wiki/%E2%80%9CWomen_are_wonderful%E2%80%9D_effect

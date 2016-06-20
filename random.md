@@ -7,9 +7,6 @@
 1. [Claims had been made][lifehacker] that meditation improves memory recall.
 1. One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
 1. [APL = A Programming Language][wikipedia 3])
-1. Canary is pronounced kun-NAIR-ree.
-1. "LL" is pronounced "Y" in Spanish.
-1. Orion is pronunced oh-RYE-un.
 1. [Benford's Law][wikipedia 4]: statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.
 1. The `wheel` group: http://en.wikipedia.org/wiki/Wheel_(Unix_term) is a group of users with slightly more power than normal users, but less so than admins.
 1. Clean branch names: `echo "Some stupid branch name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` becomes `some-stupid-branch-name`
@@ -148,7 +145,6 @@
 1. Every girl loves to eat and travel. Every girl loves family and friends and, sometimes "loves" good scotch or whiskey.
 1. Tapping "Cached data" in System>Storage on Android clears caches for all apps. Beware, it also clears Google offline maps and gReader article data.
 1. [POST/Redirect/GET][wikipedia 16]: by returning a 30x response in your POST, the user will be forced to GET a different page, which means the user will not be able to POST to the same page again.
-1. Albuquerque is pronounced AL-ber-ker-kee.
 1. Caps at the ends of bike handles are supposed to prevent them from making a human sausages when it hits any part of the body.
 1. The [Sleeper Effect][wikipedia 17] refers to the observation that people who badmouth others are less trusted. (Specifically, candidates who tell others not to vote for another candidate will receive fewer votes than if he/she had otherwise said nothing)
 1. The [McCollough effect][wikipedia 18]: look at a coloured pattern long enough and eventually colour will appear if you look at the same, yet B/W pattern somewhere else.
@@ -185,7 +181,6 @@
 1. *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
 1. There are many kinds of fats; [brown fats][wikipedia 24] are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
 1. > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... ([continued][reddit 10])
-1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly. ["Locals pronounce it Laos."][youtube 4]
 1. Ostriches are not from Australia.
 1. [People can sue you][workopolis] if you give them bad references.
 1. There is such a thing as a [Damn Vulnerable Web App][dvwa] that is built solely for others' testing pleasure.
@@ -256,7 +251,6 @@
 1. [BEST rolls you can buy: Charmin. BEST rolls at low cost: Great Value at Wal-Mart or Kirkland at CostCo.][reddit 18]
 1. [Alba, or Albion][wikipedia 36], used to stand for the island of Britain.
 1. The ugly "Prius design" is called the [kammback][wikipedia 37] exterior.
-1. Concentrated sulphuric acid [harmful to the body][imgur 3].
 1. [Winter and all-season tires cannot be mixed][tirerack]
 1. "ise" are generally verbs, while "ice" are the noun equivalents of those words. (e.g. advice, practice)
 1. Both "Rosetta" and "Rashid" origiinated  from the Coptic (Egyptian) word "Trashit," which was (also) a place name.
@@ -307,7 +301,6 @@
 1. [Janissaries][wikipedia 57] are Christian slaves in the Ottoman empire. They were subject to multiple types of abuse before gaining enough attention to be taken seriously.
 1. Boxxy (Catie Wayne) [does a video show now][youtube 5]. She got slightly less annoying.
 1. "Heck" came from **HE**ll and fu**CK**.
-1. *Separate* is pronounced SEP-a-rate as a verb and SEP-rate as an adjective.
 1. It is not that dogs see grey; it is just that dogs have much better visual acuity towards the UV spectrum, making them unable to see red.
 1. [Pumping car tires with a bike pump] actually works pretty well to top off the pressure but it'll take a good while to pump it up from flat. It won't be hard to pump though. 35 psi is really low for a bike tire.
 1. A *foal* is a horse under one year old.
@@ -414,7 +407,7 @@
 1. "Performing a burnout in a front wheel drive vehicle is likely to result in damage to the drivetrain."
 1. [HJR][dpreview] stands for "hand jitter reduction", nothing to do with "high".
 1. In the event of a crash where the crash is captured by a dashcam, [read out the licence plate of the other car][reddit 30]. Also do the same for when you communicate with 911, which allows them to quickly identify the information when they replay the recording.
-1. [Nauru][wikipedia 77] is pronounced na-OO-roo. It means "I go to the beach".
+
 1. Haboobs are Arabian dust storms that come before an actual storm.
 1. There are two official color palettes for the French flag : "Dark blue" for public & military buildings and "Light Blue" for TV & government appearences/meetings.
 1. [Ringworm][wikipedia 78] is not actually worm; it is fungal.
@@ -483,7 +476,6 @@
 1. "Compound" is more abrasive than "polish", which is more abrasive than wax. Always wax after doing either one.
 1. [Pescetarians][wikipedia 93] eat... no meat, except for fish and seafood, which are obviously not meat (because fish don't have feelings).
 1. [Propan-2-ol can remove most things from your car][youtube 11], as long as you understand that it won't be the most effective.
-1. *Turbo* is from Greek *τύρβη*, "wake", or Latin *turbo*, "spinning top",
 1. [With great ride comes with terrible handling][cartoq]; softening the suspension makes the car turn like a boat. This is also why sports cars have stiff suspensions (and horrible for your back).
 1. [Almost all modern cars have synchromesh, if you don't have it fitted you will need to 'double declutch'][drivingfast]
 1. For steaming eggs, [a good ratio of water to eggs would be 1.5:1][wikipedia 94]
@@ -503,9 +495,6 @@
 1. [Release cards][aljazeera] are prison debit cards that charge a lot more (unregulated) fees. Prisoners are profit streams.
 1. [Clutches are in their resting position when down][answers].
 1. Japanese girls have not been [licking doorknobs}[tumblr] for more than three years.
-1. Maniacal is pronounced "muh-NYE-ic-oh".
-1. Demonstrative is pronounced "duh-MON-struh-tive".
-1. Miserly is pronounced "MY-ser-ly".
 1. "[Dude][reddit 37]" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
 1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.][reddit 38]
 1. However much Google results decide to decay, the way to check the device's battery percentage is `cat /sys/class/power_supply/battery/capacity`
@@ -537,7 +526,6 @@
 1. [Not supporting unicode in your app can cost lives][ldc]
 1. "Nemo" means "nobody" in Latin.
 1. Steller's jay is Alberta's bird.
-1. Raccoons are called Washbär (washing bear) in Germany because they wash things a lot.
 1. s,p,d, and f stand for sharp, principal, diffuse, and fundamental.
 1. Clay bar exposes paint to the elements. It is necessary to clay bar something only if it cannot be polished.
 1. The name "Pineapple" was actually first applied to pine cones in 1398. Pine Cones later took over as the common name, and the fruit became known as the Pineapple due to its similar appearance.
@@ -564,8 +552,6 @@
 1. Kazakhstan has the largest and strongest performing economy in Central Asia. It is not a Russian dirt ground with no money.
 1. There is a bunch of paperwork involved when a firearm is discharged, including the exact number of rounds expended.
 1. [SSLv3 has been obsolete for over 16 years and is so full of known problems that the IETF has decided that it must no longer be used.][blogspot 2]
-1. [(Most) Moths make cocoons.][wikipedia 105] Butterflies harden and make chrysalides instead.
-1. [(Most) Moths have apposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.][wikipedia 106] Butterflies have superposition eyes ("cones" equivalent) instead.
 1. Chloroform won't knock someone out in seconds. It takes minutes.
 1. > A defibrillator forcefully stops the heart temporarily in an effort to correct a heart in fibrillation. Using a defibrillator on a dead person is like hitting the reset button on an unplugged machine.
 1. There is a two-level LCBO in Ottawa (75 Rideau St.). The lower level is for vintage only.
@@ -578,7 +564,6 @@
 1. "Covariance" is just a fancy way of saying "if parent method returns `Number` then surely a subclass method can return `float`"
 1. "Contravariance" is just a fancy way of saying "if parent method expects `float` then surely I can write a subclass method that handles both `float` and `int`"
 1. [The last three digits of a Google Play Services package][reddit 42] defines the compatible android version, CPU architecture, and PPI, respectively. The most common combination is "030", package for Pre-5 devices.
-1. [Animals use salt licks too!][wikipedia 108] Some pits are natural mineral licks.
 1. Subways are powered by [a third, electrical track][wordpress].
 1. [Manual cars don't have park.][straightdope]. ~~Automatic cars don't have a clutch (they have torque converters)~~.
 1. [Causation][harvard]: not (having prostate cancer|wanting to kill yourself|getting type 2 diabetes) makes you want to fewer than two cups of coffee.
@@ -625,8 +610,6 @@
 1. ["The more development I do the more I feel like increased Lines Of Code (LOC), nearly always results in increased bugs."][mayerdan]
 1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
 1. Ontario only: [there is a maximum on how much your landlord can raise your rent][ontariotenants], and it is different every year.
-1. Since caliphate is pronounced [kaLEEfa][wikipedia 119], it is never possible to pronounce it correctly.
-1. [Caribou eyes change colour][imgur 7] every season to see in the optimum spectrum. (Pictured: different species)
 1. A fool-proof way to poach an egg is to [strain away all of the egg white][seriouseats], says mister López-Alt.
 1. Discarded human waste, along with disintegrating [mudbricks][wikipedia 120], create [tells][wikipedia 121], elevated mounds of stuff. Sometimes "Tel" gets into the location's name. Tel Aviv might be one.
 1. [Cob][wikipedia 122]) is poor man's building material, similar to [adobe][wikipedia 123], which a company named itself for its building block properties.
@@ -643,7 +626,6 @@
 1. Why do Matthew, Mark, John, and Luke have so much in common? Supposing if a [Q source][wikipedia 128] was supplying such information to Matthew and Luke, then it would explain most of it.
 1. *Gospel* doesn't just mean any book in the New Testament; a gospel is an account describing the life, death, and resurrection of Jesus of Nazareth.
 1. The [Criterion of embarrassment][wikipedia 129] says that the author (God/Jesus) wouldn't write something embarrassing about himself, therefore the Bible's accounts are probably true.
-1. Jerusalem is pronounced "yuh Hoo sa LA yim".
 1. All features have bugs until people stop complaining about them.
 1. [State modification is the root of all evil][abdulapopoola]: don't ever write code that modifies state unless specified otherwise.
 1. You can't (or couldn't) [self serve gasoline in Oregon][mentalfloss], citing fire hazards.
@@ -666,7 +648,6 @@
 1. The Greek word "Kyrios" means "lord, Lord, master" in one word.
 1. People take on [regnal names][wikipedia 140], different from their own names, when they take reign. Queen Elizabeth might not have been called Elizabeth. Not all of the King Georges were called George before they were King. > *Prince Albert, Duke of York, assumed the throne as King George VI instead of using the King Albert.*
 1. An English subset called [E-Prime][wikipedia 141] prohibits all variants of the phrase "to be", so as to make the language less ambiguous. This may be useful (see what I did there) for docstrings.
-1. Jojoba is pronounced 'hoHOEba', because reasons.
 1. Unmanaged cow herds in India scavenge for food in landfill sites. [They are filled with plastic.][topdocumentaryfilms]
 1. Crab sticks are also called [seafood extenders][google 12]
 1. "According to the United States Department of Agriculture National Nutrient Database, (crab sticks) contains about 76% water, 15% protein, 6.85% carbohydrate, and 0.9% fat."
@@ -745,7 +726,6 @@
 1. "Shinny" is another word for [pickup hockey][imgur 9].
 1. In the order of increasing formality: Bō (坊, boy), Chan, Kun (君, male), San, Shi (氏, people you have never met), Sama (様).
 1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"][wikipedia 167]
-1. [*Monseigneur*][wikipedia 168] is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy][wikipedia 169].
 1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.
 1. You can set your TTL as low as you want; DNS servers just [won't honour it][serverfault]. Even if they do, low TTLs increase load on the DNS.
 1. VLC was made [just to let some students justify the funding for faster networks][ycombinator 7]. The VLC icon was from a [story about a VLC member stealing a cone while intoxicated][videolan].
@@ -754,7 +734,6 @@
 1. Investment "Rule of 72"... 72/rate = investment doubles in n years
 1. Even if a function does not have side effects, it must return the same value for any given set of inputs to be considered a [pure function][wikipedia 170].
 1. *Correctness* means never returning an incorrect result; *Robustness* means never failing, even if it means having to return an incorrect result.
-1. [Ezekiel][wikipedia 171] is pronounced yuh-hez-KEL.
 1. [Cold FX][nationalpost] does not fight colds.
 1. A [permabear][davemanuel] is the kind of jerkwad investors who are always negative about the stock market.
 1. [*"Suppose you could design your dream job that you'll be starting on Monday. It's at your ideal company with your ideal job title and salary. All you have to do is tell them what you want to do at your job and you can have it. What does your job entail?"*][nczonline] My job might be Jesus, which is enabling people to do what they can do.
@@ -838,7 +817,6 @@
 1. Alec Guinness (Ben Kenobi) died ages ago (2000). He was old enough to experience the Jedi purge and two other world wars.
 1. [Adding automatic transmission fluid does not clean your engine][reddit 60]; not sure why it must be said.
 1. There are more binary stars (orbits around another star) than unary stars.
-1. According to The Hangover, Baklava is pronounced bakLAva. However, everybody else on the Internet says BAKlava.
 1. [Common sense][reddit 61] is ordering things from a fast food restaurant only if the ingredients appear in more than one item, which makes sure they are fresh.
 1. The "only male child"s of the world are people who, since the beginning of life, 
 1. Moscow, in its native tongue, sounds like "MOSKva".
@@ -864,7 +842,6 @@
 1. The last public execution by guillotine was in 1939. Private execution by guillotine went until 1977.
 1. [Last rites][wikipedia 209] (rituals), which is not last *rights*... are prayers by priests to patients shortly before their death. This also applies to executions.
 1. Wet cured ham is [apparently ready to eat][recipetips], if you can tolerate the texture.
-1. Analgesic is pronounced an-alJEEsik, or an-alGEEsik if you are actually Greek.
 1. You are never supposed to sign things with your master pubkey.
 1. The [PGP fingerprint][stackexchange 6] derives its short key (its last 32 bits) and long key (its last 64 bits). RFC 4880 outlines short ID collisions.
 1. Use (or host) [ipMagnet][github 4] to check if a torrent client is under the influence of a proxy or VPN.
@@ -946,6 +923,17 @@
 1. Tabernacle just means Hut.
 1. [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS) on top of REST emulates old-school terminals by transferring not only the requested data to the client, but a list of possible actions on it, too.
 1. "If whales have 1000 times more cells than we do, why don't they get cancer 1000 times more often" is called the [Peto's paradox](https://en.m.wikipedia.org/wiki/Peto%27s_paradox).
+1. It takes just ~5 minutes of downtime per year to kill a [99.999%](http://uptime.is/99.999) uptime guarantee. Other common guarantees: [~52 minutes for 99.99%](http://uptime.is/99.99), [~9 hours for 99.9%](http://uptime.is/99.9), [~3 days for 99%](http://uptime.is/99).
+1. A bowl of oatmeal a day could be the secret to a longer and healthier life, say scientists.
+1. Weasels are smaller than you think. Beavers are bigger than you think. (Grizzly) Bears are smaller than you think. Grizzly bears are less big than black bears than you think. Elks are bigger than bears. Mountain goats are not goats. 
+1. [Human mothers also nest](https://en.wikipedia.org/wiki/Nesting_instinct); during the period, they clean the house a lot.
+1. "20% of the LCBO's customers bring in 80% of the revenue" - [this one guy on Reddit](http://www.reddit.com/r/canada/comments/4o9e4o/-/d4b82dm)
+1. Canada used to have "Athabasca" and "Assiniboia" [districts](https://en.wikipedia.org/wiki/Districts_of_the_Northwest_Territories). They are now various parts of the west.
+1. U Lethbridge's motto is Fiat Lux.
+1. [It is not illegal to drive barefoot](http://www.theglobeandmail.com/globe-drive/culture/commuting/strange-canadian-driving-laws-that-surprised-us-the-most-in-2015/article27951066/), but since it has less grip than shoes, you probably shouldn't.
+1. There is a global unified postal service body called the [Universal Postal Union](https://en.wikipedia.org/wiki/Universal_Postal_Union). The Union creates a framework and standards so that ALL countries can exchange mail freely without forming individual contracts with every other country. - [source](https://www.reddit.com/r/explainlikeimfive/comments/4o4t7z/-/d49oo7a)
+1. [Oktoberfestbier](https://en.m.wikipedia.org/wiki/Pale_lager#Oktoberfestbier_.2F_M.C3.A4rzen) is a real trademarked term for Oktoberfest beer.
+1. Windows 10 sucks so much because [Microsoft fired its QA department](http://www.networkworld.com/article/2453929/microsoft-subnet/would-microsoft-really-cut-its-qa-department.html).
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
@@ -1047,11 +1035,9 @@
 [imgur 12]: http://i.imgur.com/K4IoziO.gif
 [imgur 13]: http://i.imgur.com/AJoxtZi.gifv
 [imgur 2]: http://i.imgur.com/ljQSI6s.jpg
-[imgur 3]: https://imgur.com/a/g3poy
 [imgur 4]: http://imgur.com/a/uFGzs
 [imgur 5]: http://i.imgur.com/ex6Zu.jpg
 [imgur 6]: http://i.imgur.com/P0NFVad.png
-[imgur 7]: https://i.imgur.com/779RwKL.jpg
 [imgur 8]: http://i.imgur.com/cWz7YIG.jpg
 [imgur 9]: https://i.imgur.com/zAwz5jB.gifv
 [insidehalton]: http://www.insidehalton.com/news-story/5338165-7-facts-about-canada-s-flag/
@@ -1251,10 +1237,7 @@
 [wikipedia 102]: https://en.wikipedia.org/wiki/Andriza_Mircovich
 [wikipedia 103]: https://en.wikipedia.org/wiki/Bloodhound
 [wikipedia 104]: https://en.wikipedia.org/wiki/%E2%80%9CWomen_are_wonderful%E2%80%9D_effect
-[wikipedia 105]: https://en.wikipedia.org/wiki/Chrysalis#Chrysalis
-[wikipedia 106]: https://en.wikipedia.org/wiki/Eye#Apposition_eyes
 [wikipedia 107]: https://en.wikipedia.org/wiki/Belostomatidae
-[wikipedia 108]: https://en.wikipedia.org/wiki/Mineral_lick
 [wikipedia 109]: https://en.wikipedia.org/wiki/Yam_%28vegetable%29
 [wikipedia 11]: http://en.wikipedia.org/wiki/Length_extension_attack
 [wikipedia 110]: https://en.wikipedia.org/wiki/Althaea_(genus
@@ -1320,7 +1303,6 @@
 [wikipedia 165]: https://en.wikipedia.org/wiki/Kraft_Foods_Inc
 [wikipedia 166]: https://en.wikipedia.org/wiki/Bauhinia_%C3%97_blakeana
 [wikipedia 167]: https://en.wikipedia.org/wiki/Japanese_honorifics#San
-[wikipedia 168]: https://en.wikipedia.org/wiki/Monseigneur
 [wikipedia 169]: https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise
 [wikipedia 17]: https://en.wikipedia.org/wiki/Sleeper_effect
 [wikipedia 170]: https://en.wikipedia.org/wiki/Pure_function
@@ -1428,7 +1410,6 @@
 [wikipedia 74]: http://en.wikipedia.org/wiki/Opossum
 [wikipedia 75]: http://en.wikipedia.org/wiki/Development_mule
 [wikipedia 76]: http://en.wikipedia.org/wiki/Medieval_fortification#Stairs
-[wikipedia 77]: http://en.wikipedia.org/wiki/Nauru
 [wikipedia 78]: http://en.wikipedia.org/wiki/Dermatophytosis
 [wikipedia 79]: http://en.wikipedia.org/wiki/Soak_testing
 [wikipedia 8]: https://en.wikipedia.org/wiki/Apex_(racing\
@@ -1487,7 +1468,6 @@
 [youtube 21]: https://www.youtube.com/watch?v=vw_tClcS6To
 [youtube 22]: https://www.youtube.com/watch?v=TEkI0cH_rK4&app=desktop
 [youtube 3]: http://youtube.com/watch?v=DQeyjgSUlrk
-[youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [youtube 5]: http://youtube.com/watch?v=4gw6QnYx5-M
 [youtube 6]: https://youtube.com/watch?v=rDbqz_07dW4
 [youtube 7]: https://www.youtube.com/watch?v=sBJ_dsJPT7I

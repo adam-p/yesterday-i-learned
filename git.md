@@ -1,4 +1,4 @@
-# git troubleshooting
+# [git troubleshooting](https://git-man-page-generator.lokaltog.net/)
 
 ## git asks me for the user name and password every time I pull and push
 Use the SSH URL instead of the HTTPS URL.

@@ -79,6 +79,15 @@ Further reading: [0001.md](sources/0001.md)
 * Define success clearly, so people can meet it.
 * "Sometimes people talk shit. Sometimes people have bad days. Don't take either personally."
 
+## [How not to fail](http://themacro.com/articles/2016/06/how-not-to-fail/)
+
+* Make something people want. (be open to changing direction)
+* Stay focused. (including networking)
+* Measure your growth. (pick 'revenue' as a metric and focus on that)
+* Know if you’re default alive. (default alive is operational breakeven)
+* Keep expenses low. (don't hire too many people)
+* Fundraising gets harder. (VCs don't fund failures)
+
 # Terms
 
 * AUR: average user retention

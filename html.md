@@ -30,6 +30,8 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 * You can [change an `<input>`'s placeholder style](http://stackoverflow.com/a/2610741) using pseudoselectors `::-webkit-input-placeholder, :-moz-placeholder, ::-moz-placeholder, :-ms-input-placeholder`, if the field's `appearance: textfield`. With that said, these styles are platform-dependent (as you may expect with prefixed styles), and currently the placeholder cannot be inspected.
 * Well, you cannot specify [offline file wildcards](http://stackoverflow.com/questions/8001196/how-do-i-specify-a-wildcard-in-the-html5-cache-manifest-to-load-all-images-in-a).
 * Saving too much in localStorage gives you a `DOM Exception 22: QuotaExceededError`.
+* In `<head>`, when you expect a script to have access to nothing: [`document.head` is actually available.](https://eager.io/blog/everything-I-know-about-the-script-tag/)
+* 
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

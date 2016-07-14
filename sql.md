@@ -95,10 +95,15 @@ Postgres has 'templates', so running `psql -d template1 -c 'CREATE EXTENSION...'
 
 # MongoDB
 
+> "MongoDB is the core piece of architectural rot in every single teetering and broken data platform I've worked with."
+
 MongoDB is actually NoSQL, so it shouldn't be in this file.
 
 * Install: `sudo apt-get install mongodb`
-* 
+* [To have MongoDB return all records](https://engineering.meteor.com/mongodb-queries-dont-always-return-all-matching-documents-654b6594a827#.emoh9pv03), you must either:
+  * have an index on a field, and search for exactly that field, or
+  * query with all keys when you build a multi-field index, or
+  * never update anything. MongoDB misses documents if you update some while you read the same table (if they can be so called).
 
 # Redis
 

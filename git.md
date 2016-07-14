@@ -151,6 +151,10 @@ Use `git log` to find out how many commits you made since you forked/branched, t
 git rebase -i HEAD~(commit count)
 ```
 
+### ... Then I rebased like an idiot
+
+If you rebased and found some changes missing, `git reflog` might contain useful hashes for restoring your `HEAD`.
+
 ### I made a commit with stupid messages
 
 Either [`git commit --amend`](http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-message-in-git) or `git rebase -i HEAD~1`

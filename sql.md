@@ -55,10 +55,12 @@
 * Re-index a table: `REINDEX TABLE tablename;` (doesn't work if the index is broken, which is *retarded*
   `REINDEX TABLE tablename force;` doesn't work.
 * [Read the docs](https://wiki.postgresql.org/wiki/Things_to_find_out_about_when_moving_from_MySQL_to_PostgreSQL). Postgres strings must be enclosed with single quotes. Double quotes only work for system identifiers.
+* You can choose the type of index to build. The default is B tree.
 
 ## Performance
 
 * When in doubt: use `EXPLAIN ANALYZE (your query here);` to help you out.
+* `EXPLAIN` returns whatever the engine *thinks* about a query. `EXPLAIN ANALYZE` actually runs the query, which requires data in actual scale.
 * Selecting an indexed column, but while using a function-wrapped parameter (e.g. `WHERE SOMETHING(ROW) == 1`) disables the index.
 * [There are function-based indices](http://use-the-index-luke.com/sql/where-clause/functions) but it is discouraged for their own performance reasons.
 * Multi-column indices are position-dependent; `CREATE INDEX tbl_idx ON tbl (a, b)` is different from `CREATE INDEX tbl_idx ON tbl (b, a)`, where selecting by `b` requires the second index.

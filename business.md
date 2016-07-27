@@ -41,6 +41,9 @@ At the cost of high volatility, equity provides the highest return, provided tha
 
 ["Shorting" stocks](http://www.swing-trade-stocks.com/shorting-stocks.html) involves you borrowing your broker's stocks, buying your copy of these stocks at a lower price, and giving back these stocks to your broker. You end up with these stocks, and the price difference.
 
+Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-moves-first-time-investors.asp?no_header_alt=true) involve borrowing money to buy stocks that (you hope it will) go up.
+
+> Take this example – you have $100 and borrow $50 to buy $150 of a stock. If the stock rises 10% ($165), you make $15, or a 15% return on your capital. But, if the stock declines 10% ($135), you lose $15, or a 15% loss. More importantly, if the stock goes up by 50% ($225), you make 75% return. But, if the stock declines 50% ($75), you lose all your money!
 
 ### Looking for a suitable company
 

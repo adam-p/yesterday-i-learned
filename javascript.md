@@ -173,6 +173,10 @@ undefined
 * `<Promise>.then(function succeed, function fail) => <Promise>`  If any of these functions return anything, [the new promise will resolve/reject with their return values.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
 * `<Promise>.catch(function error)`  If any of `(succeed, fail)` throws an Error, [the `function error` will receive the same Error.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)
 
+## WebRTC
+
+* Feeling evil? Great! WebRTC allows you to [get the user's internal IP](http://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript-only/32841164#32841164), track people without [having the network request show up on the network panel](http://www.imanevilblogger.net/tag/disable-webrtc/), take [pictures of heads](http://auduno.com/post/25125149521/head-tracking-with-webrtc) (?), and more!
+
 ## [Writing memory-efficient JavaScript][smashingmagazine]
 
 * Dereferencing (`delete object.key`) does not free memory immediately, but it does take CPU to modify the object, so use sparingly.

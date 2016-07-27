@@ -321,7 +321,7 @@ print foo()
 {'a': 4}
 ```
 
-* 
+* Regex flags can be [directly put inside the match string](http://stackoverflow.com/a/38250089/1558430): like `re.findall("/foo/s", "foo")`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

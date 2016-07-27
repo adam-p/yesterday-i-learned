@@ -9,6 +9,12 @@
 1. [(Most) Moths have apposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.][wikipedia 106] Butterflies have superposition eyes ("cones" equivalent) instead.
 1. [Caribou eyes change colour][imgur 7] every season to see in the optimum spectrum. (Pictured: different species)
 1. [Animals use salt licks too!][wikipedia 108] Some pits are natural mineral licks.
+1. [Nails are more permeable than skin.](https://en.wikipedia.org/wiki/Nail_(anatomy)#Permeability)
+1. Llamas and camels have [ruffles in their eyes](https://www.reddit.com/r/Damnthatsinteresting/comments/4ps5bm/eyes/d4nifxh) (iridic granules) that can close to cover the center of the eye, limiting the amount of light that passes.
+1. The Shingleback lizard of Australia is one monogamous lizard that is [known to grieve](https://www.reddit.com/r/likeus/comments/4pst8x/shingleback_lizard_refuses_to_leave_dead_mate/d4njp13).
+1. Chinchillas [take dust baths](http://i.imgur.com/pEqvt4c.gifv) to clean themselves. They cannot get wet, or they will get fungal infections and die.
+1. Rats can [hold their breaths for up to three minutes](https://www.youtube.com/watch?v=0t2VPBF6Kp4).
+1. 
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

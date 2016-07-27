@@ -941,7 +941,16 @@
 1. [Minimum payment means nothing](http://moneyfacts.co.uk/guides/credit-cards/what-is-a-minimum-payment-on-a-credit-card240211/). Pay as much as you can over and above the minimum payment.
 1. The [Eurozone](https://en.wikipedia.org/wiki/Eurozone) is a strict subset of the EU; it is the zone that (only) uses Euros.
 1. Rohypnol does not have a single hydroxyl group on it.
-1. 
+1. [Alcohol causes alzheimer's-like symptoms](http://pubs.niaaa.nih.gov/publications/arh25-4/299-306.htm), but it is reversible to a degree.
+1. The Senate, also called the [House of Lords](https://en.m.wikipedia.org/wiki/House_of_Lords), takes legislation from the House of Commons and revises it accordingly. In most countries, the House of Commons in practice holds far more power than the [House of Lords].
+1. Car commercials often [never feature the real car](https://www.youtube.com/watch?v=OnBC5bwV5y0).
+1. It is [legal](https://www.reddit.com/r/nottheonion/comments/4ozso3/-/d4gy5mj) to dissolve the dead using sodium hydroxide in Canada.
+1. "If you sink the cue ball while going for the 8 ball, you lose" - Darren, something along those lines
+1. The [optimal driving speeds](http://eartheasy.com/move_fuel_efficient_driving.html) are 50km/h and 90km/h.
+1. In 193 AD, [five Roman emperors](https://en.wikipedia.org/wiki/Year_of_the_Five_Emperors) claimed to be Caesar.
+1. > XviD is open source [GPL v2, apparently], and DivX isn't
+1. [Soap in pee hole](https://www.reddit.com/r/sex/comments/1y7i5u/i_got_soap_in_my_dick_while_jacking_off_if_i_wait/), what that high guy on Scary Movie 5 was blabbing on about, is apparently a thing. And apparently it hurts.
+1.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

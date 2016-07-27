@@ -55,10 +55,12 @@
 * Re-index a table: `REINDEX TABLE tablename;` (doesn't work if the index is broken, which is *retarded*
   `REINDEX TABLE tablename force;` doesn't work.
 * [Read the docs](https://wiki.postgresql.org/wiki/Things_to_find_out_about_when_moving_from_MySQL_to_PostgreSQL). Postgres strings must be enclosed with single quotes. Double quotes only work for system identifiers.
+* You can choose the type of index to build. The default is B tree.
 
 ## Performance
 
 * When in doubt: use `EXPLAIN ANALYZE (your query here);` to help you out.
+* `EXPLAIN` returns whatever the engine *thinks* about a query. `EXPLAIN ANALYZE` actually runs the query, which requires data in actual scale.
 * Selecting an indexed column, but while using a function-wrapped parameter (e.g. `WHERE SOMETHING(ROW) == 1`) disables the index.
 * [There are function-based indices](http://use-the-index-luke.com/sql/where-clause/functions) but it is discouraged for their own performance reasons.
 * Multi-column indices are position-dependent; `CREATE INDEX tbl_idx ON tbl (a, b)` is different from `CREATE INDEX tbl_idx ON tbl (b, a)`, where selecting by `b` requires the second index.
@@ -95,10 +97,15 @@ Postgres has 'templates', so running `psql -d template1 -c 'CREATE EXTENSION...'
 
 # MongoDB
 
+> "MongoDB is the core piece of architectural rot in every single teetering and broken data platform I've worked with."
+
 MongoDB is actually NoSQL, so it shouldn't be in this file.
 
 * Install: `sudo apt-get install mongodb`
-* 
+* [To have MongoDB return all records](https://engineering.meteor.com/mongodb-queries-dont-always-return-all-matching-documents-654b6594a827#.emoh9pv03), you must either:
+  * have an index on a field, and search for exactly that field, or
+  * query with all keys when you build a multi-field index, or
+  * never update anything. MongoDB misses documents if you update some while you read the same table (if they can be so called).
 
 # Redis
 

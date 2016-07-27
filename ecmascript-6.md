@@ -31,6 +31,20 @@ console.log(occupation); // 'jedi'
 console.log(father); // 'anakin'
 ```
 
+It can also be done with brackets (`let (a, b, c) = {'a': ..., ...}`).
+Do note that this can have a special case with just one unpack:
+
+```
+const { foo } = {foo: 'bar'};  // foo is bar because you unpacked foo from the object
+```
+
+AND [the special case where you unpack to nothing](http://www.2ality.com/2015/01/es6-destructuring.html):
+
+```
+const {} = 'abc';  // "OK, strings are coercible to objects"
+const {} = undefined;  // Error
+```
+
 * [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html): a virtual wrapper that can handle property reads and changes on the original object.
 
 ```
@@ -107,6 +121,23 @@ export function foo() { return 5 }
 import CallItAnything, {foo} from 'that_file';
 CallItAnything();  // 4
 foo();  // 5
+```
+
+* [Default imports can be mixed with named imports on a single line.](http://stackoverflow.com/a/31098182/1558430)
+
+```
+
+export default function () { .. this is React }
+export function Component () { ... }
+export function PropTypes () { ... }
+---
+import React, { Component, PropTypes } from 'react';
+===
+import React from 'react';
+import { Component, PropTypes } from 'react';
+===
+Importing the default export under the name "React"
+Importing the two named exports under the same names
 ```
 
 * You can also `import * from 'a library'`.

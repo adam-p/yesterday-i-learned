@@ -54,6 +54,12 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 * The stock's *price-to-earnings ratio* should be between 20 and 40. [Generally speaking, having a high P/E ratio means that investors like you and believe that you have a bright future.](http://techcrunch.com/2014/07/05/the-new-fast-food/)
 * The stock's *price-to-sales ratio* should be close to 1.
 
+### Looking for a generic trade
+
+* "Don't pick stocks" - [wealthsimple](https://www.wealthsimple.com/5rules) (low MER index funds are good enough for most people)
+* Buy gold when the market is stable. Since gold has inherent value, gold is often bought by others when the market is unstable, which is the time you should sell.
+* Buy bonds when stocks are falling. (More research required)
+
 ### Looking for a suitable time
 
 Further reading: [0001.md](sources/0001.md)

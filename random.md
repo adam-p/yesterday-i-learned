@@ -953,6 +953,7 @@
 1. [Superluminal communication](https://en.wikipedia.org/wiki/Superluminal_communication) (communicating instantly through quantum entanglement) is believed to be impossible because, in a Lorentz-invariant theory, it could be used to [transmit information into the past](https://en.wikipedia.org/wiki/Tachyonic_antitelephone).
 1. [Gibraltar](https://www.google.ca/maps/place/Gibraltar/@36.1354446,-5.3472065,14z/data=!4m5!3m4!1s0xd0cbf762714be35:0x384e25263600870f!8m2!3d36.140751!4d-5.353585), while clearly part of Spain, is part of Britain.
 1. NES games (among others) [*relied* on CRT artifacts](http://www.gamasutra.com/blogs/KylePittman/20150420/241442/CRT_Simulation_in_Super_Win_the_Game.php) to make things look good.
+1. To make sure you don't know what you're eating, there are 144 species of anchovy (and probably counting).
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

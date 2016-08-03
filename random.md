@@ -967,7 +967,7 @@
 1. It is more likely for [flour to have E. coli](https://www.reddit.com/r/explainlikeimfive/comments/4quzvf/eli5_there_is_currently_a_recall_of_flour_due_to/d4w7lsh) than the eggs that are used to bake something.
 1. The [Gamma function](https://en.wikipedia.org/wiki/Factorial#Extension_of_factorial_to_non-integer_values_of_argument) (a definite integral) defines factorials for non-integer numbers, except negative integers. Gamma(n) still equals to the usual values when n is an integer, but the graph shows that negative integers resolve to either positive or negative infinity (undefined).
 1. [Android N will have *two* system partitions](https://en.wikipedia.org/wiki/Android_Nougat#Development_platform), one online and one offline. The online one will push updates to the offline one, and they switch once the offline one is updated.
-1.
+1. To make sure you don't know what you're eating, there are 144 species of anchovy (and probably counting).
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

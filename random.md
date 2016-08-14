@@ -953,6 +953,20 @@
 1. [Superluminal communication](https://en.wikipedia.org/wiki/Superluminal_communication) (communicating instantly through quantum entanglement) is believed to be impossible because, in a Lorentz-invariant theory, it could be used to [transmit information into the past](https://en.wikipedia.org/wiki/Tachyonic_antitelephone).
 1. [Gibraltar](https://www.google.ca/maps/place/Gibraltar/@36.1354446,-5.3472065,14z/data=!4m5!3m4!1s0xd0cbf762714be35:0x384e25263600870f!8m2!3d36.140751!4d-5.353585), while clearly part of Spain, is part of Britain.
 1. NES games (among others) [*relied* on CRT artifacts](http://www.gamasutra.com/blogs/KylePittman/20150420/241442/CRT_Simulation_in_Super_Win_the_Game.php) to make things look good.
+1. If you have both exactly one device and exactly one emulator running, [`adb -e`](http://stackoverflow.com/a/20163013/1558430) chooses the emulator, and `adb -d` chooses the only connected device.
+1. If you lock yourself out of the Jenkins machine, but can configure one of its jobs for some reason, try adding a shell script step involving `cat id_dsa.pub >> ~/.ssh/authorized_keys`.
+1. Amazon Aurora is "one-tenth the cost" of enterprise databases, not one-tenth the cost of their other offerings.
+1. [>Can't do joins, no ACID on DynamoDB](http://www.slideshare.net/saniyakhalsa/dynamo-db-pros-and-cons)
+1. `ps x` is probably the command you are looking for.
+1. Ember is more red than orange.
+1. Use a heat gun and a credit card to [scrape off glue residues](https://m.youtube.com/watch?v=7VPwJIaWBso).
+1. "[TIL that] in 1913, Hitler, Trotsky, Tito, Freud and Stalin all lived in Vienna and some were even regular patrons of the same coffeeshop"
+1. Titanium is biocompatible, and is used extensively in implants. With that said, a titanium knee joint only lasts 10-15 years.
+1. Corn occasionally get infected with a [fungus](https://en.m.wikipedia.org/wiki/Corn_smut) that Mexicans consider a delicacy. It's a mushroom, so it may well be.
+1. [Men walk faster than they all would like when in a group](https://newrepublic.com/article/117956/walking-through-revolving-doors-friends-what-it-reveals/?), but slower than all would like when with any positive number of women. Women all walk slowly.
+1. It is more likely for [flour to have E. coli](https://www.reddit.com/r/explainlikeimfive/comments/4quzvf/eli5_there_is_currently_a_recall_of_flour_due_to/d4w7lsh) than the eggs that are used to bake something.
+1. The [Gamma function](https://en.wikipedia.org/wiki/Factorial#Extension_of_factorial_to_non-integer_values_of_argument) (a definite integral) defines factorials for non-integer numbers, except negative integers. Gamma(n) still equals to the usual values when n is an integer, but the graph shows that negative integers resolve to either positive or negative infinity (undefined).
+1. [Android N will have *two* system partitions](https://en.wikipedia.org/wiki/Android_Nougat#Development_platform), one online and one offline. The online one will push updates to the offline one, and they switch once the offline one is updated.
 1. To make sure you don't know what you're eating, there are 144 species of anchovy (and probably counting).
 1. A max-heap is a [heap](https://en.wikipedia.org/wiki/Heap_%28data_structure%29#Implementation) (idk, a binary tree) whose nodes' values are higher than their childrens'. This would make the root node the highest value. A min-heap is the opposite, making its root node the smallest value.
 1. A binary heap can be implemented using an array. Array[0] would be the root, making Array[1] and Array[2] the children, and Array[3] ~ Array[6] their children.

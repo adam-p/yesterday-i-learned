@@ -20,6 +20,7 @@
 1. An *apologist* is a person who argues in favour of a controversial thing, not apologising for it/admitting that it sucks.
 1. It is *homicides*, not *homocides*. Homocides are chemical agents that kill or neuter homosexuals.
 1. *Despondent* means the person has no hope.
+1. Aaron sounds exactly like Erin.
 1. In French, [Gogh](http://forvo.com/word/vincent_van_gogh/) is simply pronounced *Ror*.
 1. [This man here](https://www.youtube.com/watch?v=9DMDV3bIUjc&feature=youtu.be&t=12s) claims chorizo is pronounced Choh-RI-thoh (ch in chop).
 1. Due to the unique way BBC is funded, the latin phrase "Vice Versa" ought to sound more like *vichey versa* than *vise versa*.

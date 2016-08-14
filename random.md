@@ -954,6 +954,18 @@
 1. [Gibraltar](https://www.google.ca/maps/place/Gibraltar/@36.1354446,-5.3472065,14z/data=!4m5!3m4!1s0xd0cbf762714be35:0x384e25263600870f!8m2!3d36.140751!4d-5.353585), while clearly part of Spain, is part of Britain.
 1. NES games (among others) [*relied* on CRT artifacts](http://www.gamasutra.com/blogs/KylePittman/20150420/241442/CRT_Simulation_in_Super_Win_the_Game.php) to make things look good.
 1. To make sure you don't know what you're eating, there are 144 species of anchovy (and probably counting).
+1. A max-heap is a [heap](https://en.wikipedia.org/wiki/Heap_%28data_structure%29#Implementation) (idk, a binary tree) whose nodes' values are higher than their childrens'. This would make the root node the highest value. A min-heap is the opposite, making its root node the smallest value.
+1. A binary heap can be implemented using an array. Array[0] would be the root, making Array[1] and Array[2] the children, and Array[3] ~ Array[6] their children.
+1. Teflon pans [*should*](http://www.nytimes.com/2010/12/18/your-money/18shortcuts.html?_r=0) be seasoned with oil before every use (that is, on a cold pan).
+1. It is [more than twice as likely to be ticketed for jaywalking in Montreal than in Toronto](http://www.metronews.ca/news/canada/2015/12/09/fines-for-jaywalking-vary-from-15-to-700-across-canada.html).
+1. Flashing yellow at a two-or-four-way-stop means ["disregard me, I mean nothing"](http://www.mto.gov.on.ca/english/dandv/driver/handbook/section3.2.12.shtml). On the other hand, flashing red means a mandatory stop.
+1. In Twitch Plays Pokemon Crystal, RED owns the winning team (aaabaaajss, AA-J, ...) from Twitch Plays Pokemon.
+1. The bronze bull statue of Wall Street was illegally placed there.
+1. >[What's really cool about AD](https://www.reddit.com/r/AskReddit/comments/4w46le/what_is_your_favourite_latin_phrase/d647egb) is if you know history, you know that years used to be counted as how many years of a certain king's reign, so really we used that format, it's not all the foreign, it's just now the King happens to be Jesus.
+1. In VB (classic), `Empty` is `undefined`. `Nothing` is `null`. `Null` is apparently a database-compatible `NULL`.
+1. Solutions are usually water/alcohol based. Lotions are more water/alcohol than oil. Creams are 50/50 oil/water. [Ointments](https://en.wikipedia.org/wiki/Topical_medication#Ointment) are more oil than water.
+1. Use the command `grep -ri fuck .` to find out how many times you (I) had to learn something useless.
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

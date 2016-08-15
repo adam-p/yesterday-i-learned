@@ -88,6 +88,23 @@ groovy:000> Boolean.valueOf('true')
 * Java-style assertions use the colon, i.e. `assert a == 0: "a is not 0.";`
 * [`getBoolean(thing, prop)`](http://with-example.blogspot.ca/2013/07/booleangetboolean-vs-booleanparseboolean.html) checks if thing.prop is `"true"`; `parseBoolean(thing)` check if `thing` is `"true"` regardless of case.
 * Apparently, empty character literals (`''`) are not allowed. It makes no sense anyhow. Empty string is `""`.
+* The syntax for catching multiple exceptions is `SomeExceptionClass|AnotherExceptionClass`.
+* A method can choose not to catch an exception only if it says it `throws` the same exceptions in its own signature.
+* Need to check for `null` everywhere, because Java is a very safe language, obviously.
+* Double curlies (`{{ }}`) creates an [instance instantiation block](http://stackoverflow.com/a/5197741). It is a shorthand for something.
+* Without `this.`, `foo` can either refer to the instance variable `foo`, or the static variable `foo`.
+* [`Map` is an interface](http://stackoverflow.com/a/1348246); `HashMap` is the implementation.
+* Concatenating an `Integer` to a `String` to have it automatically become a string is apparently [bad form](http://stackoverflow.com/a/18648773).
+* When instantiating a typed Map (`Map<String String> foo = new HashMap<String, String>();`), the second `String, String` can be omitted because it is obvious. Then again, most things are obvious in Java, but they cannot be omitted.
+* It is impossible to write `(5).toString()`, because fuck you, and fuck literals. To get a `"5"`, you need `new Integer(5).toString()`, or `Integer.toString(5)`.
+* It is always possible to `return null` in any function, even if the return type is specified not to be null.
+* Rather than assigning `self = this` or something like that, the outer class can be referenced with [`OuterClass.this`](http://stackoverflow.com/questions/2808501/calling-outer-class-function-from-inner-class) instead.
+* All interfaces are static. `static` is redundant.
+* All interface methods are public. `public` is redundant.
+* [`Void` is not `void`](http://stackoverflow.com/a/10839064), because, again, fuck you. `void` is the type, and `Void` is a thing that holds the type.
+* Because inner classes are visible only within the outer class, [an interface method inside a class like that must be public](http://stackoverflow.com/questions/11639741/java-attempting-to-assign-weaker-access-privilege-error) (or at least better than the base class, I am guessing).
+* Where the memory is used to store primitives [depends on the JDK implementation](http://stackoverflow.com/questions/31608220/where-are-string-objects-when-created-using-tostring-methods-stored-in-memory-in) (and which types). In other words, it is best for you to ignore all this.
+
 
 # [Android](https://www.reddit.com/r/androiddev/comments/3ka9j0/what_to_know_for_a_mobile_developer_interview/)
 
@@ -103,7 +120,14 @@ groovy:000> Boolean.valueOf('true')
 * If `layout_weight` is given, [then](http://developer.android.com/training/basics/firstapp/building-ui.html) `layout_width` is useless (irrelevant), and should be set to 0dp or 0px.
 * The back button does ["back navigation"](http://developer.android.com/design/patterns/navigation.html) (whichever activity shown in reverse chronological order); the in-app backs do "up navigation". The term "up" refers to the hierarchical parent of the current activity, a hierarchy you declare in `AndroidManifest.xml`.
 * Putting a library into `libs/` seems to do it.
+* There are project (`./build.gradle`) and app-level (`./app/build.gradle`) gradle files. The former defines dependencies, and the latter uses them.
 * If gradle is too old, update the `classpath 'com.android.tools.build:gradle:2.1.2'`... in the gradle file. Gradle will update itself. [True fact.](http://stackoverflow.com/questions/17634708/android-studio-upgraded-from-0-1-9-to-0-2-0-causing-gradle-build-errors-now/17648742#17648742)
 * Order in the layout xml files matters.
 * The project's JDK settings is in File > Project Structure, which is not in Settings for studio.
 * If you don't know what the fresh hell you are doing, [here is a layouts cheat sheet](http://labs.udacity.com/images/Layout-Cheat-Sheet.pdf).
+* Accessing the Internet on the main thread, get this, raises the `NetworkOnMainThreadException`.
+* [AsyncTask](http://stackoverflow.com/questions/3921816/can-i-pass-different-types-of-parameters-to-an-asynctask-in-android) takes just one type of parameter, but you can use "the setter" (?) to use additional types, or simply [pass in an `Object`](http://stackoverflow.com/a/9077177) and re-cast from there.
+* ["The difference between Handler and AsyncTask is: Use AsyncTask when Caller thread is a UI Thread."](http://stackoverflow.com/a/9800870)
+* It is near impossible to [conjure a popup from a non-activity class](http://stackoverflow.com/a/31221646).
+* `(an AsyncTask).get()` [immediately gets the value from its execute()](http://stackoverflow.com/a/10972142). Then again, that is a synchronous move.
+* Activity [apparently](http://stackoverflow.com/a/9192916/1558430) extends Context.

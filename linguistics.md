@@ -25,6 +25,7 @@
 1. [This man here](https://www.youtube.com/watch?v=9DMDV3bIUjc&feature=youtu.be&t=12s) claims chorizo is pronounced Choh-RI-thoh (ch in chop).
 1. Bánh mì, "餅麵", literally describes a baguette.
 1. On the other hand, Phở is 𡂄, not 粉.
+1. Due to the unique way BBC is funded, the latin phrase "Vice Versa" ought to sound more like *vichey versa* than *vise versa*.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

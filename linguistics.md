@@ -23,6 +23,8 @@
 1. Aaron sounds exactly like Erin.
 1. In French, [Gogh](http://forvo.com/word/vincent_van_gogh/) is simply pronounced *Ror*.
 1. [This man here](https://www.youtube.com/watch?v=9DMDV3bIUjc&feature=youtu.be&t=12s) claims chorizo is pronounced Choh-RI-thoh (ch in chop).
+1. Bánh mì, "餅麵", literally describes a baguette.
+1. On the other hand, Phở is 𡂄, not 粉.
 1. Due to the unique way BBC is funded, the latin phrase "Vice Versa" ought to sound more like *vichey versa* than *vise versa*.
 1. Sisyphean is pronounced sisiFEEun.
 

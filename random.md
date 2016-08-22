@@ -968,6 +968,10 @@
 1. The [Gamma function](https://en.wikipedia.org/wiki/Factorial#Extension_of_factorial_to_non-integer_values_of_argument) (a definite integral) defines factorials for non-integer numbers, except negative integers. Gamma(n) still equals to the usual values when n is an integer, but the graph shows that negative integers resolve to either positive or negative infinity (undefined).
 1. [Android N will have *two* system partitions](https://en.wikipedia.org/wiki/Android_Nougat#Development_platform), one online and one offline. The online one will push updates to the offline one, and they switch once the offline one is updated.
 1. To make sure you don't know what you're eating, there are 144 species of anchovy (and probably counting).
+1. The typical Nobel Prize winner has a vastly (2.8x) [higher interest in activities such as arts and crafts](http://priceonomics.com/the-correlation-between-arts-and-crafts-and-a/) than the average person.
+1. The only reliable way to show a numeric keypad from cordova is to [set the input type to `tel`](https://github.com/bendrucker/angular-credit-cards/issues/74).
+1. [OLED was, and is, a Samsung product](http://www.androidheadlines.com/2016/08/samsung-controls-99-of-the-smartphone-oled-panel-market.html).
+1. [Six of the seven wonders have already fallen](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World) (and a long ass-time ago. too.) The only one standing, the great pyramid of Giza, geometrically speaking, cannot be fallen per se.
 1. A max-heap is a [heap](https://en.wikipedia.org/wiki/Heap_%28data_structure%29#Implementation) (idk, a binary tree) whose nodes' values are higher than their childrens'. This would make the root node the highest value. A min-heap is the opposite, making its root node the smallest value.
 1. A binary heap can be implemented using an array. Array[0] would be the root, making Array[1] and Array[2] the children, and Array[3] ~ Array[6] their children.
 1. Teflon pans [*should*](http://www.nytimes.com/2010/12/18/your-money/18shortcuts.html?_r=0) be seasoned with oil before every use (that is, on a cold pan).
@@ -992,7 +996,7 @@
 1. Only one of the four ghostbusters wore gloves.
 1. "USS" in Star Trek was United *Space* Ship.
 1. [Camera switching](https://youtube.com/watch?v=rNlmRId2FVQ&feature=youtu.be) can be exploited to film scenes with body doubles when actors/actresses cannot be there at the same time. It is also extremely annoying.
-1. 
+1.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

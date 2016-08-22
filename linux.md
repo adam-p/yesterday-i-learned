@@ -182,6 +182,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * [Using `env` to find bash](http://unix.stackexchange.com/a/206366) or any other shell or command interpreter is considered a security risk because an unknown binary (malware) might be used to execute the script.
 * "[The buffers](http://www.linuxhowtos.org/System/Linux%20Memory%20Management.htm) remember what's in directories, what file permissions are, and keep track of what memory is being written from or read to for a particular block device. The cache only contains the contents of the files themselves."
 * "Load" (load average) is the CPU queue length. It is better than CPU utilisation because the latter shows 100%, but the queue length more accurately represents "how maxed out" the CPU is. It is also perfectly fine for a CPU to have a queue length of 10, if there are simply so many processes in the queue.
+* KSM is [already enabled](http://blog.siphos.be/2013/05/enabling-kernel-samepage-merging-ksm/) on Ubuntu at around version 12 ish.
+* `sudo`ing multiple commands: `sudo bash -c 'whoami; whoami'`
 
 ## Tmux
 

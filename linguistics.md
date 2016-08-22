@@ -24,7 +24,7 @@
 1. In French, [Gogh](http://forvo.com/word/vincent_van_gogh/) is simply pronounced *Ror*.
 1. [This man here](https://www.youtube.com/watch?v=9DMDV3bIUjc&feature=youtu.be&t=12s) claims chorizo is pronounced Choh-RI-thoh (ch in chop).
 1. Due to the unique way BBC is funded, the latin phrase "Vice Versa" ought to sound more like *vichey versa* than *vise versa*.
-1. 
+1. Sisyphean is pronounced sisiFEEun.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

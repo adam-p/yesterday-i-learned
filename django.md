@@ -29,6 +29,7 @@
 * [Signals are synchronous and blocking](http://www.slideshare.net/flywindy/two-scoops-ofdjangologgingandsignals).
 * If you are smart enough to use `.save(update_fields=['foo'])`, [be smart enough to know](https://code.djangoproject.com/ticket/22981) that `auto_now[_add]` fields will be updated only if they are specified in `update_fields`.
 * To [aggregate by a field whose `related_name` is `+`](http://stackoverflow.com/questions/38576912/django-aggregate-by-field-with-no-related-name), try something clever: `Reward.objects.values('user').annotate(rewards_count=Count('id')).order_by()`, or [override a model's definition using a mirror class](http://stackoverflow.com/a/38583862/1558430) whose `Meta.managed` is `False`.
+* It is [completely possible](https://github.com/django/django/blob/428c0bbe1bcd303560d7e96d7d2721ff3fdc0e3f/django/db/models/expressions.py#L155) to filter by an `F('time_field') + timedelta(seconds=???)`.
 
 ## WSGI
 

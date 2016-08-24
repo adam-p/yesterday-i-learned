@@ -26,6 +26,8 @@
 1. Bánh mì, "餅麵", literally describes a baguette.
 1. On the other hand, Phở is 𡂄, not 粉.
 1. Due to the unique way BBC is funded, the latin phrase "Vice Versa" ought to sound more like *vichey versa* than *vise versa*.
+1. Lo, [kubernetes](https://translate.google.com/#el/en/kubernetes) is pronounced KOO-ber-nettes.
+1. Hell, [beta](https://translate.google.com/#el/en/beta) is pronounced Betta, so no one is right.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

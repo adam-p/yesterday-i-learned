@@ -155,6 +155,10 @@ git rebase -i HEAD~(commit count)
 
 If you rebased and found some changes missing, `git reflog` might contain useful hashes for restoring your `HEAD`.
 
+Once you find the old HEAD, you will `git diff` your ruined branch against it: `git diff deadbeef00 > ono.patch`
+Restore your old branch by `git checkout deadbeef00 && git branch -f old-branch-name`. Now you have the old branch back, and you have your changes in a patch file.
+Apply the patch file back onto the branch using `git apply ono.patch`. Now you have your changes uncommitted. Don't rebase like an idiot again!
+
 ### I made a commit with stupid messages
 
 Either [`git commit --amend`](http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-message-in-git) or `git rebase -i HEAD~1`

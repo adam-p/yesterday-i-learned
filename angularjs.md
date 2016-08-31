@@ -73,3 +73,5 @@ $injector.get('$controller')('ControllerName', {
 * DO NOT use `controllerAs` in an app that is already using `$scope` by convention.
 * [Create `.constant`s for global libraries](https://github.com/johnpapa/angular-styleguide/blob/master/README.md#constants), and voila! Injectable libraries!
 * `$q` promises [DO](http://stackoverflow.com/questions/20068467/do-never-resolved-promises-cause-memory-leak) cause small memory leaks.
+* If you want to make a simple loop more complicated, `angular.forEach()` (or ES6's, for that matter) can change its `this` context using a third parameter, so you can do `this.push()` rather than the straightforward `array.push()`.
+* 

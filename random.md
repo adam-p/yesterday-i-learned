@@ -1009,6 +1009,17 @@
 1. A knuckle ball moves erratically because [it *isn't* spinning](https://www.reddit.com/r/askscience/comments/50cg2n/hi_my_name_is_jack_im_14_years_old_and_i_love/d72zdj3).
 1. Referral programs work only if it makes the referrer *feel smart* about sharing a deal.
 1. Lemmings, apparently a small rodent, [do not commit mass suicide](http://io9.gizmodo.com/lemming-suicide-is-a-myth-that-was-perpetuated-by-disne-1549040246).
+1. "Good at cooking" and "Good at washing dishes" are apparently very good things to put on dating site profiles (if you have one). Of course, liking to cook and liking to wash dishes are another story.
+1. Iran now accounts for approximately 90% of the world production of saffron.
+1. Once you woke up from a very interesting dream, and noted down what it was about. Here is the note: *Creating a universe inside its own universe disturbance iron yellow how yellow video game door a door b alien*
+1. People [used to wake up at night as a matter of fact.](http://lifehacker.com/try-a-bi-modal-sleeping-pattern-if-you-frequently-wake-1783439757) It is LifeHacker, however, so what it says might just be wildly incorrect.
+1. Hurricanes are horizontal winds, and it is [acceptable for a plane to fly into them](https://youtube.com/watch?v=h7CQaDEKbBU).
+1. Coors won four times in [the 2016 brewing awards](http://www.canadianbrewingawards.com/winners/2016-winner-list/).
+1. Assuming the masks on a plane actually provide oxygen, [it is important to put yours on first](https://youtube.com/watch?t=1s&v=kUfF2MTnqAw) because you will likely fail putting yours on after putting it on for another person.
+1. Phytophotodermatitis: ["Citrus juices such as lime and lemon cause the skin to become hypersensitive to UV rays, leading to severe burns as a result."](https://en.wikipedia.org/wiki/Phytophotodermatitis)
+1. You are supposed to [say "thank you"](https://blog.asana.com/2016/07/workstyle-positive-feedback-at-work/) when you get a compliment at work, *and then try to ask a question to better understand why the compliment was given*.
+1. If a bridge is [wavering about because of the people on it](https://m.youtube.com/watch?v=gQK21572oSU&feature=youtu.be), then the people will try to adjust their stride to the movement, making the situation even worse.
+1. Business insider found [one thing pie charts are good at](http://www.businessinsider.com/pie-charts-are-the-worst-2013-6), surprisingly: comparing two different things with very different amounts.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

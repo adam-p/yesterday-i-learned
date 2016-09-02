@@ -1008,7 +1008,7 @@
 1. Uncle Ben's (not related to the point above) [90 second rice](https://www.unclebens.com/products/ready-rice/jasmine), through whatever magic, manages to be wet and edible without adding any preservatives.
 1. A knuckle ball moves erratically because [it *isn't* spinning](https://www.reddit.com/r/askscience/comments/50cg2n/hi_my_name_is_jack_im_14_years_old_and_i_love/d72zdj3).
 1. Referral programs work only if it makes the referrer *feel smart* about sharing a deal.
-1. Lemmings, apparently a small rodent, [do not commit mass suicide](http://io9.gizmodo.com/lemming-suicide-is-a-myth-that-was-perpetuated-by-disne-1549040246).
+1. Lemmings, apparently a small rodent, [do not commit mass suicide](http://io9.gizmodo.com/lemming-suicide-is-a-myth-that-was-perpetuated-by-disne-1549040246). Disney people pushed them down a cliff and made them drown.
 1. "Good at cooking" and "Good at washing dishes" are apparently very good things to put on dating site profiles (if you have one). Of course, liking to cook and liking to wash dishes are another story.
 1. Iran now accounts for approximately 90% of the world production of saffron.
 1. Once you woke up from a very interesting dream, and noted down what it was about. Here is the note: *Creating a universe inside its own universe disturbance iron yellow how yellow video game door a door b alien*
@@ -1020,6 +1020,8 @@
 1. You are supposed to [say "thank you"](https://blog.asana.com/2016/07/workstyle-positive-feedback-at-work/) when you get a compliment at work, *and then try to ask a question to better understand why the compliment was given*.
 1. If a bridge is [wavering about because of the people on it](https://m.youtube.com/watch?v=gQK21572oSU&feature=youtu.be), then the people will try to adjust their stride to the movement, making the situation even worse.
 1. Business insider found [one thing pie charts are good at](http://www.businessinsider.com/pie-charts-are-the-worst-2013-6), surprisingly: comparing two different things with very different amounts.
+1. Justin was born on Christmas day.
+1. "A trick I learned from Argentinian circus people, who make amazing BBQ, is let the grill heat up and then cut an onion in half to rub on the grate. It imparts a nice flavor and cleans the grill very well."
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

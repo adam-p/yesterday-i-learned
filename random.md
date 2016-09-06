@@ -407,12 +407,11 @@
 1. "Performing a burnout in a front wheel drive vehicle is likely to result in damage to the drivetrain."
 1. [HJR][dpreview] stands for "hand jitter reduction", nothing to do with "high".
 1. In the event of a crash where the crash is captured by a dashcam, [read out the licence plate of the other car][reddit 30]. Also do the same for when you communicate with 911, which allows them to quickly identify the information when they replay the recording.
-
 1. Haboobs are Arabian dust storms that come before an actual storm.
 1. There are two official color palettes for the French flag : "Dark blue" for public & military buildings and "Light Blue" for TV & government appearences/meetings.
 1. [Ringworm][wikipedia 78] is not actually worm; it is fungal.
 1. [Ears also "close"][word] when a loud noise is heard, much like the eye closes when a bright light is seen.
-1. New Zealand [literally means new sea land][imgur 5].
+1. New Zealand [literally means new sea land][imgur 5]. It is named after [Zeeland](https://en.wikipedia.org/wiki/Zeeland), a place in the Netherlands.
 1. [Zoodles][google 8] are noodles made with shredded zucchini.
 1. Costco pricing: `{"0.99": "Full price", "asterisk": "Discontinued", "0.79 or .49": "Mfg special offer", ".00": "Priced down, nearly out of stock", ".97": "Store manager deal"}`
 1. [Soak testing][wikipedia 79] is testing the system under sustained load.
@@ -983,6 +982,33 @@
 1. In VB (classic), `Empty` is `undefined`. `Nothing` is `null`. `Null` is apparently a database-compatible `NULL`.
 1. Solutions are usually water/alcohol based. Lotions are more water/alcohol than oil. Creams are 50/50 oil/water. [Ointments](https://en.wikipedia.org/wiki/Topical_medication#Ointment) are more oil than water.
 1. Use the command `grep -ri fuck .` to find out how many times you (I) had to learn something useless.
+1. [Hiragara](https://en.wikipedia.org/wiki/Hiragana) are a set of characters derived from corrupted Chinese cursive. It is used to write letters. The English equivalent would be the alphabet. [Katakana](https://en.wikipedia.org/wiki/Katakana) is used more for syllabic spelling of things, such as loan words, technical terms, and company names. The English equivalent would be the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). There is also [Kanji](https://en.wikipedia.org/wiki/Kanji), literally Han Words, with no English equivalent.
+1. "The RCMP can charge you with whatever they please. The courts are the ones that find you guilty." "You don't say anything. Your attorney will."
+1. [Orihime has said 'kurosaki-kun' around over 800 times in the anime.](https://www.reddit.com/r/bleach/comments/4xyi02/fun_facts/)
+1. To bet "dollars to doughnuts" used to mean something when a dollar could buy many donuts. Now it means nothing.
+1. The inseam of a pair of pants goes from crotch to bottom, not crotch to top. It might also be the reported length of any pair.
+1. [Britain ruined Iran.](https://np.reddit.com/r/todayilearned/comments/4y8615/til_that_in_the_late_1960s_the_shah_of_iran_sent/d6mg7z3) It stirred civil unrest while Iran was attempting to end slavery by the British oil industry.
+1. [Yeast attracts fruit flies on purpose](http://www.wired.com/2014/10/beer-yeast-attracts-fruit-flies/) to allow them to propagate to places more readily. Fruit flies then eat yeast for protein. So yes, fruit flies can survive in beer.
+1. Newly-sheared wool contains a lot of [lanolin](https://en.wikipedia.org/wiki/Lanolin), a grease which is apparently valuable in making beauty products. Other [colours](https://en.wikipedia.org/wiki/Wool#/media/File:CSIRO_ScienceImage_11160_Siroscour.jpg) are mostly caused by dead skin.
+1. understandably, [Easy Anglia](https://en.wikipedia.org/wiki/East_Anglia) is Eastern England. Before that, it wasn't immediately obvious that England had such a circular, cancerous bulge on the side.
+1. After five years of service, [i7-2630QM is only 33% worse than i7-6700HQ](http://cpuboss.com/cpus/Intel-Core-i7-6700HQ-vs-Intel-Core-i7-2630QM), with the same TDP, strangely.
+1. Only one of the four ghostbusters wore gloves.
+1. "USS" in Star Trek was United *Space* Ship.
+1. [Camera switching](https://youtube.com/watch?v=rNlmRId2FVQ&feature=youtu.be) can be exploited to film scenes with body doubles when actors/actresses cannot be there at the same time. It is also extremely annoying.
+1. [The Big Lebowski's throwing-underwear-suitcase-out-of-the-car scene was shot in reverse](http://www.shortlist.com/entertainment/films/50-things-you-(probably)-didnt-know-about-the-big-lebowski#gallery-15).
+1. Despite being part of the bowling team, The Dude is never seen bowling during the movie.
+1. Your child has a 0.2% of having Cerebral palsy.
+1. To tell if a mechanic is honest, [take your car in for an unnecessary repair](http://lifehacker.com/take-your-car-in-for-an-unnecessary-repair-to-find-a-go-1545575350).
+1. [This guy on the Internet](https://www.reddit.com/r/AskReddit/comments/4zo4vq/whats_the_next_big_thing_thats_going_to_fail_for/d6xnjxg) says that stomach acid is used only to denature proteins and kill bacteria, with no other benefits to digestion. [The wiki](https://en.wikipedia.org/wiki/Gastric_acid) says roughly the same thing, so maybe it is legit, and you do have to chew before you swallow.
+1. [The DeLorean was not painted.](https://www.reddit.com/r/Shitty_Car_Mods/comments/4zc98z/beautiful_blasphemy/) Its colour comes from stainless steel.
+1. [Potatoes are naturally gluten-free.](http://www.potatogoodness.com/nutrition/) Somehow, they provide a good amount of vitamin C, as well.
+1. Due to perishability, only about 5% of the world's potato crop is traded internationally; its minimal presence in world financial markets contributed to its stable pricing during the 2007–2008 world food price crisis.
+1. "Oil pulling" is rinsing the mouth with sesame oil to remove toxins and things. It doesn't work, but some people do it anyway.
+1. The Big Ben is also leaning over.
+1. Uncle Ben's (not related to the point above) [90 second rice](https://www.unclebens.com/products/ready-rice/jasmine), through whatever magic, manages to be wet and edible without adding any preservatives.
+1. A knuckle ball moves erratically because [it *isn't* spinning](https://www.reddit.com/r/askscience/comments/50cg2n/hi_my_name_is_jack_im_14_years_old_and_i_love/d72zdj3).
+1. Referral programs work only if it makes the referrer *feel smart* about sharing a deal.
+1. Lemmings, apparently a small rodent, [do not commit mass suicide](http://io9.gizmodo.com/lemming-suicide-is-a-myth-that-was-perpetuated-by-disne-1549040246).
 1. "Good at cooking" and "Good at washing dishes" are apparently very good things to put on dating site profiles (if you have one). Of course, liking to cook and liking to wash dishes are another story.
 1. Iran now accounts for approximately 90% of the world production of saffron.
 1. Once you woke up from a very interesting dream, and noted down what it was about. Here is the note: *Creating a universe inside its own universe disturbance iron yellow how yellow video game door a door b alien*

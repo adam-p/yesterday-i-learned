@@ -90,7 +90,8 @@ groovy:000> Boolean.valueOf('true')
 * Apparently, empty character literals (`''`) are not allowed. It makes no sense anyhow. Empty string is `""`.
 * The syntax for catching multiple exceptions is `SomeExceptionClass|AnotherExceptionClass`.
 * A method can choose not to catch an exception only if it says it `throws` the same exceptions in its own signature.
-* Need to check for `null` everywhere, because Java is a very safe language, obviously.
+* Need to check for `null` everywhere,
+ because Java is a very safe language, obviously.
 * Double curlies (`{{ }}`) creates an [instance instantiation block](http://stackoverflow.com/a/5197741). It is a shorthand for something.
 * Without `this.`, `foo` can either refer to the instance variable `foo`, or the static variable `foo`.
 * [`Map` is an interface](http://stackoverflow.com/a/1348246); `HashMap` is the implementation.
@@ -131,3 +132,9 @@ groovy:000> Boolean.valueOf('true')
 * It is near impossible to [conjure a popup from a non-activity class](http://stackoverflow.com/a/31221646).
 * `(an AsyncTask).get()` [immediately gets the value from its execute()](http://stackoverflow.com/a/10972142). Then again, that is a synchronous move.
 * Activity [apparently](http://stackoverflow.com/a/9192916/1558430) extends Context.
+* Find your dependency versions on [this website](http://search.maven.org/#search%7Cga%7C1%7Cio.reactivex.rxjava). It only searches on mavenCentral, I think.
+* [Two-way binding is **not** natively supported](https://medium.com/@fabioCollini/android-data-binding-f9f9d3afc761#.pfcgcnfo5) by the designer thing, but there are lots of [one-way binding libraries](https://developer.android.com/topic/libraries/data-binding/index.html) available.
+* To use that `com.android.databinding` plugin, the layout file must have `<Layout>` as the root, not anything else, like `<LinearLayout>`.
+* [Java 8 must be explicitly enabled](http://stackoverflow.com/a/37004259/1558430)
+* The superclass of your activity has a [`setTitle()`](http://stackoverflow.com/questions/3975550/android-how-to-change-the-application-title) that does what you think it does.
+* [Loser answered the wrong base64 question](http://stackoverflow.com/a/29383697/1558430), but it works. [This should work.](http://stackoverflow.com/a/15683305/1558430)

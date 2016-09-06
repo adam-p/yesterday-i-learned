@@ -322,6 +322,10 @@ print foo()
 ```
 
 * Regex flags can be [directly put inside the match string](http://stackoverflow.com/a/38250089/1558430): like `re.findall("/foo/s", "foo")`.
+* [PEP 318](https://www.python.org/dev/peps/pep-0318/) rejected the `def foo @decorator (bar, baz):` syntax on the basis that it no longer allows `def foo(` to be grepped. THANK YOU.
+* [`PuDB`](https://pypi.python.org/pypi/pudb) exists as a concept; it is a graphical pdb.
+* `os.tmpnam()` makes a temp path up for you, but the thing is vulnerable for some reason related to symlinks, so now you need to use `os.tmpfile()`, which opens the file for you as well.
+*
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

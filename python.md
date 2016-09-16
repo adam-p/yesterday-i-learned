@@ -326,6 +326,8 @@ print foo()
 * [`PuDB`](https://pypi.python.org/pypi/pudb) exists as a concept; it is a graphical pdb.
 * `os.tmpnam()` makes a temp path up for you, but the thing is vulnerable for some reason related to symlinks, so now you need to use `os.tmpfile()`, which opens the file for you as well.
 * `textwrap.dedent` is a standard library function.
+* When generating reports/exports of any sort, remember to [also generate a metadata file](https://www.airpair.com/python/posts) that records how the data was generated at the time, so you can check the validity of the data later on.
+* pip has the `ncu` equivalent built in: `pip list -o`
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

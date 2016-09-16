@@ -154,7 +154,8 @@ undefined
 * Replacing `it(...)` with `fit(...)` in a karma test suite will skip all tests except those marked with `fit`.
 * No special case: `'yes' === 'yes' === 'yes'  // false`
 * `_.curry`  returns a value only when all arguments are specified (so you can go `foo(1)(2)(3)` for a 3-argument function). `_.partial` is a single-layer wrapper.
-*
+* [Bower is dead](https://github.com/reactjs/redux/issues/944#issuecomment-154858804) because either bower fragments client/server libraries, or because people don't know how to resolve multiple-version dependencies with npm. I don't, for one.
+* 
 
 ## Deferred API
 

@@ -14,7 +14,10 @@
 1. The Shingleback lizard of Australia is one monogamous lizard that is [known to grieve](https://www.reddit.com/r/likeus/comments/4pst8x/shingleback_lizard_refuses_to_leave_dead_mate/d4njp13).
 1. Chinchillas [take dust baths](http://i.imgur.com/pEqvt4c.gifv) to clean themselves. They cannot get wet, or they will get fungal infections and die.
 1. Rats can [hold their breaths for up to three minutes](https://www.youtube.com/watch?v=0t2VPBF6Kp4).
-1. 
+1. [Passerine](https://en.wikipedia.org/wiki/Passerine) birds have three toes pointing forward and one toe back, which facilitates perching, which, in turn, implies many of them are songbirds.
+1. Appendicitis is often caused by a [fecolith](https://en.wikipedia.org/wiki/Fecaloma), aka shit stone.
+1. Baleen whales [have hind legs](https://en.wikipedia.org/wiki/Baleen_whale#Motion). They are entirely vestigial, but they have hind legs.
+1. [Baby lobsters](https://de.wikipedia.org/wiki/Hummer#/media/File:Juvenile-lobster.jpg) look just like lobsters, but smaller.dlobsdl
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

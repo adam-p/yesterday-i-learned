@@ -1022,6 +1022,23 @@
 1. Business insider found [one thing pie charts are good at](http://www.businessinsider.com/pie-charts-are-the-worst-2013-6), surprisingly: comparing two different things with very different amounts.
 1. Justin was born on Christmas day.
 1. "A trick I learned from Argentinian circus people, who make amazing BBQ, is let the grill heat up and then cut an onion in half to rub on the grate. It imparts a nice flavor and cleans the grill very well."
+1. *Dixie* is/was a nickname for Southern US.
+1. System of a Down is good only because of a [StickDeath video](https://www.youtube.com/watch?v=elj2m1x-oEk).
+1. Both Tom and Max Chilton are racers. However, only Max's website was SEOed to say "CHILTON'S BAD LUCK CONTINUES AT THE KOHLER GRAND PRIX AT ROAD ..."
+1. *Overfitting*: when you tune a learning algorithm so well to, say, 5 of your existing data points, that, when a 6th data point is found, the algorithm completely fails to take it into account.
+1. Russia is [#1 in heroin](https://themoscowtimes.com/articles/russia-must-step-up-and-fight-its-drug-problem-47822). It also has a million or so HIV positive people.
+1. ["False vacuum"](https://en.wikipedia.org/wiki/False_vacuum) refers to the theory that the current space is actually just a local minimum of energy, rather than the global minimum of energy, and that a random event might instantly turn the universe into one with a lower energy, destroying the current one.
+1. [BBQ brush bristles](http://www.cbc.ca/news/health/barbecue-brushes-dangers-swallow-throat-wire-bristle-dempsey-1.3741578) are regularly swallowed, killing people when vital organs are punctured.
+1. Marissa Mayer avoids burnout by preventing herself from being cynical, discouraged, in addition to finding her "rhythm", whatever it is for each person. If you work better at night, allow yourself to work at night.
+1. [Do planks.](https://www.reddit.com/r/Posture/comments/51l6l7/i_probably_have_the_worst_anterior_pelvic_tilt_on/) (it is best not to view this link in public.)
+1. [The Republic of Macedonia](https://en.wikipedia.org/wiki/Republic_of_Macedonia) is still a country!
+1. Making jokes about the paralysed population is acceptable, [as long as reddit likes it](https://www.reddit.com/r/videos/comments/51nf4q/channel_4_just_played_this_ad_in_a_break_during/). People are strange.
+1. [New York is sinking](http://nymag.com/daily/intelligencer/2016/09/new-york-future-flooding-climate-change.html), so it is a bad idea to own property there [by 2050, around when you will have money for property].
+1. This guy on reddit [said](https://www.reddit.com/r/Justrolledintotheshop/comments/51ld5r/you_mean_i_have_to_change_fluids_and_filters/d7cu0gf) that it is worth the money to upgrade the engine air filter to a higher grade one that blocks finer dust, despite google showing nothing about it.
+1. The Chinese consumed 69 times more pork than Canadians in 2015. That is roughly twice as much per capita.
+1. [The Arabs brought spinach to the world](https://en.wikipedia.org/wiki/Spinach#Production.2C_marketing.2C_and_storage). They also named it "spinach". Iran still produces 100kT of it every year.
+1. [Vegetables low in pesticides](https://www.ewg.org/foodnews/list.php) include corn, cabbage, onions, and cauliflower. Vegetables high in pesticides include celery, spinach, tomatoes, and cucumbers.
+1. > An unspecified [Cheiracanthium](https://en.wikipedia.org/wiki/Cheiracanthium) species is attracted to the smell of petroleum and has caused problems by weaving webs inside the canister vent of particular models of Mazda vehicles, resulting in blockages and build-up of pressure that could potentially cause fuel leakage from the fuel tank and an increased risk of fire. Mazda issued a voluntary recall of Mazda 6 models...
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

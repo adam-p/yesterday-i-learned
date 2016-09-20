@@ -29,6 +29,11 @@
 1. Sisyphean is pronounced sisiFEEun.
 1. Lo, [kubernetes](https://translate.google.com/#el/en/kubernetes) is pronounced KOO-ber-nettes.
 1. Hell, [beta](https://translate.google.com/#el/en/beta) is pronounced Betta, so no one is right.
+1. Hạ Long is derived from 下龍, not the other way around.
+1. "Alcohol" الكحل meant "fine powder" back in the 18th century. It was then redefined to be any distillate.
+1. Being a German-Austrian name, *Asperger* is pronounced ASP-pair-ga.
+1. Berkshire is pronounced Barkshar, not for a reason.
+1. The GM *Hummer* was named after [Hummer](https://de.wikipedia.org/wiki/Hummer), German for lobster.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

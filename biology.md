@@ -18,6 +18,7 @@
 1. Appendicitis is often caused by a [fecolith](https://en.wikipedia.org/wiki/Fecaloma), aka shit stone.
 1. Baleen whales [have hind legs](https://en.wikipedia.org/wiki/Baleen_whale#Motion). They are entirely vestigial, but they have hind legs.
 1. [Baby lobsters](https://de.wikipedia.org/wiki/Hummer#/media/File:Juvenile-lobster.jpg) look just like lobsters, but smaller.dlobsdl
+1. Bed bugs can [also] be detected by their characteristic smell of rotting raspberries.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

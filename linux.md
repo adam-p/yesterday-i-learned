@@ -185,6 +185,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * KSM is [already enabled](http://blog.siphos.be/2013/05/enabling-kernel-samepage-merging-ksm/) on Ubuntu at around version 12 ish.
 * `sudo`ing multiple commands: `sudo bash -c 'whoami; whoami'`
 * `lsof` LiSts Open Files by processes.
+* ["Typing ^D causes the tty driver to immediately finish a read()."](https://utcc.utoronto.ca/~cks/space/blog/unix/TypingEOFEffects) Whether the program exits given an empty line is completely up to the program.
+* 
 
 ## Tmux
 

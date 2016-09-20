@@ -56,6 +56,7 @@
   `REINDEX TABLE tablename force;` doesn't work.
 * [Read the docs](https://wiki.postgresql.org/wiki/Things_to_find_out_about_when_moving_from_MySQL_to_PostgreSQL). Postgres strings must be enclosed with single quotes. Double quotes only work for system identifiers.
 * You can choose the type of index to build. The default is B tree.
+* According to [this pgcon video](https://www.pgcon.org/2016/schedule/events/934.en.html), GIN indices are good for full text search, and GiST indices are good for full text search, and ranges in general (not just geospatial stuff).
 
 ## Performance
 

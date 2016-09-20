@@ -1039,6 +1039,10 @@
 1. [The Arabs brought spinach to the world](https://en.wikipedia.org/wiki/Spinach#Production.2C_marketing.2C_and_storage). They also named it "spinach". Iran still produces 100kT of it every year.
 1. [Vegetables low in pesticides](https://www.ewg.org/foodnews/list.php) include corn, cabbage, onions, and cauliflower. Vegetables high in pesticides include celery, spinach, tomatoes, and cucumbers.
 1. > An unspecified [Cheiracanthium](https://en.wikipedia.org/wiki/Cheiracanthium) species is attracted to the smell of petroleum and has caused problems by weaving webs inside the canister vent of particular models of Mazda vehicles, resulting in blockages and build-up of pressure that could potentially cause fuel leakage from the fuel tank and an increased risk of fire. Mazda issued a voluntary recall of Mazda 6 models...
+1. Ride sharing services do not attract families of four (because normal sedans can comfortably fit three passengers, not four).
+1. UDP packets get dropped when ["socket send/receive buffers"](http://jvns.ca/blog/2016/08/24/find-out-where-youre-dropping-packets/) between two computers (e.g. routers, including the two computers) get full. You can tweak `sysctl` to configure the size of these buffers, so you can lose more / not lose so much.
+1. [Porsche Spyders](https://vimeo.com/181529995) are capable of learning and problem-solving.
+1. Bars in Ontario may only serve beer after 11am.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

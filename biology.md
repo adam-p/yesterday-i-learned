@@ -19,6 +19,9 @@
 1. Baleen whales [have hind legs](https://en.wikipedia.org/wiki/Baleen_whale#Motion). They are entirely vestigial, but they have hind legs.
 1. [Baby lobsters](https://de.wikipedia.org/wiki/Hummer#/media/File:Juvenile-lobster.jpg) look just like lobsters, but smaller.dlobsdl
 1. Bed bugs can [also] be detected by their characteristic smell of rotting raspberries.
+1. [Orcas](https://en.wikipedia.org/wiki/Killer_whale) have just as much latitudinal range as humans do (all oceans).
+1. Sloths have green algae growing in their fur, which dyes them green, camouflaging with the thick forests that they live in.
+1. 
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

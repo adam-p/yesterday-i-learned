@@ -1043,6 +1043,17 @@
 1. UDP packets get dropped when ["socket send/receive buffers"](http://jvns.ca/blog/2016/08/24/find-out-where-youre-dropping-packets/) between two computers (e.g. routers, including the two computers) get full. You can tweak `sysctl` to configure the size of these buffers, so you can lose more / not lose so much.
 1. [Porsche Spyders](https://vimeo.com/181529995) are capable of learning and problem-solving.
 1. Bars in Ontario may only serve beer after 11am.
+1. If your car's clearcoat is coming off, just take off both the base and the clearcoat, and repaint the whole thing. [No other method, such as clearcoating over broken base coat, is really worth the savings.](https://www.youtube.com/watch?v=tU9JnLoJGGI) Clearcoating over old paint will never come out right.
+1. Parchment is actually animal skin.
+1. You can easily spend a thousand bucks on sushi at [Sushi Yasuda](http://nextshark.com/two-idiots-spend-1100-sushi/), a restaurant in NYC.
+1. Kim Kardashian does not hold the record for the world's shortest marriage.
+1. *Goes' Law*: the number of knobs doubles every 18 (days).
+1. The Australians looked for [the world's ugliest colour](http://time.com/4353765/worlds-ugliest-color-discourages-smoking/) to print on cigarette packages to prevent people from smoking. The colour was Pantone 448, ie shit green.
+1. Nigeria is HUGE in GDP in relation to its African continent-mates, being 1.5x that of Egypt. There is no reason not to visit it.
+1. In the case of an emergency radiator leak (in which case, you won't be reading this), [pinch the places where it is leaking.](https://www.reddit.com/r/Justrolledintotheshop/comments/54rcdw/when_in_a_pinch_pinch_the_passages_no_leaks/)
+1. Also, eggs in the radiator will not work. The only thing you can put in is egg *whites*, and even that works terribly.
+1. Deer whistles don't work, either.
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

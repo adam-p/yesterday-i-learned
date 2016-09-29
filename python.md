@@ -328,6 +328,9 @@ print foo()
 * `textwrap.dedent` is a standard library function.
 * When generating reports/exports of any sort, remember to [also generate a metadata file](https://www.airpair.com/python/posts) that records how the data was generated at the time, so you can check the validity of the data later on.
 * pip has the `ncu` equivalent built in: `pip list -o`
+* [PEP 440](https://www.python.org/dev/peps/pep-0440/), which rings a bell because of CHEM 440, describes python's SemVer. The `rc` in `X.Y.ZrcN` is Release Candidate, not "RideCo", the vapourware company.
+* Of all the spacing requirements in python, the space between the `n` and `[` in `for i in[1,2,3,4] :` is not necessary. Nor does the redundant space between `]` and `:` matter. Your life is a lie.
+* 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

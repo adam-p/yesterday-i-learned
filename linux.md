@@ -136,6 +136,7 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
    * While `if [ $0 == $BASH_SOURCE ]; then` is valid syntax, [ShellCheck](http://www.shellcheck.net/) will complain about "globbing and word splitting". The practice is then `if [ "$0" == "$BASH_SOURCE" ]; then`
 * `[ expression ]` and `[[ expression ]]` [have the same function](http://m.odul.us/blog/2015/8/12/stronger-shell), and in general, if you're writing bash scripts, you should just use the `[[ expression ]]` version; the single `[]` version is older and doesn't support as many operations.
 * Like other good things bash offers, assignments do not allow spaces on either side of `=`: `HELLO="world"`
+  * Of course, this is bash, so if you make the mistake of assigning the value to its name with a `$` in front of it, i.e. `$HELLO="world"`, it blows up with the message "hello not found", completely unrelated to what actually happened.
 * Having a `(  block  )` anywhere [creates a subshell](http://www.tldp.org/LDP/abs/html/subshells.html).
 * However, `((1+2))` does math, and `$((1+1))` gets you the result of math.
 * `[ ... ]` is an alias for `test`.
@@ -186,7 +187,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * `sudo`ing multiple commands: `sudo bash -c 'whoami; whoami'`
 * `lsof` LiSts Open Files by processes.
 * ["Typing ^D causes the tty driver to immediately finish a read()."](https://utcc.utoronto.ca/~cks/space/blog/unix/TypingEOFEffects) Whether the program exits given an empty line is completely up to the program.
-* 
+* bash's `<<<` is the "Here string". `cat <<< hello.txt` literally prints out the string `hello.txt`, though sometimes it is a bit mysterious, considering `cat <<< ${hello}` literally prints out nothing, since `${hello}` is evaluated to nothing, making it not as literal as the PHP equivalent of heredocs.
+* To test if a string starts or ends with something, use `if [[ "Foo_Bar" == "Foo_"* ]]; then` or `if [[ "Foo_Bar" == *"_Bar" ]]; then`.
 
 ## Tmux
 

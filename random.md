@@ -1024,6 +1024,11 @@
 1. UDP packets get dropped when ["socket send/receive buffers"](http://jvns.ca/blog/2016/08/24/find-out-where-youre-dropping-packets/) between two computers (e.g. routers, including the two computers) get full. You can tweak `sysctl` to configure the size of these buffers, so you can lose more / not lose so much.
 1. [Porsche Spyders](https://vimeo.com/181529995) are capable of learning and problem-solving.
 1. Bars in Ontario may only serve beer after 11am.
+1. New Hamburg is west of Kitchener.
+1. Omega-3 fatty acids can increase the risk of bleeding, enough to be medically advisable.
+1. Fish that are rich in omega-3 fatty acids got them from what they eat. Farmed fish do not have any.
+1. Gummy bears, rather than gummy any other animal, were [first invented in Germany](http://www.reddit.com/r/askhistorians/comments/539r6k/_/).
+1. In social situations, [people gauge how drunk they should be based on how drunk there peers are](http://www.reddit.com/r/science/comments/5318ph/_/d7p4bba?context=1000). Therefore, all patrons should play the game were if one person is late to the table, everyone should pretend to be hammered when he/she arrives, so he/she will overdrink.
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/

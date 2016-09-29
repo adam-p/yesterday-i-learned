@@ -29,6 +29,17 @@
 1. Sisyphean is pronounced sisiFEEun.
 1. Lo, [kubernetes](https://translate.google.com/#el/en/kubernetes) is pronounced KOO-ber-nettes.
 1. Hell, [beta](https://translate.google.com/#el/en/beta) is pronounced Betta, so no one is right.
+1. Hạ Long is derived from 下龍, not the other way around.
+1. "Alcohol" الكحل meant "fine powder" back in the 18th century. It was then redefined to be any distillate.
+1. Being a German-Austrian name, *Asperger* is pronounced ASP-pair-ga.
+1. Berkshire is pronounced Barkshar, not for a reason.
+1. Der GM *Hummer* was named after [Hummer](https://de.wikipedia.org/wiki/Hummer), German for lobster. This is a joke.
+1. *Eschewed* is really pronounced esCHEWed. No tricks. Not French.
+1. Socrates, on the other hand, has tricks. SOC-cra-tees, not "So crates".
+1. In its own language, [Austria](https://en.wikipedia.org/wiki/File:De-%C3%96sterreich.oga) sounds like OOHS-te-roik or OOHS-te-raik (rolling r).
+1. [This f**ker here](https://www.reddit.com/r/AskReddit/comments/54rqir/what_word_is_commonly_mispronounced/d84g2up) says *et cetera* is pronounced et KETera because Latin has no soft C. "But no one will ever pronounce it that way and you will seem like a pretentious sod if you do." Similarly, because all Latin Vs are pronounced as Ws, "the Vatican" is pronounced [the Wat?ican.](https://www.reddit.com/r/AskReddit/comments/54rqir/what_word_is_commonly_mispronounced/d84j7gf)
+1. The French must include a space before their question marks.
+1. 
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

@@ -1058,6 +1058,13 @@
 1. In the case of an emergency radiator leak (in which case, you won't be reading this), [pinch the places where it is leaking.](https://www.reddit.com/r/Justrolledintotheshop/comments/54rcdw/when_in_a_pinch_pinch_the_passages_no_leaks/)
 1. Also, eggs in the radiator will not work. The only thing you can put in is egg *whites*, and even that works terribly.
 1. Deer whistles don't work, either.
+1. Fun fact: Excel (XLS) worksheet names have a maximum length of 31 characters.
+1. [Vim can encrypt text files](http://vim.wikia.com/wiki/Encryption) using the `:X` option.
+1. Say heroin like "huh-ROY-n". People hate that.
+1. Do not sign blank auto mechanic authorisation forms. Also, [do not tell your mechanic what another mechanic thinks it is, and how much it think it costs to fix it.](http://www.rd.com/advice/saving-money/13-things-your-car-mechanic-wont-tell-you-slideshow/), and ask for your old parts back, so you know they changed them. CPO cars are rarely certified, so don't bother with those, either.
+1. The [Boomerang Nebula](https://en.wikipedia.org/wiki/Boomerang_Nebula) is the coolest thing in the universe. Not Pokemon.
+1. [Not all carpenters are created equal.](https://youtube.com/watch?v=BcN7q9V7hSI) Do realise that if someone did a sloppy job, you *don't* have to pay them.
+1. "World Financial Group" is a pyramid scheme so large that even the exams those members take ("HLLQP") are provided by WFG. There are in fact [dozens of those exams and licenses](http://www.cbc.ca/news/business/taxes/5-things-to-check-when-hiring-a-financial-adviser-1.1166888) so you can look for those instead.
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/

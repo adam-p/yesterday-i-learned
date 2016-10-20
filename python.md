@@ -328,6 +328,7 @@ print foo()
 * `textwrap.dedent` is a standard library function.
 * When generating reports/exports of any sort, remember to [also generate a metadata file](https://www.airpair.com/python/posts) that records how the data was generated at the time, so you can check the validity of the data later on.
 * pip has the `ncu` equivalent built in: `pip list -o`
+* Values in `Enum` cannot be compared with those in `IntEnum`, even when both values are exactly integer `1`s.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

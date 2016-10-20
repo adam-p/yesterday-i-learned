@@ -186,7 +186,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * `sudo`ing multiple commands: `sudo bash -c 'whoami; whoami'`
 * `lsof` LiSts Open Files by processes.
 * ["Typing ^D causes the tty driver to immediately finish a read()."](https://utcc.utoronto.ca/~cks/space/blog/unix/TypingEOFEffects) Whether the program exits given an empty line is completely up to the program.
-* 
+* Torvalds (first in command), Morton (second in command), and Kroah-Hartman (probably also second in command) avoid travelling together.
+* `rtcwake` lets you schedule device wakeups.
 
 ## Tmux
 

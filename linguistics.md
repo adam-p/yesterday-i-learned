@@ -39,7 +39,14 @@
 1. In its own language, [Austria](https://en.wikipedia.org/wiki/File:De-%C3%96sterreich.oga) sounds like OOHS-te-roik or OOHS-te-raik (rolling r).
 1. [This f**ker here](https://www.reddit.com/r/AskReddit/comments/54rqir/what_word_is_commonly_mispronounced/d84g2up) says *et cetera* is pronounced et KETera because Latin has no soft C. "But no one will ever pronounce it that way and you will seem like a pretentious sod if you do." Similarly, because all Latin Vs are pronounced as Ws, "the Vatican" is pronounced [the Wat?ican.](https://www.reddit.com/r/AskReddit/comments/54rqir/what_word_is_commonly_mispronounced/d84j7gf)
 1. The French must include a space before their question marks.
-1. 
+
+    "Than-fire-puth-gwin-ges-vulgari-quail-throw-bow-clan-ti-silio-gogo-goch"
+    Llan fair pwll gwyn gyll goger y chwyrn drobwll llan ty silio gogo goch
+
+1. The same country that gave us that also gave us "Marlborough" as "moll-bruh".
+1. The en in Willkommen is completely silent. 
+1. Also, Festhallen is not the festival halls. It's just Festival (or celebration). 
+
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

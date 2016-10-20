@@ -1053,6 +1053,23 @@
 1. In the case of an emergency radiator leak (in which case, you won't be reading this), [pinch the places where it is leaking.](https://www.reddit.com/r/Justrolledintotheshop/comments/54rcdw/when_in_a_pinch_pinch_the_passages_no_leaks/)
 1. Also, eggs in the radiator will not work. The only thing you can put in is egg *whites*, and even that works terribly.
 1. Deer whistles don't work, either.
+1. [Stroke is the third leading cause of death for women](http://www.stroke.org/understand-stroke/impact-stroke/women-and-stroke) compared to fifth for men. For this reason, apparently because women live longer, that they will have more strokes.
+1. "Smoker" also refers to the ovens that smoke meats.
+1. "Oktoberfest", in English, means "get piss-drunk".
+1. "Es tut mir leid" means "I am sorry". Literally, it translates to "It does me sorry". However, if "sorry" were to be said by itself, it is "Entschuldigung" instead. Because German.
+1. "Bis Morgen", literally "To morning", is "[see you] tomorrow."
+1. [The passenger pidgey](https://en.wikipedia.org/wiki/Passenger_pigeon) was fought to extinction.
+1. Snails shoot [love darts](https://en.wikipedia.org/wiki/Love_dart) into each other before making sweet love. Fluid exchange does not take place through the dart.
+. Communist [Lenin towels](https://www.reddit.com/r/Frugal/comments/56r81k/linen_towels_or_how_i_save_half_off_my_laundry/) are more space-efficient than cotton towels. They also last much longer, and absorb much more water.
+1. Prostitution is illegal because their sex is paid for, and escorts are legal because [only their companionship is paid for](http://www.differencebetween.net/language/words-language/difference-between-escort-and-prostitute/), even though it's pretty obvious that they are just friendly prostitutes, says a site on the Internet.
+1. The "n" in 7-eleven's logo is the only letter not capitalized.
+1. Any Ontarian debt, excluding federal ones, not paid in two years is [automatically forgiven](http://credit-collections.ca/statute-of-limitations-on-canada-debts/), as long as you don't admit to or pay any of it.
+1. [The expiry date on every packet of crisps made in the UK is on a Saturday.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmvfa)
+1. [Donald Duck's middle name is Fauntleroy.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmk14)
+1. [Saying "sorry" after an accident is okay](http://www.theloop.ca/canadians-love-to-say-sorry-so-much-we-had-to-make-this-law/)... as long as you are in Canada. *The “Apology Act“, passed in 2009, is a direct result of Canada’s overuse of the word “sorry”.* Of course, this also means you cannot take someone else's apology as an admission of guilt.
+1. ["Pork is (also) naturally trans fat free."](http://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Cooking-with-Pork--Nutrition,-safety,-handling,-storage.aspx)
+1. Americans are less "diverse" than Europeans, because while a European can have "German, French, and Italian ancestry", an American does not typically claim to have "Idaoan, Floridan, and Pennsylvanian ancestry".
+1. In the event of a financial crisis, there is in fact [a GDP map](https://upload.wikimedia.org/wikipedia/commons/c/c5/GDP_Real_Growth.svg) during the last crisis (2007-2009), indicating places you *should* flee to ahead of time.
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/

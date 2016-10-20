@@ -113,3 +113,4 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * Similarly, slicing a string from the beginning is not `[..n]` either. It is `[0..n]`.
 * The parameter used when making a new Hash (dict) is the default value for any keys, default being `nil`. `Hash.new(0)` will have all defaults being 0.
 * Like in python, positional/keyword arguments can have a default only if the arguments before them are also positional/keyword.
+* [Apparently](http://stackoverflow.com/questions/39988613/how-do-i-destructure-a-range-in-ruby) to get the first and last elements from a range (which is not an array for some reason), you just do `array.begin` and `array.end`. That will go through all elements in the range, but what do you know.

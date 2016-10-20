@@ -78,6 +78,7 @@ Further reading: [0001.md](sources/0001.md)
 * When a better stock exists
 * When the company is acquired
 * When the company goes bankrupt (selling it doesn't give you money, but you can claim it as capital loss)
+* [When you anticipate a market failure](http://www.reddit.com/r/stocks/comments/53znlq/_/).
 
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 

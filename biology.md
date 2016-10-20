@@ -28,6 +28,7 @@
 1. A "Process" is an outgrowth of tissue from a large body. Basically, spikes on a bone. This also applies to cells like silia in small intestines, so be sure to read up before calling everything processes.
 1. Hamster testicles are huge.
 1. Not all trans fats are bad. [Vaccenic acid](https://en.wikipedia.org/wiki/Vaccenic_acid), found in milk (human or otherwise) and dairy products, were found to lower LDL levels (LLL).
+1. [Insular dwarfism](https://en.wikipedia.org/wiki/Insular_dwarfism): large inland animals that move onto islands tend to become smaller (food availablity), and small inland animals become larger (foster's rule).
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

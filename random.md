@@ -1043,6 +1043,11 @@
 1. UDP packets get dropped when ["socket send/receive buffers"](http://jvns.ca/blog/2016/08/24/find-out-where-youre-dropping-packets/) between two computers (e.g. routers, including the two computers) get full. You can tweak `sysctl` to configure the size of these buffers, so you can lose more / not lose so much.
 1. [Porsche Spyders](https://vimeo.com/181529995) are capable of learning and problem-solving.
 1. Bars in Ontario may only serve beer after 11am.
+1. New Hamburg is west of Kitchener.
+1. Omega-3 fatty acids can increase the risk of bleeding, enough to be medically advisable.
+1. Fish that are rich in omega-3 fatty acids got them from what they eat. Farmed fish do not have any.
+1. Gummy bears, rather than gummy any other animal, were [first invented in Germany](http://www.reddit.com/r/askhistorians/comments/539r6k/_/).
+1. In social situations, [people gauge how drunk they should be based on how drunk there peers are](http://www.reddit.com/r/science/comments/5318ph/_/d7p4bba?context=1000). Therefore, all patrons should play the game were if one person is late to the table, everyone should pretend to be hammered when he/she arrives, so he/she will overdrink.
 1. If your car's clearcoat is coming off, just take off both the base and the clearcoat, and repaint the whole thing. [No other method, such as clearcoating over broken base coat, is really worth the savings.](https://www.youtube.com/watch?v=tU9JnLoJGGI) Clearcoating over old paint will never come out right.
 1. Parchment is actually animal skin.
 1. You can easily spend a thousand bucks on sushi at [Sushi Yasuda](http://nextshark.com/two-idiots-spend-1100-sushi/), a restaurant in NYC.
@@ -1070,7 +1075,13 @@
 1. ["Pork is (also) naturally trans fat free."](http://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Cooking-with-Pork--Nutrition,-safety,-handling,-storage.aspx)
 1. Americans are less "diverse" than Europeans, because while a European can have "German, French, and Italian ancestry", an American does not typically claim to have "Idaoan, Floridan, and Pennsylvanian ancestry".
 1. In the event of a financial crisis, there is in fact [a GDP map](https://upload.wikimedia.org/wikipedia/commons/c/c5/GDP_Real_Growth.svg) during the last crisis (2007-2009), indicating places you *should* flee to ahead of time.
-1. 
+1. Fun fact: Excel (XLS) worksheet names have a maximum length of 31 characters.
+1. [Vim can encrypt text files](http://vim.wikia.com/wiki/Encryption) using the `:X` option.
+1. Say heroin like "huh-ROY-n". People hate that.
+1. Do not sign blank auto mechanic authorisation forms. Also, [do not tell your mechanic what another mechanic thinks it is, and how much it think it costs to fix it.](http://www.rd.com/advice/saving-money/13-things-your-car-mechanic-wont-tell-you-slideshow/), and ask for your old parts back, so you know they changed them. CPO cars are rarely certified, so don't bother with those, either.
+1. The [Boomerang Nebula](https://en.wikipedia.org/wiki/Boomerang_Nebula) is the coolest thing in the universe. Not Pokemon.
+1. [Not all carpenters are created equal.](https://youtube.com/watch?v=BcN7q9V7hSI) Do realise that if someone did a sloppy job, you *don't* have to pay them.
+1. "World Financial Group" is a pyramid scheme so large that even the exams those members take ("HLLQP") are provided by WFG. There are in fact [dozens of those exams and licenses](http://www.cbc.ca/news/business/taxes/5-things-to-check-when-hiring-a-financial-adviser-1.1166888) so you can look for those instead.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

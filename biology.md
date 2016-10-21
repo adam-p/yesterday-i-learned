@@ -21,6 +21,13 @@
 1. Bed bugs can [also] be detected by their characteristic smell of rotting raspberries.
 1. [Orcas](https://en.wikipedia.org/wiki/Killer_whale) have just as much latitudinal range as humans do (all oceans).
 1. Sloths have green algae growing in their fur, which dyes them green, camouflaging with the thick forests that they live in.
+1. [Cavaderine](https://en.wikipedia.org/wiki/Cadaverine), a simple diamine, is a byproduct of lysine decomposition that is apparently toxic to humans.
+1. [Putrescine](https://en.wikipedia.org/wiki/Putrescine), yet another simple diamine, is also toxic. Cadaverine and Putrescine together make up the most putrid smells of decaying bodies.
+1. Speaking of which, [Hexamethylenediamine](https://en.wikipedia.org/wiki/Hexamethylenediamine), yet another diamine, is produced industrially for the production of Nylon. But I guess this is not biology.
+1. Trying to beat dehydration by absorbing water through the skin is a bad idea. Not only does that not work, you will also sweat more because you cannot dissipate heat through water, thereby losing more electrolytes.
+1. A "Process" is an outgrowth of tissue from a large body. Basically, spikes on a bone. This also applies to cells like silia in small intestines, so be sure to read up before calling everything processes.
+1. Hamster testicles are huge.
+1. Not all trans fats are bad. [Vaccenic acid](https://en.wikipedia.org/wiki/Vaccenic_acid), found in milk (human or otherwise) and dairy products, were found to lower LDL levels (LLL).
 1. [Insular dwarfism](https://en.wikipedia.org/wiki/Insular_dwarfism): large inland animals that move onto islands tend to become smaller (food availablity), and small inland animals become larger (foster's rule).
 1. [Hippos are red due to an insect repelling sunscreen they secrete from their skin](http://www.reddit.com/r/todayilearned/comments/57if43/_/)
 1. 

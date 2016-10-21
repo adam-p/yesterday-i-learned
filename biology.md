@@ -22,6 +22,8 @@
 1. [Orcas](https://en.wikipedia.org/wiki/Killer_whale) have just as much latitudinal range as humans do (all oceans).
 1. Sloths have green algae growing in their fur, which dyes them green, camouflaging with the thick forests that they live in.
 1. [Insular dwarfism](https://en.wikipedia.org/wiki/Insular_dwarfism): large inland animals that move onto islands tend to become smaller (food availablity), and small inland animals become larger (foster's rule).
+1. [Hippos are red due to an insect repelling sunscreen they secrete from their skin](http://www.reddit.com/r/todayilearned/comments/57if43/_/)
+1. 
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

@@ -191,6 +191,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * `rtcwake` lets you schedule device wakeups.
 * bash's `<<<` is the "Here string". `cat <<< hello.txt` literally prints out the string `hello.txt`, though sometimes it is a bit mysterious, considering `cat <<< ${hello}` literally prints out nothing, since `${hello}` is evaluated to nothing, making it not as literal as the PHP equivalent of heredocs.
 * To test if a string starts or ends with something, use `if [[ "Foo_Bar" == "Foo_"* ]]; then` or `if [[ "Foo_Bar" == *"_Bar" ]]; then`.
+* Ubuntu's e2fsprogs package comes with [e4defrag](http://askubuntu.com/questions/221079/how-to-defrag-an-ext4-filesystem), the ext4 defragging tool. You may have an SSD so this is irrelevant.
+* 
 
 ## Tmux
 

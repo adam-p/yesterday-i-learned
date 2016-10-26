@@ -1086,7 +1086,19 @@
 1. *Tonne* is the metric one.
 1. There's a law on the British Columbia books that states if you're a bankrupt drunk who got thrown into jail, the law requires the jailer to bring you a bottle of beer on demand.
 1. [Grass grows in Whitehorse Yukon.](https://www.youtube.com/watch?v=qE8ca84UUJw) [It doesn't even look different from Ontario](http://imgur.com/pwNigfK). Guy born and raised in Yukon has no difference in accent. EH?!
-1. 
+1. >If John Smith writes a cheque to Jane Doe, she can endorse the cheque on the back and give it to you in payment of a debt. You can then endorse the back of the cheque and deposit it into your account. This is called *counter-signing* a cheque.
+1. To describe a person as single in a politically correct way, use the phrase "Independently owned and operated".
+1. The man who killed Hitler died in the line of duty. The same man subsequently took his own life.
+1. [The best place to trade on Craigslist is in fact the bank rather than the police station.](http://www.reddit.com/r/apple/comments/57yge6/_/d8wno9u?context=1000) That allows you to request money to be withdrawn directly from the ATMs, avoiding fake cash as a payment.
+1. [A blunderbuss (something like a shotgun) in handgun form was called a dragon.](https://en.wikipedia.org/wiki/Blunderbuss)
+1. "Don't you worry about blank. Let me worry about blank." is the thing you should say *repeatedly* at work to make everyone like you.
+1. George Orwell wrote in The Road To Wigan Pier, “When you are unemployed, which is to say when you are underfed, harassed, bored, and miserable, you don't want to eat dull wholesome food. You want something a little bit 'tasty'.”
+1. "[The 4G specification requires a minimum speed so LTE was launched to avoid exactly this minimum.](https://news.ycombinator.com/item?id=12746312) It seems that the companies did it right by launching LTE instead of 4G as they could have lost their 4G status, while now they could drop as low as 3G speeds and still be called LTE (which is ironic on itself)."
+1. Children who did chores (have responsibility in general) [end up being more successful.](http://www.reddit.com/r/todayilearned/comments/58fgrg/_/)
+1. The "ring with the fist underneath your pelvis" thing teenages do is called the "ball gazer".
+1. In Saudi Arabia, washroom signs are typically men and women's faces rather than body silhouettes. On [those signs](http://rationalwiki.org/w/images/thumb/f/fc/Islam_veil.jpg/180px-Islam_veil.jpg), they also acknowledge that fact that women have a face.
+1. Car engines have mounts. [Otherwise, they pop out.](http://www.reddit.com/r/justrolledintotheshop/comments/57jlc4/_/)
+1. On startups solving the world's problems: ["The risk of [being on market] too early is sometimes bigger than the risk of being too late"](https://www.techinasia.com/six-ways-easier-startup-funding-vc) "**We are wary of companies trying to create a market** because being too early to get to market is a killer for startups"
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

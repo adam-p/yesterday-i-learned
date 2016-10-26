@@ -29,6 +29,8 @@
 1. Hamster testicles are huge.
 1. Not all trans fats are bad. [Vaccenic acid](https://en.wikipedia.org/wiki/Vaccenic_acid), found in milk (human or otherwise) and dairy products, were found to lower LDL levels (LLL).
 1. [Insular dwarfism](https://en.wikipedia.org/wiki/Insular_dwarfism): large inland animals that move onto islands tend to become smaller (food availablity), and small inland animals become larger (foster's rule).
+1. [Hemp](https://en.wikipedia.org/wiki/Hemp) is one of the fastest growing plants and was one of the first plants to be spun into usable fiber 10,000 years ago.
+1. [Fun fact](https://www.reddit.com/r/todayilearned/comments/59bonw/til_an_owls_eyes_are_so_well_developed_they_are/d97fv4j/): you can see an owl's eyeball [by looking into its ear](https://i.imgur.com/PVCLwiP.jpg). And [another](https://whyevolutionistrue.files.wordpress.com/2013/06/pb140038.jpg).
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

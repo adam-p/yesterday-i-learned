@@ -1095,6 +1095,13 @@
 1. In Saudi Arabia, washroom signs are typically men and women's faces rather than body silhouettes. On [those signs](http://rationalwiki.org/w/images/thumb/f/fc/Islam_veil.jpg/180px-Islam_veil.jpg), they also acknowledge that fact that women have a face.
 1. Car engines have mounts. [Otherwise, they pop out.](http://www.reddit.com/r/justrolledintotheshop/comments/57jlc4/_/)
 1. On startups solving the world's problems: ["The risk of [being on market] too early is sometimes bigger than the risk of being too late"](https://www.techinasia.com/six-ways-easier-startup-funding-vc) "**We are wary of companies trying to create a market** because being too early to get to market is a killer for startups"
+1. A five-decimal point latlong coordinate has a resolution of [1.1 ~ 1.4 metres](http://gis.stackexchange.com/questions/8650/measuring-accuracy-of-latitude-and-longitude).
+1. "Don vespiae hill mifas olarae me, et solaris doloreii tido". What the heck does that mean?
+1. A [Taser](http://richmondconfidential.org/wp-content/uploads/2010/07/X26.jpg) is a gun-shaped thing that sends electrodes into your skin. A [stun gun](http://static.tvtropes.org/pmwiki/pub/images/sg500s_stun_gun.jpg) is a stick that looks nothing like a gun, and shocks without sending electrodes down your butt.
+1. The German army [used methamphetamine](https://en.wikipedia.org/wiki/Methamphetamine#History.2C_society.2C_and_culture) to keep their troops awake during their blitzkrieg runs.
+1. Unrelatedly, "Krieg" just means war.
+1. Also unrelatedly, both Singaporeans and Germans pronounce "Thousand" as "Tausend".
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

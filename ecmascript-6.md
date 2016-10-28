@@ -31,6 +31,12 @@ console.log(occupation); // 'jedi'
 console.log(father); // 'anakin'
 ```
 
+Such a destructure can be nested:
+
+```
+let {a: {b: c}} = {a: {b: 5}};  // c is now 5
+```
+
 It can also be done with brackets (`let (a, b, c) = {'a': ..., ...}`).
 Do note that this can have a special case with just one unpack:
 
@@ -43,6 +49,12 @@ AND [the special case where you unpack to nothing](http://www.2ality.com/2015/01
 ```
 const {} = 'abc';  // "OK, strings are coercible to objects"
 const {} = undefined;  // Error
+```
+
+Function signatures are no special case. They also automatically destructure an object:
+
+```
+function getFullName({ firstName, lastName })  // Extracts firstName and lastName from the first argument object
 ```
 
 * [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html): a virtual wrapper that can handle property reads and changes on the original object.

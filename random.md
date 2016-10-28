@@ -1082,6 +1082,10 @@
 1. The [Boomerang Nebula](https://en.wikipedia.org/wiki/Boomerang_Nebula) is the coolest thing in the universe. Not Pokemon.
 1. [Not all carpenters are created equal.](https://youtube.com/watch?v=BcN7q9V7hSI) Do realise that if someone did a sloppy job, you *don't* have to pay them.
 1. "World Financial Group" is a pyramid scheme so large that even the exams those members take ("HLLQP") are provided by WFG. There are in fact [dozens of those exams and licenses](http://www.cbc.ca/news/business/taxes/5-things-to-check-when-hiring-a-financial-adviser-1.1166888) so you can look for those instead.
+1. If you end up being idiotic enough to buy a !Toyota, remember to take into account the [outrageous warranty](https://www.youtube.com/watch?v=QJNO6p54bUI) that you will want to buy.
+1. *Tonne* is the metric one.
+1. There's a law on the British Columbia books that states if you're a bankrupt drunk who got thrown into jail, the law requires the jailer to bring you a bottle of beer on demand.
+1. [Grass grows in Whitehorse Yukon.](https://www.youtube.com/watch?v=qE8ca84UUJw) [It doesn't even look different from Ontario](http://imgur.com/pwNigfK). Guy born and raised in Yukon has no difference in accent. EH?!
 1. >If John Smith writes a cheque to Jane Doe, she can endorse the cheque on the back and give it to you in payment of a debt. You can then endorse the back of the cheque and deposit it into your account. This is called *counter-signing* a cheque.
 1. To describe a person as single in a politically correct way, use the phrase "Independently owned and operated".
 1. The man who killed Hitler died in the line of duty. The same man subsequently took his own life.

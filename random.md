@@ -1102,7 +1102,15 @@
 1. [Those who have an IQ between 0 and 25 are idiots; IQs between 26 and 50 are considered imbeciles; and those who have an IQ between 51 and 70 are considered morons.](http://www.todayifoundout.com/index.php/2010/03/the-words-moron-imbecile-and-idiot-mean-different-things/)
 1. Mechanics change your oil by first [pumping pressurised gas](https://www.reddit.com/r/Justrolledintotheshop/comments/5a22jc/never_trust_the_new_guy_to_drain_an_oil_bin/d9d3xg7/) into the "oil bins", emptying them.
 1. [Fuddy Duddy](https://en.wikipedia.org/wiki/Fuddy-duddy) is the name of a traditionalist.
-1. 
+1. A five-decimal point latlong coordinate has a resolution of [1.1 ~ 1.4 metres](http://gis.stackexchange.com/questions/8650/measuring-accuracy-of-latitude-and-longitude).
+1. "Don vespiae hill mifas olarae me, et solaris doloreii tido". What the heck does that mean?
+1. A [Taser](http://richmondconfidential.org/wp-content/uploads/2010/07/X26.jpg) is a gun-shaped thing that sends electrodes into your skin. A [stun gun](http://static.tvtropes.org/pmwiki/pub/images/sg500s_stun_gun.jpg) is a stick that looks nothing like a gun, and shocks without sending electrodes down your butt.
+1. The German army [used methamphetamine](https://en.wikipedia.org/wiki/Methamphetamine#History.2C_society.2C_and_culture) to keep their troops awake during their blitzkrieg runs.
+1. Unrelatedly, "Krieg" just means war.
+1. Also unrelatedly, both Singaporeans and Germans pronounce "Thousand" as "Tausend".
+1. The correct response to "You ask too much of me" is ["You are not asking enough from yourself."](https://www.reddit.com/r/GetMotivated/comments/59qvsq/image_just_joking_around_when_my_friend_dropped/)
+1. Prior to the invention of modern sanitary utensils, some tribes have [menstruation huts](http://www.reddit.com/r/askanthropology/comments/59ix76/_/) that women went to, where they medidate, goof off from work, and bury their blood.
+1. [James Cameron actually went to Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench#Descents) in 2012.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

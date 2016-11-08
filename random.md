@@ -1108,7 +1108,12 @@
 1. The correct response to "You ask too much of me" is ["You are not asking enough from yourself."](https://www.reddit.com/r/GetMotivated/comments/59qvsq/image_just_joking_around_when_my_friend_dropped/)
 1. Prior to the invention of modern sanitary utensils, some tribes have [menstruation huts](http://www.reddit.com/r/askanthropology/comments/59ix76/_/) that women went to, where they medidate, goof off from work, and bury their blood.
 1. [James Cameron actually went to Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench#Descents) in 2012.
-1. 
+1. [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
+1. `m3u8`s are `m3u`s with UTF-8 encoding.
+1. When cooking a steak with cast iron, use oil, and [don't try to move the meat until it comes off the pan by itself](https://youtube.com/watch?feature=youtu.be&v=KLGSLCaksdY).
+1. You are supposed to [return to the auto shop and retorque your wheels](http://www.reddit.com/r/justrolledintotheshop/comments/58z12z/_/), especially if the wheel and hub are made of different materials.
+1. Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
+1. Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

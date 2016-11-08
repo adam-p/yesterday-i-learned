@@ -33,6 +33,7 @@
 1. [Fun fact](https://www.reddit.com/r/todayilearned/comments/59bonw/til_an_owls_eyes_are_so_well_developed_they_are/d97fv4j/): you can see an owl's eyeball [by looking into its ear](https://i.imgur.com/PVCLwiP.jpg). And [another](https://whyevolutionistrue.files.wordpress.com/2013/06/pb140038.jpg).
 1. [Hippos are red due to an insect repelling sunscreen they secrete from their skin](http://www.reddit.com/r/todayilearned/comments/57if43/_/)
 1. The [red cornetfish](http://i.imgur.com/WTWQjjZ.jpg) can reach 2m in length.
+1. Prawns have [three pairs of claws](http://i.stack.imgur.com/GyirW.jpg). Shrimp have two pairs.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

@@ -1099,6 +1099,9 @@
 1. In Saudi Arabia, washroom signs are typically men and women's faces rather than body silhouettes. On [those signs](http://rationalwiki.org/w/images/thumb/f/fc/Islam_veil.jpg/180px-Islam_veil.jpg), they also acknowledge that fact that women have a face.
 1. Car engines have mounts. [Otherwise, they pop out.](http://www.reddit.com/r/justrolledintotheshop/comments/57jlc4/_/)
 1. On startups solving the world's problems: ["The risk of [being on market] too early is sometimes bigger than the risk of being too late"](https://www.techinasia.com/six-ways-easier-startup-funding-vc) "**We are wary of companies trying to create a market** because being too early to get to market is a killer for startups"
+1. [Those who have an IQ between 0 and 25 are idiots; IQs between 26 and 50 are considered imbeciles; and those who have an IQ between 51 and 70 are considered morons.](http://www.todayifoundout.com/index.php/2010/03/the-words-moron-imbecile-and-idiot-mean-different-things/)
+1. Mechanics change your oil by first [pumping pressurised gas](https://www.reddit.com/r/Justrolledintotheshop/comments/5a22jc/never_trust_the_new_guy_to_drain_an_oil_bin/d9d3xg7/) into the "oil bins", emptying them.
+1. [Fuddy Duddy](https://en.wikipedia.org/wiki/Fuddy-duddy) is the name of a traditionalist.
 1. A five-decimal point latlong coordinate has a resolution of [1.1 ~ 1.4 metres](http://gis.stackexchange.com/questions/8650/measuring-accuracy-of-latitude-and-longitude).
 1. "Don vespiae hill mifas olarae me, et solaris doloreii tido". What the heck does that mean?
 1. A [Taser](http://richmondconfidential.org/wp-content/uploads/2010/07/X26.jpg) is a gun-shaped thing that sends electrodes into your skin. A [stun gun](http://static.tvtropes.org/pmwiki/pub/images/sg500s_stun_gun.jpg) is a stick that looks nothing like a gun, and shocks without sending electrodes down your butt.

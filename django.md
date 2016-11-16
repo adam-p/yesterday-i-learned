@@ -31,6 +31,7 @@
 * To [aggregate by a field whose `related_name` is `+`](http://stackoverflow.com/questions/38576912/django-aggregate-by-field-with-no-related-name), try something clever: `Reward.objects.values('user').annotate(rewards_count=Count('id')).order_by()`, or [override a model's definition using a mirror class](http://stackoverflow.com/a/38583862/1558430) whose `Meta.managed` is `False`.
 * It is [completely possible](https://github.com/django/django/blob/428c0bbe1bcd303560d7e96d7d2721ff3fdc0e3f/django/db/models/expressions.py#L155) to filter by an `F('time_field') + timedelta(seconds=???)`.
 * Translated string substitutionss (e.g. `_('hello %(world)s')`) must be named because you don't necessarily want all langauges to have those translations in the same order.
+* Annotating a query with an [`ExpressionWrapper` field](http://stackoverflow.com/a/40618185/1558430) allows queries to be built using a result of some multi-field computation, which you normally cannot.
 
 ## WSGI
 
@@ -151,6 +152,10 @@ Run `sudo apt-get install libxml2-dev libxslt-dev python-dev lib32z1-dev`, *then
 ### Queries do crazy things when executed in parallel
 
 Use `@transaction.atomic`.
+
+#### Django dies when using `@transaction.atomic`
+
+> **Avoid catching exceptions inside atomic!** This is mostly a concern for `DatabaseError` and its subclasses such as `IntegrityError`. The correct way [is to catch the exception outside the atomic block].
 
 ### Queries do crazy things even when executed in atomic blocks
 

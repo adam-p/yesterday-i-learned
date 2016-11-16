@@ -39,6 +39,8 @@
 * There are two hydraulic braking systems, both of which would keep working if either fails.
 * Squealing means "there is no brake pad left". Incidentally, the same sound is also what cheap ceramic brakes make during operation.
 * The vehicle might have sliding brake calipers, which only has pistons on one side. This contributes to uneven brake wear, particularly in bad weather conditions.
+* Brake rotors are surprisingly fragile, and need to be replaced if warped or worn thin by the brakes. Calipers might also require replacement.
+* Brake fluid and brake lube are not fictitious liquids like the blinker fluid.
 
 # Dashboard / Odometer
 * To change the meter display, quickly push and release the knob. 

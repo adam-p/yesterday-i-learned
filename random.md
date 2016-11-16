@@ -1117,6 +1117,12 @@
 1. You are supposed to [return to the auto shop and retorque your wheels](http://www.reddit.com/r/justrolledintotheshop/comments/58z12z/_/), especially if the wheel and hub are made of different materials.
 1. Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
 1. Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
+1. What's fun about languages and locales is that the starting weekday for `fr` can be Monday or Sunday, depending on whether `-CA` is specified.
+1. ["Cannot interpret human traffic signals"](http://www.autoinsurancecenter.com/top-20-pros-and-cons-associated-with-self-driving-cars.htm) is one of the cons mentioned against self driving technology.
+1. Dry-aged beef is typically not sold by most supermarkets (...) because it takes time and there is a significant loss of weight during the aging process.
+1. [Erdinger non-alcoholic beer](http://singletrackworld.com/forum/topic/erdinger-alcohol-free-beer-recovery-drink) is sold as a sports drink.
+1. ["Do something and don’t stop until it’s complete, no matter how long it takes."](https://medium.com/the-mission/if-it-doesnt-suck-it-s-not-worth-doing-1efdc6eb695c#.8bdgwng0z) is fundamentally how things get done successfully.
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

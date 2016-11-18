@@ -195,6 +195,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * There's a `cat` [and a `tac`](https://www.sitepoint.com/15-little-known-unix-commands/) (which does it in reverse).
 * [Alt-PrtSc-F](http://superuser.com/a/264454) will kill the most memory-intensive activity. This is helpful whenever you want to close Chrome.
 * The [`-i`](http://www.linuxask.com/questions/replace-infile-using-sed-and-make-a-backup-automatically) option in `sed` also allows a backup file to be specified. `-i.bak` means copy the input file (say, `foo.txt`) to `foo.txt.bak`, then do the replacement inline.
+* Your superstition is correct. [Ports are not open unless there is a program listening on (opening) them](http://superuser.com/a/82495), and the firewall exists to prevent internal programs from receiving commands by listening to a port. (This does not explain / protect against programs that are polling a control centeux.)
 
 ## Tmux
 

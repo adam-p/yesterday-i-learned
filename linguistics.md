@@ -48,6 +48,8 @@
 1. Also, Festhallen is not the festival halls. It's just Festival (or celebration). 
 1. *Removal* can mean moving furniture. "Removal men" are the moving men.
 1. [Spoonerism](https://en.wikipedia.org/wiki/Spoonerism) refers to comedic switches in the first syllables of two or more words, like "belly jeans".
+1. *Buggery* means anal intercourse. "He will be *Buggered*" means that he will be sodomised.
+1. 
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

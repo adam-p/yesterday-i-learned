@@ -1111,6 +1111,25 @@
 1. The correct response to "You ask too much of me" is ["You are not asking enough from yourself."](https://www.reddit.com/r/GetMotivated/comments/59qvsq/image_just_joking_around_when_my_friend_dropped/)
 1. Prior to the invention of modern sanitary utensils, some tribes have [menstruation huts](http://www.reddit.com/r/askanthropology/comments/59ix76/_/) that women went to, where they medidate, goof off from work, and bury their blood.
 1. [James Cameron actually went to Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench#Descents) in 2012.
+1. [Beekeeper evaluates the flow hive](https://www.youtube.com/watch?v=X4v4IHGvPLA): [Cutting the hive](https://www.honeyflow.com/) in halves drains both cured honey and uncured honey (which ferments), something you don't want. It also prevents actual beekeeping like checking for parasites. The caps are kept on the combs, so bees assume there is still honey there, and when they need the honey, they will find none, then starve to death.
+1. Plants can easily [outlive animals](https://en.wikipedia.org/wiki/List_of_longest-living_organisms) by a factor of ten. The current live record is a factor of 25 (5000/186).
+1. Hitler reportedly shaved that way to [obtain a good seal with the gas mask](https://www.reddit.com/r/explainlikeimfive/comments/5bagxx/eli5_why_do_some_militaries_require_men_to_be/d9mymr8/).
+1. Muslim prayer times are [accurate to the minute](http://www.muslimpro.com/en/Prayer-times-Toronto-Canada-6167865). Change from Toronto to Mississauga to see a one-minute difference.
+1. Want to quit, make sure [you have an exit strategy first](http://www.reddit.com/r/askreddit/comments/58iwh8/_/d90ro0u?context=1000).
+1. [The Egyptians were the first to divide the day by sixes and twelves](https://www.reddit.com/r/explainlikeimfive/comments/5a1mhf/eli5_how_did_we_decide_how_long_a_second_was/d9d5pse/?context=1000) (Eh? What were the Chinese doing?)
+1. [People don't like others who complain all the time.](https://www.reddit.com/r/socialskills/comments/59vdlf/15_glaring_signs_of_social_incompetence_you_want/)
+1. ["Worker"](https://news.ycombinator.com/item?id=12818361), in the UK, is a lower class of Employee, essentially contractors with indefinite contract lengths.
+1. [Allspice](https://en.m.wikipedia.org/wiki/Allspice) is a plant, [Hospice](https://en.wikipedia.org/wiki/Hospice) is a clinic for the chronically ill, [Old Spice](https://en.wikipedia.org/wiki/Old_Spice) is a brand of deodorant.
+1. Even when [pretending to play the piano](http://steponerehab.com/how-you-can-rewire-your-brain/), the group had motor skills improve despite not having played the piano. This shows the brain's mental training has the ability to change the physical properties of itself.
+1. "To draw a bow like an Olympian, draw to the eye, and then down to keep natural shoulder rolling motion." - just tried it, doesn't work.
+1. The whole ["HJKL keys are on the home row!!!! BETTER!!@@@"](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/) argument only applies to vim users who do not use a mouse.
+1. The French Flag was actually entirely white [at some point](https://en.wikipedia.org/wiki/Bourbon_Restoration).
+1. [All states in the US are divided into counties, with two exceptions: Louisiana, which consists of parishes, and Alaska, which uses boroughs.](https://www.reddit.com/r/todayilearned/comments/5amvuf/til_all_states_in_the_us_are_divided_into/)
+1. Centripetal force is the force acting on the center. Centrifugal force is the force acting outward on the flying object.
+1. Creatine, to quote the Internet: "Holy shit, they're not wrong. Basically the majority of days are fine, no effects, then all of a sudden I will have a day where I am basically pissing out of my ass."
+1. An AWD vehicle like the Ford Fusion requires all tires to be the same radius, even taking tire wear into account. Failure to do so [will break the differential](https://www.reddit.com/r/Justrolledintotheshop/comments/5c1x9c/why_you_dont_replace_one_tire_on_an_awd_fusion/). Some AWD/4WD systems [don't even engage](https://www.youtube.com/watch?v=jkiv-bWbLIo). [It is often better to just buy a F/F car.](https://www.reddit.com/r/Justrolledintotheshop/comments/5c1x9c/why_you_dont_replace_one_tire_on_an_awd_fusion/d9tdw6d/)
+1. To get memory protection, you need special ECC RAM. [Don't use Btrfs](http://superuser.com/questions/959431/how-to-fix-bit-rot-back-up-strategy) with non-ECC RAM either, because you know it'll try to recover, and recover incorrectly.
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

@@ -46,13 +46,13 @@
 * It is [not possible](http://stackoverflow.com/a/4203948/1558430) to declare multiple variables on the same line, because Code Complete says so.
 * [Include guards](https://en.wikipedia.org/wiki/Include_guard) prevent the same header from being included more than once. [`#pragma once`](https://en.wikipedia.org/wiki/Pragma_once) works better [in every way](http://stackoverflow.com/a/6793411/1558430). Unfortuntely, since Oracle doesn't support pragma once, we are [stuck](http://stackoverflow.com/a/1144110/1558430) with include guards.
 * There are [only three error codes](https://en.wikipedia.org/wiki/Errno.h) you can use.
-* > ["The `.PHONY` rule keeps make from doing something with a file named `clean`."](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+* > ["The `.PHONY` rule keeps make from doing something with a file named `clean`."](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) By not looking for files called `clean`, it improves performance.
 * [`main` must be a function.](http://stackoverflow.com/questions/33305574/why-does-const-int-main-195-result-in-a-working-program-but-without-the-const) Don't let anyone tell you different.
 * When creating an array of a given type, a continuous chunk of memory is assigned, exactly (the size of the type) * (the number of things).
 * [Given the way arrays are created](http://stackoverflow.com/questions/381542/with-c-arrays-why-is-it-the-case-that-a5-5a), `foo[4]` is really `*(foo + 4)` or `*(4 + foo)`, which makes `4[foo]` equivalent.
 * `thing_t` is supposed to mean "a type called 'thing'". C programmers are against the Hungarian notation.
 * [C pointers are not integers](http://nullprogram.com/blog/2016/05/30/); Any pointer type may be converted to an integer type, but the result depends on implementation. (If the pointer is a large negative number, for example, then the behaviour is undefined.)
-*
+* 
 
 ## C++
 

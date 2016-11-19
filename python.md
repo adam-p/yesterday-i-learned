@@ -332,6 +332,8 @@ print foo()
 * [PEP 440](https://www.python.org/dev/peps/pep-0440/), which rings a bell because of CHEM 440, describes python's SemVer. The `rc` in `X.Y.ZrcN` is Release Candidate, not "RideCo", the vapourware company.
 * Of all the spacing requirements in python, the space between the `n` and `[` in `for i in[1,2,3,4] :` is not necessary. Nor does the redundant space between `]` and `:` matter. Your life is a lie.
 * numpy's `array` is not an instance of `list`.
+* numpy's odd way of [telling if an array contains only 1 or 0](http://stackoverflow.com/a/40596003/1558430) is `((arr == 0) | (arr == 1)).all()`, or `~((arr != 0) & (arr != 1)).any()`.
+* ["Celery"](http://stackoverflow.com/questions/13440875/pros-and-cons-to-use-celery-vs-rq) is python's way of saying "I will make a small mistake of choosing Celery now, to avoid a bigger mistake later on".
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

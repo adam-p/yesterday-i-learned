@@ -156,7 +156,7 @@ undefined
 * `_.curry`  returns a value only when all arguments are specified (so you can go `foo(1)(2)(3)` for a 3-argument function). `_.partial` is a single-layer wrapper.
 * [Bower is dead](https://github.com/reactjs/redux/issues/944#issuecomment-154858804) because either bower fragments client/server libraries, or because people don't know how to resolve multiple-version dependencies with npm. I don't, for one.
 * `fetch`ing with `mode: 'no-cors'` apparently [makes the request, but does not tell the client whether it succeeded or failed](http://stackoverflow.com/a/40182952/1558430).
-* 
+* `bind()` is literally partialling, except maybe powerful. `console.log.bind(console, 'hello world').bind(console, 'eh')()` logs `hello world eh`.
 
 ## Deferred API
 

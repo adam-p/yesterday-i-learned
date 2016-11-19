@@ -80,6 +80,13 @@ Further reading: [0001.md](sources/0001.md)
 * When the company goes bankrupt (selling it doesn't give you money, but you can claim it as capital loss)
 * [When you anticipate a market failure](http://www.reddit.com/r/stocks/comments/53znlq/_/).
 
+### [Gap ups and downs](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort)
+
+* A Full Gap Up occurs when the opening price is greater than yesterday's high price.
+* A Full Gap Down occurs when the opening price is less than yesterday's low.
+* A Partial Gap Up occurs when today's opening price is higher than yesterday's close, but not higher than yesterday's high.
+* A Partial Gap Down occurs when the opening price is below yesterday's close, but not below yesterday's low.
+
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 
 * Don't attempt to manage unmotivated people.

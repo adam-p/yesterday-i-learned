@@ -1129,7 +1129,21 @@
 1. Creatine, to quote the Internet: "Holy shit, they're not wrong. Basically the majority of days are fine, no effects, then all of a sudden I will have a day where I am basically pissing out of my ass."
 1. An AWD vehicle like the Ford Fusion requires all tires to be the same radius, even taking tire wear into account. Failure to do so [will break the differential](https://www.reddit.com/r/Justrolledintotheshop/comments/5c1x9c/why_you_dont_replace_one_tire_on_an_awd_fusion/). Some AWD/4WD systems [don't even engage](https://www.youtube.com/watch?v=jkiv-bWbLIo). [It is often better to just buy a F/F car.](https://www.reddit.com/r/Justrolledintotheshop/comments/5c1x9c/why_you_dont_replace_one_tire_on_an_awd_fusion/d9tdw6d/)
 1. To get memory protection, you need special ECC RAM. [Don't use Btrfs](http://superuser.com/questions/959431/how-to-fix-bit-rot-back-up-strategy) with non-ECC RAM either, because you know it'll try to recover, and recover incorrectly.
-1. 
+1. [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
+1. `m3u8`s are `m3u`s with UTF-8 encoding.
+1. When cooking a steak with cast iron, use oil, and [don't try to move the meat until it comes off the pan by itself](https://youtube.com/watch?feature=youtu.be&v=KLGSLCaksdY).
+1. You are supposed to [return to the auto shop and retorque your wheels](http://www.reddit.com/r/justrolledintotheshop/comments/58z12z/_/), especially if the wheel and hub are made of different materials.
+1. Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
+1. Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
+1. What's fun about languages and locales is that the starting weekday for `fr` can be Monday or Sunday, depending on whether `-CA` is specified.
+1. ["Cannot interpret human traffic signals"](http://www.autoinsurancecenter.com/top-20-pros-and-cons-associated-with-self-driving-cars.htm) is one of the cons mentioned against self driving technology.
+1. Dry-aged beef is typically not sold by most supermarkets (...) because it takes time and there is a significant loss of weight during the aging process.
+1. [Erdinger non-alcoholic beer](http://singletrackworld.com/forum/topic/erdinger-alcohol-free-beer-recovery-drink) is sold as a sports drink.
+1. ["Do something and don’t stop until it’s complete, no matter how long it takes."](https://medium.com/the-mission/if-it-doesnt-suck-it-s-not-worth-doing-1efdc6eb695c#.8bdgwng0z) is fundamentally how things get done successfully.
+1. Before you move, make sure the home insurance insurer covers your new address.
+1. *Temperature arithmetic is not a trivial task. If I told you to multiple '10 degrees C' by 2, what would you get: 20 degrees C, or 293 degrees K * 2?*  (Solution is akin to `timedelta`, where the units are always specified.)
+1. The `utm_*` tags like `utm_source` and `utm_campaign` came from ["UTM"](https://urchin.biz/urchin-software-corp-89a1f5292999#.tp44uqer7), Urchin Traffic Monitor. The San Diego company later became Google Analytics.
+1.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

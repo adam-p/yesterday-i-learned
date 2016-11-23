@@ -1125,6 +1125,8 @@
 1. Before you move, make sure the home insurance insurer covers your new address.
 1. *Temperature arithmetic is not a trivial task. If I told you to multiple '10 degrees C' by 2, what would you get: 20 degrees C, or 293 degrees K * 2?*  (Solution is akin to `timedelta`, where the units are always specified.)
 1. The `utm_*` tags like `utm_source` and `utm_campaign` came from ["UTM"](https://urchin.biz/urchin-software-corp-89a1f5292999#.tp44uqer7), Urchin Traffic Monitor. The San Diego company later became Google Analytics.
+1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
+1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/

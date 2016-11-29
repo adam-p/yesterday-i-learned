@@ -1159,6 +1159,8 @@
 1. Kansas City is not in Kansas. Kansas City was founded before Kansas, so Kansas was just running out of names (or something).
 1. There is a [giant crater](https://en.wikipedia.org/wiki/Ren%C3%A9-Levasseur_Island) at the middle of Quebec. It is now called René-Levasseur Island.
 1. [Gyms were much more fun](http://imgur.com/A2SBDyp) in the 1940s.
+1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
+1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/

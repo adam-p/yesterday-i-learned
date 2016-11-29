@@ -1132,7 +1132,7 @@
 1. [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
 1. `m3u8`s are `m3u`s with UTF-8 encoding.
 1. When cooking a steak with cast iron, use oil, and [don't try to move the meat until it comes off the pan by itself](https://youtube.com/watch?feature=youtu.be&v=KLGSLCaksdY).
-1. You are supposed to [return to the auto shop and retorque your wheels](http://www.reddit.com/r/justrolledintotheshop/comments/58z12z/_/), especially if the wheel and hub are made of different materials.
+1. You are supposed to [return to the auto shop and retorque your wheels](http://www.reddit.com/r/justrolledintotheshop/comments/58z12z/_/), especially if the wheel and hub are made of different materials. Otherwise, [this](https://www.thestar.com/news/gta/2016/11/22/watch-snow-tire-fly-off-vehicle-on-hwy-407.html) can happen.
 1. Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
 1. Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
 1. What's fun about languages and locales is that the starting weekday for `fr` can be Monday or Sunday, depending on whether `-CA` is specified.
@@ -1143,7 +1143,23 @@
 1. Before you move, make sure the home insurance insurer covers your new address.
 1. *Temperature arithmetic is not a trivial task. If I told you to multiple '10 degrees C' by 2, what would you get: 20 degrees C, or 293 degrees K * 2?*  (Solution is akin to `timedelta`, where the units are always specified.)
 1. The `utm_*` tags like `utm_source` and `utm_campaign` came from ["UTM"](https://urchin.biz/urchin-software-corp-89a1f5292999#.tp44uqer7), Urchin Traffic Monitor. The San Diego company later became Google Analytics.
-1.
+1. ["搵食啫，犯法呀"](http://evchk.wikia.com/wiki/%E6%90%B5%E9%A3%9F%E5%95%AB%EF%BC%8C%E7%8A%AF%E6%B3%95%E5%91%80) is a perfect justification to anything you are doing.
+1. ["Just because pizza sits out for an hour or two doesn't mean you have to throw it away."](http://www.fitday.com/fitness-articles/nutrition/healthy-eating/myth-or-fact-leftover-pizza-is-okay-to-leave-out.html) TIL not this fact, but that there are people out there who need to be told this fact.
+1. Identical twins do not share fingerprints. This is because they don't share any identical phenotype at all. Similar, maybe. Identical, definitely not.
+1. Bronze V is the losers' league of league of legends.
+1. If [bombshell](https://en.wikipedia.org/wiki/Bombshell_%28sex_symbol%29) means sex symbol, what does "on that bombshell" mean if taken out of context?
+1. There are places without mosquitoes, like Antarctica.
+1. Even "jobless trans quad-amputees of *color*" need to check their privilege on Tumblr for being endothermic mammals like they are, lest they freeze to death during the winter, like a snake.
+1. For a country as shaky as Japan, they sure appreciate a lot of porcelain.
+1. [The hijab is only required within the mosque.](https://www.youtube.com/watch?v=axEqfphTUqs) Unless you are Arab. In which case, the entire country is a mosque.
+1. The Bahamas (and Cuba) is really, really close to Miami.
+1. Interestingly, Nassau, the capital of the Bahamas, is on the smaller island.
+1. Heckler & Koch are known for their [backwards rounds catalog](https://youtu.be/XiX2rb3cgzY). Anyone on the Internet inserting bullets backwards is actually paying them a homage, not being an idiot.
+1. That "It's got electrolytes, it's what plants crave" nonsense came from [Brawndo](https://www.youtube.com/watch?v=-Vw2CrY9Igs), the sports drink made up by movie [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy).
+1. Kansas City is not in Kansas. Kansas City was founded before Kansas, so Kansas was just running out of names (or something).
+1. There is a [giant crater](https://en.wikipedia.org/wiki/Ren%C3%A9-Levasseur_Island) at the middle of Quebec. It is now called René-Levasseur Island.
+1. [Gyms were much more fun](http://imgur.com/A2SBDyp) in the 1940s.
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

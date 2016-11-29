@@ -114,3 +114,4 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 * The parameter used when making a new Hash (dict) is the default value for any keys, default being `nil`. `Hash.new(0)` will have all defaults being 0.
 * Like in python, positional/keyword arguments can have a default only if the arguments before them are also positional/keyword.
 * [Apparently](http://stackoverflow.com/questions/39988613/how-do-i-destructure-a-range-in-ruby) to get the first and last elements from a range (which is not an array for some reason), you just do `array.begin` and `array.end`. That will go through all elements in the range, but what do you know.
+* It is tradition for Rails to [muck with builtin types](http://stackoverflow.com/a/15926695/1558430) so that the integer `1` can have the method `day`.

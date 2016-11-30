@@ -334,6 +334,9 @@ print foo()
 * numpy's `array` is not an instance of `list`.
 * numpy's odd way of [telling if an array contains only 1 or 0](http://stackoverflow.com/a/40596003/1558430) is `((arr == 0) | (arr == 1)).all()`, or `~((arr != 0) & (arr != 1)).any()`.
 * ["Celery"](http://stackoverflow.com/questions/13440875/pros-and-cons-to-use-celery-vs-rq) is python's way of saying "I will make a small mistake of choosing Celery now, to avoid a bigger mistake later on".
+* You can specify [requirements for each platform and python version](http://stackoverflow.com/questions/29222269/is-there-a-way-to-have-a-conditional-requirements-txt-file-for-my-python-applica/35614580#35614580) in requirements, like this: `atomac==1.1.0; sys_platform == 'darwin'`
+* Backticking a variable `x` is equivalent to `repr(x)`, but since it is only for python2, it is better if you never learned it.
+*. 
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

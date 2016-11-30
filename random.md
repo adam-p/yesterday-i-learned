@@ -1127,7 +1127,10 @@
 1. The `utm_*` tags like `utm_source` and `utm_campaign` came from ["UTM"](https://urchin.biz/urchin-software-corp-89a1f5292999#.tp44uqer7), Urchin Traffic Monitor. The San Diego company later became Google Analytics.
 1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
-1. 
+1. Samsung phones often have the NFC and wireless charging coils wrapped up inside the battery housing.
+1. If matrix multiplication means [placing the second matrix on top of the first one, and calculating the dot products successively](http://matrixmultiplication.xyz/), then in order to multiply two matrices, the number of columns of the first must equal to the number of rows of the second.
+1. [Timsort](https://en.wikipedia.org/wiki/Timsort), somewhere between insertion sort and merge sort, was made by Tim Peters, the same man who wrote PEP 20.
+1. If you want a reason to dislike the [double spacing](http://www.quickanddirtytips.com/education/grammar/two-spaces-after-a-period) plague, here's a sick burn: ["Your typing as well as your typesetting will benefit from unlearning this quaint [double spacing] Victorian habit"](https://en.wikipedia.org/wiki/Sentence_spacing#Typography)
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

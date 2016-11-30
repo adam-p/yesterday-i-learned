@@ -196,6 +196,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * [Alt-PrtSc-F](http://superuser.com/a/264454) will kill the most memory-intensive activity. This is helpful whenever you want to close Chrome.
 * The [`-i`](http://www.linuxask.com/questions/replace-infile-using-sed-and-make-a-backup-automatically) option in `sed` also allows a backup file to be specified. `-i.bak` means copy the input file (say, `foo.txt`) to `foo.txt.bak`, then do the replacement inline.
 * Your superstition is correct. [Ports are not open unless there is a program listening on (opening) them](http://superuser.com/a/82495), and the firewall exists to prevent internal programs from receiving commands by listening to a port. (This does not explain / protect against programs that are polling a control centeux.)
+* [`sort file | uniq -c | sort -nr`](http://stackoverflow.com/a/6447515/1558430) is an incredibly common operation for tallying lines in a file.
+* If a `/data/data/` restore event took place, but your backups don't work (apps keep crashing), try [`restorecon -Rv /data/data/org.app.app`](http://forum.xda-developers.com/showpost.php?p=67319237&postcount=3). "con" stands for context.
 
 ## Tmux
 

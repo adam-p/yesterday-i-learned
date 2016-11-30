@@ -39,6 +39,15 @@
 * There are two hydraulic braking systems, both of which would keep working if either fails.
 * Squealing means "there is no brake pad left". Incidentally, the same sound is also what cheap ceramic brakes make during operation.
 * The vehicle might have sliding brake calipers, which only has pistons on one side. This contributes to uneven brake wear, particularly in bad weather conditions.
+* Raybestos is a good (brake) brand, depending on what variety your get from them. The "Enhanced Hybrid Technology" series is supposedly as good as OE.
+* Old brake fluid is murky and black. New fluid (your vehicle: FMVSS 116 / DOT 3) is clear straw yellow. (04-03)
+* If you want to change your brake fluid, [remove whatever you can get out of the reseroir, and put in new brake fluid.](https://www.youtube.com/watch?v=V5O_pbC8R2E) It is unlikely for you to be able to *bleed* your own brake fluid [on your own](https://www.youtube.com/watch?v=n1NvtUwfRJc), however.
+* Items you may require/receive along with your brake pad package includes:
+    * Abutment Clips
+    * Piston Clips
+    * Spreader Springs
+    * Anti-Rattle Clips
+    * Mechanical Wear Sensors
 * Brake rotors are surprisingly fragile, and need to be replaced if warped or worn thin by the brakes. Calipers might also require replacement.
 * Brake fluid and brake lube are not fictitious liquids like the blinker fluid.
 
@@ -62,14 +71,14 @@ Every 8000km:
 * Check that all exterior light bulbs are functioning
 * Inspect front and rear brake components
 * Inspect and top off fluid levels
-* Tighten nuts and bolts on chassis and body 
+* Tighten nuts and bolts on chassis and body
 
 Every 16000km or one year:
 * Change engine oil and filter
 
 Every 24000km:
 * Inspect condition of drive axle boots
-* Check condition of brake fluid
+* Check condition of brake fluid (this should be replaced every 2, 3 years)
 * Check transfer case and differential fluids
 * Check operation of cooling system and/or indication of coolant leak
 * Complete inspection of steering and suspension components
@@ -108,8 +117,10 @@ Every 48000km:
 ## Winter driving
 * The gauge beside the fuel level gauge is the coolant temperature gauge. It tells you if your engine is overheating.
 * Ethyl-1,2-diol is your only choice of coolant *and* antifreeze.
+* New coolant makes your heat hotter.
 * Water can be an emergency coolant (05-02).
 * Engine antifreeze can damage the car's paint.
+* Long-life coolants can last 100Mm (or 5 years). If you don't like seeing dirt, or like seeing something completely clean, [ignorance is bliss](https://www.youtube.com/watch?v=s--5ft5YiHg). One flush doesn't do anything.
 * The required oil type is 0W-20. 5W-20 may be used temporarily until the next oil change.
 * 0W-20 lasts one year. 5W-20 lasts half a year. You will need 4.2L of it. (06-01)
 * Bring along tire chains, window scraper, bag of sand or salt, flares, small shovel, jumper cables, etc.

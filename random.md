@@ -1111,10 +1111,28 @@
 1. The correct response to "You ask too much of me" is ["You are not asking enough from yourself."](https://www.reddit.com/r/GetMotivated/comments/59qvsq/image_just_joking_around_when_my_friend_dropped/)
 1. Prior to the invention of modern sanitary utensils, some tribes have [menstruation huts](http://www.reddit.com/r/askanthropology/comments/59ix76/_/) that women went to, where they medidate, goof off from work, and bury their blood.
 1. [James Cameron actually went to Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench#Descents) in 2012.
+1. [Beekeeper evaluates the flow hive](https://www.youtube.com/watch?v=X4v4IHGvPLA): [Cutting the hive](https://www.honeyflow.com/) in halves drains both cured honey and uncured honey (which ferments), something you don't want. It also prevents actual beekeeping like checking for parasites. The caps are kept on the combs, so bees assume there is still honey there, and when they need the honey, they will find none, then starve to death.
+1. Plants can easily [outlive animals](https://en.wikipedia.org/wiki/List_of_longest-living_organisms) by a factor of ten. The current live record is a factor of 25 (5000/186).
+1. Hitler reportedly shaved that way to [obtain a good seal with the gas mask](https://www.reddit.com/r/explainlikeimfive/comments/5bagxx/eli5_why_do_some_militaries_require_men_to_be/d9mymr8/).
+1. Muslim prayer times are [accurate to the minute](http://www.muslimpro.com/en/Prayer-times-Toronto-Canada-6167865). Change from Toronto to Mississauga to see a one-minute difference.
+1. Want to quit, make sure [you have an exit strategy first](http://www.reddit.com/r/askreddit/comments/58iwh8/_/d90ro0u?context=1000).
+1. [The Egyptians were the first to divide the day by sixes and twelves](https://www.reddit.com/r/explainlikeimfive/comments/5a1mhf/eli5_how_did_we_decide_how_long_a_second_was/d9d5pse/?context=1000) (Eh? What were the Chinese doing?)
+1. [People don't like others who complain all the time.](https://www.reddit.com/r/socialskills/comments/59vdlf/15_glaring_signs_of_social_incompetence_you_want/)
+1. ["Worker"](https://news.ycombinator.com/item?id=12818361), in the UK, is a lower class of Employee, essentially contractors with indefinite contract lengths.
+1. [Allspice](https://en.m.wikipedia.org/wiki/Allspice) is a plant, [Hospice](https://en.wikipedia.org/wiki/Hospice) is a clinic for the chronically ill, [Old Spice](https://en.wikipedia.org/wiki/Old_Spice) is a brand of deodorant.
+1. Even when [pretending to play the piano](http://steponerehab.com/how-you-can-rewire-your-brain/), the group had motor skills improve despite not having played the piano. This shows the brain's mental training has the ability to change the physical properties of itself.
+1. "To draw a bow like an Olympian, draw to the eye, and then down to keep natural shoulder rolling motion." - just tried it, doesn't work.
+1. The whole ["HJKL keys are on the home row!!!! BETTER!!@@@"](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/) argument only applies to vim users who do not use a mouse.
+1. The French Flag was actually entirely white [at some point](https://en.wikipedia.org/wiki/Bourbon_Restoration).
+1. [All states in the US are divided into counties, with two exceptions: Louisiana, which consists of parishes, and Alaska, which uses boroughs.](https://www.reddit.com/r/todayilearned/comments/5amvuf/til_all_states_in_the_us_are_divided_into/)
+1. Centripetal force is the force acting on the center. Centrifugal force is the force acting outward on the flying object.
+1. Creatine, to quote the Internet: "Holy shit, they're not wrong. Basically the majority of days are fine, no effects, then all of a sudden I will have a day where I am basically pissing out of my ass."
+1. An AWD vehicle like the Ford Fusion requires all tires to be the same radius, even taking tire wear into account. Failure to do so [will break the differential](https://www.reddit.com/r/Justrolledintotheshop/comments/5c1x9c/why_you_dont_replace_one_tire_on_an_awd_fusion/). Some AWD/4WD systems [don't even engage](https://www.youtube.com/watch?v=jkiv-bWbLIo). [It is often better to just buy a F/F car.](https://www.reddit.com/r/Justrolledintotheshop/comments/5c1x9c/why_you_dont_replace_one_tire_on_an_awd_fusion/d9tdw6d/)
+1. To get memory protection, you need special ECC RAM. [Don't use Btrfs](http://superuser.com/questions/959431/how-to-fix-bit-rot-back-up-strategy) with non-ECC RAM either, because you know it'll try to recover, and recover incorrectly.
 1. [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
 1. `m3u8`s are `m3u`s with UTF-8 encoding.
 1. When cooking a steak with cast iron, use oil, and [don't try to move the meat until it comes off the pan by itself](https://youtube.com/watch?feature=youtu.be&v=KLGSLCaksdY).
-1. You are supposed to [return to the auto shop and retorque your wheels](http://www.reddit.com/r/justrolledintotheshop/comments/58z12z/_/), especially if the wheel and hub are made of different materials.
+1. You are supposed to [return to the auto shop and retorque your wheels](http://www.reddit.com/r/justrolledintotheshop/comments/58z12z/_/), especially if the wheel and hub are made of different materials. Otherwise, [this](https://www.thestar.com/news/gta/2016/11/22/watch-snow-tire-fly-off-vehicle-on-hwy-407.html) can happen.
 1. Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
 1. Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
 1. What's fun about languages and locales is that the starting weekday for `fr` can be Monday or Sunday, depending on whether `-CA` is specified.
@@ -1125,6 +1143,22 @@
 1. Before you move, make sure the home insurance insurer covers your new address.
 1. *Temperature arithmetic is not a trivial task. If I told you to multiple '10 degrees C' by 2, what would you get: 20 degrees C, or 293 degrees K * 2?*  (Solution is akin to `timedelta`, where the units are always specified.)
 1. The `utm_*` tags like `utm_source` and `utm_campaign` came from ["UTM"](https://urchin.biz/urchin-software-corp-89a1f5292999#.tp44uqer7), Urchin Traffic Monitor. The San Diego company later became Google Analytics.
+1. ["搵食啫，犯法呀"](http://evchk.wikia.com/wiki/%E6%90%B5%E9%A3%9F%E5%95%AB%EF%BC%8C%E7%8A%AF%E6%B3%95%E5%91%80) is a perfect justification to anything you are doing.
+1. ["Just because pizza sits out for an hour or two doesn't mean you have to throw it away."](http://www.fitday.com/fitness-articles/nutrition/healthy-eating/myth-or-fact-leftover-pizza-is-okay-to-leave-out.html) TIL not this fact, but that there are people out there who need to be told this fact.
+1. Identical twins do not share fingerprints. This is because they don't share any identical phenotype at all. Similar, maybe. Identical, definitely not.
+1. Bronze V is the losers' league of league of legends.
+1. If [bombshell](https://en.wikipedia.org/wiki/Bombshell_%28sex_symbol%29) means sex symbol, what does "on that bombshell" mean if taken out of context?
+1. There are places without mosquitoes, like Antarctica.
+1. Even "jobless trans quad-amputees of *color*" need to check their privilege on Tumblr for being endothermic mammals like they are, lest they freeze to death during the winter, like a snake.
+1. For a country as shaky as Japan, they sure appreciate a lot of porcelain.
+1. [The hijab is only required within the mosque.](https://www.youtube.com/watch?v=axEqfphTUqs) Unless you are Arab. In which case, the entire country is a mosque.
+1. The Bahamas (and Cuba) is really, really close to Miami.
+1. Interestingly, Nassau, the capital of the Bahamas, is on the smaller island.
+1. Heckler & Koch are known for their [backwards rounds catalog](https://youtu.be/XiX2rb3cgzY). Anyone on the Internet inserting bullets backwards is actually paying them a homage, not being an idiot.
+1. That "It's got electrolytes, it's what plants crave" nonsense came from [Brawndo](https://www.youtube.com/watch?v=-Vw2CrY9Igs), the sports drink made up by movie [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy).
+1. Kansas City is not in Kansas. Kansas City was founded before Kansas, so Kansas was just running out of names (or something).
+1. There is a [giant crater](https://en.wikipedia.org/wiki/Ren%C3%A9-Levasseur_Island) at the middle of Quebec. It is now called René-Levasseur Island.
+1. [Gyms were much more fun](http://imgur.com/A2SBDyp) in the 1940s.
 1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
 1. Samsung phones often have the NFC and wireless charging coils wrapped up inside the battery housing.

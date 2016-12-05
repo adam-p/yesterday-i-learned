@@ -1161,7 +1161,10 @@
 1. [Gyms were much more fun](http://imgur.com/A2SBDyp) in the 1940s.
 1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
-1. 
+1. Capers are their flower buds. The smaller the size, the more desirable.
+1. "[Perth, Ontario](https://en.wikipedia.org/wiki/Perth,_Ontario) was the site of the last fatal duel in Upper Canada. Robert Lyon, a law student, was killed on June 13, 1833 after fighting over a woman (Elizabeth Hughes) with a former friend, John Wilson."
+1. There is an actual term for microwaved food not tasting as good: ["warmed-over flavour"](https://en.m.wikipedia.org/wiki/Warmed-over_flavor). It is caused by fats being broken down into less flavourful aldehydes and ketones.
+1. [It costs money to ask Canada Post to forward your mail](https://www.canadapost.ca/web/en/products/details.page?article=forward_your_mail_wh&ecid=display|ddn|ml|225).
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

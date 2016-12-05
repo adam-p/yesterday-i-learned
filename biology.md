@@ -36,7 +36,7 @@
 1. Prawns have [three pairs of claws](http://i.stack.imgur.com/GyirW.jpg). Shrimp have two pairs.
 1. Hair greying is caused by hydrogen peroxide build-up in the follicles. Reduction in methionine intake is linked to this buildup.
 1. Rabies patients are to fear water so they swallow less spit and bite more, for the purpose of transmission.
-1.
+1. [Beetle shells are wings.](https://www.quora.com/Why-do-some-insects-have-2-pairs-of-wings-and-some-have-only-one-pair-What-are-the-pros-and-cons-of-having-2-pairs-versus-1-pair) *Coleoptera* (sheath wings) have the first pair of wings, now a shell, covering the second.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

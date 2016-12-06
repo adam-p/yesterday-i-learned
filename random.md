@@ -1165,6 +1165,10 @@
 1. "[Perth, Ontario](https://en.wikipedia.org/wiki/Perth,_Ontario) was the site of the last fatal duel in Upper Canada. Robert Lyon, a law student, was killed on June 13, 1833 after fighting over a woman (Elizabeth Hughes) with a former friend, John Wilson."
 1. There is an actual term for microwaved food not tasting as good: ["warmed-over flavour"](https://en.m.wikipedia.org/wiki/Warmed-over_flavor). It is caused by fats being broken down into less flavourful aldehydes and ketones.
 1. [It costs money to ask Canada Post to forward your mail](https://www.canadapost.ca/web/en/products/details.page?article=forward_your_mail_wh&ecid=display|ddn|ml|225).
+1. When you *lost* control in the snow (not before you lose it), you are supposed to [hit the gas into the intended direction](https://www.reddit.com/r/canada/comments/5gn9lt/crazy_morning_outside_the_office/), not brake. Braking does nothing in that particular situation.
+1. [`http://www.google.com/blank.html` and `http://clients3.google.com/generate_204`](http://webmasters.stackexchange.com/a/30689) are the urls hit by captive portal detection.
+1. Despite her being the central plot line, Dolores Abernathy did not appear once in S01E06 of Westworld.
+1. In the world of automotive repairs, "economy part" means the part is meant for cars that are to be sold shortly. "premium part" is something you would get for any other kind of car.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

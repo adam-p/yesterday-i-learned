@@ -1161,7 +1161,6 @@
 1. [Gyms were much more fun](http://imgur.com/A2SBDyp) in the 1940s.
 1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
-<<<<<<< HEAD
 1. Capers are their flower buds. The smaller the size, the more desirable.
 1. "[Perth, Ontario](https://en.wikipedia.org/wiki/Perth,_Ontario) was the site of the last fatal duel in Upper Canada. Robert Lyon, a law student, was killed on June 13, 1833 after fighting over a woman (Elizabeth Hughes) with a former friend, John Wilson."
 1. There is an actual term for microwaved food not tasting as good: ["warmed-over flavour"](https://en.m.wikipedia.org/wiki/Warmed-over_flavor). It is caused by fats being broken down into less flavourful aldehydes and ketones.
@@ -1170,12 +1169,10 @@
 1. [`http://www.google.com/blank.html` and `http://clients3.google.com/generate_204`](http://webmasters.stackexchange.com/a/30689) are the urls hit by captive portal detection.
 1. Despite her being the central plot line, Dolores Abernathy did not appear once in S01E06 of Westworld.
 1. In the world of automotive repairs, "economy part" means the part is meant for cars that are to be sold shortly. "premium part" is something you would get for any other kind of car.
-=======
 1. Samsung phones often have the NFC and wireless charging coils wrapped up inside the battery housing.
 1. If matrix multiplication means [placing the second matrix on top of the first one, and calculating the dot products successively](http://matrixmultiplication.xyz/), then in order to multiply two matrices, the number of columns of the first must equal to the number of rows of the second.
 1. [Timsort](https://en.wikipedia.org/wiki/Timsort), somewhere between insertion sort and merge sort, was made by Tim Peters, the same man who wrote PEP 20.
 1. If you want a reason to dislike the [double spacing](http://www.quickanddirtytips.com/education/grammar/two-spaces-after-a-period) plague, here's a sick burn: ["Your typing as well as your typesetting will benefit from unlearning this quaint [double spacing] Victorian habit"](https://en.wikipedia.org/wiki/Sentence_spacing#Typography)
->>>>>>> 6999f6703d4c2a6fae114e7d7f3f137df89445af
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

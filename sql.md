@@ -68,6 +68,7 @@
 * Continuing from the point above, if the first column in a multi-column index (^ i.e. `a`) is selected as a range, the subsequent indices (i.e. `b`) are useless in the same query. 
   **Make sure the first column in a multi-column index is selected exactly.**
 * Getting the create table SQL for a table: [see guide](http://stackoverflow.com/a/16154183/1558430)
+* [`SELECT COUNT(*) FROM tbl` is slow](https://wiki.postgresql.org/wiki/Slow_Counting); use only with indexed `WHERE` queries instead.
 
 ## Troubleshooting
 

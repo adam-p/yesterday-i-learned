@@ -426,6 +426,7 @@ That's because you really can't. You can't `git push origin -u anything` unless 
 * `git log --stat` shows diffs as well as the commit messages.
 * Git commits have two dates: commit date and author date. Changing one of the dates (e.g. via cherry-picking) will change the hash of that commit.
 * You can `git diff` and `git diff HEAD`. If you already `git add`ed some things and made further changes before committing, `git diff HEAD` shows you changes including in the files already added.
+* To add a "local remote", [literally](http://www.thehorrors.org.uk/snippets/git-local-filesystem-remotes/) `git remote add origin /local/path/myrepo.git`.
 
 [github]: https://help.github.com/articles/remove-sensitive-data
 [github 2]: https://help.github.com/articles/permission-levels-for-an-organization-repository

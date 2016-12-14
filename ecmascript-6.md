@@ -86,6 +86,8 @@ array.map((p) => p * 2);
 array.reduce((p, q) => (p + q));  // example with two arguments
 ```
 
+`arguments` cannot be used inside arrow functions, much like `this` cannot be.
+
 * [Default arguments](http://ariya.ofilabs.com/2013/02/es6-and-default-argument.html):
 
 ```

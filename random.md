@@ -1173,6 +1173,17 @@
 1. If matrix multiplication means [placing the second matrix on top of the first one, and calculating the dot products successively](http://matrixmultiplication.xyz/), then in order to multiply two matrices, the number of columns of the first must equal to the number of rows of the second.
 1. [Timsort](https://en.wikipedia.org/wiki/Timsort), somewhere between insertion sort and merge sort, was made by Tim Peters, the same man who wrote PEP 20.
 1. If you want a reason to dislike the [double spacing](http://www.quickanddirtytips.com/education/grammar/two-spaces-after-a-period) plague, here's a sick burn: ["Your typing as well as your typesetting will benefit from unlearning this quaint [double spacing] Victorian habit"](https://en.wikipedia.org/wiki/Sentence_spacing#Typography)
+1. ["Distributed guessing"](http://eprint.ncl.ac.uk/file_store/production/230123/19180242-D02E-47AC-BDB3-73C22D6E1FDB.pdf) is when a hacker tries the same credit card with different expiry dates and CVV on different sites at the same time, hitting retry limits on none of them. The valid combination [of expiry and CVV] can optimistically be found in minutes, and much harder if address is required.
+1. It is not so hard to believe [Josephus Daniels' name](http://qz.com/88453/why-coffee-is-called-joe/) stands for coffee, when Jack Daniels' name stands for whiskey. Joe got the fame for banning alcohol, directly offering coffee as a substitute.
+1. "Scars are a testament to life. Scars are a testament that I can love deeply and live deeply and be cut, or even gouged, and that I can heal and continue to live and continue to love. And the scar tissue is stronger than the original flesh ever was. Scars are a testament to life." - [GSnow](https://www.reddit.com/r/Assistance/comments/hax0t/my_friend_just_died_i_dont_know_what_to_do/c1u0rx2/)
+1. Summary of 2016 was ["Harambrexitrump,"](https://www.reddit.com/r/AskReddit/comments/5hpdlg/whats_the_tldr_for_2016/db20gqv/) reliable sources say.
+1. Black Monday began in Hong Kong.
+1. fstrim is done on f2fs automatically. (It is "not necessary")
+1. [*Side*](http://www.urbandictionary.com/define.php?term=Side) can refer to a gay man who do not receive anal penetration.
+1. Battery packs are now commonly referred to as [尿袋](http://s.nextmedia.com/realtime/a.php?i=20161213&s=10829391&a=56040208).
+1. "Fun fact, in space fuses don't work well because there is no gravity for the melted bit to fall away, so they continue to transmit electricity until the fuse metal boils away or the equipment fails."
+1. It was said that Denny's, a restaurant chain once proud of never closing, decided to close after 35 years of continuous operation. Some of the stores had no locks; many more failed to find keys for them. [But they do close when required by law.](https://en.wikipedia.org/wiki/Denny's)
+1.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

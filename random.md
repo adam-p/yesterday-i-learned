@@ -1194,6 +1194,33 @@
 1. [Watch your target partner (every so often), even when someone else in the group is talking.](https://www.youtube.com/watch?v=R3UODz5O8zo) This makes your target partner think you care about their reactions.
 1. When someone asks "Where are you from" or "What do you do", try to respond the question with something that relates to the asker. For "What do you do", *you* should not be asking it because not everyone is proud of what they do. If you are the one answering "What do you do", then attempt to add the word "help" into the response, i.e. ["I help people get the best Japanese candies the country has to offer,"](https://www.candyjapan.com/) rather than "I run a website that sells Japanese candies". A valid alternative to "What do you do" is "How do you spend most of your time".
 1. *Parroting* is a lazy technique that repeats a term from the last sentence the other person said. followed by a question mark. It is a bailout method that keeps the conversation going without contributing anything to it. "I watched Westworld last night. It was amazing." "Westworld?"
+1. The Scots have the earliest surviving [fried chicken recipe](http://www.wideopencountry.com/this-18th-century-fried-chicken-recipe-is-breaking-the-internet/). It involves a lemon marinate and fresh parsley.
+1. The bible never said no to cannibalism. It more often said "do not murder", while never ruling out human sacrifice (Genesis 22). Since humans are neither shellfish nor hoofed, apart from superstition, the bible never really ruled out consumption of anyone who died in a way that drained out their own blood.
+1. Cow's milk, from 3.25% to skim, have about the same protein content per unit volume (0.03kg/L).
+1. A large number of electronics fail because of a [single capacitor failure](https://www.reddit.com/r/Frugal/comments/5j634b/computer_monitor_stops_working_because_of_a_4/), called "capacitor plague" if manufactured before year 2007. Regardless, before throwing electronics away, do open it up and check for capacitors that appear to be bloated, a sign that they have gone bad.
+1. [Dorothy Parker](https://en.wikipedia.org/wiki/Dorothy_Parker), acclaimed wisecracker, answered the door on screen with "what fresh hell is this".
+1. The most relevant weather zip code is 14174.
+1. [Muslims cannot cook pork](http://islam.stackexchange.com/questions/10719/can-a-muslim-cook-pig-meat), not because it is a sin, but because eating pork is a sin, and helping others sin (i.e. eat pork) is a sin.
+1. Vermouth is almost no different from sherry. Real vermouth would have aromatics in it, but not if you buy the cheap stuff, like the brand "Martini".
+1. Pyrex does not mean good. Check [the pyrex guide](https://www.reddit.com/r/BuyItForLife/comments/5ji9cq/now_that_pyrex_is_intentionally_weakening_their/) before buying. The glass should not have a bluish tint. Also check [the logo](https://i.imgur.com/olslOMN.jpg) before you buy.
+1. Stephen Lake, Thalmic Labs, once tried to lower company expenditure by [writing a blog post about how much STEM people should earn.](https://medium.com/@srlake/debunking-the-myth-of-higher-pay-in-silicon-valley-87828cbf6698#.2vrwrfxcr) He failed.
+1. Jet fuel can't melt steel beams, but jet fuel can certainly weaken steel beams.
+1. "Twenty-two astronauts were born in Ohio. What is it about your state that makes people want to flee the Earth?" - Stephen Colbert
+1. There is both a president and prime minister for Russia, with the president being the higher one. Vladimir was the PM from 1999 to 2000, president from 2000 to 2008, prime minister from 2008 to 2012, and president from 2012 to forever.
+1. Nair burns.
+1. "Let's go" has an apostrophe because it is possessive. Example: *It is Let's go pro.*
+1. The Helsinki syndrome was mentioned in both Die Hard and Top Gear.
+1. "Cleopatra lived closer in time to the Moon landing than she did to the building of the Pyramids." - /u/panzerkampfwagen
+1. Barbers ("Barber Surgeons") used to perform bloodletting and various other minor surgeries. This was the reason they had their red and white [spinning poles](https://en.m.wikipedia.org/wiki/Barber's_pole#Use_in_barbering) in front of their shops.
+1. "In the event (...) where passengers have to cover their heads you do not 'lock' your fingers over head but place one hand on top of the other. If something falls on your hand/head, you'll still have one good hand to use."
+1. Usually when people realise that termites exist, it is already too late to learn from the mistake.
+1. Omega 3 can lower your tolerance to/for marijuana *iff* you have a bad ratio of omega 3:6 intake.
+1. The [american fuzzy lop](https://en.wikipedia.org/wiki/American_fuzzy_lop_%28fuzzer%29) (not to be confused with the rabbit by the name) is a genetic test fuzzer.
+1. Accepting your current employer's counter offer, when you tell them you have an offer elsewhere, [is](https://www.reddit.com/r/programming/comments/4rkoz7/most_programmers_are_underpaid_heres_what_you_can/d52bbtj/) a form of bridge burning.
+1. Forearm crutches have a [natural advantage](https://www.youtube.com/watch?v=4TEfM5Y8S5M) when it comes to transporting bags hooped onto its handles. [Because so few people are prescribed forearm crutches](http://www.walkeasy.com/interact/board/default.asp?sub=show&action=posts&fid=6&tid=80), they tend to be [more expensive](http://canescanada.com/Loftstrand-Forearm-Crutches--Adult-and-Child_p_553.html).
+1. Ibuprofen can be taken with food or milk to lessen stomach upset.
+1. [Dim the lights if someone is having a migraine.](https://www.reddit.com/r/AskReddit/comments/5l3dsr/doctorsnurses_of_reddit_what_is_the_most_obvious/dbst3lz/) And don't shout.
+1. Oymyakon is the coldest place on Earth.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

@@ -198,6 +198,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * Your superstition is correct. [Ports are not open unless there is a program listening on (opening) them](http://superuser.com/a/82495), and the firewall exists to prevent internal programs from receiving commands by listening to a port. (This does not explain / protect against programs that are polling a control centeux.)
 * [`sort file | uniq -c | sort -nr`](http://stackoverflow.com/a/6447515/1558430) is an incredibly common operation for tallying lines in a file.
 * If a `/data/data/` restore event took place, but your backups don't work (apps keep crashing), try [`restorecon -Rv /data/data/org.app.app`](http://forum.xda-developers.com/showpost.php?p=67319237&postcount=3). "con" stands for context.
+* The only reason crontab entries suck so much is because the units don't line up with datetimes: [minute, hour, day of month, month, day of week], without even the day conditions grouped together.
 
 ## Tmux
 

@@ -50,6 +50,10 @@
 1. [Spoonerism](https://en.wikipedia.org/wiki/Spoonerism) refers to comedic switches in the first syllables of two or more words, like "belly jeans".
 1. *Buggery* means anal intercourse. "He will be *Buggered*" means that he will be sodomised.
 1. "Refrigerator", Refrigerate, from frigerate ("to make cold"), from *frigus* (cold). The G should have been hard, similar to *Refriggurator*.
+1. Because it is French, the T in *Montréal* is never pronounced.
+1. The [long s](https://en.wikipedia.org/wiki/Long_s) (`ſ`) was used where the `s` is not at the end of a word, or to replace the first `s` whenever two `s`s are together. Then people realised the differentiation is uſeleſs, replacing `ſ` with just `s`.
+1. Maple syrup (Sirop d'érable) is similar to Petroleum syrup (Sirop d'Arabie).
+1. 
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

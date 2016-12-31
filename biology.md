@@ -40,7 +40,15 @@
 1. [Arm span DOES NOT necessarily equal height](http://www.science-sparks.com/2013/05/21/is-your-arm-span-equal-to-your-height/)
 1. Parrots have [articulating beaks](https://www.reddit.com/r/Damnthatsinteresting/comments/5ez70v/how_a_parrots_beak_is_so_flexible/). They are not bolted to the skull.
 1. Fun fact: ["At some point during a snail's life, its body will twist in a way such that it would allow the snail to retract its head into the shell, offering better protection. However, as a result, the snail's anus will sit directly above its head, and the anus could empty into its mouth."](https://www.reddit.com/r/AskReddit/comments/5igg47/what_animal_did_evolution_fuck_over_the_hardest/) - SgtBrassBallz
-1.
+1. Sheep have huge testicles.
+1. [Convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution) is a term used to describe how both Rick Santorum and [spineless hedgehogs](http://imgur.com/a/d19QL) evolved to appear the same as a shaved testicle.
+1. Elephants cannot drink cow's milk.
+1. Wild hamsters [fight standing up](https://www.youtube.com/watch?v=rqGTIm4dkVU), like Pikachu does.
+1. Cat fact! [Cats cannot taste sweet.](https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/)
+1. Cat fact! [Their rear paws almost always land where their front paws were.](https://en.wikipedia.org/wiki/Cat#Anatomy)
+1. The world's best-selling bra, as of 2005, was said to be the full-cup "Doreen" (the laser cones) by Triumph International in size 36D.
+1. [Whatever causes fetal hair to grow also causes heartburn on the mother.](https://www.ncbi.nlm.nih.gov/pubmed/17150070)
+
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

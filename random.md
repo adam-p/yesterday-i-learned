@@ -1221,6 +1221,17 @@
 1. Ibuprofen can be taken with food or milk to lessen stomach upset.
 1. [Dim the lights if someone is having a migraine.](https://www.reddit.com/r/AskReddit/comments/5l3dsr/doctorsnurses_of_reddit_what_is_the_most_obvious/dbst3lz/) And don't shout.
 1. Oymyakon is the coldest place on Earth.
+1. There is [a woman out there](https://youtu.be/1hN89U_XD9E) who is a real hand model.
+1. [People who live in trucks and vans](https://www.reddit.com/r/vandwellers/comments/5mk4vb/consuming_alcohol/) and drink may be charged with DUI, even if they have no intention of going anywhere.
+1. HSPA (HSDPA and HSUPA, for download/upload) is often called 3.5G.
+1. Mounting android's system as rw: `mount -o rw,remount,rw /system`
+1. Mounting android's system as ro: `mount -o ro,remount,rw /system` (I know right)
+1. "Genuine leather" is rubbish. Get "Full-Grain Leather" instead.
+1. Carrie Fisher put her own ashes ("had her ashes put") in [an urn shaped like] a [giant prozac pill](http://www.tri-cityherald.com/news/nation-world/national/article125081249.html). The pill was Carrie's prized posessions.
+1. Saint John is in New Brunswick (west). St. John's is in Newfoundland (east). Cape Spear happens to be at St. Johns, the easternmost of Canada. And then there's [Saint Pierre and Miquelon](https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon), just south of NL, that belongs to the French.
+1. CT scans are still X ray.
+1. The right fist of Lenin's dead corpse is intentionally made clenched.
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

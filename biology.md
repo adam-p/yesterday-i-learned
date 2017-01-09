@@ -48,7 +48,12 @@
 1. Cat fact! [Their rear paws almost always land where their front paws were.](https://en.wikipedia.org/wiki/Cat#Anatomy)
 1. The world's best-selling bra, as of 2005, was said to be the full-cup "Doreen" (the laser cones) by Triumph International in size 36D.
 1. [Whatever causes fetal hair to grow also causes heartburn on the mother.](https://www.ncbi.nlm.nih.gov/pubmed/17150070)
-
+1. "The tibia is notorious for slow healing, mainly because of its poor blood supply."
+1. To date, only one eukaryote, Monocercomonoides, is known to have completely lost its mitochondria.
+1. MRSA initially creates pus-filled [bumps](http://www.mayoclinic.org/diseases-conditions/mrsa/basics/symptoms/con-20024479) on the skin.
+1. The Judas steer is the one cow that leads the pack.
+1. Syncope (SIN-coh-pee) is literally fainting.
+1. 橙 > 柑 > 桔, except where 桔 can be both kumquat (金桔) and clementine (桔).
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

@@ -1231,7 +1231,25 @@
 1. Saint John is in New Brunswick (west). St. John's is in Newfoundland (east). Cape Spear happens to be at St. Johns, the easternmost of Canada. And then there's [Saint Pierre and Miquelon](https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon), just south of NL, that belongs to the French.
 1. CT scans are still X ray.
 1. The right fist of Lenin's dead corpse is intentionally made clenched.
-1. 
+1. Based on its fat composition, the cholesterol in shrimp is considered the good kind.
+1. Border Security is an actual reality show. Unlike other reality shows.
+1. The traces of cocaine left on paper money is often enough to set off customs detectors.
+1. According to documentation published by the Evanston Public Library (Illinois), the drinking of soda was outlawed on Sundays in Illinois. This gave rise to an alternative called the Sundae.
+1. Braintree is a town in Essex.
+1. 陳方安生 has a younger twin sister, 陸方寧生.
+1. "Plan your next 30 years" - 80000 hours. ["Everybody has a plan until they get punched in the mouth." - Mike Tyson](https://news.ycombinator.com/item?id=13414116)
+1. Zuckerberg = sugar berg (pile of sugar)
+1. The bicycle seat should be level with the waist.
+1. ["Grey Goose made their bottles so skinny and tall so they would have to be placed on the top shelf."](https://www.reddit.com/r/AskReddit/comments/5oi03n/what_strange_idea_worked_because_people_are_weird/dckccru/) (like all other items in this list, this is not verified information)
+1. [Half of the people from Detroit are essentially illiterate.](http://detroit.cbslocal.com/2011/05/04/report-nearly-half-of-detroiters-cant-read/)
+1. Indexing UTF8 strings is an `O(n)` operation. Both JS and PHP chose UTF16 internally. It has disadvantages from both UTF8 & UTF32.
+1. Licencing under GPL is probably good, but [joining the GNU is probably a bad idea](https://libreboot.org/why-not-gnu/). Reasons mostly surround the loss of project decision making, as well as odd project toolchain requirements.
+1. [Ontario] [Subletters cannot rent out the place for more than its original rent.](https://www.ontario.ca/laws/statute/06r17#s134s3)
+1. The [Hammer unit](https://wiki.teamfortress.com/wiki/Hammer_unit) is Source Engine's smallest unit of distance, 1/16th of a foot (around 2cm).
+1. Archaic term [*Hondo*](http://www.urbandictionary.com/define.php?term=hondo) referred to "an old John Wayne movie".
+1. The ISS is set to retire in 2020. [Or 2024. Or 2028. Or...](https://www.google.com/search?q=The+ISS+is+set+to+retire+in)
+1. In MMA, it is a legal move to end a fighter's career by straight kicking the opponent's thigh in an attempt to hyperextend the knee.
+1. [Quincunx](https://en.m.wikipedia.org/wiki/Quincunx) is the special word for the 5-dot pattern on a die.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

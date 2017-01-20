@@ -54,6 +54,20 @@
 1. The Judas steer is the one cow that leads the pack.
 1. Syncope (SIN-coh-pee) is literally fainting.
 1. 橙 > 柑 > 桔, except where 桔 can be both kumquat (金桔) and clementine (桔).
+1. [Squid can die from overeating.](http://indianapublicmedia.org/amomentofscience/overeating-kill-2/) Its brain gets squished by the oesophagus when ingesting overly large items.
+1. Dogs in the Retriever family, having been bred to *retrieve* things rather than destroy them, [do not bite hard](https://www.reddit.com/r/gifs/comments/5oek00/dog_saves_owner_from_vicious_animal_attack/dciwegj/).
+1. The [wild apple](https://en.wikipedia.org/wiki/Malus_sieversii) is vulnerable to extinction.
+1. General or regional anesthetics often cause urinary retention ("cannot pee").
+1. Blood pressure can be raised by simply drinking more fluids.
+1. Use of diclofenac (a painkiller like advil) caused a 99.9% decline in the vulture population in India, due to renal failure.
+1. What Biore calls blackheads are [Sebaceous filaments](http://stylecaster.com/beauty/the-difference-between-blackheads-and-sebaceous-filaments/), and are [completely normal](https://www.reddit.com/r/popping/comments/4uoxnt/a_beautician_removing_black_heads/d5rqkmz/?context=10000). In fact, not only are they completely normal, forcibly removing them also makes your pores larger, making subsequent infections more frequent and serious.
+1. If your salivary gland ducts get clogged, you get [jelly cysts](https://en.wikipedia.org/wiki/Oral_mucocele).
+1. There is a giant salivary gland (parotid gland) right in front of your ears.
+1. [Plenty of birds have teeth.](http://webecoist.momtastic.com/2010/09/28/brush-your-beak-10-amazing-birds-with-teeth/)
+1. Down is the stuff underneath the feathers.
+1. Kangaroos cannot walk backwards.
+1. [Hysterectomy](http://www.differencebetween.net/science/health/difference-between-hysterectomy-and-hysterotomy/) is the removal of the uterus. Hysterotomy is the removal of the baby in the uterus. Even in the case of a live birth, premature labour is considered a complication in cases of hysterotomy.
+1. Imperial China [had plagues](https://zh.m.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B%E7%98%9F%E7%96%AB%E5%8F%B2) once every 10 years or so.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

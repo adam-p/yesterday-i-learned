@@ -75,3 +75,5 @@ $injector.get('$controller')('ControllerName', {
 * `$q` promises [DO](http://stackoverflow.com/questions/20068467/do-never-resolved-promises-cause-memory-leak) cause small memory leaks.
 * If you want to make a simple loop more complicated, `angular.forEach()` (or ES6's, for that matter) can change its `this` context using a third parameter, so you can do `this.push()` rather than the straightforward `array.push()`.
 * `==` and `===` do exactly what you think they do in angularjs 1.
+* Making a JS sandbox is difficult, so [they scrapped theirs in Angular 1.6](https://docs.angularjs.org/guide/security#sandbox-removal).
+* 

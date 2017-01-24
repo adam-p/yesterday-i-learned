@@ -57,6 +57,7 @@
 * [Read the docs](https://wiki.postgresql.org/wiki/Things_to_find_out_about_when_moving_from_MySQL_to_PostgreSQL). Postgres strings must be enclosed with single quotes. Double quotes only work for system identifiers.
 * You can choose the type of index to build. The default is B tree.
 * According to [this pgcon video](https://www.pgcon.org/2016/schedule/events/934.en.html), GIN indices are good for full text search, and GiST indices are good for full text search, and ranges in general (not just geospatial stuff).
+* [Want to write a bank app? Don't read-modify-update.](http://blog.2ndquadrant.com/postgresql-anti-patterns-read-modify-write-cycles/) Potential workarounds for race conditions include `INSERT` journals (inserting deltas, e.g. `insert... values (1)` for having one extra dollar), doing calculated `UPDATE`s (e.g. `update... set value = value + 1` for bumping up balance by 1), row locking with `SELECT... FOR UPDATE` (which waits if the row is already being read in another transaction), `BEGIN ISOLATION LEVEL SERIALIZABLE` (which aborts if another transaction is already updating the same row), or manage your own `version` column that limits what your `UPDATE` queries match (manually not recommended).
 
 ## Performance
 

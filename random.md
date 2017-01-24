@@ -6,7 +6,7 @@
 1. Because `iif` is a library function, it cannot short-circuit.
 1. [Claims had been made][lifehacker] that meditation improves memory recall.
 1. One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
-1. [APL = A Programming Language][wikipedia 3])
+1. [APL = A Programming Language][wikipedia 3]
 1. [Benford's Law][wikipedia 4]: statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.
 1. The `wheel` group: http://en.wikipedia.org/wiki/Wheel_(Unix_term) is a group of users with slightly more power than normal users, but less so than admins.
 1. Clean branch names: `echo "Some stupid branch name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` becomes `some-stupid-branch-name`
@@ -84,7 +84,6 @@
     * Exercise: the harder, the faster (lung expels alcohol), assuming you replenish your fluids
     * Tolerance: the more tolerated, the faster
 1. Chrome for iOS makes requests to `http://localhost:0` for [URL verification][newrelic].
-1. Adjective for *pervert*: *perverse*
 1. You once played poker with Lou (Louis J. Montulli II, The Netscape guy) in Sunnyvale. You did not win. Nor did he. Then again, you spent $20 and he went all-out.
 1. If you're the person talking to someone in a noisy club, speak at the person's shoulder and not their ear.
 1. An [aye-aye][wikipedia 12] is an animal.
@@ -114,7 +113,7 @@
 1. There *is* a way to pull changes from the parent repository once you've forked it. Create a PR, swap base and HEAD branches, and submit the PR to yourself.
 1. [XSS evasion cheatsheet][owasp]
 1. "Stag and Doe": Southern Ontarian term for a fiance and fiancee's pre-wedding party
-1. If your tailor asks "Where do you dress", it means "where's your penis hanging, left or right?"
+1. If your tailor asks "Where do you dress, sir," it means "where's your penis hanging, left or right?" And you should reply with "I do not dress, sir", meaning ["my penis is too small."](https://www.dailymotion.com/video/x2xvm9k_hugh-jackman-on-top-gear_fun)
 1. [Modems can transmit more than one bit per baud][ycombinator 2]
 1. Shebangs can be anything, [including rm][stackexchange 2]: `#!/bin/rm`
 1. "Thread safe" means that the code will never have problems with race conditions (one thing finishing before another).
@@ -126,7 +125,7 @@
 1. *Santorum (n.)* was a term made up to upset Rick Santorum, an imbecile residing in the United States.
 1. Checking if `nonInteraction` is on for your google analytics: turn the [Google Analytics Debugger][google] on and off again (serious), and check if any event you track contains `nonInteraction = 0` (`&ni=0`)
 1. **Welp** does *not* stand for "help": [To be used in place of 'well', when one feels there is no more to say.][urbandictionary]
-1. Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.wikipedia.org/wiki/Paddington_Bear#History
+1. Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.wikipedia.org/wiki/Paddington_Bear#History)
 1. Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
 1. [Mortgage][wikipedia 30] is French for "death pledge".
 1. It is illegal to pay your mortgage with loaned money, at least in the US.
@@ -156,7 +155,7 @@
 1. The automative "blind spots" exist no matter how you adjust your mirrors because [even though you follow this guide, you can still kill motor cyclists close to you][cs].
 1. We do not have enough nuclear weapons to blow up the moon. Even if we do, the moon would just clump back into a moon-size chunk.
 1. Hitler was Catholic.
-1. >These [banned] words include: "endofunctor", "anamorphism", "existential quantification", "beta reduction", "category theory", "final coalgebra", "Kleisli arrows", "Curry–Howard correspondence" and worst of all, the five letter word beginning with "m".
+1. On learning [F# for fun and profit](https://fsharpforfunandprofit.com/about/): >These [banned] words include: "endofunctor", "anamorphism", "existential quantification", "beta reduction", "category theory", "final coalgebra", "Kleisli arrows", "Curry–Howard correspondence" and worst of all, the five letter word beginning with "m".
 1. Italian phonotactics do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive extra terminal vowel sounds.
 1. During the holocaust, gays in concentration camps had a 60% death rate. When the war was over, they just went to another prison.
 1. Every drug approved by the FDA must be tested by what they call the [Limulus amebocyte lysate test][theatlantic] (aka blue blood from horseshoe crabs)
@@ -301,7 +300,6 @@
 1. [Janissaries][wikipedia 57] are Christian slaves in the Ottoman empire. They were subject to multiple types of abuse before gaining enough attention to be taken seriously.
 1. Boxxy (Catie Wayne) [does a video show now][youtube 5]. She got slightly less annoying.
 1. "Heck" came from **HE**ll and fu**CK**.
-1. It is not that dogs see grey; it is just that dogs have much better visual acuity towards the UV spectrum, making them unable to see red.
 1. [Pumping car tires with a bike pump] actually works pretty well to top off the pressure but it'll take a good while to pump it up from flat. It won't be hard to pump though. 35 psi is really low for a bike tire.
 1. A *foal* is a horse under one year old.
 1. In Europe, if you ask for "water", bottled water will be served by default, costing more than other beverages. Always ask for "tap water", or, preferably, "tap water, out of a tap, in a glass, not a bottle, the free kind, the kind I can get for zero Euros".
@@ -1250,6 +1248,22 @@
 1. The ISS is set to retire in 2020. [Or 2024. Or 2028. Or...](https://www.google.com/search?q=The+ISS+is+set+to+retire+in)
 1. In MMA, it is a legal move to end a fighter's career by straight kicking the opponent's thigh in an attempt to hyperextend the knee.
 1. [Quincunx](https://en.m.wikipedia.org/wiki/Quincunx) is the special word for the 5-dot pattern on a die.
+1. [Cops are the fattest.](http://time.com/3637967/police-officers-fattest-profession-study/) Probably from all the donuts.
+1. The EU does not have umbrella financial assistance programs. If someone goes unemployed in Alabama, there is a federal fund for that. If someone goes unemployed in Greece, Greece is responsible for it. This makes the EU weaker than the US.
+1. When you run out of money in your margin account, the broker will call you. [Margin call](http://www.investopedia.com/terms/m/margincall.asp) is literal in that sense.
+1. The [young Anakin actor](https://en.wikipedia.org/wiki/Jake_Lloyd) got schizophrenia and got arrested driving without a licence.
+1. At some arbitrary point, large enough ["scissors"](https://en.wikipedia.org/wiki/Scissors) become ["shears."](https://en.wikipedia.org/wiki/Shears#Cutting_devices)
+1. [Maryland has a law for catching undersized crabs.](http://www.baltimoresun.com/news/maryland/bs-md-undersized-crabs-20160713-story.html)
+1. "Triangular sails allow ships to sail into the wind as well as with it." - How It's Made episode about sails
+1. The lower the air pressure, the stronger the storm.
+1. Honeypot refers to a toilet seat that is just a bucket underneath. Luxury models include smell neutralising sawdust at the bottom of the bucket.
+1. [Betty White visits zoos AND buys bread.](http://mentalfloss.com/article/61054/15-things-you-didnt-know-about-betty-white)
+1. If a dog licks its lips, [it is uncomfortable](http://www.thebalancedcanine.com/canine-language/). If it licks its lips when you're scolding it, then it probably knows it did something wrong.
+1. Heating iron weakens it. Quenching iron while hot hardens it.
+1. Dark humour is just like water, not everyone gets it.
+1. The only way to fix a [nonunion](https://en.wikipedia.org/wiki/Nonunion#Treatment) is to have yet another surgery.
+1. Oxygen masks on planes do provide oxygen, but only for a few minutes. (they are only designed to save passengers from rapid depressurisation, not replace the hospital.)
+1.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

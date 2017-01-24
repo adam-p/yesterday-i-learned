@@ -68,6 +68,13 @@
 1. Kangaroos cannot walk backwards.
 1. [Hysterectomy](http://www.differencebetween.net/science/health/difference-between-hysterectomy-and-hysterotomy/) is the removal of the uterus. Hysterotomy is the removal of the baby in the uterus. Even in the case of a live birth, premature labour is considered a complication in cases of hysterotomy.
 1. Imperial China [had plagues](https://zh.m.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B%E7%98%9F%E7%96%AB%E5%8F%B2) once every 10 years or so.
+1. The most important types of cells that do not undergo mitosis (i.e. parts of you that don't heal) are: [nerve cells, brain cells, and heart muscle cells](http://www.madsci.org/posts/archives/2006-01/1137011862.Cb.r.html). This makes strokes and spinal injuries hard to fix. This does not give people an excuse when it comes to workouts, however, because [satellite cells](https://www.unm.edu/~lkravitz/Article%20folder/musclesgrowLK.html) adjacent to muscle cells *can* undergo mitosis, and fuse with (i.e. repair) muscle tissues.
+1. The [fundus](https://en.wikipedia.org/wiki/Stomach#Structure) (from Latin, "bottom") of the stomach is literally the top of the organ.
+1. ["Hemocyanin performs better (than hemoglobin) in cold, low pressure oxygen environments."](http://sciencecoop.weebly.com/the-difference-between-hemocyanin-and-hemoglobin.html) Some insects have hemocyanin; others have hemoglobin.
+1. It is not that dogs see grey; it is just that dogs have much better visual acuity towards the UV spectrum, making them unable to see red.
+1. [Sweat glands grow exclusively on the ridges of fingerprints, not the troughs](https://imgur.com/zjXiEkp) (?)
+1. [Peacocks can mate with chickens](https://www.reddit.com/r/AnimalsBeingJerks/comments/56tpq0/tailfull_of_cat_toys/d8ngebx/) to give [this monster](http://cdn.backyardchickens.com/d/de/900x900px-LL-de037d3e_8709570892_e76611071c_b.jpeg). Lays sterile eggs.
+1.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

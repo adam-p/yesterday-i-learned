@@ -1263,7 +1263,10 @@
 1. Dark humour is just like water, not everyone gets it.
 1. The only way to fix a [nonunion](https://en.wikipedia.org/wiki/Nonunion#Treatment) is to have yet another surgery.
 1. Oxygen masks on planes do provide oxygen, but only for a few minutes. (they are only designed to save passengers from rapid depressurisation, not replace the hospital.)
-1.
+1. If you have the flu, don't visit your elderly relatives. It won't end well for them.
+1. If housing prices rise by 10% in Toronto, housing prices in Hamilton will rise by 14% one year later. If housing prices drop by 10% in Toronto, housing prices in Hamilton will drop by 14% one year later.
+1. The States people [wave to everyone](https://www.youtube.com/watch?v=rJ0qBTbIkOI) while driving. One finger, two fingers, whole hand. Every car.
+1. Britney shaved her hair partly because her dad forced her to keep working, partly because there was a drug test involving hair, and [hair can come back positive even years after the habit stopped](https://www.reddit.com/r/funny/comments/5pu6mh/i_think_a_lot_of_us_can_relate_to_this/dcu1m3l/), depending on length.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

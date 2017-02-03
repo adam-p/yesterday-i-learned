@@ -1267,6 +1267,39 @@
 1. If housing prices rise by 10% in Toronto, housing prices in Hamilton will rise by 14% one year later. If housing prices drop by 10% in Toronto, housing prices in Hamilton will drop by 14% one year later.
 1. The States people [wave to everyone](https://www.youtube.com/watch?v=rJ0qBTbIkOI) while driving. One finger, two fingers, whole hand. Every car.
 1. Britney shaved her hair partly because her dad forced her to keep working, partly because there was a drug test involving hair, and [hair can come back positive even years after the habit stopped](https://www.reddit.com/r/funny/comments/5pu6mh/i_think_a_lot_of_us_can_relate_to_this/dcu1m3l/), depending on length.
+1. Trump's office blatantly lies about stuff [to gauge what they can get away with.](https://www.reddit.com/r/SocialEngineering/comments/5preks/why_trumps_staff_is_lying/)
+1. The [electoral college](https://www.archives.gov/federal-register/electoral-college/about.html) is a process where people vote for a person [for a party] running for some leadership role in a state/province, and then the government tallies up these numbers and pretend as if it were the popular vote, i.e. citizens directly voting for a president/prime minister.
+1. "PRN" (*Pro re nata*) means "as needed". See other [latin abbreviations on prescriptions](http://www.medicinenet.com/script/main/art.asp?articlekey=6954): qd (*quaque die*, once a day), bid (*bis in die*, twice a day), tid (*ter in die*, thrice a day), qid (*quater die*, four times a day), q*n*h (every *n* hours), ac (before meals), pc (after meals), po (orally), pr (rectally), IM (inject muscle), IJ (inject vein), SQ (subQutaneous or something)
+1. When painting the wall, don't rush. Saturate the roller (most important), apply to wall in a w shape, then spread in the area covered by the w.
+1. Unlike Oxycontin, [OxyNeo gels up](http://www.ctvnews.ca/mobile/oxycontin-replacement-still-powerfully-addictive-mds-1.776170) when crushed and made wet, making it hard to snort.
+1. Ingrown nails are mainly caused by ill-fitting footwear, not genetics.
+1. Sound travels 5x faster in water, but [more quietly](http://www.reddit.com/r/explainlikeimfive/comments/5qcr3p/-/dcy9qcn), so you rarely hear anything unless it was loud.
+1. God in Family Guy has four fingers. God in The Simpsons has five.
+1. Firemen suits often emit a beeping noise when there is no movement detected in a period of time. [There was a lot of chirping at the World Trade Center site from firefighter suits.](https://www.youtube.com/watch?v=oM4CMtsdNjY)
+1. [London stank in 1858.](https://en.wikipedia.org/wiki/Great_Stink) They then improved drainage systems, completing the work in around 1875.
+1. [Never, under any circumstances, mention why you don't like your previous environment in an interview.](https://www.reddit.com/r/AskReddit/comments/5oyw4m/what_should_someone_not_discuss_during_a_job/dcn633x/) Just say you want more challenging work or develop new skills or something.
+1. The Dachshund dog (silent H, DAK-soond) is called Dackel in German, even though Dachshund is a German word.
+1. ["Trompe-l'œil"](https://en.wikipedia.org/wiki/Trompe-l'%C5%93il) is the French way of saying "3D painting".
+1. Differing from the book, Boromir dies at the end of the first film instead of the beginning of the second book.
+1. The body should not swivel when performing the shoulder check. This puts the car at risk of drifting.
+1. 5mg of oral oxycodone is roughly equivalent to 8.5 regular Advils or Tylenols.
+1. According to [John](https://en.wikipedia.org/wiki/J._R._R._Tolkien), [Unless Elves "lose their will to live", they don't die.](http://tolkiengateway.net/wiki/Elven_Life_cycle)
+1. New Zealand's daylight timezone is GMT+13.
+1. Cheap semiauto firearms are typically [blowback](https://en.wikipedia.org/wiki/Blowback_%28firearms%29). More advanced firearms have [gas operated](https://en.m.wikipedia.org/wiki/Gas-operated_reloading) mechanisms, with separate gas channels and pistons that are [more suited for high power cartridges](https://www.quora.com/What-are-advantages-and-disadvantages-of-gas-operated-firearms).
+1. "Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should" came from [Jeff](https://www.youtube.com/watch?v=4PLvdmifDSk&app=desktop) in Jurassic Park.
+1. Oyster sauce and coca cola share the same food colouring, [E150](https://en.m.wikipedia.org/wiki/Caramel_color).
+1. There *was* a nuclear shipping vessel, [NS Savannah](https://en.wikipedia.org/wiki/NS_Savannah).
+1. [值太歲 = Current zodiac (I think)](http://www.outoftruth.com/wp-content/uploads/2014/09/%E7%8A%AF%E5%A4%AA%E6%AD%B2.jpg)
+1. [沖太歲 = Current zodiac ± 6 (I think)](http://outoftruth.com/%E7%8E%84%E5%AD%B8%E9%9B%9C%E8%AB%96/%E7%8A%AF%E5%A4%AA%E6%AD%B2%EF%BC%9F-2013825/)
+1. 破太歲 = Current zodiac + 3 (???)
+1. 刑太歲 = Current zodiac - 3 (???)
+1. 害太歲 = Current zodiac + 1 (???)
+1. The Chinese claim to be able to identify whether someone is potentially a criminal by [looking at their faces](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/), raising concerns for successful, law-abiding citizens that are just ugly.
+1. Ryan Reynolds has a daughter called James. [He claims it's not strange: “I mean, I didn’t call her Summer Squash Meadowlark, or something.”](http://www.usmagazine.com/celebrity-news/news/ryan-reynolds-defends-his-baby-daughter-james-unusual-name-w163540)
+1. Toronto's police mounted unit [gives out trading cards](https://www.thestar.com/news/gta/2013/10/11/toronto_cops_count_on_trading_cards_to_bond_with_public.html) to those who ask.
+1. The symbol of medicine is the Rod of Asclepius, which has only a single snake around it. The [staff of] Caduceus, on the other hand, has two snakes, and is [the staff of the god who escorts you to the afterlife](https://www.reddit.com/r/funny/comments/5rf9e6/this_is_one_cocky_hospital/dd7db6d/), which is obviously inappropriate for the medical profession.
+1. [Traffic cone machines](https://www.clippard.com/cms/tags/traffic-cone-dispenser) put traffic cones down on roads.
+1. "Wallflower" also refers to shy people who don't dance at a dance. (because they stay by the wall)
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

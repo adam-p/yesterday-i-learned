@@ -55,6 +55,10 @@
 1. Maple syrup (Sirop d'érable) is similar to Petroleum syrup (Sirop d'Arabie).
 1. In Hindi, *matlab* ("it means") is a filler word.
 1. Adjective for *pervert*: *perverse*
+1. Croissant is the French word for Crescent. They are rolled up triangles.
+1. Bagel is from Yiddish: בײגל‎ beygl, in turn from German beugel; pronouncing it BAG-o is incorrect.
+1. Diaspora should NOT be pronounced die-ASS-pra.
+1. [Chinese and Japanese are not as affected by dyslexia than Arabic.](https://www.reddit.com/r/explainlikeimfive/comments/5qupij/eli5_how_is_being_dyslexic_in_symbol_languages/)
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

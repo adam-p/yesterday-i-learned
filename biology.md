@@ -74,7 +74,18 @@
 1. It is not that dogs see grey; it is just that dogs have much better visual acuity towards the UV spectrum, making them unable to see red.
 1. [Sweat glands grow exclusively on the ridges of fingerprints, not the troughs](https://imgur.com/zjXiEkp) (?)
 1. [Peacocks can mate with chickens](https://www.reddit.com/r/AnimalsBeingJerks/comments/56tpq0/tailfull_of_cat_toys/d8ngebx/) to give [this monster](http://cdn.backyardchickens.com/d/de/900x900px-LL-de037d3e_8709570892_e76611071c_b.jpeg). Lays sterile eggs.
-1.
+1. [Hydromorphone is 1.6x stronger than IV morphine.](https://en.wikipedia.org/wiki/Equianalgesic) Oxycodone is half as strong as IV morphine, and 1.5x stronger than oral morphine. This is compared to acetaminophen (1/360 as strong as oral morphine, or 3.6g per effective dose) and ibuprofen (1/222 as strong as oral morphine, or 2.22g per effective dose).
+1. [African trypanosomiasis](https://en.wikipedia.org/wiki/African_trypanosomiasis) aka Sleeping sickness, is a parasitic disease transmitted by the tsetse fly, that causes fever, headaches and aching muscles, and eventually increasing tiredness that puts the victim into a fatal sleep. People can be carriers for 30 years.
+1. Snail shells grow because there is a strip of cells on the inside, [mineralising](https://www.quora.com/How-does-a-snail-make-its-shell) the outer lip.
+1. The [Ginkgo tree](https://en.wikipedia.org/wiki/Ginkgo_biloba) is hyperallergenic (apparently). It is also the only surviving species in its entire class, Ginkgoopsida.
+1. Ibuprofen and Aspirin hurt the stomach because they inhibit both COX-1 and COX-2, and COX-2 plays a role in the protection of the stomach, kidney, and platelets. Pfizer claims that [Celebrex](https://en.wikipedia.org/wiki/Celecoxib) selectively binds to COX-2 and is therefore better on the stomach, but [they might have made it up.](http://www.nytimes.com/2012/06/25/health/in-documents-on-pain-drug-celebrex-signs-of-doubt-and-deception.html)
+1. Rubbing a lobster upside down along "the spine" (they don't have spines but you know) [paralyses it](https://www.youtube.com/watch?v=9A_odoO2S2Y).
+1. ["Open reduction"](http://www.orthopaedics.com.sg/treatments/screw-fixation) means surgery (open) to put things back to their normal position (reduction). "Internal fixation" means putting screws in you.
+1. [Fainting goats](https://en.wikipedia.org/wiki/Fainting_goat) were intentionally bred to have a hereditary genetic disorder called myotonia congenita, which will stiffen the goats and fall over if startled.
+1. [Hawthorn](https://en.wikipedia.org/wiki/Crataegus), short by an `e`, is 山楂.
+1. [Dogs finish teething within one year.](http://www.vivo.colostate.edu/hbooks/pathphys/digestion/pregastric/dogpage.html). A common abnormality in canine dentition is retention of deciduous (baby) teeth, which is no big deal because their mouths are (usually) so long.
+1. [Lychee contains an amino acid (which?)](http://mobile.abc.net.au/news/2017-02-02/lychee-identified-as-cause-for-mystery-indian-childhood-illness/8233964?pfmredir=sm) that can alter children's blood glucose levels, rendering them sick.
+1. Marijuana blocks REM sleep; REM sleep is supposed to improve long term memory, but marijuana just stopped it.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

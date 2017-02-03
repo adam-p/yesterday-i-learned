@@ -76,4 +76,4 @@ $injector.get('$controller')('ControllerName', {
 * If you want to make a simple loop more complicated, `angular.forEach()` (or ES6's, for that matter) can change its `this` context using a third parameter, so you can do `this.push()` rather than the straightforward `array.push()`.
 * `==` and `===` do exactly what you think they do in angularjs 1.
 * Making a JS sandbox is difficult, so [they scrapped theirs in Angular 1.6](https://docs.angularjs.org/guide/security#sandbox-removal).
-* 
+* `$http.get` accepts a `timeout: Promise` that times out the request if the given promise resolves ahead of time.

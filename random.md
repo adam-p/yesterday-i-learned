@@ -1300,6 +1300,20 @@
 1. The symbol of medicine is the Rod of Asclepius, which has only a single snake around it. The [staff of] Caduceus, on the other hand, has two snakes, and is [the staff of the god who escorts you to the afterlife](https://www.reddit.com/r/funny/comments/5rf9e6/this_is_one_cocky_hospital/dd7db6d/), which is obviously inappropriate for the medical profession.
 1. [Traffic cone machines](https://www.clippard.com/cms/tags/traffic-cone-dispenser) put traffic cones down on roads.
 1. "Wallflower" also refers to shy people who don't dance at a dance. (because they stay by the wall)
+1. In 2017, Jennifer Aniston remains divorced.
+1. Good grilled cheese involve sppreading butter on the pan sides of the bread.
+1. Intel processors stopped having pins. [Now the pins are on the motherboard.](http://i.imgur.com/aJn81KL.jpg)
+1. Marshawn Lynch was known for [Beast Mode](https://www.youtube.com/watch?v=H2P6TwZlh6A), his ability to displace other players. [Oscar Gamble](https://en.wikipedia.org/wiki/Oscar_Gamble) was known for "They don't think it be like it is, but it do".
+1. [Snails have brain parasites. Turtles give you colds.](https://www.reddit.com/r/pics/comments/5rqbxq/this_is_a_weirdlooking_rabbit/dd9itc8/?context=10000) Maybe more.
+1. The correct trigger finger position is [the middle of the first joint](http://i.imgur.com/Zu89sza.jpg).
+1. ["(Orthopedic) hardware is often harder to take out than put in"](http://www.healio.com/orthopedics/trauma/news/online/%7B1f854283-164c-4fda-b169-d53ee35e324c%7D/nearly-68-of-patients-improve-after-hardware-removal-but-surgery-is-costly) so you really don't want to take it out unless you are a child/teenager, or do contact sports, or are allergic to it.
+1. ["Tax deductible"](https://familyshare.com/200/what-does-it-mean-to-be-tax-deductible-and-why-does-it-matter) means something reduces your taxable income, often in the form of tax credits. A non-tax deductible expense is therefore one that does not give you tax credits.
+1. [大洋](https://zh.wikipedia.org/wiki/%E9%8A%80%E5%9C%93) was a Spanish set of coins from the 15th-century.
+1 A Baptist U research found that a conspiracy gets worse if the government tries to dispute it. This stems from people's distrust of the government. To dispel the conspiracy, let a famous scholar do the job.
+1. "Military grade" is not that great. "Aircraft grade" isn't all that great either. What you want is Toyota grade or .
+1. ["On Inauguration Day, Trump apparently filed his candidacy for 2020. Beyond being unusual, this opens up the ability for him to start accepting “campaign contributions” right away. Given that a sizable fraction of the campaign funds from the previous cycle were paid directly to the Trump organization in exchange for building leases, etc., at inflated rates, you can assume that those campaign coffers are a mechanism by which US nationals can easily give cash bribes directly to Trump."](https://medium.com/@yonatanzunger/trial-balloon-for-a-coup-e024990891d5#.fop83h2ew) (same article: there is a very tight group of people running the [Trump](https://np.reddit.com/r/politics/comments/5s4r9r/socalled_judge_criticized_by_trump_is_known_as_a/ddcfc3o/) government, intending to test the limits of the American administration, to see how much they can get away with before the people stage a coup.)
+1. Mongolia has by far [the highest liver cancer rate per capita](http://www.wcrf.org/int/cancer-facts-figures/data-specific-cancers/liver-cancer-statistics), apparently from hep A/B.
+1. Yoga [reportedly](https://www.reddit.com/r/Fitness/comments/5s327o/exercicesstretches_to_stop_neck_cracking/ddc6s6h/) reduces the need to crack necks.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

@@ -202,6 +202,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 * `dd` derived from the mainframe JCL DD (data definition) statement.
 * To prettify JSON, [pipe it to '| python -m json.tool'.](http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json)
 * SSH port forwarding: `ssh -L 8000:localhost:80 user@remote`. Navigate to `localhost:8000` to reach `remote:80`.
+* Turn CPUs on and off with `echo 0 or 1 > /sys/devices/system/cpu/cpu(0~n)/online`. If you decide to turn cores off, you may find the CPU even hotter than before, making this idea worthless for power saving.
 
 ## Tmux
 

@@ -64,6 +64,8 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 
 Further reading: [0001.md](sources/0001.md)
 
+* [Buy the rumour sell the news](http://www.investopedia.com/stock-analysis/2010/buy-on-the-rumor-sell-on-the-news-vod-vz-t-aapl-goog0706.aspx): traders typically dump shares immediately after a new product is introduced. You should therefore buy the shares somewhere around two weeks after the release, and sell a week before the hype cycle comes to a close.
+
 #### To buy
 
 * Consider buying stocks in a *bull market*: a market where people are starting to gain confidence in investing.

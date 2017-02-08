@@ -59,6 +59,9 @@
 1. Bagel is from Yiddish: בײגל‎ beygl, in turn from German beugel; pronouncing it BAG-o is incorrect.
 1. Diaspora should NOT be pronounced die-ASS-pra.
 1. [Chinese and Japanese are not as affected by dyslexia than Arabic.](https://www.reddit.com/r/explainlikeimfive/comments/5qupij/eli5_how_is_being_dyslexic_in_symbol_languages/)
+1. *I* is capitalised only because [Chaucer didn't like how *i* looked when he was writing The Canterbury Tales.](http://blog.dictionary.com/whycapitali/)
+1. Like the Turkish word *yoğurt*, [Yogurt](http://writingexplained.org/yogurt-vs-yoghurt-difference) has no H. But it is also pronounced YO-sh-t.
+1.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

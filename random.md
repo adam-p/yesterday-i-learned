@@ -1314,6 +1314,23 @@
 1. ["On Inauguration Day, Trump apparently filed his candidacy for 2020. Beyond being unusual, this opens up the ability for him to start accepting “campaign contributions” right away. Given that a sizable fraction of the campaign funds from the previous cycle were paid directly to the Trump organization in exchange for building leases, etc., at inflated rates, you can assume that those campaign coffers are a mechanism by which US nationals can easily give cash bribes directly to Trump."](https://medium.com/@yonatanzunger/trial-balloon-for-a-coup-e024990891d5#.fop83h2ew) (same article: there is a very tight group of people running the [Trump](https://np.reddit.com/r/politics/comments/5s4r9r/socalled_judge_criticized_by_trump_is_known_as_a/ddcfc3o/) government, intending to test the limits of the American administration, to see how much they can get away with before the people stage a coup.)
 1. Mongolia has by far [the highest liver cancer rate per capita](http://www.wcrf.org/int/cancer-facts-figures/data-specific-cancers/liver-cancer-statistics), apparently from hep A/B.
 1. Yoga [reportedly](https://www.reddit.com/r/Fitness/comments/5s327o/exercicesstretches_to_stop_neck_cracking/ddc6s6h/) reduces the need to crack necks.
+1. Super Bowl 51 (2017) is/was the first overtime Super Bowl game in history.
+1. Doctors saying "stat" is short for *statim*, "immediately". "Now" is apparently too ambiguous.
+1. On June 30th 2015, Greece became the first developed country to fail to make an IMF loan repayment. Liechtenstein was not, and still is not, part of the IMF.
+1. The larger the opening of a vacuum cleaner, the more powerful the suction is, according to Mythbusters.
+1. Black boxes are called [flight recorders](https://en.wikipedia.org/wiki/Flight_recorder). They are always orange, never black.
+1. According to How It's Made, New Balance shoes are mostly made manually. Things are sewn on manually, laces are tied manually, name is stitched on manually.
+1. "Mass murder of the political opposition is not genocide" was said to be an important distinction because *genocide* is dedicated to "mass murder of a particular ethnic group or nation." Therefore, the [mass killings](http://www.bbc.com/news/world-middle-east-38885901) taking place during the Syrian conflict are not genocides.
+1. A preferred rotation of planets came about when [all the planets going the other way got destroyed by the planets that go the other way](https://youtube.com/watch?v=MTY1Kje0yLg). Whichever direction with more planets wins.
+1. "Gravity warps spacetime", meaning [it figuratively warps the axes on which we make measurements](https://www.youtube.com/watch?v=jlTVIMOix3I). An apple thrown up falls down can actually be considered travelling linearly upward at a constant speed, had there not been a gravity distortion of spacetime.
+1. The baseball referee is called the umpire.
+1. Someone (or some group of people) was [bored enough to look at frames where Luke Skywalker appeared slightly larger](http://biggerluke.wikidot.com/bigger-luke), and then write up an entirely hypothesis on it.
+1. Never say "yes" over the phone. Such a recording of "yes" can be used to [make purchases under your name](http://www.cbc.ca/news/canada/edmonton/can-you-hear-me-phone-scam-warning-bbb-1.3970312), with "yes" being a proof of permission.
+1. "Trade surplus" is a good thing. It means exports > imports, not "exports did not meet or exceed quota".
+1. Muzzle brakes counter recoil. They do not make things any quieter. (In fact they make rounds louder for the user)
+1. If someone didn't understand what you meant, it's probably better to assume you suck at explaining.
+1. The slimy, dodgy, evasive way politicians speak, where conversations *always* amount to nothing, is called [equivocation typology](http://theconversation.com/theresa-may-has-a-very-special-technique-for-avoiding-questions-67424). "[They equivocate] not necessarily because they are devious, slippery or evasive, but because conflict is endemic to politics, and politicians get asked a lot of questions that cause communicative conflicts."
+1. "Kidnapping" the bride and chipping in money for the ransom to get her back is a tradition in [Macedonia, Serbia, Hungary, Romania](https://www.reddit.com/r/AskWomen/comments/5sly8j/what_do_you_think_is_tacky_to_have_at_a_wedding/ddg9zow/), according to /u/mrs_sassypants.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

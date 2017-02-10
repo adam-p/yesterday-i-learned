@@ -32,6 +32,7 @@
 * It is [completely possible](https://github.com/django/django/blob/428c0bbe1bcd303560d7e96d7d2721ff3fdc0e3f/django/db/models/expressions.py#L155) to filter by an `F('time_field') + timedelta(seconds=???)`.
 * Translated string substitutionss (e.g. `_('hello %(world)s')`) must be named because you don't necessarily want all langauges to have those translations in the same order.
 * Annotating a query with an [`ExpressionWrapper` field](http://stackoverflow.com/a/40618185/1558430) allows queries to be built using a result of some multi-field computation, which you normally cannot.
+* Django 1.9 now has a [`Now()`](https://docs.djangoproject.com/en/1.10/ref/models/database-functions/#now) you can use to `filter(field__lt=Now())`. If the two servers have the same timestamp at the same time, using this and whatever from `datetime` have no functional difference.
 
 ## WSGI
 

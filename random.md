@@ -1331,6 +1331,22 @@
 1. If someone didn't understand what you meant, it's probably better to assume you suck at explaining.
 1. The slimy, dodgy, evasive way politicians speak, where conversations *always* amount to nothing, is called [equivocation typology](http://theconversation.com/theresa-may-has-a-very-special-technique-for-avoiding-questions-67424). "[They equivocate] not necessarily because they are devious, slippery or evasive, but because conflict is endemic to politics, and politicians get asked a lot of questions that cause communicative conflicts."
 1. "Kidnapping" the bride and chipping in money for the ransom to get her back is a tradition in [Macedonia, Serbia, Hungary, Romania](https://www.reddit.com/r/AskWomen/comments/5sly8j/what_do_you_think_is_tacky_to_have_at_a_wedding/ddg9zow/), according to /u/mrs_sassypants.
+1. Canada had a different flag during World War I, World War II, and World War III.
+1. [Tea](https://en.wikipedia.org/wiki/Tea) is exclusively beverages brewed with [Camellia sinensis](https://en.wikipedia.org/wiki/Camellia_sinensis) leaves. All other forms of brewed beverages can be called "juices".
+1. That white powder on elastic/rubber bands is talc.
+1. Thomas Chapais on [Je me souviens](https://en.wikipedia.org/wiki/Je_me_souviens): "Yes, we remember. We remember the past and its lessons, the past and its misfortunes, the past and its glories," sort of like "lest we forget."
+1. [Oil fondue](https://www.atelierdeschefs.fr/fr/recette/13686-fondue-bourguignonne.php) (no cheese) is a thing. You dip raw meat in hot oil to cook it.
+1. Winter looks bleak because tree trunks and mud share the same colour.
+1. [Homeopathy](https://en.wikipedia.org/wiki/Homeopathy) is explicitly healing through dilution [of a pathogen that caused the illness in the first place], not just any health product. Anything that says "concentrate" in the first ingredient is not homeopathic.
+1. Scars can stay red for 3-4 months.
+1. GO trains are powered by diesel. Some professor guy recommends against sitting in the car right behind the locomotive.
+1. Never buy a car designed during a recession or depression. They have massive per-car margins.
+1. Plywood is made by shaving off plys of wood from the log, like a pencil sharpener.
+1. To get copper out of ores primarily iron oxide, they just spray dilute sulphuric acid over it, leeching the copper out on a massive scale, in the form of copper sulphate. They then extract the copper from that solution.
+1. Quaff means to drink [alcohol] heartily.
+1. As a double-edged sword, [load-bearing exercise prevents osteoporosis](https://www.agingcare.com/articles/exercise-for-bone-health-133151.htm), at the risk of falling. Cycling is not a load-bearing exercise.
+1. On [rubbish haircuts](https://www.reddit.com/r/Showerthoughts/comments/5t3274/i_am_never_100_satisfied_with_my_haircut_but_i/ddjtywi/): *[I went to] a high end stylist and told them straight up, "I've never had a haircut I'm really happy about and I don't know what I want. I can tell you I don't like X or Y but I'm hoping you can give me some suggestions/ideas for a style that would work for me." It turned out great, they discussed what would and wouldn't work with my faceshape and hairline and showed me some options etc. Eventually I ended up with a style I really like and have been rocking it for almost a year.*
+1. If biweekly is ever confusing, you can always go with fortnightly, and, uh, "twice a week".
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

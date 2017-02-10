@@ -5,3 +5,5 @@
 * Opoids cause constipation.
 * Epsom salt in a bath does nothing medically beneficial. It is also impossible to get too much magnesium from epsom salt baths. People go into saturated magnesium sulphate baths in isolation tanks all the time, and none of them were poisoned by it.
 * It is possible to ["accidentally make an explosive"](http://epigram.org.uk/news/2017/02/41190), [TATP](https://en.wikipedia.org/wiki/Acetone_peroxide), by mixing acetone and hydrogen peroxide. *Wolffenstein combined acetone and hydrogen peroxide, and then he allowed the mixture to stand for a week at room temperature, during which time a small quantity of crystals precipitated*. The resulting powder is [fairly useless](https://www.youtube.com/watch?v=MEdnNOi6DS4).
+* [Mineral wool](https://en.wikipedia.org/wiki/Mineral_wool) is a bunch of mineral fibres spun together.
+* Biodiesel came from used cooking oil and cow hide processing. Proponents say biodiesel contains less cancer-causing particles.

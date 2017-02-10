@@ -86,6 +86,7 @@
 1. [Dogs finish teething within one year.](http://www.vivo.colostate.edu/hbooks/pathphys/digestion/pregastric/dogpage.html). A common abnormality in canine dentition is retention of deciduous (baby) teeth, which is no big deal because their mouths are (usually) so long.
 1. [Lychee contains an amino acid (which?)](http://mobile.abc.net.au/news/2017-02-02/lychee-identified-as-cause-for-mystery-indian-childhood-illness/8233964?pfmredir=sm) that can alter children's blood glucose levels, rendering them sick.
 1. Marijuana blocks REM sleep; REM sleep is supposed to improve long term memory, but marijuana just stopped it.
+1. Birds of prey are also known as raptors.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

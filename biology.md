@@ -87,6 +87,8 @@
 1. [Lychee contains an amino acid (which?)](http://mobile.abc.net.au/news/2017-02-02/lychee-identified-as-cause-for-mystery-indian-childhood-illness/8233964?pfmredir=sm) that can alter children's blood glucose levels, rendering them sick.
 1. Marijuana blocks REM sleep; REM sleep is supposed to improve long term memory, but marijuana just stopped it.
 1. Birds of prey are also known as raptors.
+1. Not only do dolphins rape whales, [they are also friends with them](http://www.techly.com.au/2015/05/13/dolphins-caught-going-whale-rides-hawaii-yep-thats-exactly-sounds-like/).
+1. [Famine suppresses boy genes.](https://youtube.com/watch?v=3IaYhG11ckA) Having the mother around males other than the father also increases chances of stillbirth.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

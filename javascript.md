@@ -217,6 +217,9 @@ undefined
 * There are things that Riot cannot do, like AJAX; the docs recommend using jQuery, and then [`trigger()`ing an observable()](https://muut.com/riotjs/guide/#example-riot-application-de).
 * Putting a `debugger` statement somewhere in Riot tags does trigger the debugger, where the current `this` is some Riot object; however, it cannot direct the debugger to the correct line of execution.
 
+## Node
+
+* [Assigning anything to `process.env`](http://stackoverflow.com/questions/42170365/how-do-i-remove-a-value-in-process-env), even if it is `null` or `undefined`, converts it to their strings `"null"` and `"undefined"`. To delete a key from `process.env`, `delete` it.
 
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/

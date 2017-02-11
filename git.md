@@ -352,6 +352,10 @@ See also: [backing up your keys][stackoverflow 14]
 
 `git checkout -b (useful branch name)` because the branch name becomes Gerrit's topic name.
 
+#### My branch name is not useful
+
+Clean branch names: `echo "Some stupid branch name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` becomes `some-stupid-branch-name`
+
 Change your code there, and commit your code.
 
 ### How should I be committing code?

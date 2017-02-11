@@ -8,9 +8,6 @@
 1. One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
 1. [APL = A Programming Language][wikipedia 3]
 1. [Benford's Law][wikipedia 4]: statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.
-1. The `wheel` group: http://en.wikipedia.org/wiki/Wheel_(Unix_term) is a group of users with slightly more power than normal users, but less so than admins.
-1. Clean branch names: `echo "Some stupid branch name" | sed -r 's/[!., ]/-/g;s/--/-/g' | tr '[:upper:]' '[:lower:]'` becomes `some-stupid-branch-name`
-1. Download HTTP directory listings / crawl a sub-site with `wget`: [`wget -m -np http://cordova.apache.org/docs/en/3.2.0/`][stackoverflow 2]. Don't rely on it, however.
 1. (Naming) [Safari won't handle `css.gz` or `js.gz`.][stackoverflow 3]
 1. An "heir presumptive" is different from an "heir apparent" in that the presumptive can be displaced by someone who is born later in higher priority (?). An example would be if the Queen's parents had another younger son.
 1. [Euthanasia is neither a natural nor unnatural cause of death][wikipedia 5].
@@ -18,8 +15,6 @@
 1. Oversteer: the front wheels are turning fine, but the back is steering too much.
 1. Press `shift+delete` over any autosuggestion item in Chrome to [delete it][reddit].
 1. Fake cheeses are orange because [it was once the trait that healthy cows make carotene-rich milk][onebigfluke]. (The article itself is also interesting.)
-1. It is spelled "[Feliz Navidad][youtube]".
-1. [Executable shabangs with parameters reveal what shebangs really mean][superuser]
 1. [To send a message to Bob, encrypt a message using Bob's public key. Bob's private key can decrypt the message. Because only Bob has Bob's private key, only Bob will receive the message.][wikipedia 6]
 1. Making yourself happy is not your wife's job. It is your own job. (You know what I mean)
 1. [Specific page][wikipedia 7] about tricking user into believing an internationalised domain name (IDN) is the genuine site
@@ -474,7 +469,7 @@
 1. [Pescetarians][wikipedia 93] eat... no meat, except for fish and seafood, which are obviously not meat (because fish don't have feelings).
 1. [Propan-2-ol can remove most things from your car][youtube 11], as long as you understand that it won't be the most effective.
 1. [With great ride comes with terrible handling][cartoq]; softening the suspension makes the car turn like a boat. This is also why sports cars have stiff suspensions (and horrible for your back).
-1. [Almost all modern cars have synchromesh, if you don't have it fitted you will need to 'double declutch'][drivingfast]
+1. [Almost all modern cars have synchromesh, if you don't have it fitted you will need to 'double declutch'][drivingfast] ("to change to a lower gear in a motor vehicle by first placing the gear lever into the neutral position before engaging the desired gear, at the same time releasing the clutch pedal and increasing the engine speed")
 1. For steaming eggs, [a good ratio of water to eggs would be 1.5:1][wikipedia 94]
 1. [shitty link] [It is not illegal to ask interviewees if they have been *convicted* of a crime][omgfacts], but illegal to ask if they have been *arrested*.
 1. It is also unwise (and not required) to answer "[when did you graduate?][omgfacts]", because that gives away your age, and therefore, your ability/experience.
@@ -493,11 +488,9 @@
 1. [Clutches are in their resting position when down][answers].
 1. Japanese girls have not been [licking doorknobs}[tumblr] for more than three years.
 1. "[Dude][reddit 37]" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
-1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.][reddit 38]
+1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.][reddit 38] This makes electroshocking impossible in salt water.
 1. However much Google results decide to decay, the way to check the device's battery percentage is `cat /sys/class/power_supply/battery/capacity`
-1. Not only do dolphins rape whales, [they are also friends with them][techly].
 1. [Star anise][wikipedia 99] make shikimic acid, an intermediate for oseltamivir (tamiflu).
-1. [Famine suppresses boy genes.][youtube 12] Having the mother around males other than the father also increases chances of stillbirth.
 1. Carbines are shorter versions of rifles.
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
 1. [Tap codes][wikipedia 100] go through walls, which morse code does not (because it is not possible to have 'long knocks')
@@ -1347,6 +1340,16 @@
 1. As a double-edged sword, [load-bearing exercise prevents osteoporosis](https://www.agingcare.com/articles/exercise-for-bone-health-133151.htm), at the risk of falling. Cycling is not a load-bearing exercise.
 1. On [rubbish haircuts](https://www.reddit.com/r/Showerthoughts/comments/5t3274/i_am_never_100_satisfied_with_my_haircut_but_i/ddjtywi/): *[I went to] a high end stylist and told them straight up, "I've never had a haircut I'm really happy about and I don't know what I want. I can tell you I don't like X or Y but I'm hoping you can give me some suggestions/ideas for a style that would work for me." It turned out great, they discussed what would and wouldn't work with my faceshape and hairline and showed me some options etc. Eventually I ended up with a style I really like and have been rocking it for almost a year.*
 1. If biweekly is ever confusing, you can always go with fortnightly, and, uh, "twice a week".
+1. Turns out if the syntax of a request payload is correct, but the request cannot be satisfied, [the error code can be 422 Unprocessable Entity (RFC 2616), or 400 Bad Request (RFC 7231).](http://stackoverflow.com/a/20215807/1558430) Depending on how archaic you and your system are, you might consider making the distinction using 422.
+1. [XKCD 1053](https://xkcd.com/1053/) gets the "10000/day" figure by averaging the US birth rate across 30 years. In reality, this should be a very, very positively skewed bell curve, with most people knowing something well ahead of their 30th birthdays.
+1. Bus seats are dark and patterned to discourage graffiti.
+1. A Jeopardy episode with very hard questions don't work, because either everyone will have $0 at the end, or someone will end up with $200, "win", and be suspected of cheating.
+1. Some CPUs have [lids](http://i.imgur.com/r88MCqt.jpg). You were stupid enough to think it was one giant chip.
+1. "if LEDs overheat, they burn out"
+1. Don't short penny stocks. In fact, just don't short: ["there isn't a short seller on the forbes 100 for a reason."](https://www.reddit.com/r/investing/comments/5t3df3/please_explain_me_why_is_cats_pe_so_high_and_why/ddk1jpa/)
+1. Before you look for a job in the service industry, ask if there is an union you should join.
+1. The ugliest website for a "soverign state" goes to [THE PRINCIPALITY OF HUTT RIVER](http://www.principality-hutt-river.com/) [~image~](http://imgur.com/bdCbteq), not [North Korea](http://www.korea-dpr.com/), which looks great by comparison.
+1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm
@@ -1601,7 +1604,6 @@
 [stackoverflow 12]: http://stackoverflow.com/questions/31507143/why-does-2-40-equal-42
 [stackoverflow 13]: http://stackoverflow.com/questions/1592291/what-is-the-email-subject-length-limit
 [stackoverflow 14]: http://stackoverflow.com/questions/4568267/android-min-sdk-version-vs-target-sdk-version
-[stackoverflow 2]: http://stackoverflow.com/a/5317668/1558430
 [stackoverflow 3]: http://stackoverflow.com/a/5502390/1558430
 [stackoverflow 4]: http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux
 [stackoverflow 5]: http://stackoverflow.com/a/8077830/1558430
@@ -1610,10 +1612,8 @@
 [stackoverflow 8]: http://stackoverflow.com/a/3883023/1558430
 [stackoverflow 9]: http://stackoverflow.com/questions/4825680/how-do-you-make-chrome-pinned-tabs-flash
 [straightdope]: http://boards.straightdope.com/sdmb/archive/index.php/t-152702.html
-[superuser]: http://superuser.com/a/195834
 [superuser 2]: https://superuser.com/questions/386984/can-attackers-harvest-wifi-passwords-by-spoofing-essid/386997#386997
 [tandfonline]: http://www.tandfonline.com/doi/abs/10.3109/14722240500284070
-[techly]: http://www.techly.com.au/2015/05/13/dolphins-caught-going-whale-rides-hawaii-yep-thats-exactly-sounds-like/
 [techspot]: http://www.techspot.com/news/63292-tech-companies-face-criminal-charges-if-they-notify.html?
 [ted]: http://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions?language=en
 [telegraph]: http://www.telegraph.co.uk/news/2016/04/13/dyson-airblades-spread-germs-1300-times-more-than-paper-towels/
@@ -1864,10 +1864,8 @@
 [ycombinator 6]: https://news.ycombinator.com/item?id=10929547
 [ycombinator 7]: https://news.ycombinator.com/item?id=11016265
 [ycombinator 8]: https://news.ycombinator.com/item?id=10812332
-[youtube]: https://www.youtube.com/watch?v=xMtuVP8Mj4o&
 [youtube 10]: https://youtube.com/watch?v=IijQyX_YCKA
 [youtube 11]: https://www.youtube.com/watch?v=YCxxxxyd0Ps
-[youtube 12]: https://youtube.com/watch?v=3IaYhG11ckA
 [youtube 13]: https://youtube.com/watch?v=fa28lIGuxq8
 [youtube 14]: https://youtube.com/watch?feature=youtu.be&v=Tx3djo_SsJ0
 [youtube 15]: https://youtube.com/watch?v=eQ2OZKitRwc

@@ -64,6 +64,7 @@
 1. [Special subtraction cases](https://www.math.nmsu.edu/~pmorandi/math111f01/RomanNumerals.html) in the Romman numeral system occur only if a specific character is repeated four or more times, like "IIII" becomes "IV", "VIIII" becomes "IX", "LXXXX" (90) becomes "XC", and "DCCCC" (900) becomes "CM". There are no other special cases.
 1. Words that mean both Hello and Goodbye include *Ciao*, *shalom*, *annyeong*, and *aloha*.
 1. It is spelled "[Feliz Navidad](https://www.youtube.com/watch?v=xMtuVP8Mj4o&)".
+1. If [anyone](http://semiaccurate.com/2017/02/10/lg-good-reason-use-snapdragon-821-g6/) writes words like [naïve, coöperation or reëlect](http://www.grammarphobia.com/blog/2011/04/diaeresis.html), tell them to [sod off](https://www.theatlantic.com/entertainment/archive/2012/04/we-resist-further-cooperation-cooperation/328832/).
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

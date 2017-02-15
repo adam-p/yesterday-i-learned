@@ -51,8 +51,17 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 * *Earnings*, *earnings growth*, and *return on equity (ROE)* should be 10% higher than the year before.
 * *Sales* and *Equity* (if present) should be higher than the year before.
 * *Debt* should be less than half of the company's *assets*.
-* The stock's *price-to-earnings ratio* should be between 20 and 40. [Generally speaking, having a high P/E ratio means that investors like you and believe that you have a bright future.](http://techcrunch.com/2014/07/05/the-new-fast-food/)
+* The stock's *price-to-earnings ratio* should be between 20 and 40. [Generally speaking, having a high P/E ratio means that investors like you and believe that you have a bright future](http://techcrunch.com/2014/07/05/the-new-fast-food/), but [too high of a P/E ratio means that the stock is overvalued.](http://www.investopedia.com/articles/00/092200.asp)
 * The stock's *price-to-sales ratio* should be close to 1.
+
+[You should also like what the company does](https://www.reddit.com/r/stocks/comments/5rsnr5/what_is_the_most_important_research_before_buying/dd9v416/):
+* Sales growth of at least 10% over the past year.
+* Low debt
+* High quality management with a good track record and unquestionable integrity
+* Leading market position or a dominant player in a niche market
+* Positive operating cash flow
+* High insider ownership
+* Competitive advantage of some sort, something that prevents or makes it hard for competition to enter
 
 ### Looking for a generic trade
 

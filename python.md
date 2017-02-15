@@ -337,7 +337,7 @@ print foo()
 * You can specify [requirements for each platform and python version](http://stackoverflow.com/questions/29222269/is-there-a-way-to-have-a-conditional-requirements-txt-file-for-my-python-applica/35614580#35614580) in requirements, like this: `atomac==1.1.0; sys_platform == 'darwin'`
 * Backticking a variable `x` is equivalent to `repr(x)`, but since it is only for python2, it is better if you never learned it.
 * Doing [`from builtins import dict`](http://python-future.org/compatible_idioms.html#dictionaries) (provided by the [future](http://askubuntu.com/a/728339) package) in a file automatically makes any `dict()`'s `.values()` an iterable, saving memory in python2 and 3 without `.itervalues()`. This does not apply to dict literals.
-
+* `**kwargs` do not need to contain variable name-only keys. You can call `foo(**{' ': None})` if you want.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

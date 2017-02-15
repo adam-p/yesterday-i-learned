@@ -31,7 +31,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 * Well, you cannot specify [offline file wildcards](http://stackoverflow.com/questions/8001196/how-do-i-specify-a-wildcard-in-the-html5-cache-manifest-to-load-all-images-in-a).
 * Saving too much in localStorage gives you a `DOM Exception 22: QuotaExceededError`.
 * In `<head>`, when you expect a script to have access to nothing: [`document.head` is actually available.](https://eager.io/blog/everything-I-know-about-the-script-tag/)
-* 
+* "Use of the Application Cache is deprecated on insecure origins", which is great. [AppCache sucks blue balls](http://alistapart.com/article/application-cache-is-a-douchebag), anyway.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

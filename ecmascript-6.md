@@ -211,3 +211,7 @@ foo
 [Only in an `async`-marked function can you use `await`](http://masnun.com/2015/11/11/using-es7-asyncawait-today-with-babel.html). An `await` in a non-`async function` throws a SyntaxError.
 If a promise is resolved, then the lines after `await` run. Otherwise, it throws an error and any `catch` blocks run.
 If an async function has multiple return points: since a promise can only resolve once, it will always resolve with the first value.
+
+## ES 2017
+
+* RegExp will now support negative lookahead, which uses `(?<!foo)` to ensure a pattern is not preceded by another pattern. `(?<!foo)bar` will never match `foobar`.

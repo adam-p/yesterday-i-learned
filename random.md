@@ -674,7 +674,7 @@
 1. [Design a thing before building it.][gsa] Also in the link: software design tips
 1. [Scion][wikipedia 156] is a branch to be grafted into/onto another tree, hence the name of the car brand, which was branched off Toyota.
 1. Jews call meatloaf "Klops", the German word for meatball.
-1. In Canada: ["It is legal to sell and serve dog meat, providing that it must be killed and gutted in front of federal inspectors."][wikipedia 157]
+1. In Canada: ["It is legal to sell and serve dog meat, providing that it must be killed and gutted in front of federal inspectors."][wikipedia 157] "In order for a meat processor to obtain a license to slaughter dogs for food, it would have to prove that the dogs were raised explicitly for food and not to keep as pets."
 1. In USA: ["The term "dog" has been used as a synonym for sausage since 1884 and accusations that sausage makers used dog meat date to at least 1845."][wikipedia 158]
 1. One in four Canadian households / one in ten Canadians owns guns. This figure is roughly [below USA's median][about].
 1. The [Bohr Effect][wikipedia 159] explains why increasing CO2 concentration makes hemoglobin release their oxygen (affinity curve).
@@ -1349,6 +1349,31 @@
 1. Don't short penny stocks. In fact, just don't short: ["there isn't a short seller on the forbes 100 for a reason."](https://www.reddit.com/r/investing/comments/5t3df3/please_explain_me_why_is_cats_pe_so_high_and_why/ddk1jpa/)
 1. Before you look for a job in the service industry, ask if there is an union you should join.
 1. The ugliest website for a "soverign state" goes to [THE PRINCIPALITY OF HUTT RIVER](http://www.principality-hutt-river.com/) [~image~](http://imgur.com/bdCbteq), not [North Korea](http://www.korea-dpr.com/), which looks great by comparison.
+1. Fascism is: totalitarian, almost always one party, usually one leader, often racist.
+1. It is possible to take your CPP out early (at 60) [if you don't plan to live for long.](https://retirehappy.ca/four-reasons-why-you-should-still-take-cpp-early-post-2011-rules/) The breakeven time depends on how many years it'll take to lose however much you got in the five years (60~65) under that percentage penalty.
+1. In the US, it is common for a boss to act very angry at your voluntary resignation, firing you with no cause, well before your notice ends. This saves them two weeks of pay.
+1. Fluid build-up may be called "effusion".
+1. Some women paint their nails because the nail polish discoloured them like [this](http://3.bp.blogspot.com/-FP1kpeFHkNc/UG0fZ67anII/AAAAAAAACfc/6j77r9Cqw4w/s1600/095.JPG). The vicious cycle continues.
+1. ["If you see a car with the two wipers facing each other—this is known as the opposed-arm pattern—that probably wasn't the result of an aesthetic choice or a marketing consideration. It more likely had to do with a packaging issue. The tandem pattern is more cost-effective, but sometimes it doesn't fit, so if you see that opposed-arm configuration, it usually means there was no room for the motor in the middle area."](https://arstechnica.com/cars/2017/02/have-you-looked-at-your-windshield-wipers-lately/)
+1. The SP-4 cartridge has an internal piston that pushes the bullet out of the gun, without letting out the expanding air (read: loud) behind it.  [This makes *any* gun that shoots this cartridge silent.](https://www.youtube.com/watch?v=K73kKODFyzw)
+1. It's 2017, and Nicholas still calls his mother "mammi".
+1. A company can improve its strategic posture by finding suppliers or buyers who possess the least power to influence it adversely.
+1. RRSPs [work only for people who](https://retirehappy.ca/when-should-you-not-buy-an-rrsp/) a) currently have an income above the marginal, and b) expect their tax bracket to be lower when they are old than what it is now. It also makes sense to [save your contribution room until the market is down](http://www.moneysense.ca/save/retirement/surprising-truths-about-your-rrsp/).
+1. There is [almost no relationship](http://www.nigeriamedj.com/viewimage.asp?img=NigerMedJ_2012_53_1_16_99825_u3.jpg) between age and bone healing time. The variance is too high.
+1. It is not a recruiter's job to get you a job; it is a recruiter's job to get a company an employee, not necessarily you.
+1. A *match* is [typically](http://english.stackexchange.com/questions/34105/what-determines-whether-a-sporting-event-is-a-game-match-contest-or-something) for sports originating from Europe (football, golf, tennis); a *game* typically from the US (handegg, baseball, basketball). Matches can also mean a collection of games, where players win matches after having won e.g. 7 games out of 8.
+1. [Napoleon is his first name.](https://www.quora.com/Why-do-we-call-Napoleon-Napoleon-and-not-Bonaparte) We call him that instead of Bonaparte because "all the European Monarchs have been called by their first names for millennia."
+1. If you stand in front of an elevator door and it opens, your dog will enter. If you enter the elevator and turn around, the dog will *exit* the elevator because you are facing the door.
+1. Tinnitus reduces your ability to hear other people, making you less inclined to have conversations. This destroys your interpersonal relationships.
+1. Splenda is made at least partly from sucralose. It has 3 Calories per packet.
+1. Liquid [hydrocodone](https://en.wikipedia.org/wiki/Hydrocodone), as good as oral morphine on the [equianalgesic chart](https://en.wikipedia.org/wiki/Equianalgesic), is used as a cough suppressant.
+1. NASCAR stands for National Association for *Stock* Car Auto Racing. It is no longer the case.
+1. The surfaces of some camshafts are intentionally slightly rough, so engine oil would cling to them. See also: [NASCAR engines](https://www.youtube.com/watch?v=P3_UQcnHB1E)
+1. Some dental implants can be [3D sculpted](https://en.wikipedia.org/wiki/Digital_dentistry) now...
+1. Driveways should face East. It helps with snow melting.
+1. Ricky Chan, [陳振華](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%8C%AF%E8%8F%AF_%28%E5%8D%B0%E5%BA%A6%E8%A3%94%E9%A6%99%E6%B8%AF%E6%BC%94%E5%93%A1%29) is also a hairstylist.
+1. Tor stands for The Onion Router. Its logo is an onion.
+1. [85% of replacement knees last 20 years.](http://www.arthritis.org/living-with-arthritis/treatments/joint-surgery/types/knee/knee-replacement-younger-patients.php) They don't last forever. You can't just eliminate arthritis by becoming part robot.
 1. 
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/

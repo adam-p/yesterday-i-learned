@@ -4,7 +4,7 @@
 * `/=` appears to mean "not equal".
 * `sort [1,2,3]` sorts values ascending. So, that does nothing.
 * `sort "abc"` also works.
-* There are tuples. `()` This means function calls are not wrapped in parens.
+* There are tuples: `()`. Tuples look the same as ones in Python. This means function calls are not wrapped in parens.
 * `fst (1,2)` gets the *first* item, 1, apparently.
 * `let var = expression in body` creates a local scope. It assigns nothing to `var`. That is to say,
 
@@ -13,7 +13,7 @@ let x = 8 * 10 in x + x      # with (x = 80)
 => 160                       #    yield x + x
 ```
 
-* The *cons* (unshift) function: `(:)`. `'a' : []` means `[]` *cons* `'a'`, which yields `["a"]`. Whitespace between `:` matters.
+* The *cons* (unshift) function: `(:)`. `'a' : []` means `[]` *cons* `'a'`, which yields `["a"]`. Whitespace between `:` does not matter.
 * That is, `a : b` means `(cons a b)`.
 * Likewise, `'a' : 'b' : []` is just "given [], cons b, then cons a". Imagine parentheses.
 * Now that `:` means cons, `0:[1, 2]` equals `[0, 1, 2]`.
@@ -34,7 +34,6 @@ let x = 8 * 10 in x + x      # with (x = 80)
 * `(sqrt 2)`, `sqrt 2`, and `sqrt(2)` all produce the same result. "Even though parentheses are not always needed, sometimes it is better to leave them in anyway; other people will probably have to read your code"
 * There seems to be no limit to the size of a number (try `2^5000`), but there is a limit to the number of decimal points (try `1/that number`)
 * The 3-item term for tuple is *triple*. 
-* Tuples look the same as ones in Python.
 * `head` and `tail` is Haskell's way of saying `first` and `rest` in Scheme.
 * Concatenation. `"Hello " ++ "World"` == `"Hello World"`
 * `show()` turns anything into Strings.

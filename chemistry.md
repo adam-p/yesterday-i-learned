@@ -9,3 +9,5 @@
 * Biodiesel came from used cooking oil and cow hide processing. Proponents say biodiesel contains less cancer-causing particles.
 * Drinking wine for antioxidants because it prevents cancer, ignoring the fact that alcohol is a top-notch carcinogen, is human stupidity.
 * [Naltrexone](https://en.wikipedia.org/wiki/Naltrexone), more or less an u-opioid blocker, might cure alcoholism by never allowing a buzz, provided it was ingested immediately before a drink, not daily.
+* Nair's active ingredients are calcium hydroxide (lime) and sodium hydroxide (lye).
+* 

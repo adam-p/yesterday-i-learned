@@ -96,7 +96,7 @@
 1. Some concerns over stem cell research: cross-species transmission, and degradation of organ hosts (human parts grown for the same of organ harvesting are not treated as humans).
 1. Roman makeup [reportedly](http://www.livescience.com/65-face-cream-ancient-roman-women.html) contained fat, starch, and tin.
 1. Cold dogs (like huskies and doges) shed in the spring.
-1. 
+1. The distinct lychee smell (not taste) is 100% [lost through canning](https://en.wikipedia.org/wiki/Lychee). It can only be smelled when eating fresh. Nine fresh lychees provides the daily requirement of vitamin C. It otherwise provides next to no nutritional value.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

@@ -1415,6 +1415,12 @@
 1. The main issue from/in/about a P2P end-to-end messaging app is [battery drain](https://play.google.com/store/apps/details?id=chat.tox.antox).
 1. [Ivana Trump mentioned that, at least at one point, her husband used to keep a book filled with Hitler's speeches by his bedside. Just the crazy ramblings of a scorned ex-wife, yeah? Nope. Trump actually confirmed it.](http://www.cracked.com/blog/why-comparing-donald-trump-to-hitler-makes-perfect-sense/) (Same article: Trump resembles Hitler's rise to power in four other ways)
 1. Darker-skinned black women can expect longer jail sentences compared to lighter-skinned black women.
+1. To test if a mug (or any container really) is microwave-safe, [put some water in it and microwave for 30 seconds](https://www.quora.com/How-do-we-know-a-glass-or-a-mug-is-microwave-safe). The water should be warmer than than the mug.
+1. It is [passing the buck](https://en.wikipedia.org/wiki/Buck_passing#.22The_buck_stops_here.22), not passing the puck. The buck is that dealer button in poker. "The buck stops here" means the person saying that is now responsible.
+1. The [Toga](https://en.wikipedia.org/wiki/Toga) dropped out of use because it was clumsy. It was replaced by the [pallium](https://en.wikipedia.org/wiki/Pallium) by the time bishops wore them. Other peopel continued wearing [tunics](http://www.primaryhomeworkhelp.co.uk/romans/clothes.htm), knee-length big shirts.
+1. Carry a few bandages on your person. They are thin and easy to keep, and someone somewhere will always need one. Sometimes you do, too.
+1. You [probably](https://www.quora.com/Can-you-legally-change-your-name-to-have-emojis) can name your American child after an emoji. Prince changed his name to an unpronounceable symbol that one time and it was allowed.
+1. [Incubators are fully bootstrapped](https://medium.com/startup-foundation-stories/the-emergence-of-startup-as-a-service-129c552d89e3#.ln72w6fbr). Incubators can invest in incubator incubator startups that churn out new incubators. These incubators are called **metaincubators**. Some of these metaincubators can also incubate startups; an example of such a metaincubator is the University of Waterloo, which inculated [Velocity](http://velocity.uwaterloo.ca/) the incubator a while back.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

@@ -69,6 +69,8 @@
 1. 囧 (like 炯): gwing2
 1. Luft = air. Waffe = weapon. Luft + Waffe != air weapon.
 1. *Egads* came from *Ye gods*.
+1. [Stress in Icelandic always falls on the first syllable. The only exception is in the word "halló," which usually has stress on the second syllable.](https://en.wikibooks.org/wiki/Icelandic/Alphabet_and_Pronunciation) Icelandic words never begin with Ð, and no words end with Þ, which are both pronounced like 'th'.
+1. The cedilla (ç) softens a normally hard C sound that is followed by an A, O, or U.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

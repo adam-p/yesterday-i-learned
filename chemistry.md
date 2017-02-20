@@ -7,3 +7,5 @@
 * It is possible to ["accidentally make an explosive"](http://epigram.org.uk/news/2017/02/41190), [TATP](https://en.wikipedia.org/wiki/Acetone_peroxide), by mixing acetone and hydrogen peroxide. *Wolffenstein combined acetone and hydrogen peroxide, and then he allowed the mixture to stand for a week at room temperature, during which time a small quantity of crystals precipitated*. The resulting powder is [fairly useless](https://www.youtube.com/watch?v=MEdnNOi6DS4).
 * [Mineral wool](https://en.wikipedia.org/wiki/Mineral_wool) is a bunch of mineral fibres spun together.
 * Biodiesel came from used cooking oil and cow hide processing. Proponents say biodiesel contains less cancer-causing particles.
+* Drinking wine for antioxidants because it prevents cancer, ignoring the fact that alcohol is a top-notch carcinogen, is human stupidity.
+* [Naltrexone](https://en.wikipedia.org/wiki/Naltrexone), more or less an u-opioid blocker, might cure alcoholism by never allowing a buzz, provided it was ingested immediately before a drink, not daily.

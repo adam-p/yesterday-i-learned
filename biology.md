@@ -89,6 +89,14 @@
 1. Birds of prey are also known as raptors.
 1. Not only do dolphins rape whales, [they are also friends with them](http://www.techly.com.au/2015/05/13/dolphins-caught-going-whale-rides-hawaii-yep-thats-exactly-sounds-like/).
 1. [Famine suppresses boy genes.](https://youtube.com/watch?v=3IaYhG11ckA) Having the mother around males other than the father also increases chances of stillbirth.
+1. During the initial infection [of hepatitis C], people often have mild or no symptoms. By the time there are symptoms, 85% of the liver has already gone.
+1. Hand germ count is directly proportional to how dry the hand ends up, i.e. hand sanitiser > paper towel > towel >> blow dryer > never drying.
+1. [The lateral meniscus (the outside half) bears more force than the medial meniscus.](http://slideplayer.com/slide/6351712/) Its probability of injury from a fall is 91%.
+1. Fat people are much more likely to have arthritis. Because gravity.
+1. Some concerns over stem cell research: cross-species transmission, and degradation of organ hosts (human parts grown for the same of organ harvesting are not treated as humans).
+1. Roman makeup [reportedly](http://www.livescience.com/65-face-cream-ancient-roman-women.html) contained fat, starch, and tin.
+1. Cold dogs (like huskies and doges) shed in the spring.
+1. 
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

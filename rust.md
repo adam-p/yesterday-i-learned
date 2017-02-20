@@ -1,3 +1,7 @@
+# Wat
+
+* Rust users call themselves [rustaceans](http://www.rustaceans.org/).
+
 # [Ownership, borrowing, and lifetimes](https://doc.rust-lang.org/book/ownership.html)
 
 * Rust ensures that there is exactly one binding to any given resource. So, if you assign `a` to `b`, `a` can no longer be used as a reference to that resource. For example:

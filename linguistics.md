@@ -65,6 +65,10 @@
 1. Words that mean both Hello and Goodbye include *Ciao*, *shalom*, *annyeong*, and *aloha*.
 1. It is spelled "[Feliz Navidad](https://www.youtube.com/watch?v=xMtuVP8Mj4o&)".
 1. If [anyone](http://semiaccurate.com/2017/02/10/lg-good-reason-use-snapdragon-821-g6/) writes words like [naïve, coöperation or reëlect](http://www.grammarphobia.com/blog/2011/04/diaeresis.html), tell them to [sod off](https://www.theatlantic.com/entertainment/archive/2012/04/we-resist-further-cooperation-cooperation/328832/).
+1. [Common Errors in English Usage: The Book](https://public.wsu.edu/~brians/errors/errors.html)
+1. 囧 (like 炯): gwing2
+1. Luft = air. Waffe = weapon. Luft + Waffe != air weapon.
+1. *Egads* came from *Ye gods*.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

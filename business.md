@@ -81,15 +81,22 @@ Further reading: [0001.md](sources/0001.md)
 * Never buy stocks in a *bear market*: a market whose general prices are falling, and people are being pessimistic.
 * *Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns.*
 * [When VIX is low its time to go; When VIX is high its time to buy](https://www.reddit.com/r/StockMarket/comments/3dqggo/when_vix_is_low_its_time_to_go_when_vix_is_high)
+* [Relative Strength Index, RSI](http://www.investopedia.com/terms/r/rsi.asp) should be under 50. 100 means the stock is extremely overbought. 0 means the stock is extremely [oversold](http://www.investopedia.com/terms/o/oversold.asp). See [stockcharts.com](http://stockcharts.com/freecharts/) for visuals. Be careful with the index, as modifying its calculation period can switch the results completely. "Oversold" may also just mean the stock is doing very poorly, instead of a bargain indicator.
+* [Stochastic Oscillator](http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:stochastic_oscillator_fast_slow_and_full) is like RSI, except it comes in three versions: %K (fast), %D (3-day moving average), and full (X-day moving average).
+* "The best way to use RSI is to watch and wait for it to enter a zone and then for the %K to cross the %D in the opposite direction. That tends to be a signal that the stock is going to reverse its trend and is a great time to buy or sell."
+* The stock's [beta](http://www.investopedia.com/terms/b/beta.asp) should be less than 1 (i.e. less volatile than the market). a Beta of 0.6 means the thing is 40% less volatile than the market. "Many utilities stocks have a beta of less than 1." "Negative betas are possible for investments that tend to go down when the market goes up."
+* "Buy low sell high" is great, but [do not let world events affect your investing decisions](http://www.cnbc.com/2014/03/03/warren-buffetts-5-key-investing-donts.html). During e.g. a war, stocks continue to go up. It is more worthwhile to hold onto securities (assets) than cash.
+* In August. "October is known for bringing the highest shifts in volatility for a couple of reasons: third-quarter earnings season kicks off early October, and trading volume is significantly higher after the calm summer months."
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 
-* When the price is right (hits your target)
+* When the price is right (hits your target). [Do not be greedy.](http://www.investopedia.com/articles/stocks/08/learn-loss.asp)
 * When the company is no longer doing its business the right way or making enough sales
 * When a better stock exists
 * When the company is acquired
 * When the company goes bankrupt (selling it doesn't give you money, but you can claim it as capital loss)
 * [When you anticipate a market failure](http://www.reddit.com/r/stocks/comments/53znlq/_/).
+* When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
 
 ### [Gap ups and downs](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort)
 

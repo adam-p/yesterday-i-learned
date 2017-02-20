@@ -220,6 +220,7 @@ undefined
 ## Node
 
 * [Assigning anything to `process.env`](http://stackoverflow.com/questions/42170365/how-do-i-remove-a-value-in-process-env), even if it is `null` or `undefined`, converts it to their strings `"null"` and `"undefined"`. To delete a key from `process.env`, `delete` it.
+* If you run `--save-exact` without `--save`, it doesn't save.
 
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/

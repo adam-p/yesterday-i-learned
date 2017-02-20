@@ -1374,7 +1374,47 @@
 1. Ricky Chan, [陳振華](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%8C%AF%E8%8F%AF_%28%E5%8D%B0%E5%BA%A6%E8%A3%94%E9%A6%99%E6%B8%AF%E6%BC%94%E5%93%A1%29) is also a hairstylist.
 1. Tor stands for The Onion Router. Its logo is an onion.
 1. [85% of replacement knees last 20 years.](http://www.arthritis.org/living-with-arthritis/treatments/joint-surgery/types/knee/knee-replacement-younger-patients.php) They don't last forever. You can't just eliminate arthritis by becoming part robot.
-1. 
+1. 50 years after Churchill's death, [no one remembers exactly what he said](https://public.wsu.edu/~brians/errors/churchill.html). He has been attributed to several variants of "up with which I will not put", including "This is the kind of arrant pedantry up with which I will not put", "This is the sort of bloody nonsense up with which I will not put", "Not ending a sentence with a preposition is a bit of arrant pedantry up with which I will not put", and "This is the sort of thing up with which I will not put."
+1. [Rwanda banned plastic bags.](https://www.theguardian.com/commentisfree/2014/feb/15/rwanda-banned-plastic-bags-so-can-we) Rumour claims the environment there is great.
+1. Halibut is delicious if lightly fried.
+1. Curling was invented by, in someone's words, "those damned Scots".
+1. A Live Drop is when two people meet up and exchange items or information. A [Dead Drop](https://en.wikipedia.org/wiki/Dead_drop) is when the two people don't meet.
+1. One pro about keeping touch with people is that they may be useful for being references when applying for various things.
+1. Canadians have been detained before for [not giving out their phone passwords at customs](http://www.theverge.com/2015/3/6/8162337/iphone-unlock-border-agents-canada).
+1. An [Euler's disk](https://www.youtube.com/watch?v=gO8wt5xbvLk) on a concave surface can spin for a long time.
+1. [Thunderbolt 3 ports are supersets of USB C ports.](https://thunderbolttechnology.net/blog/difference-between-usb-c-and-thunderbolt-3) The reverse is not the case.
+1. 1500 requests a day is about once a minute, more or less.
+1. ["Polypropylene breast implants"](https://en.wikipedia.org/wiki/Polypropylene_breast_implants) keep on expanding after implanting. It has been banned.
+1. [Sterling silver](https://en.wikipedia.org/wiki/Sterling_silver) is 92.5% silver, not because people are cheap, but because pure silver is too soft to be anything. There is no regulation what the 7.5% needs to be, but it is usually copper.
+1. Arm wrestling is [more about the wrist](http://www.artofmanliness.com/2009/03/20/the-art-of-manliness-guide-to-arm-wrestling/) than anything. The objective is to extend the length of your arm while shortening the opponent's, by manipulating the opponent's wrist. [Top roll](https://www.youtube.com/watch?v=4hNOHUEnzTM) mainly involves rotating the opponent's wrist by rotating yours 90 degrees *inward*, while [The Hook](https://www.youtube.com/watch?v=R_Vh9-ExpKo) basically pulls the opponent slightly towards you (by moving your wrist), (increasing|decreasing) the (distance|leverage).
+1. Laser tattoo removal might scar, which is more permanent than the tattoos it tries to remove.
+1. [Drug catapults actually exist in Mexico](http://www.atlasobscura.com/articles/drug-catapult-us-mexico-border).
+1. TWRP doesn't have password protection on purpose; [they didn't want to guarantee safety](https://twrp.me/faq/securetwrp.html).
+1. ["The Fed cut rates because it wanted corporations to be able to borrow money cheaply. It reasoned that cheap money would let corporations spend on new projects and take more risks, which would grow the economy out of the recession."](https://moneymorning.com/2017/02/17/warning-signs-a-stock-market-crash-is-coming/)
+1. Ellen Degeneres is much older than you think.
+1. When looking for a baby name, suggest a bad one first, so no one will criticise your actual choice.
+1. [US courts of appeals](https://en.wikipedia.org/wiki/United_States_courts_of_appeals) are organised into 13 "circuits", which, as far as I can tell, just areas. First Circuit is the least populous (hence least influential), and Ninth Circuit is the most populous (hence most influential).
+1. ["Straight" means cards in sequence](http://www.pokerstars.net/poker/). "Flush" means same suit. "Full house" is actually just a special case of "three of a kind", where the remaining two cards are the same rank.
+1. Binary search [is](http://stackoverflow.com/questions/3581528/how-is-the-square-root-function-implemented) the most simple way to implement `sqrt` without a library function. Given `n`, start from `n/2`, and return when results converge.
+1. It takes just 11 years at 5000/day to produce 20,000,000 ass pennies.
+1. If you do cube roots a lot, [there is a way to calculate it quickly](http://www.mindmagician.org/cubert.aspx).
+1. Some parents prefer to be called "mum", while others prefer to be called "dad". [Children of non-binary parents](https://theyismypronoun.wordpress.com/2015/08/21/beyond-mummy-or-daddy-names-for-non-binary-parents/) should issue trigger warnings, lest they get sued by their own parents by calling them by their first names, which is rude, or 'parent', which is not their preferred terminology.
+1. [RSPs do not have tax exemptions. RRSPs do.](http://www.differencebetween.net/business/difference-between-rsp-and-rrsp/)
+1. Taylor Swift has to fake being shocked and surprised when winning every reward.
+1. [Kids typically cannot recognise themselves in the mirror until 3.](https://www.theatlantic.com/science/archive/2017/02/what-do-animals-see-in-the-mirror/516348/?single_page=true)
+1. In England-land, ["ta"](http://www.urbandictionary.com/define.php?term=TA) means "thanks".
+1. A [*brown noser*](https://www.urbandictionary.com/define.php?term=brown+noser&amp=true&defid=724517) is an ass kisser (or licker, or equivalent).
+1. The act of asking for a lower interest rate (or other terms) is called [refinancing](https://en.wikipedia.org/wiki/Refinancing).
+1. In class diagrams, arrows point from subclasses to their base classes because [arrows mean Generalisation in UML](http://stackoverflow.com/a/2471642/1558430).
+1. When returning something to the retailer/owner via UPS, remember to get a receipt. They might fake not receiving it and charge you extra for "losing" the item.
+1. Toilet paper glows in UV light.
+1. "x% of y = y% of x". Not very useful as a concept, since you'll be multiplying x and y anyway, then dividing by 100.
+1. The R project is also known as [GNU S](https://en.wikipedia.org/wiki/S_%28programming_language%29), the GNU implementation of the S programming language.
+1. Kellyanne Conway's debate strategy is to deflect the question by simply going off on a tangent using one or two words from the question. Her answers don't have to do with anything. Then, she expects the interviewer to stop asking the same question after repeating it for a few times. Essentially, she doesn't answer questions.
+1. Companies IPO [to get money](https://ca.finance.yahoo.com/news/why-do-companies-go-public-an-ipo-explainer-180911043.html).
+1. The main issue from/in/about a P2P end-to-end messaging app is [battery drain](https://play.google.com/store/apps/details?id=chat.tox.antox).
+1. [Ivana Trump mentioned that, at least at one point, her husband used to keep a book filled with Hitler's speeches by his bedside. Just the crazy ramblings of a scorned ex-wife, yeah? Nope. Trump actually confirmed it.](http://www.cracked.com/blog/why-comparing-donald-trump-to-hitler-makes-perfect-sense/) (Same article: Trump resembles Hitler's rise to power in four other ways)
+1. Darker-skinned black women can expect longer jail sentences compared to lighter-skinned black women.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

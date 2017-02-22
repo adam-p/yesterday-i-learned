@@ -98,6 +98,24 @@ Postgres has 'templates', so running `psql -d template1 -c 'CREATE EXTENSION...'
 
 `sudo -u someone psql < filename`
 
+### My DB is blowing up
+
+[Check your disk space usage](https://wiki-bsse.ethz.ch/display/ITDOC/Check+size+of+tables+and+objects+in+PostgreSQL+database) with
+
+    SELECT
+        pg_database.datname,
+        pg_size_pretty(pg_database_size(pg_database.datname)) AS size
+        FROM pg_database;
+
+### `No operator matches the given name and argument type(s). You might need to add explicit type casts.`
+
+Do a cast then:
+
+    SELECT
+        *
+        FROM tblPoop
+        WHERE tblPoop.volume::varchar LIKE '9001%';
+
 # MongoDB
 
 > "MongoDB is the core piece of architectural rot in every single teetering and broken data platform I've worked with."

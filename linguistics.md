@@ -71,6 +71,15 @@
 1. *Egads* came from *Ye gods*.
 1. [Stress in Icelandic always falls on the first syllable. The only exception is in the word "halló," which usually has stress on the second syllable.](https://en.wikibooks.org/wiki/Icelandic/Alphabet_and_Pronunciation) Icelandic words never begin with Ð, and no words end with Þ, which are both pronounced like 'th'.
 1. The cedilla (ç) softens a normally hard C sound that is followed by an A, O, or U.
+1. Der (masculine thing), die (feminine thing), das (neither of the former).
+1. I *do*, thou *dost*, He/she/it *doth*.
+1. "Krieg" just means war.
+1. Unrelatedly, both Singaporeans and Germans pronounce "Thousand" as "Tausend".
+1. Say heroin like "huh-ROY-n". People hate that.
+1. "Es tut mir leid" means "I am sorry". Literally, it translates to "It does me sorry". However, if "sorry" were to be said by itself, it is "Entschuldigung" instead. Because German.
+1. "Bis Morgen", literally "To morning", is "[see you] tomorrow."
+1. "ise" are generally verbs, while "ice" are the noun equivalents of those words. (e.g. advice, practice)
+1. Both "Rosetta" and "Rashid" origiinated  from the Coptic (Egyptian) word "Trashit," which was (also) a place name.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

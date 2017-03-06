@@ -80,6 +80,14 @@
 1. "Bis Morgen", literally "To morning", is "[see you] tomorrow."
 1. "ise" are generally verbs, while "ice" are the noun equivalents of those words. (e.g. advice, practice)
 1. Both "Rosetta" and "Rashid" origiinated  from the Coptic (Egyptian) word "Trashit," which was (also) a place name.
+1. "Chlorophyll" is derived from the Greek words χλωρός, chloros ("green") and φύλλον, phyllon ("leaf")
+1. The possessives ending in -on (mon, ton, son) are used with masculine nouns: Mon livre means My book. They are also used with feminine nouns starting with a vowel: Mon amie means My girlfriend. Feminine possessives are ma, ta, and sa.
+1. French questions insert a -t- between a verb that ends with a vowel and the personal pronoun. For example, Comment va-t-il? means How is he doing? **The most formal way of asking a question is to use an inversion**, where the verb appears before its pronoun and the two are connected by a hyphen.
+1. C'est is used when the noun has an article (le, la, l', un or une) or a possessive before it. Say: C'est ma femme, not: Elle est ma femme.
+1. The phrase Est-ce que... (literally Is it that...) or est-ce qu' (before a vowel) is often used to start asking a question, in an informal way. Est-ce qu'il mange ? means Is he eating?.
+1. [Lent](https://en.wikipedia.org/wiki/Lent) is from Old English *len(c)ten*, meaning Spring.
+1. *Comment t'appelles-tu* is literally how (comment) appelles (call) tu (you).
+1. 
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

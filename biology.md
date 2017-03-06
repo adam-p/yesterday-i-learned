@@ -105,7 +105,21 @@
 1. Snails shoot [love darts](https://en.wikipedia.org/wiki/Love_dart) into each other before making sweet love. Fluid exchange does not take place through the dart.
 1. Omega-3 fatty acids can increase the risk of bleeding, enough to be medically advisable.
 1. Fish that are rich in omega-3 fatty acids got them from what they eat. Farmed fish do not have any.
-
+1. [Ringworm](http://en.wikipedia.org/wiki/Dermatophytosis) is not actually worm; it is fungal.
+1. [Ears also "close"](http://i.word.com/idictionary/rhadamanthine) when a loud noise is heard, much like the eye closes when a bright light is seen.
+1. [Opiliones](http://en.wikipedia.org/wiki/Opiliones), also called *Harvestmen*, look like spiders, but are much more useful than spiders.
+1. [Potatoes are naturally gluten-free.](http://www.potatogoodness.com/nutrition/) Somehow, they provide a good amount of vitamin C, as well.
+1. Your child has a 0.2% of having Cerebral palsy.
+1. [This guy on the Internet](https://www.reddit.com/r/AskReddit/comments/4zo4vq/whats_the_next_big_thing_thats_going_to_fail_for/d6xnjxg) says that stomach acid is used only to denature proteins and kill bacteria, with no other benefits to digestion. [The wiki](https://en.wikipedia.org/wiki/Gastric_acid) says roughly the same thing, so maybe it is legit, and you do have to chew before you swallow.
+1. To make sure you don't know what you're eating, there are 144 species of anchovy (and probably counting).
+1. [Kangaroo leather has 10 times the tensile strength of cowhide and is 50% stronger than goatskin.](https://en.wikipedia.org/wiki/Kangaroo_leather)
+1. Traditional [chemotherapy](https://en.wikipedia.org/wiki/Chemotherapy) kills by stalling mitosis on a large percentage of cells. This causes problems in organs that normally undergo mitosis quickly, such as bone marrow, digestive tract, and hair follicles.
+1. Cancer affects approximately 1 in 1,000 pregnant women.
+1. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer and stomach cancer. In females, the most common types are breast cancer, colorectal cancer, lung cancer and cervical cancer.
+1. Autopsy studies in Europe and Asia showed that up to 36% of people have undiagnosed and apparently harmless thyroid cancer at the time of their deaths and that 80% of men develop prostate cancer by age 80.
+1. Skin cancer is almost always curable. It is the easiest way to become a cancer survivor.
+1. [A *certain* type of fasting, done in a *certain* way,](http://www.cell.com/cell/fulltext/S0092-8674(17)30130-7) supposedly allows pancreatic cells to regenerate, reversing diabeetus in mice. May relate to the fast-or-famine response.
+1. The thingy on the side that make a cobra's head look big are called [hoods](https://en.wikipedia.org/wiki/Indian_cobra).
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

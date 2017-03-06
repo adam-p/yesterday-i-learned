@@ -105,6 +105,43 @@ function foo({x, y=5}) {  // note: object notation (y:5) is not valid syntax at 
 foo({x: 4, y: 5})
 ```
 
+* [Function in object](https://strongloop.com/strongblog/javascript-es6-object-notation/) shorthands:
+
+```
+{
+  hello() {
+    // ...
+  },
+  'hello world'() {
+    // ...
+  }
+}
+```
+
+is equivalent to
+
+```
+{
+  hello: function () {
+    // ...
+  },
+  'hello world': function () {
+    // ...
+  }
+}
+```
+
+* Getter and setters in object shorthands:
+
+```
+{
+  get hello() { ... }
+  set hello() { ... }
+}
+```
+
+was previously available with an awkward syntax in ES5.
+
 * Generators require that ugly asterisk after `function`:
 
 ```

@@ -209,6 +209,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Use [`apt-mark hold (package)`](http://askubuntu.com/questions/624140/chromium-automatic-updating) to prevent it from updating. To cancel it, run `apt-mark unhold (package)`.
 1. If you have only one brain cell left to remember how `ps` works, remember `ps -A` (all processes). Hyphen and capitalisation matter.
 1. [In Ubuntu, `/bin/sh` is typically the same as `/bin/dash`.](https://bugs.launchpad.net/ubuntu/+source/dash/+bug/61463) "Around a decade ago, Ubuntu suddenly switched /bin/sh to point to /bin/dash instead. Dash is faster than bash in terms of startup speed and they could shave enough time off startup to justify it. Dash doesn't meet full bash syntax, but does do all that sh supports. After the distribution release lots of /etc/init.d/ scripts started breaking because they relied on bashisms.  Both Canonical developers, and the community, got pretty good at cleaning bashisms out of scripts!" And this is why you should only write sh scripts when using an `/bin/sh` shebang.
+1. `PS1` is the variable used to display the prompt. `PS1='>>> '` changes the bash shell to look like a python shell.
 
 ## Tmux
 

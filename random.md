@@ -1,3 +1,27 @@
+1. North Korea has the world's [largest army](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_military_and_paramilitary_personnel) (7.6M total, 15% active).
+1. That hip-looking woman holding the Ryzen 7 1800x CPU happened to be [Lisa Su](https://en.wikipedia.org/wiki/Lisa_Su), the CEO of AMD.
+1. Grits are effectively mashed corn.
+1. Lost and founds should give you a receipt, so that when, say, a wallet is returned, the amount of cash can be verified to be the same before and after.
+1. Linus Torvalds is married to Tove Torvalds (née Monni), a six-time Finnish national karate champion.
+1. ["Only amateurs attack machines; professionals target people."](https://www.schneier.com/blog/archives/2013/03/phishing_has_go.html) - Bruce Schneier, security man
+1. Honing a knife realigns the edge of the tip. It doesn't sharpen anything.
+1. People who do strange things to get attention are called "exhibitionists". Shia LaBeouf is said to be one.
+1. In Windows 10, there is an option to randomise MAC in your adapter settings, wherever that is.
+1. The fun thing about RRSPs is that if you have been poor, you can put the money you just got from a tax refund right back into the same RRSP for extra refund next year.
+1. /u/learner1314: [Never pump in money into a mutual fund that has invested more than 95% of its money. Instead look at those who have sat on the sidelines and are cash rich with 20-30% of money sitting idle.](https://www.reddit.com/r/investing/comments/5w41k3/warrens_letter/) I believe the reasoning is that funds with some cash leeway can easily overcome a short term market downturn without having to sell existing positions.
+1. From a nurse: "If it's wet and it didn't come from you, don't touch it."
+1. People who sweep chimneys used to get [giant ball cancers](https://en.wikipedia.org/wiki/Chimney_sweeps%27_carcinoma) from soot irritation.
+1. [Peter](http://www.diamandis.com/blog/success-experimentation) says: you *can* do too many experiments with your customers. Before you do an experiment, you need to make sure 1) you don't already know the outcome, and 2) you are willing to change what you are doing once you get the results from the experiment.
+1. When the interviewer asks ["How badly do you want the job"](https://www.forbes.com/sites/lizryan/2017/02/24/how-to-answer-the-question-how-badly-do-you-want-the-job/#8ffa60a36741), you can't win. Try to answer instead the question "What got you interested in the job and the company".
+1. [Vanna White](https://www.wheeloffortune.com/vanna-white), Wheel of Fortune letter turner, has never worn the same dress twice (on TV).
+1. [Goal bounding](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than) identifies which directions to skip going (jump point search goes in all directions.) Problem mainly is O(n^2) runtme on precomputation, and *needing* precomputation.
+1. Apparently Jesus could be surprised about things because of a term called [kenosis](http://christianity.stackexchange.com/questions/2615/how-could-jesus-be-surprised/4963#4963), aka self-emptying.
+1. You can make a hash function `f` such that `f(s) = sha1(s) + sha2(s) + sha3(s)`, no problem. Just know [it does not give the collision resistance proportional to the number of bits that produces](http://crypto.stackexchange.com/questions/270/guarding-against-cryptanalytic-breakthroughs-combining-multiple-hash-functions), which makes it a sloppy hash function.
+1. [Berkshire Hathaway](https://www.google.com/finance?q=NYSE%3ABRK.A) trades at $254,900 a share (right now).
+1. When seasoned investors use the phrase "beat the market", they prefix it with ["attempt to"](http://stockcharts.com/school/doku.php?id=chart_school:overview:why_analyze_securities).
+1. It takes only a 50% loss to take back 100% of your gains.
+1. [Saudi Arabia](https://en.wikipedia.org/wiki/Saudi_Arabia) and [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates) are not the same countries. Saudi Arabia is the big one. UAE is a bit more to the east. Both are a huge expanse of almost nothing.
+1. [Some muslim women choose to fast during pregnancy](http://www.bbc.com/news/health-10927611), even though [there are exceptions specifically for the pregnant and ill](https://en.wikipedia.org/wiki/Ramadan). "But I wasn't worried about my health or my baby's. I think Allah gives you strength and he protects your unborn child." It is not a *huge* deal because they get to eat at night anyway. For other Muslims intending to cheat the system by living in places with no sunlight, they "should follow the timetable of Mecca".
 1. 41-year-old [tluyben2](https://nl.linkedin.com/in/tluyben) recommends all programmers hang out with non-developers *a lot*.
 1. *Practice speaking with a pen in your mouth for a few minutes every day. It forces you to really enunciate what you're saying, ...* - 213Compton
 1. If someone steals a $10 potato from a store, but the store bought that potato for $1, the store lost $1.
@@ -369,12 +393,9 @@
 1. The great collectorism occurred [during the 90s][vice 2].
 1. "Pussy" in "Don't be a pussy" didn't originate from pussy the cat; it originated from latin [*Pusillanimous*][merriam-webster] for cowardly.
 1. Vikings used ravens to navigate. They brought ravens aboard their ships, then released them and sailed in the same direction to find land. The raven was so important to them that it became the symbol on their flag.
-1. "Performing a burnout in a front wheel drive vehicle is likely to result in damage to the drivetrain."
 1. [HJR][dpreview] stands for "hand jitter reduction", nothing to do with "high".
 1. Haboobs are Arabian dust storms that come before an actual storm.
 1. There are two official color palettes for the French flag : "Dark blue" for public & military buildings and "Light Blue" for TV & government appearences/meetings.
-1. [Ringworm][wikipedia 78] is not actually worm; it is fungal.
-1. [Ears also "close"][word] when a loud noise is heard, much like the eye closes when a bright light is seen.
 1. New Zealand [literally means new sea land][imgur 5]. It is named after [Zeeland](https://en.wikipedia.org/wiki/Zeeland), a place in the Netherlands.
 1. [Zoodles][google 8] are noodles made with shredded zucchini.
 1. Costco pricing: `{"0.99": "Full price", "asterisk": "Discontinued", "0.79 or .49": "Mfg special offer", ".00": "Priced down, nearly out of stock", ".97": "Store manager deal"}`
@@ -382,8 +403,7 @@
 1. Smoke testing is testing for the most basic things of the system.
 1. `adb install -r` installs the apk without failing when it already exists.
 1. Water (blue) + Sun (yellow) = Plants (green)
-1. "Chlorophyll" is derived from the Greek words χλωρός, chloros ("green") and φύλλον, phyllon ("leaf")
-1. [Breast milk can be bought online][onlythebreast]. It is contaminated with fecal matter, but since [babies benefit from fecal matter][thepowerofpoop], the decision is arguably good for you.
+1. [Breast milk can be bought online][onlythebreast]. It is contaminated with/by fecal matter, but since [babies benefit from fecal matter][thepowerofpoop], the decision is arguably good for you.
 1. Mixing diesel gas with regular gasoline is worse for diesel engines (timing) than it is for gasoline engines (smoke/poor performance).
 1. ["Soft Coding"][thedailywtf] is the practice of putting everything in a configuration file. It is an antipattern.
 1. [On reddit][reddit 31]: "Gets real tedious round here, sometimes. Nobody has ever fucked-up; everyone has sterling advice on all matters of discussion; everyone is a doctor, an engineer, a mathematician, a lawyer.. Misinformation Land littered with tiresome puns and cringeworthy, circlejerking references to ye olde threads gone by."
@@ -418,7 +438,6 @@
 1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time. 
 1. Kombucha is fermented tea. Although kombucha is claimed to have several beneficial effects on health, the claims are not supported by scientific evidence.
 1. [Underdrive pulleys][wikipedia 87] turn at a slower speed than stock. They increase horsepower by removing power from accessories like the AC.
-1. [Opiliones][wikipedia 88], also called *Harvestmen*, look like spiders, but are much more useful than spiders.
 1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken orally.
 1. Scottish bank notes are in fact promissory notes, and are worth nothing like GBP in value.
 1. Capsaicin does not affect birds. Hotness in Capsicum plants helps them spread their seeds because it makes them unpleasant for mammals, but still tasty for birds (which, you know, fly).
@@ -897,12 +916,9 @@
 1. Use a heat gun and a credit card to [scrape off glue residues](https://m.youtube.com/watch?v=7VPwJIaWBso).
 1. "[TIL that] in 1913, Hitler, Trotsky, Tito, Freud and Stalin all lived in Vienna and some were even regular patrons of the same coffeeshop"
 1. Titanium is biocompatible, and is used extensively in implants. With that said, a titanium knee joint only lasts 10-15 years.
-1. Corn occasionally get infected with a [fungus](https://en.m.wikipedia.org/wiki/Corn_smut) that Mexicans consider a delicacy. It's a mushroom, so it may well be.
 1. [Men walk faster than they all would like when in a group](https://newrepublic.com/article/117956/walking-through-revolving-doors-friends-what-it-reveals/?), but slower than all would like when with any positive number of women. Women all walk slowly.
-1. It is more likely for [flour to have E. coli](https://www.reddit.com/r/explainlikeimfive/comments/4quzvf/eli5_there_is_currently_a_recall_of_flour_due_to/d4w7lsh) than the eggs that are used to bake something.
 1. The [Gamma function](https://en.wikipedia.org/wiki/Factorial#Extension_of_factorial_to_non-integer_values_of_argument) (a definite integral) defines factorials for non-integer numbers, except negative integers. Gamma(n) still equals to the usual values when n is an integer, but the graph shows that negative integers resolve to either positive or negative infinity (undefined).
 1. [Android N will have *two* system partitions](https://en.wikipedia.org/wiki/Android_Nougat#Development_platform), one online and one offline. The online one will push updates to the offline one, and they switch once the offline one is updated.
-1. To make sure you don't know what you're eating, there are 144 species of anchovy (and probably counting).
 1. The typical Nobel Prize winner has a vastly (2.8x) [higher interest in activities such as arts and crafts](http://priceonomics.com/the-correlation-between-arts-and-crafts-and-a/) than the average person.
 1. The only reliable way to show a numeric keypad from cordova is to [set the input type to `tel`](https://github.com/bendrucker/angular-credit-cards/issues/74).
 1. [OLED was, and is, a Samsung product](http://www.androidheadlines.com/2016/08/samsung-controls-99-of-the-smartphone-oled-panel-market.html).
@@ -933,9 +949,6 @@
 1. [Camera switching](https://youtube.com/watch?v=rNlmRId2FVQ&feature=youtu.be) can be exploited to film scenes with body doubles when actors/actresses cannot be there at the same time. It is also extremely annoying.
 1. [The Big Lebowski's throwing-underwear-suitcase-out-of-the-car scene was shot in reverse](http://www.shortlist.com/entertainment/films/50-things-you-(probably)-didnt-know-about-the-big-lebowski#gallery-15).
 1. Despite being part of the bowling team, The Dude is never seen bowling during the movie.
-1. Your child has a 0.2% of having Cerebral palsy.
-1. [This guy on the Internet](https://www.reddit.com/r/AskReddit/comments/4zo4vq/whats_the_next_big_thing_thats_going_to_fail_for/d6xnjxg) says that stomach acid is used only to denature proteins and kill bacteria, with no other benefits to digestion. [The wiki](https://en.wikipedia.org/wiki/Gastric_acid) says roughly the same thing, so maybe it is legit, and you do have to chew before you swallow.
-1. [Potatoes are naturally gluten-free.](http://www.potatogoodness.com/nutrition/) Somehow, they provide a good amount of vitamin C, as well.
 1. Due to perishability, only about 5% of the world's potato crop is traded internationally; its minimal presence in world financial markets contributed to its stable pricing during the 2007–2008 world food price crisis.
 1. "Oil pulling" is rinsing the mouth with sesame oil to remove toxins and things. It doesn't work, but some people do it anyway.
 1. The Big Ben is also leaning over.
@@ -983,9 +996,6 @@
 1. *Goes' Law*: the number of knobs doubles every 18 (days).
 1. The Australians looked for [the world's ugliest colour](http://time.com/4353765/worlds-ugliest-color-discourages-smoking/) to print on cigarette packages to prevent people from smoking. The colour was Pantone 448, ie shit green.
 1. Nigeria is HUGE in GDP in relation to its African continent-mates, being 1.5x that of Egypt. There is no reason not to visit it.
-1. In the case of an emergency radiator leak (in which case, you won't be reading this), [pinch the places where it is leaking.](https://www.reddit.com/r/Justrolledintotheshop/comments/54rcdw/when_in_a_pinch_pinch_the_passages_no_leaks/)
-1. Also, eggs in the radiator will not work. The only thing you can put in is egg *whites*, and even that works terribly.
-1. Deer whistles don't work, either.
 1. [Stroke is the third leading cause of death for women](http://www.stroke.org/understand-stroke/impact-stroke/women-and-stroke) compared to fifth for men. For this reason, apparently because women live longer, that they will have more strokes.
 1. "Smoker" also refers to the ovens that smoke meats.
 1. "Oktoberfest", in English, means "get piss-drunk".
@@ -1042,12 +1052,10 @@
 1. [All states in the US are divided into counties, with two exceptions: Louisiana, which consists of parishes, and Alaska, which uses boroughs.](https://www.reddit.com/r/todayilearned/comments/5amvuf/til_all_states_in_the_us_are_divided_into/)
 1. Centripetal force is the force acting on the center. Centrifugal force is the force acting outward on the flying object.
 1. Creatine, to quote the Internet: "Holy shit, they're not wrong. Basically the majority of days are fine, no effects, then all of a sudden I will have a day where I am basically pissing out of my ass."
-1. An AWD vehicle like the Ford Fusion requires all tires to be the same radius, even taking tire wear into account. Failure to do so [will break the differential](https://www.reddit.com/r/Justrolledintotheshop/comments/5c1x9c/why_you_dont_replace_one_tire_on_an_awd_fusion/). Some AWD/4WD systems [don't even engage](https://www.youtube.com/watch?v=jkiv-bWbLIo). [It is often better to just buy a F/F car.](https://www.reddit.com/r/Justrolledintotheshop/comments/5c1x9c/why_you_dont_replace_one_tire_on_an_awd_fusion/d9tdw6d/)
 1. To get memory protection, you need special ECC RAM. [Don't use Btrfs](http://superuser.com/questions/959431/how-to-fix-bit-rot-back-up-strategy) with non-ECC RAM either, because you know it'll try to recover, and recover incorrectly.
 1. [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
 1. `m3u8`s are `m3u`s with UTF-8 encoding.
 1. When cooking a steak with cast iron, use oil, and [don't try to move the meat until it comes off the pan by itself](https://youtube.com/watch?feature=youtu.be&v=KLGSLCaksdY).
-1. You are supposed to [return to the auto shop and retorque your wheels](http://www.reddit.com/r/justrolledintotheshop/comments/58z12z/_/), especially if the wheel and hub are made of different materials. Otherwise, [this](https://www.thestar.com/news/gta/2016/11/22/watch-snow-tire-fly-off-vehicle-on-hwy-407.html) can happen.
 1. Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
 1. Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
 1. What's fun about languages and locales is that the starting weekday for `fr` can be Monday or Sunday, depending on whether `-CA` is specified.
@@ -1092,7 +1100,7 @@
 1. It is not so hard to believe [Josephus Daniels' name](http://qz.com/88453/why-coffee-is-called-joe/) stands for coffee, when Jack Daniels' name stands for whiskey. Joe got the fame for banning alcohol, directly offering coffee as a substitute.
 1. "Scars are a testament to life. Scars are a testament that I can love deeply and live deeply and be cut, or even gouged, and that I can heal and continue to live and continue to love. And the scar tissue is stronger than the original flesh ever was. Scars are a testament to life." - [GSnow](https://www.reddit.com/r/Assistance/comments/hax0t/my_friend_just_died_i_dont_know_what_to_do/c1u0rx2/)
 1. Summary of 2016 was ["Harambrexitrump,"](https://www.reddit.com/r/AskReddit/comments/5hpdlg/whats_the_tldr_for_2016/db20gqv/) reliable sources say.
-1. Black Monday began in Hong Kong.
+1. [Black Monday](https://en.wikipedia.org/wiki/Black_Monday_%281987%29) began in Hong Kong.
 1. fstrim is done on f2fs automatically. (It is "not necessary")
 1. [*Side*](http://www.urbandictionary.com/define.php?term=Side) can refer to a gay man who do not receive anal penetration.
 1. Battery packs are now commonly referred to as [尿袋](http://s.nextmedia.com/realtime/a.php?i=20161213&s=10829391&a=56040208).
@@ -1348,6 +1356,10 @@
 1. To do honest pushups, ["just go all the way down"](http://vitals.lifehacker.com/this-trick-keeps-your-pushups-honest-1792488499) (Thanks)
 1. According to [this post](https://www.creditkarma.com/article/how-much-of-your-credit-should-you-use), there is no evidence of "credit underutilisation" impacting the credit score.
 1. ["亞洲有四大妖術，分別是韓國的整形術、泰國的變性術、日本的美妝術，還有支那的修圖術。"](http://oldjimpacific.blogspot.ca/2017/02/blog-post_19.html)
+1. [Monomials](https://ca.ixl.com/math/grade-9/identify-monomials) just don't include addition or subtraction. Their variables can be in any order.
+1. "A minimum viable product doesn't mean half finished. It's doing small number of things to a high standard."
+1. New Zealand tried to limit fuel use by limiting which cars can be on the road on which days. It didn't work. People just bought more cars.
+1. The first day of [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) always falls between 21 January and 20 February.
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm
@@ -1793,7 +1805,6 @@
 [wikipedia 73]: http://en.wikipedia.org/wiki/Death_rattle
 [wikipedia 74]: http://en.wikipedia.org/wiki/Opossum
 [wikipedia 76]: http://en.wikipedia.org/wiki/Medieval_fortification#Stairs
-[wikipedia 78]: http://en.wikipedia.org/wiki/Dermatophytosis
 [wikipedia 79]: http://en.wikipedia.org/wiki/Soak_testing
 [wikipedia 8]: https://en.wikipedia.org/wiki/Apex_(racing\
 [wikipedia 80]: http://en.wikipedia.org/wiki/Spider#/media/File:Spider_internal_anatomy-en.svg
@@ -1804,7 +1815,6 @@
 [wikipedia 85]: http://en.wikipedia.org/wiki/Urticating_hair
 [wikipedia 86]: http://en.wikipedia.org/wiki/Depersonalization
 [wikipedia 87]: http://en.wikipedia.org/wiki/Underdrive_pulleys
-[wikipedia 88]: http://en.wikipedia.org/wiki/Opiliones
 [wikipedia 89]: http://de.wikipedia.org/wiki/Speibecken
 [wikipedia 9]: https://en.wikipedia.org/wiki/Chicanes
 [wikipedia 90]: http://en.wikipedia.org/wiki/Bilderberg_Group
@@ -1822,7 +1832,6 @@
 [wildsparx]: http://wildsparx.com/eurionize/
 [wired]: http://cdni.wired.co.uk/620x620/s_v/Swordfish.jpg
 [wondercabinet]: http://www.wondercabinet.net/2012/05/29/the-mummies-of-venzone/
-[word]: http://i.word.com/idictionary/rhadamanthine
 [wordpress]: https://askpari.wordpress.com/2012/10/18/how-are-subway-trains-powered/
 [workopolis]: http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946
 [xda-developers]: http://www.xda-developers.com/the-paradox-of-choice-and-why-oems-dont-listen/

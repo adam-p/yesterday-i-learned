@@ -12,3 +12,5 @@
 1. Nair's active ingredients are calcium hydroxide (lime) and sodium hydroxide (lye).
 1. According to Wolfram Alpha, [one drop of water is 50 µL](http://www.wolframalpha.com/input/?i=volume+of+one+drop+of+water).
 1. [Enamel](https://en.wikipedia.org/wiki/Tooth_enamel), the hardest material produced by humans, is only 5 on the hardness scale, yet *still* cracks.
+1. Zinc is a powerful lewis acid (electron [pair] acceptor). [Swallowing a post-1982 American one cent piece (97.5% zinc) can cause damage to the stomach lining through the high solubility of the zinc ion in the acidic stomach.](https://en.wikipedia.org/wiki/Zinc#cite_note-215)
+1. DEET is a solvent. It should not be used on plastics and painted surfaces.

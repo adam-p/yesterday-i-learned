@@ -44,11 +44,12 @@
 
 ```
 *::selection {
-    text-shadow: none !important;
+    display: none !important;  /* annoy all your users */
 }
 ```
 
 * `content: ...` (or any attribute, really) can be set to the [content of some other attribute](https://github.com/chinchang/hint.css/blob/master/hint.css#L65), using something like `content: attr(data-some-other-attribute);`.
+* `font-weight: strong` is not a thing. The correct alias is `font-weight: bold`.
 
 ## XPath
 

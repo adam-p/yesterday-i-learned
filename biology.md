@@ -120,6 +120,9 @@
 1. Skin cancer is almost always curable. It is the easiest way to become a cancer survivor.
 1. [A *certain* type of fasting, done in a *certain* way,](http://www.cell.com/cell/fulltext/S0092-8674(17)30130-7) supposedly allows pancreatic cells to regenerate, reversing diabeetus in mice. May relate to the fast-or-famine response.
 1. The thingy on the side that make a cobra's head look big are called [hoods](https://en.wikipedia.org/wiki/Indian_cobra).
+1. Grey matter (outside) is the nerve cell bodies and synapses. Grey matter is the meat. White matter is the axons. "High alcohol consumption has been correlated with significant reductions in grey matter volume."
+1. Early morning surgery is mostly about a condition called [ileus](https://en.wikipedia.org/wiki/Ileus), "when your intestines stop working because of surgery". They want to keep you in the hospital for one day instead of two to detect ileus.
+1. 
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

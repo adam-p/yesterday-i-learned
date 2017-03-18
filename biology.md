@@ -122,7 +122,7 @@
 1. The thingy on the side that make a cobra's head look big are called [hoods](https://en.wikipedia.org/wiki/Indian_cobra).
 1. Grey matter (outside) is the nerve cell bodies and synapses. Grey matter is the meat. White matter is the axons. "High alcohol consumption has been correlated with significant reductions in grey matter volume."
 1. Early morning surgery is mostly about a condition called [ileus](https://en.wikipedia.org/wiki/Ileus), "when your intestines stop working because of surgery". They want to keep you in the hospital for one day instead of two to detect ileus.
-1. 
+1. Many antidiarrheals work by slowing how fast stool moves through the stomach, giving it time to absorb the water inside.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

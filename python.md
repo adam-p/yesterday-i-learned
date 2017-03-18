@@ -339,6 +339,7 @@ print foo()
 * Doing [`from builtins import dict`](http://python-future.org/compatible_idioms.html#dictionaries) (provided by the [future](http://askubuntu.com/a/728339) package) in a file automatically makes any `dict()`'s `.values()` an iterable, saving memory in python2 and 3 without `.itervalues()`. This does not apply to dict literals.
 * `**kwargs` do not need to contain variable name-only keys. You can call `foo(**{' ': None})` if you want.
 * `nosetests` (Python?) accepts a `-a foo` parameter, that only runs tests decorated with `@attr('foo')`.
+* `ast.literal_eval('123 # comments')` actually returns 123. It still throws ValueError for things like function calls, however.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

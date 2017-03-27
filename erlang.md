@@ -1,0 +1,1 @@
+1. Erlang has [guards](http://learnyousomeerlang.com/syntax-in-functions#guards-guards) like `old_enough(0) -> false;`, or `old_enough(X) when X >= 16 -> true;`.

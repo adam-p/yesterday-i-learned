@@ -165,6 +165,10 @@ Either [`git commit --amend`](http://stackoverflow.com/questions/179123/edit-an-
 
 Change the top commit from `pick` to `r` (reword), and all the others `s` (squash).
 
+### I was at the middle of writing a commit message, but realised I shouldn't be committing / I made a mistake
+
+In vim, type [`:cq`](http://stackoverflow.com/a/28134068/1558430) to make the editor quit and bail.
+
 ## "Your branch is ahead of..."
 *Your branch has different code than the remote one even if a `git pull origin (branch)` tells you `Already up-to-date.` This will make you deploy incorrect code. Beware!*
 On the branch that says that, do [`git reset --hard origin/(branch) && git pull`][stackoverflow 7]

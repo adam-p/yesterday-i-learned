@@ -72,3 +72,8 @@
 1. Deer whistles don't work, either.
 1. Corn occasionally get infected with a [fungus](https://en.m.wikipedia.org/wiki/Corn_smut) that Mexicans consider a delicacy. It's a mushroom, so it may well be.
 1. It is more likely for [flour to have E. coli](https://www.reddit.com/r/explainlikeimfive/comments/4quzvf/eli5_there_is_currently_a_recall_of_flour_due_to/d4w7lsh) than the eggs that are used to bake something.
+1. If the battery is dead, every light except the battery light comes on.
+1. "Trail braking" is releasing the brake when you are half-way into a turn, whose point is called the [apex](https://en.wikipedia.org/wiki/Apex_%28racing%29).
+1. [Chicanes](https://en.wikipedia.org/wiki/Chicanes) are two 90-degree turns designed to slow you down.
+1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
+1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.

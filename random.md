@@ -1,3 +1,37 @@
+1. There is an [entire list of jobs and how much Canada values you](http://www.cic.gc.ca/english/immigrate/skilled/noc.asp). Most valuable jobs are either in skill levels 0 or A. Class D workers are labourers.
+1. Canada has a rainforest in BC, the [Great Bear Rainforest](https://en.wikipedia.org/wiki/Great_Bear_Rainforest).
+1. The appearance of a barberpole (thing spins left and right, but the stripe travels up and down) is [considered an illusion](https://en.m.wikipedia.org/wiki/Barberpole_illusion).
+1. T-Scale (1:450) is the smallest scale for model trains.
+1. [If I am to change this image, I must first change myself.](http://thinkexist.com/quotation/sharks--reciting-i_am_a_nice_shark-not_a_mindless/340378.html)
+1. [Arnold's 6 rules of success](https://opisina.wordpress.com/2012/03/01/6-rules-of-success-arnold-schwarzenegger/) basically means "Find out who you want to be and work hard, very hard".
+1. A home appraisal is an unbiased estimate of the true (or fair market) value of what a home is worth.
+1. [Tarring and feathering](https://en.wikipedia.org/wiki/Tarring_and_feathering) was an odd thing Europeans did to torture people, literally pouring tar and feathers on the person.
+1. Food poisoning involves expelling fluids out of every orifice except for your ears. You learned this from experience.
+1. According to Dr.Proton, it is very common to for patients to outlive at least one family doctor.
+1. ["Molotov Cocktail"](https://en.wikipedia.org/wiki/Molotov_cocktail#Name) was coined by the Finns, which came from "Molotov Bread Baskets", a nickname for Soviet cluster bombs.
+1. To train vocals, talk with a pencil in your mouth for a few minutes.
+1. To train vocals, sing through your closed lips for a few minutes.
+1. If objects have infinite density, then the [Banach–Tarski paradox](https://en.m.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
+1. Aluminium is recycled by passing currents through it, which makes it temporarily magnetic.
+1. [Pavers](https://en.wikipedia.org/wiki/Pavement_%28architecture%29) are bricks with no holes, meant for paving. [Cinder blocks](https://en.wikipedia.org/wiki/Concrete_masonry_unit) are bricks with big holes.
+1. 李時珍 happened only 500 odd years ago.
+1. [Deaf-from-birth schizophrenics see disembodied hands signing to them rather than hearing voices.](https://www.ucl.ac.uk/news/news-articles/0707/07070303).
+1. Since the chain Waffle House stays open no matter what, there is a [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) that indicates how bad a natural disaster is (bad enough to bring Waffle House to its knees).
+1. "Curb appeal" means street cred.
+1. When the market crashes, buy Visa, Walmart, Amazon.
+1. Drinking four litres of earl grey a day will get you muscle cramps. [Bergamot](https://en.wikipedia.org/wiki/Bergamot_essential_oil#Toxicology), the orangey ingredient in earl grey tea, is responsible for this.
+1. "I constantly get out of my comfort zone. [Staying in the comfort zone] is the easiest way to mediocrity." - Terry Crews (actual part of the quote was "Looking cool")
+1. Answering "do you know why I pulled you over" honestly [appears to have less negative consequences](https://www.reddit.com/r/LifeProTips/comments/60o1tq/lpt_do_you_know_why_i_pulled_you_over_translates/), if the police is actually just checking if you know you messed up.
+1. Ejeculate "gloops" out of a vagina at different times, easily on the day after. (/u/Kiwi-98)
+1. The 13th character of a UUID4 string is always 4. UUID1 does not have this problem, but since the [UUID1 hash is based on the MAC address and time](http://stackoverflow.com/questions/1785503/when-should-i-use-uuid-uuid1-vs-uuid-uuid4-in-python), it predictably collides whenever two of them are generated less than ~1us of each other.
+1. "Jedi" is both singular and plural, but to annoy Star Wars fans, you can use "Jedus" for singular, and "Jedis" for plural.
+1. To the moon, the Earth is a thing in the sky that stays in position all the time.
+1. Powers said that many homeless individuals will throw away socks and other clothing when they get dirty because they simply cannot afford to wash them. That, he said, presents an impossible choice—[do laundry, or go hungry.](http://www.nbcbayarea.com/news/local/Apple-Engineer-Converts-Used-Van-Into-Mobile-Laundromat-Offers-Free-Loads-to-Homeless-416489533.html)
+1. The Japanese un-turn-off-able shutter sound can be defeated by [playing the negative sound at the same time](http://stackoverflow.com/questions/4401232/avfoundation-how-to-turn-off-the-shutter-sound-when-capturestillimageasynchrono/23758876#23758876).
+1. ["Cowlick"](https://en.wikipedia.org/wiki/Cowlick) refers to the part of the haircut where it points at you, making it look like you have no hair there.
+1. "86ing a product is when you're all out, 86ing a customer is when they are banned from the business."
+1. Implant removal is worse than internal fixation, because instead of unscrewing those screws, they [drill a bigger hole around the screw](http://www.innomed.net/Images/SurgShots/ChengBiopsy_BoneCore2.jpg) and take out all that bone.
+1. "What's your poison" specifically refers to drinks.
 1. If you suspect your dog has a food allergy, one of the easiest ways to fix things is to try a food with a novel protein, like kangaroo meat.
 1. [Rising rates mean lower bond prices (lower yield).](http://www.cnbc.com/2017/03/15/what-to-do-with-your-bond-portfolio-as-fed-rates-rise.html)
 1. [Every digit of pi is equally likely (at least it is, in the first 10 million digits).](http://blogs.sas.com/content/iml/2015/03/12/digits-of-pi.html)
@@ -92,7 +126,7 @@
 1. Double hashing, triple hashing, or other "wacky hashing functions" are discouraged because of [Kerckhoff's Principle][crackstation] -- the attacker will usually have both the database and the source code -- and will be able to find your function's weaknesses by supplying dummy data.
 1. Apparently SHA1 isn't suitable for hashing passwords anymore.
 1. If you aren't smart enough to find out how an attacker attacked you, hire a security firm. You can't skip this.
-1. [`bcrypt` HAS A LENGTH LIMIT][ycombinator]
+1. [`bcrypt` HAS A LENGTH LIMIT](https://news.ycombinator.com/item?id=7286453)
 1. A *non-abelian group* is the same as non-commutation, in that f * g !== g * f.
 1. "Kudos" is a singular Greek word.
 1. "It's over 9000!" was only over 8000 in the original Japanese manga.
@@ -100,8 +134,6 @@
 1. [The only fool-proof way to install nodejs and npm][stackoverflow 7] on ubuntu 12.04
 1. To make a plain text HTTP request with passwords containing stupid characters, do this: `http://'user:pass'@hello.ca`
 1. `Ctrl+_` gets you the line number dialog in nano/pico.
-1. "Trail braking" is releasing the brake when you are half-way into a turn (whose point is called the [apex][wikipedia 8]))
-1. [Chicanes][wikipedia 9] are two 90-degree turns designed to slow you down.
 1. You idiot...! VLC's shortcuts don't need modifier keys! `n` and `p` already control the playback!
 1. [Living by yourself][reddit 2]
 1. [The Carcinogenic Prototype][hedges]: a prototype that the higher-ups love so much that it needs to grow fast, go wrong, and affect other systems (carcinogenic thus), all while the engineers had told and forewarned of this happening.
@@ -162,7 +194,7 @@
 1. [XSS evasion cheatsheet][owasp]
 1. "Stag and Doe": Southern Ontarian term for a fiance and fiancee's pre-wedding party
 1. If your tailor asks "Where do you dress, sir," it means "where's your penis hanging, left or right?" And you should reply with "I do not dress, sir", meaning ["my penis is too small."](https://www.dailymotion.com/video/x2xvm9k_hugh-jackman-on-top-gear_fun)
-1. [Modems can transmit more than one bit per baud][ycombinator 2]
+1. [Modems can transmit more than one bit per baud](https://news.ycombinator.com/item?id=7828094)
 1. Shebangs can be anything, [including rm][stackexchange 2]: `#!/bin/rm`
 1. "Thread safe" means that the code will never have problems with race conditions (one thing finishing before another).
 1. Hobnobbing: interacting with the higher class; one-percenting
@@ -178,8 +210,6 @@
 1. [Mortgage][wikipedia 30] is French for "death pledge".
 1. It is illegal to pay your mortgage with loaned money, at least in the US.
 1. It is (however) legal to pay your mortgage [with your retirement savings plan](http://www.fcac-acfc.gc.ca/Eng/resources/publications/mortgages/Pages/BuyingYo-Acheterv-11.aspx), at least in Canada. It is called the Home Buyers' Plan.
-1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
-1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.
 1. Mount K2 is the second tallest mountain in the world.
 1. `pigz` is gzip, but with parallel processing (and slightly better compression).
 1. A "micromort" is the money amount associated with risk for each action a person is willing to pay to die doing that event.
@@ -214,7 +244,6 @@
 1. `\b` represents a [word boundary][regular-expressions] in regex. With one, `test\b` will never match `testicles`.
 1. "Mercury" is the Firefox for iOS.
 1. You don't shear a sheep; a sheep gets shorn.
-1. >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.
 1. *Impeachment* requires a cause.
 1. Drying clothes with a few ice cubes in the dryer can [remove wrinkles][lifehacker 3].
 1. Some woman appeared to have typed up an article on [dealing with bitches][huffingtonpost]. However, it is a trick, and should not be trusted.
@@ -229,9 +258,9 @@
 1. There are many kinds of fats; [brown fats][wikipedia 24] are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
 1. > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... ([continued][reddit 10])
 1. Ostriches are not from Australia.
-1. [People can sue you][workopolis] if you give them bad references.
+1. [People can sue you](http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946) if you give them bad references.
 1. There is such a thing as a [Damn Vulnerable Web App][dvwa] that is built solely for others' testing pleasure.
-1. [There aren't actually that many hacker news readers][ycombinator 3]; your server health isn't guaranteed if your "thing" goes mainstream, of course.
+1. [There aren't actually that many hacker news readers](https://news.ycombinator.com/item?id=8107658); your server health isn't guaranteed if your "thing" goes mainstream, of course.
 1. To flash a tab, [change its title][stackoverflow 9].
 1. [Gremlin][bulbflow] is "SQL for graph databases", not a tool.
 1. The creator of the sugar stick (as opposed to the sugar packet) decided that the right way to open them is [through the middle][izismile].
@@ -369,7 +398,7 @@
 1. Blind programmers use [extremely fast TTS][freecodecamp] to "read" code.
 1. [Kitchener][google 4] is twice as large as [Waterloo][google 5].
 1. The `<small>` HTML tag is reserved for defining “smallprint” or legal text.
-1. [Lars Andersen is full of shit][youtube 6]
+1. [Lars Andersen is full of shit](https://youtube.com/watch?v=rDbqz_07dW4)
 1. "Benjamin Franklin was not trusted to write the Declaration of Independence because he might hide a joke in it" is false. [He simply did not care to write it, disliking his work being edited by others.][reddit 22]
 1. [The Mozambique drill][wikipedia 63] consists of shootong twice in the chest, then one to the head, to make sure someone is dead.
 1. "Cortana" the AI name came from Halo.
@@ -437,16 +466,16 @@
 1. The word "manifest" originally meant a document that lists what's in a ship/vessel; now it is an (XML) document that lists what's in an EXE file or archive.
 1. To call Rolex a non-profit company is [accurate but misleading][reddit 32], for the company is marginally non-profit to avoid taxes. IKEA, in particular, exploits this so much that they are one of the world's worst tax avoiders.
 1. Dyslexia is genetic.
-1. ["Breakaway head" screws][youtube 8] are screws those heads go away after screwing in. They are used in prisons, public fixtures, and road signs.
+1. ["Breakaway head" screws](https://youtube.com/watch?v=qbo5teyC0hU) are screws those heads go away after screwing in. They are used in prisons, public fixtures, and road signs.
 1. Cats eat baby poop to remove their scent trail, as well as lick the buttocks of their young to help them defecate.
 1. Because PhotoShop, printers, and scanners refuse to print/edit images with the Eurion Constellation on them, there is [a prank app][wildsparx] that adds it to an image you intend to "simple copy protect".
 1. [Soy sauce and wasabi are not meant to be used in sushi, unless they have already been added by the chef.][medium] (See article for 9 other points). They are also lunch items, meant to be consumed immediately, ordered piecewise, and served with sake while half of the piece is in the mouth.
-1. [Horseshoe theory][wikipedia 81] states that one extreme is just the same as the other extreme. Extreme right wings are similar to extreme left wings.
+1. [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) states that one extreme is just the same as the other extreme. Extreme right wings are similar to extreme left wings.
 1. [Growth like weeds][reddit 33] does NOT refer to how fast marijuana grows. Marijuana takes the average time for a plant to mature and flower.
 1. [Oxygen candles][wikipedia 82] produce emergency oxygen.
 1. [Imprint the student newspaper is a play on words based on gosling imprinting][wikipedia 83]
 1. The [ten code list][everets] is used by public infrastructure to notify employees of emergencies without telling the public what exactly is happening. The most famous one is perhaps "10-4" (OK).
-1. [Unstable rotation][youtube 9]: objects favour rotational axes that are either lowest or highest in angular momentum, but not the axis in between.
+1. [Unstable rotation](https://youtube.com/watch?v=RWZFhambLDM): objects favour rotational axes that are either lowest or highest in angular momentum, but not the axis in between.
 1. [Ebola can reside in testicles for a very long time][reddit 34].
 1. The extra lace holes at the top of shoes are meant to construct [heel locks][youtube 10] that reduce blisters while running.
 1. [The last entry of copy and pasted lines tend to be wrong][intel].
@@ -1047,7 +1076,7 @@
 1. The man who killed Hitler died in the line of duty. The same man subsequently took his own life.
 1. [The best place to trade on Craigslist is in fact the bank rather than the police station.](http://www.reddit.com/r/apple/comments/57yge6/_/d8wno9u?context=1000) That allows you to request money to be withdrawn directly from the ATMs, avoiding fake cash as a payment.
 1. [A blunderbuss (something like a shotgun) in handgun form was called a dragon.](https://en.wikipedia.org/wiki/Blunderbuss)
-1. "Don't you worry about blank. Let me worry about blank." is the thing you should say *repeatedly* at work to make everyone like you.
+1. ["Don't you worry about blank. Let me worry about blank."](https://www.youtube.com/watch?v=BAeTf8px0mE) is the thing you should say *repeatedly* at work to make everyone like you. "Blank" verbatim.
 1. George Orwell wrote in The Road To Wigan Pier, “When you are unemployed, which is to say when you are underfed, harassed, bored, and miserable, you don't want to eat dull wholesome food. You want something a little bit 'tasty'.”
 1. "[The 4G specification requires a minimum speed so LTE was launched to avoid exactly this minimum.](https://news.ycombinator.com/item?id=12746312) It seems that the companies did it right by launching LTE instead of 4G as they could have lost their 4G status, while now they could drop as low as 3G speeds and still be called LTE (which is ironic on itself)."
 1. Children who did chores (have responsibility in general) [end up being more successful.](http://www.reddit.com/r/todayilearned/comments/58fgrg/_/)
@@ -1232,7 +1261,7 @@
 1. ["Trompe-l'œil"](https://en.wikipedia.org/wiki/Trompe-l'%C5%93il) is the French way of saying "3D painting".
 1. Differing from the book, Boromir dies at the end of the first film instead of the beginning of the second book.
 1. The body should not swivel when performing the shoulder check. This puts the car at risk of drifting.
-1. 5mg of oral oxycodone is roughly equivalent to 8.5 regular Advils or Tylenols.
+1. 5mg of oral oxycodone is roughly equivalent to 8.5 regular Advils (2220/(6.67/5)/200) or Tylenols (3600/(6.67/5)/325).
 1. According to [John](https://en.wikipedia.org/wiki/J._R._R._Tolkien), [Unless Elves "lose their will to live", they don't die.](http://tolkiengateway.net/wiki/Elven_Life_cycle)
 1. New Zealand's daylight timezone is GMT+13.
 1. Cheap semiauto firearms are typically [blowback](https://en.wikipedia.org/wiki/Blowback_%28firearms%29). More advanced firearms have [gas operated](https://en.m.wikipedia.org/wiki/Gas-operated_reloading) mechanisms, with separate gas channels and pistons that are [more suited for high power cartridges](https://www.quora.com/What-are-advantages-and-disadvantages-of-gas-operated-firearms).
@@ -1385,6 +1414,7 @@
 1. "A minimum viable product doesn't mean half finished. It's doing small number of things to a high standard."
 1. New Zealand tried to limit fuel use by limiting which cars can be on the road on which days. It didn't work. People just bought more cars.
 1. The first day of [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) always falls between 21 January and 20 February.
+
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm
@@ -1831,9 +1861,7 @@
 [wikipedia 74]: http://en.wikipedia.org/wiki/Opossum
 [wikipedia 76]: http://en.wikipedia.org/wiki/Medieval_fortification#Stairs
 [wikipedia 79]: http://en.wikipedia.org/wiki/Soak_testing
-[wikipedia 8]: https://en.wikipedia.org/wiki/Apex_(racing\
 [wikipedia 80]: http://en.wikipedia.org/wiki/Spider#/media/File:Spider_internal_anatomy-en.svg
-[wikipedia 81]: https://en.wikipedia.org/wiki/Horseshoe_theory
 [wikipedia 82]: http://en.wikipedia.org/wiki/Chemical_oxygen_generator
 [wikipedia 83]: http://en.wikipedia.org/wiki/Imprinting
 [wikipedia 84]: http://en.wikipedia.org/wiki/Cryogenic_deflashing
@@ -1841,7 +1869,6 @@
 [wikipedia 86]: http://en.wikipedia.org/wiki/Depersonalization
 [wikipedia 87]: http://en.wikipedia.org/wiki/Underdrive_pulleys
 [wikipedia 89]: http://de.wikipedia.org/wiki/Speibecken
-[wikipedia 9]: https://en.wikipedia.org/wiki/Chicanes
 [wikipedia 90]: http://en.wikipedia.org/wiki/Bilderberg_Group
 [wikipedia 91]: http://en.wikipedia.org/wiki/Parietal_eye
 [wikipedia 92]: http://en.wikipedia.org/wiki/Htop
@@ -1858,11 +1885,7 @@
 [wired]: http://cdni.wired.co.uk/620x620/s_v/Swordfish.jpg
 [wondercabinet]: http://www.wondercabinet.net/2012/05/29/the-mummies-of-venzone/
 [wordpress]: https://askpari.wordpress.com/2012/10/18/how-are-subway-trains-powered/
-[workopolis]: http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946
 [xda-developers]: http://www.xda-developers.com/the-paradox-of-choice-and-why-oems-dont-listen/
-[ycombinator]: https://news.ycombinator.com/item?id=7286453
-[ycombinator 2]: https://news.ycombinator.com/item?id=7828094
-[ycombinator 3]: https://news.ycombinator.com/item?id=8107658
 [ycombinator 4]: https://news.ycombinator.com/item?id=8901357
 [ycombinator 5]: https://news.ycombinator.com/item?id=10693936
 [ycombinator 6]: https://news.ycombinator.com/item?id=10929547
@@ -1881,7 +1904,3 @@
 [youtube 22]: https://www.youtube.com/watch?v=TEkI0cH_rK4&app=desktop
 [youtube 3]: http://youtube.com/watch?v=DQeyjgSUlrk
 [youtube 5]: http://youtube.com/watch?v=4gw6QnYx5-M
-[youtube 6]: https://youtube.com/watch?v=rDbqz_07dW4
-[youtube 7]: https://www.youtube.com/watch?v=sBJ_dsJPT7I
-[youtube 8]: https://youtube.com/watch?v=qbo5teyC0hU
-[youtube 9]: https://youtube.com/watch?v=RWZFhambLDM

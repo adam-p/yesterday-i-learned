@@ -87,7 +87,7 @@
 1. The phrase Est-ce que... (literally Is it that...) or est-ce qu' (before a vowel) is often used to start asking a question, in an informal way. Est-ce qu'il mange ? means Is he eating?.
 1. [Lent](https://en.wikipedia.org/wiki/Lent) is from Old English *len(c)ten*, meaning Spring.
 1. *Comment t'appelles-tu* is literally how (comment) appelles (call) tu (you).
-1. 
+1. >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

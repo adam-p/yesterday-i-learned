@@ -38,6 +38,28 @@ Basically, if you were handed a project and needed to do it from start to finish
 * Would you know how to assign tasks to the right people such that they become better developers as a result of working on this project - that is, pushing them ever so slightly out of their comfort zone, but not so far that it jeopardizes the product or timelines?
 
 # Algorithms
+
+## [Bubble sort](http://www.ideserve.co.in/learn/bubble-sort)
+
+Iterating through the list, swap item n with item n+1 if item n+1 is smaller than item n. Repeat until no items are swapped in an entire run.
+
+Bubble sort gets its name because larger items bubble up to the end of the list (or smaller items bubble up to the front of the list).
+
+## [Selection sort](http://www.ideserve.co.in/learn/selection-sort)
+
+Find the smallest item in the array and take it out (or swap with the first item if you want).
+Find the next smallest item in the array and take it out (or swap with the second item if you want).
+Repeat until there are no items.
+
+## [Insertion sort](http://www.ideserve.co.in/learn/insertion-sort)
+
+Get yourself a new blank list.
+Take the first item from the array and place it in the list, sorted.
+Take the second item from the array and place it in the list, sorted.
+Repeat until there are no items in the array.
+
+This is different from selection sort only from where the next item is taken. Selection sort looks for the smallest item. Insertion sort gets the first item and figures where to put it.
+
 ## [Bloom filter](http://en.wikipedia.org/wiki/Bloom_filter)
 
 Heuristically determine if something is in a set, being correct most of the time.
@@ -101,7 +123,7 @@ for data in datas:
 # Challenges
 * [ ] Erlang (concurrent programming)
 * [ ] Java (android) 
-* [ ] - [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [ ] [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [ ] TCP/IP
 * [ ] Machine learning (stocks) 
 * [ ] Image (logo) recognition

@@ -1,3 +1,7 @@
+1. [Pheomelanin](https://en.wikipedia.org/wiki/Melanin#Pheomelanin) is responsible for the red hair colour. It is not as good as other types of melanin in UV blocking.
+1. White mushroom, brown mushroom, and portebello are all the same species, [*Agaricus bisporus*](https://en.wikipedia.org/wiki/Agaricus_bisporus), different in size and maturity.
+1. The [Gibbon](https://en.wikipedia.org/wiki/Gibbon) is the only lesser ape. Gibbons resemble monkeys, but are tailless (like great apes).
+1. [Cats can develop blindness on low taurine diets](https://vcahospitals.com/know-your-pet/taurine-in-cats) (such as dog food).
 1. When grass is first laid, its roots have not properly grown, and it must be watered once every day for a week.
 1. A notched tail flipper found on a lobster indicates [a breeding female][wikipedia]. Researchers notch the tails, not the males, so there really wasn't much to be learnt here.
 1. Both infarction and infraction are words. Infraction (-frac-) means breakage. Infarction implies blockage.
@@ -123,6 +127,8 @@
 1. Grey matter (outside) is the nerve cell bodies and synapses. Grey matter is the meat. White matter is the axons. "High alcohol consumption has been correlated with significant reductions in grey matter volume."
 1. Early morning surgery is mostly about a condition called [ileus](https://en.wikipedia.org/wiki/Ileus), "when your intestines stop working because of surgery". They want to keep you in the hospital for one day instead of two to detect ileus.
 1. Many antidiarrheals work by slowing how fast stool moves through the stomach, giving it time to absorb the water inside.
+1. Otter poop is called [spraint](https://en.wikipedia.org/wiki/Spraint). Otters can identify each other by the smells.
+1. [Snails can inhale food.](https://imgur.com/9uPEZMJ) They also eat worms.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

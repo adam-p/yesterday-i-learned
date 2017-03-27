@@ -129,6 +129,8 @@
 1. Many antidiarrheals work by slowing how fast stool moves through the stomach, giving it time to absorb the water inside.
 1. Otter poop is called [spraint](https://en.wikipedia.org/wiki/Spraint). Otters can identify each other by the smells.
 1. [Snails can inhale food.](https://imgur.com/9uPEZMJ) They also eat worms.
+1. (Soluble) fibres lower cholesterol via Le Chatelier's Principle: *When fiber interferes with absorption of bile in the intestines, the bile is excreted in the feces. To make up for this loss of bile, the liver makes more bile salts. The body uses cholesterol to make bile salts. So in order to obtain the cholesterol necessary to make more bile salts, the liver increases its production of LDL receptors. These receptors are responsible for pulling cholesterol out of LDL molecules in the bloodstream. Therefore, the more bile salts are made from the liver, the more LDL cholesterol is pulled from the blood.*
+
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

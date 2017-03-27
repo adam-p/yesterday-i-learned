@@ -600,11 +600,7 @@
 1. Nigeria is the world's [top exporter of yams][wikipedia 109].
 1. [Marshmallow][wikipedia 110]) is a plant.
 1. By detecting the Earth's mass, magnetic field strength, and earthquake data, scientists conclude that the center of the Earth is made of solid iron, with liquid iron surrounding it.
-1. [Law of Demeter][wikipedia 111] states that a function/method can only call the following functions/methods:
-  * itself: other methods in its own instance/class
-  * parameters: methods of any objects passed directly into the function/method
-  * methods of any objects created by the function/method
-  * scope variables
+1. [Law of Demeter][wikipedia 111] states that a function/method can only call a) itself: other methods in its own instance/class, b) parameters: methods of any objects passed directly into the function/method, c) methods of any objects created by the function/method, and d) scope variables.
 1. (Soluble) fibres lower cholesterol via Le Chatelier's Principle:
 >When fiber interferes with absorption of bile in the intestines, the bile is excreted in the feces. To make up for this loss of bile, the liver makes more bile salts. The body uses cholesterol to make bile salts. So in order to obtain the cholesterol necessary to make more bile salts, the liver increases its production of LDL receptors. These receptors are responsible for pulling cholesterol out of LDL molecules in the bloodstream. Therefore, the more bile salts are made from the liver, the more LDL cholesterol is pulled from the blood.
 1. Alembic is called Alembic because it works with SQL[Alchemy][wikipedia 112].

@@ -340,6 +340,8 @@ print foo()
 * `**kwargs` do not need to contain variable name-only keys. You can call `foo(**{' ': None})` if you want.
 * `nosetests` (Python?) accepts a `-a foo` parameter, that only runs tests decorated with `@attr('foo')`.
 * `ast.literal_eval('123 # comments')` actually returns 123. It still throws ValueError for things like function calls, however.
+* [Simon Pirschel](https://aboutsimon.com/), creator of [udatetime](https://github.com/freach/udatetime), says that we should use udatetime because [it is faster](https://aboutsimon.com/blog/2016/08/04/datetime-vs-Arrow-vs-Pendulum-vs-Delorean-vs-udatetime.html).
+* [`.format()` can do many things.](https://pyformat.info/) Useful examples include `{:d}` (as an integer), `{:>10}` (leftpad a string), `{!r}` (repr an object), and `{foo.bar}` (getattr).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

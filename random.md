@@ -1,3 +1,6 @@
+![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
+
+1. [Channel 4](https://en.wikipedia.org/wiki/Channel_4) is its own thing, not [BBC Four](https://en.wikipedia.org/wiki/BBC_Four). Both are public channels.
 1. A group of flamingos are called a flamboyance.
 1. Captain Crunch's full name is Horatio Magellan Crunch.
 1. Homeschooling typically requires a degree of some sort, like  GED. This is not true in some states.
@@ -26,7 +29,7 @@
 1. According to an [uncited table](https://en.wikipedia.org/wiki/Universal_Time#Adoption_in_various_countries), it took Great Britain 32 years to introduce UTC to some other country.
 1. There is an [entire list of jobs and how much Canada values you](http://www.cic.gc.ca/english/immigrate/skilled/noc.asp). Most valuable jobs are either in skill levels 0 or A. Class D workers are labourers.
 1. Canada has a rainforest in BC, the [Great Bear Rainforest](https://en.wikipedia.org/wiki/Great_Bear_Rainforest).
-1. The appearance of a barberpole (thing spins left and right, but the stripe travels up and down) is [considered an illusion](https://en.m.wikipedia.org/wiki/Barberpole_illusion).
+1. The appearance of a barberpole (thing spins left and right, but the stripe travels up and down) is [considered an illusion](https://en.wikipedia.org/wiki/Barberpole_illusion).
 1. T-Scale (1:450) is the smallest scale for model trains.
 1. [If I am to change this image, I must first change myself.](http://thinkexist.com/quotation/sharks--reciting-i_am_a_nice_shark-not_a_mindless/340378.html)
 1. [Arnold's 6 rules of success](https://opisina.wordpress.com/2012/03/01/6-rules-of-success-arnold-schwarzenegger/) basically means "Find out who you want to be and work hard, very hard".
@@ -37,7 +40,7 @@
 1. ["Molotov Cocktail"](https://en.wikipedia.org/wiki/Molotov_cocktail#Name) was coined by the Finns, which came from "Molotov Bread Baskets", a nickname for Soviet cluster bombs.
 1. To train vocals, talk with a pencil in your mouth for a few minutes.
 1. To train vocals, sing through your closed lips for a few minutes.
-1. If objects have infinite density, then the [Banach–Tarski paradox](https://en.m.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
+1. If objects have infinite density, then the [Banach–Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
 1. Aluminium is recycled by passing currents through it, which makes it temporarily magnetic.
 1. [Pavers](https://en.wikipedia.org/wiki/Pavement_%28architecture%29) are bricks with no holes, meant for paving. [Cinder blocks](https://en.wikipedia.org/wiki/Concrete_masonry_unit) are bricks with big holes.
 1. 李時珍 happened only 500 odd years ago.
@@ -193,9 +196,6 @@
 1. Chrome for iOS makes requests to `http://localhost:0` for [URL verification][newrelic].
 1. You once played poker with Lou (Louis J. Montulli II, The Netscape guy) in Sunnyvale. You did not win. Nor did he. Then again, you spent $20 and he went all-out.
 1. If you're the person talking to someone in a noisy club, speak at the person's shoulder and not their ear.
-1. An [aye-aye][wikipedia 12] is an animal.
-1. [Imago][m]: the insect after last stage of moulting, before the insect matures.
-1. Butterfly larvae in the *Papilionidae* family have antannae called [Osmeterium][m 2] that produce foul-smelling terpenes.
 1. Origins of [rekt][reddit 11]
 1. [*Beer shits*][poopreport] are caused by alcohol poisoning and death of gut flora that digest soluble fibres.
 1. [The Mummies of Venzone][wondercabinet] are rapidly dehydrated (and thus preserved) by the fungus *Hypha tombicina*.
@@ -208,7 +208,6 @@
 1. If you haven't gotten laid, you are the first mammal in your lineage not to have gotten laid.
 1. [Snow peas is called *mange tout* in the UK, which means "eat everything" or maybe "everything can be eaten"][lifehacker 2]
 1. [Busty Betty][calgarynumismaticsociety] was a coin minted that was designed to be rubbed.
-1. After mating, the male Parnassines produce a glue like substance that is used to seal the female genital opening and prevent other males from mating.
 1. [Nike][wikipedia 14] is the goddess of victory.
 1. Chena Hot Springs, Alaska - constructed an ice hotel... entirely out of ice and snow. It was shut down by the building inspector due to lack of smoke detectors.
 1. Don't keep asking if you're free to go: "No, you aren't free to go, this is a detention. I've found reasonable suspicion that a crime has occurred, is occurring, or is about to occur, and that you are connected to the crime (ie I saw you run a stop sign in your vehicle) which is all I need to detain you. I have the option to let you go with a warning, or write you a citation for that infraction along with any equipment violations I notice during the course of the stop. I also noticed the distinct odor of fresh marijuana emitting from your vehicle, which constitutes probable cause that there is marijuana (am illegal substance under state and federal law) inside your vehicle. Probable cause allows me to search your vehicle order to locate the source of the odor. If I find less than an ounce and determine that it was for personal use, I have the option to confiscate it and arrest you, or let you go with a warning for that as well. If I choose to arrest you, you will be released on your promise to appear in court at a later date (citation). Have I explained things well enough? Do you have any questions?"
@@ -238,8 +237,8 @@
 1. It is (however) legal to pay your mortgage [with your retirement savings plan](http://www.fcac-acfc.gc.ca/Eng/resources/publications/mortgages/Pages/BuyingYo-Acheterv-11.aspx), at least in Canada. It is called the Home Buyers' Plan.
 1. Mount K2 is the second tallest mountain in the world.
 1. `pigz` is gzip, but with parallel processing (and slightly better compression).
-1. A "micromort" is the money amount associated with risk for each action a person is willing to pay to die doing that event.
-1. Bandy is a sport, like hockey, except the puck is a ball. The Canadian Bandy headquarters is in Winnipeg, and it never wins Russia in their game.
+1. A [micromort](https://en.wikipedia.org/wiki/Micromort) is a measure of probability of death. It is (more or less) the amount associated with risk for each action a person is willing to pay to die doing that event. For example, for every 27km you walk, you get one micromort.
+1. [Bandy](https://en.wikipedia.org/wiki/Bandy) is an ice sport like hockey, except the puck is a ball. The Canadian Bandy headquarters is in Winnipeg, and it never wins Russia in their own game.
 1. At the start of a new job, you are not meant to blend in; instead, find the problems related to the workplace to make sure your next job search includes them as a requirement.
 1. Coworkers value three things: *C*ompetence, *C*haracter, and *C*onsistency.
 1. The *Guinea Worm* is a parasite that only infects humans. It enters through the digestive system, and reproduces by crawling out of the victim's foot. It will most likely be the first parasite to ever be eradicated.
@@ -457,10 +456,7 @@
 1. Facebook has clauses in their open source software that [make their usage completely useless][ycombinator 4].
 1. "Safety is no accident" is technically correct.
 1. [Porsche SE owns Volkswagen AG owns Porsche AG][reddit 26]. Therefore, while "Volkswagan owns Porsche", Porsche (SE) has 51% of VW's voting rights, and hence, ownership.
-1. [Opossums][wikipedia 74] have a remarkably robust immune system, and show partial or total immunity to the venom of rattlesnakes, cottonmouths, and other pit vipers. Opossums are about eight times less likely to carry rabies than wild dogs, and about one in eight hundred opossums is infected with this virus.
-1. Some moths have [interference antennae][vice] that make bats miss them.
 1. [Gun magazines can be helical][imgur 4]
-1. [Rabbits][gfycat] are small, cute, eat their own waste, and can be easily disposed of. They are the ideal pet.
 1. [There is no way to wipe properly][reddit 27] while your nails are long.
 1. Firefox has a "zoom text only" option in View>Zoom.
 1. As of January 2015, the Swiss had removed all the explosives from their bridges.
@@ -502,7 +498,6 @@
 1. [Imprint the student newspaper is a play on words based on gosling imprinting][wikipedia 83]
 1. The [ten code list][everets] is used by public infrastructure to notify employees of emergencies without telling the public what exactly is happening. The most famous one is perhaps "10-4" (OK).
 1. [Unstable rotation](https://youtube.com/watch?v=RWZFhambLDM): objects favour rotational axes that are either lowest or highest in angular momentum, but not the axis in between.
-1. [Ebola can reside in testicles for a very long time][reddit 34].
 1. The extra lace holes at the top of shoes are meant to construct [heel locks][youtube 10] that reduce blisters while running.
 1. [The last entry of copy and pasted lines tend to be wrong][intel].
 1. "Herbs" are only from leaves of plants, and that "spices" are from everything *but* the leaves.
@@ -517,7 +512,6 @@
 1. "Inner-platform effect" refers to software becoming so flexible that its structure becomes its parent programming language/platform.
 1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time. 
 1. Kombucha is fermented tea. Although kombucha is claimed to have several beneficial effects on health, the claims are not supported by scientific evidence.
-1. [Underdrive pulleys][wikipedia 87] turn at a slower speed than stock. They increase horsepower by removing power from accessories like the AC.
 1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken orally.
 1. Scottish bank notes are in fact promissory notes, and are worth nothing like GBP in value.
 1. Capsaicin does not affect birds. Hotness in Capsicum plants helps them spread their seeds because it makes them unpleasant for mammals, but still tasty for birds (which, you know, fly).
@@ -552,11 +546,10 @@
 1. The [Baskerville][aiga] font makes readers believe that which is written is true, much more often than other fonts, including Helvetica.
 1. [Release cards][aljazeera] are prison debit cards that charge a lot more (unregulated) fees. Prisoners are profit streams.
 1. [Clutches are in their resting position when down][answers].
-1. Japanese girls have not been [licking doorknobs}[tumblr] for more than three years.
+1. Japanese girls have not been [licking doorknobs][tumblr] for more than three years.
 1. "[Dude][reddit 37]" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
 1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.][reddit 38] This makes electroshocking impossible in salt water.
 1. However much Google results decide to decay, the way to check the device's battery percentage is `cat /sys/class/power_supply/battery/capacity`
-1. [Star anise][wikipedia 99] make shikimic acid, an intermediate for oseltamivir (tamiflu).
 1. Carbines are shorter versions of rifles.
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
 1. [Tap codes][wikipedia 100] go through walls, which morse code does not (because it is not possible to have 'long knocks')
@@ -588,7 +581,7 @@
 1. Salt and vinegar chips are "artificially flavored". They are sprinkled with sodium acetate, which conveys the flavors of salt and vinegar while not technically being either.
 1. [Plus codes][androidpolice 2]: Google Plus Codes
 1. If a house is near Japanese Knotweed, it has already taken its foundation. cannot be sold.
-1. *August* can be an adjective. It means "majestic". So you can be august any time of year.
+1. *August* can be an adjective. It means "majestic". So you can be august any time of year. If you are James May, then you May be August any time of year.
 1. Star-Spangled Banner was a rip of [To Anacreon in Heaven][bbc].
 1. Rebasing someone else's signed commit, understandably, removes the signature.
 1. Hindu revere cows because they were more valuable alive than dead (for their milk and poop). It is not their understanding that cows are gods.
@@ -639,7 +632,7 @@
 1. Following Halloween is All Saints' Day, which celebrates those who went to heaven.
 1. Following All Saints' Day is All Souls' Day, which remembers the souls who died.
 1. With All Saints' Day and All Souls' Day, it is obvious that the Roman Catholic Church knows who went to heaven and who went to hell, but has no information about life after death.
-1. There is a word for [soaking rice in a thing that has taste][google 11].
+1. There is a word for [soaking rice in a thing that has taste][google 11]: *pilaf*.
 1. [Never buy a VW in September][reddit 43] (because Oktoberfest)
 1. [YUI][github] started the whole browser grading thing.
 1. >[Don't be the only person using Tor on a monitored network at a given time][youtube 15]
@@ -652,10 +645,10 @@
 1. It is [always wise to wear black][buytshirtsonline]. Black instils confidence, intelligence, and attracts (at least) the opposite sex. It is also the best colour to wear to interviews, funerals, weddings, and some sort of gaming event.
 1. ["The more development I do the more I feel like increased Lines Of Code (LOC), nearly always results in increased bugs."][mayerdan]
 1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
-1. Ontario only: [there is a maximum on how much your landlord can raise your rent][ontariotenants], and it is different every year.
+1. Ontario only: [there is a maximum on how much your landlord can raise your rent][ontariotenants], and it is different every year. The maximum percentage increase (1.5%) has been dropping since 1977 (8%).
 1. A fool-proof way to poach an egg is to [strain away all of the egg white][seriouseats], says mister López-Alt.
 1. Discarded human waste, along with disintegrating [mudbricks][wikipedia 120], create [tells][wikipedia 121], elevated mounds of stuff. Sometimes "Tel" gets into the location's name. Tel Aviv might be one.
-1. [Cob][wikipedia 122]) is poor man's building material, similar to [adobe][wikipedia 123], which a company named itself for its building block properties.
+1. [Cob][wikipedia 122] is poor man's building material, similar to [adobe][wikipedia 123], which a company named itself for its building block properties.
 1. [Fourier series visual][wikimedia]
 1. [The Passion of the Christ][wikipedia 125] was a controversial film, because viewers didn't know [the meaning of the word Passion in Christian context][wikipedia 126]).
 1. The refugee issue is caused by [western interests in a natural gas pipeline][reddit 45] from Saudi to Europe.
@@ -683,7 +676,6 @@
 1. [Fish yawn][youtube 17], aquatic animals yawn, [unborn babies yawn][tandfonline], all [known] vertebrates yawn.
 1. [The disciple whom Jesus loved][wikipedia 135] is not his wife like some moron said on Youtube. Jesus has no wife.
 1. The pattern [`aaaa aaa aaa aaaaa`][ycombinator 5] causes Windows <2000 to glitch out while assuming the format is unicode.
-1. After the caterpillar becomes a butterfly, the toxin shift to different parts of the body. Since many birds attack the wings of the butterfly, having three times the cardiac glycosides in the wings leaves predators with a very foul taste and may prevent them from ever ingesting the body of the butterfly. **WITH THAT SAID** In order to combat predators that remove the wings only to ingest the abdomen, [monarchs][wikipedia 136] keep the most potent cardiac glycosides in their abdomens.
 1. Russia has an [exclave][wikipedia 137] called [Kaliningrad Oblast][wikipedia 138]. It is named after [a Soviet somebody called Kalinin][wikipedia 139].
 1. [The least tolerant *person* wins][c2] as the highest common denominator.
 1. The Greek word "Kyrios" means "lord, Lord, master" in one word.
@@ -900,18 +892,18 @@
 1. Quirrell stuttered because he was tormented by the back of his head.
 1. [Apparently](http://www.beyondhogwarts.com/harry-potter/articles/doing-the-math-how-many-kids-are-at-hogwarts.html), there are only ~280 students in Hogwarts at any time.
 1. Marrying a native [North] American man for tax credit is [not really worth it](http://www.cbc.ca/news/business/taxes/first-nations-pay-more-tax-than-you-think-1.2971040), particularly if for tax credit alone. You also have to suffer the consequences of marrying a man (if you are heterosexual). Said native man also loses the perpetual tax exemption if he marries a non-native man (or other hipster kins, such as women).
-1. The [Beaufort scale](https://en.m.wikipedia.org/wiki/Beaufort_scale) is how tall the waves are given a certain wind speed. If the waves are 9ft tall, then the Beaufort scale is 9ft.
+1. The [Beaufort scale](https://en.wikipedia.org/wiki/Beaufort_scale) is how tall the waves are given a certain wind speed. If the waves are 9ft tall, then the Beaufort scale is 9ft.
 1. [Women always scream, often while doing nothing, it is a global phenomenon](https://www.reddit.com/r/videos/comments/4ju3ip/still_one_of_the_eeriest_videos_ive_seen_the/d39un1a).
 1. Always begin a conversation with ["Can we talk?"](https://www.reddit.com/comments/4jymdh).
 1. [A saline solution is used to flush air out of organs while transplants are performed.](https://www.reddit.com/comments/4jt2eb)
 1. Connoisseur is spelled *connaisseur* in French. The connoisseur spelling is traditional.
 1. [Disrupting REM sleep impairs memory](https://www.reddit.com/comments/4j3i45). Drinking, then, impairs memory.
-1. [Habibi](https://en.m.wikipedia.org/wiki/Habibi) is Arabic for darling.
+1. [Habibi](https://en.wikipedia.org/wiki/Habibi) is Arabic for darling.
 1. While it is well-known that [Google A/B tests everything, including colour](http://www.telegraph.co.uk/technology/2016/05/09/google-is-testing-a-radical-change-by-turning-all-links-black/), their designers don't like it either, apparently: ""I can't operate in an environment like that. I've grown tired of debating such miniscule design decisions. There are more exciting design problems in this world to tackle."
 1. [Assassination](https://www.reddit.com/r/news/comments/4iclf5/opposition_party_leader_in_venezuela_assassinated/d2x1npm) refers specifically to the murder of a politician.
 1. Winnipeg uses Resolute's timezone, throwing off [developers who try to be too clever](https://www.reddit.com/r/Android/comments/4hohcg/nova_launcher_updated_to_43_with_n_dev_preview_2/d2rkp84): "Nova's night mode uses timezones to approximate location if it doesn't have the location permission. For some reason carriers in Mantioba CA use the timezone of America/Resolute instead of America/Winnipeg. And Resolute is really far north and doesn't have traditional sunset/sunrises which throws things off. There was some code to handle these types of locations, but it wasn't behaving as it should."
 1. The mother and baby [share stem cells](https://www.reddit.com/comments/4javmv).
-1. The [clothespin](https://en.m.wikipedia.org/wiki/Clothespin) was invented in Vermont.
+1. The [clothespin](https://en.wikipedia.org/wiki/Clothespin) was invented in Vermont.
 1. [Thailand hand-peels shrimps.](https://www.washingtonpost.com/news/wonk/wp/2015/12/15/the-shocking-truth-about-shrimp-today/)
 1. To... kill an unconscious person, [cover their nose with one of their hands' webbing, then apply pressure to it by having them lie face down](https://www.reddit.com/r/me_irl/comments/4hu8ih/me_irl/d2siwsx).
 1. [Forest fires happen in Alberta all the time](http://imgur.com/oHTv2ol). Fort Mac is an exception only because people live there.
@@ -956,7 +948,7 @@
 1. "Judas Iscariot hung himself and all the guts fell out" was reconstructed from "He died by hanging" and "he fell headlong; his bowels gushed out". [They may be independent/contradictory/non-contradictory events](https://carm.org/bible-difficulties/matthew-mark/how-did-judas-die-hanging-or-falling-down).
 1. Tabernacle just means Hut.
 1. [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS) on top of REST emulates old-school terminals by transferring not only the requested data to the client, but a list of possible actions on it, too.
-1. "If whales have 1000 times more cells than we do, why don't they get cancer 1000 times more often" is called the [Peto's paradox](https://en.m.wikipedia.org/wiki/Peto%27s_paradox).
+1. "If whales have 1000 times more cells than we do, why don't they get cancer 1000 times more often" is called the [Peto's paradox](https://en.wikipedia.org/wiki/Peto%27s_paradox).
 1. It takes just ~5 minutes of downtime per year to kill a [99.999%](http://uptime.is/99.999) uptime guarantee. Other common guarantees: [~52 minutes for 99.99%](http://uptime.is/99.99), [~9 hours for 99.9%](http://uptime.is/99.9), [~3 days for 99%](http://uptime.is/99).
 1. A bowl of oatmeal a day could be the secret to a longer and healthier life, say scientists.
 1. Weasels are smaller than you think. Beavers are bigger than you think. (Grizzly) Bears are smaller than you think. Grizzly bears are less big than black bears than you think. Elks are bigger than bears. Mountain goats are not goats. 
@@ -966,13 +958,13 @@
 1. U Lethbridge's motto is Fiat Lux.
 1. [It is not illegal to drive barefoot](http://www.theglobeandmail.com/globe-drive/culture/commuting/strange-canadian-driving-laws-that-surprised-us-the-most-in-2015/article27951066/), but since it has less grip than shoes, you probably shouldn't.
 1. There is a global unified postal service body called the [Universal Postal Union](https://en.wikipedia.org/wiki/Universal_Postal_Union). The Union creates a framework and standards so that ALL countries can exchange mail freely without forming individual contracts with every other country. - [source](https://www.reddit.com/r/explainlikeimfive/comments/4o4t7z/-/d49oo7a)
-1. [Oktoberfestbier](https://en.m.wikipedia.org/wiki/Pale_lager#Oktoberfestbier_.2F_M.C3.A4rzen) is a real trademarked term for Oktoberfest beer.
+1. [Oktoberfestbier](https://en.wikipedia.org/wiki/Pale_lager#Oktoberfestbier_.2F_M.C3.A4rzen) is a real trademarked term for Oktoberfest beer.
 1. Windows 10 sucks so much because [Microsoft fired its QA department](http://www.networkworld.com/article/2453929/microsoft-subnet/would-microsoft-really-cut-its-qa-department.html).
 1. [Minimum payment means nothing](http://moneyfacts.co.uk/guides/credit-cards/what-is-a-minimum-payment-on-a-credit-card240211/). Pay as much as you can over and above the minimum payment.
 1. The [Eurozone](https://en.wikipedia.org/wiki/Eurozone) is a strict subset of the EU; it is the zone that (only) uses Euros.
 1. Rohypnol does not have a single hydroxyl group on it.
 1. [Alcohol causes alzheimer's-like symptoms](http://pubs.niaaa.nih.gov/publications/arh25-4/299-306.htm), but it is reversible to a degree.
-1. The Senate, also called the [House of Lords](https://en.m.wikipedia.org/wiki/House_of_Lords), takes legislation from the House of Commons and revises it accordingly. In most countries, the House of Commons in practice holds far more power than the [House of Lords].
+1. The Senate, also called the [House of Lords](https://en.wikipedia.org/wiki/House_of_Lords), takes legislation from the House of Commons and revises it accordingly. In most countries, the House of Commons in practice holds far more power than the [House of Lords].
 1. It is [legal](https://www.reddit.com/r/nottheonion/comments/4ozso3/-/d4gy5mj) to dissolve the dead using sodium hydroxide in Canada.
 1. "If you sink the cue ball while going for the 8 ball, you lose" - Darren, something along those lines
 1. In 193 AD, [five Roman emperors](https://en.wikipedia.org/wiki/Year_of_the_Five_Emperors) claimed to be Caesar.
@@ -1118,7 +1110,7 @@
 1. [The Egyptians were the first to divide the day by sixes and twelves](https://www.reddit.com/r/explainlikeimfive/comments/5a1mhf/eli5_how_did_we_decide_how_long_a_second_was/d9d5pse/?context=1000) (Eh? What were the Chinese doing?)
 1. [People don't like others who complain all the time.](https://www.reddit.com/r/socialskills/comments/59vdlf/15_glaring_signs_of_social_incompetence_you_want/)
 1. ["Worker"](https://news.ycombinator.com/item?id=12818361), in the UK, is a lower class of Employee, essentially contractors with indefinite contract lengths.
-1. [Allspice](https://en.m.wikipedia.org/wiki/Allspice) is a plant, [Hospice](https://en.wikipedia.org/wiki/Hospice) is a clinic for the chronically ill, [Old Spice](https://en.wikipedia.org/wiki/Old_Spice) is a brand of deodorant.
+1. [Allspice](https://en.wikipedia.org/wiki/Allspice) is a plant, [Hospice](https://en.wikipedia.org/wiki/Hospice) is a clinic for the chronically ill, [Old Spice](https://en.wikipedia.org/wiki/Old_Spice) is a brand of deodorant.
 1. Even when [pretending to play the piano](http://steponerehab.com/how-you-can-rewire-your-brain/), the group had motor skills improve despite not having played the piano. This shows the brain's mental training has the ability to change the physical properties of itself.
 1. "To draw a bow like an Olympian, draw to the eye, and then down to keep natural shoulder rolling motion." - just tried it, doesn't work.
 1. The whole ["HJKL keys are on the home row!!!! BETTER!!@@@"](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/) argument only applies to vim users who do not use a mouse.
@@ -1160,7 +1152,7 @@
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
 1. Capers are their flower buds. The smaller the size, the more desirable.
 1. "[Perth, Ontario](https://en.wikipedia.org/wiki/Perth,_Ontario) was the site of the last fatal duel in Upper Canada. Robert Lyon, a law student, was killed on June 13, 1833 after fighting over a woman (Elizabeth Hughes) with a former friend, John Wilson."
-1. There is an actual term for microwaved food not tasting as good: ["warmed-over flavour"](https://en.m.wikipedia.org/wiki/Warmed-over_flavor). It is caused by fats being broken down into less flavourful aldehydes and ketones.
+1. There is an actual term for microwaved food not tasting as good: ["warmed-over flavour"](https://en.wikipedia.org/wiki/Warmed-over_flavor). It is caused by fats being broken down into less flavourful aldehydes and ketones.
 1. [It costs money to ask Canada Post to forward your mail](https://www.canadapost.ca/web/en/products/details.page?article=forward_your_mail_wh&ecid=display|ddn|ml|225).
 1. When you *lost* control in the snow (not before you lose it), you are supposed to [hit the gas into the intended direction](https://www.reddit.com/r/canada/comments/5gn9lt/crazy_morning_outside_the_office/), not brake. Braking does nothing in that particular situation.
 1. [`http://www.google.com/blank.html` and `http://clients3.google.com/generate_204`](http://webmasters.stackexchange.com/a/30689) are the urls hit by captive portal detection.
@@ -1208,7 +1200,7 @@
 1. "Let's go" has an apostrophe because it is possessive. Example: *It is Let's go pro.*
 1. The Helsinki syndrome was mentioned in both Die Hard and Top Gear.
 1. "Cleopatra lived closer in time to the Moon landing than she did to the building of the Pyramids." - /u/panzerkampfwagen
-1. Barbers ("Barber Surgeons") used to perform bloodletting and various other minor surgeries. This was the reason they had their red and white [spinning poles](https://en.m.wikipedia.org/wiki/Barber's_pole#Use_in_barbering) in front of their shops.
+1. Barbers ("Barber Surgeons") used to perform bloodletting and various other minor surgeries. This was the reason they had their red and white [spinning poles](https://en.wikipedia.org/wiki/Barber's_pole#Use_in_barbering) in front of their shops.
 1. "In the event (...) where passengers have to cover their heads you do not 'lock' your fingers over head but place one hand on top of the other. If something falls on your hand/head, you'll still have one good hand to use."
 1. Usually when people realise that termites exist, it is already too late to learn from the mistake.
 1. Omega 3 can lower your tolerance to/for marijuana *iff* you have a bad ratio of omega 3:6 intake.
@@ -1246,7 +1238,7 @@
 1. Archaic term [*Hondo*](http://www.urbandictionary.com/define.php?term=hondo) referred to "an old John Wayne movie".
 1. The ISS is set to retire in 2020. [Or 2024. Or 2028. Or...](https://www.google.com/search?q=The+ISS+is+set+to+retire+in)
 1. In MMA, it is a legal move to end a fighter's career by straight kicking the opponent's thigh in an attempt to hyperextend the knee.
-1. [Quincunx](https://en.m.wikipedia.org/wiki/Quincunx) is the special word for the 5-dot pattern on a die.
+1. [Quincunx](https://en.wikipedia.org/wiki/Quincunx) is the special word for the 5-dot pattern on a die.
 1. [Cops are the fattest.](http://time.com/3637967/police-officers-fattest-profession-study/) Probably from all the donuts.
 1. The EU does not have umbrella financial assistance programs. If someone goes unemployed in Alabama, there is a federal fund for that. If someone goes unemployed in Greece, Greece is responsible for it. This makes the EU weaker than the US.
 1. When you run out of money in your margin account, the broker will call you. [Margin call](http://www.investopedia.com/terms/m/margincall.asp) is literal in that sense.
@@ -1284,9 +1276,9 @@
 1. 5mg of oral oxycodone is roughly equivalent to 8.5 regular Advils (2220/(6.67/5)/200) or Tylenols (3600/(6.67/5)/325).
 1. According to [John](https://en.wikipedia.org/wiki/J._R._R._Tolkien), [Unless Elves "lose their will to live", they don't die.](http://tolkiengateway.net/wiki/Elven_Life_cycle)
 1. New Zealand's daylight timezone is GMT+13.
-1. Cheap semiauto firearms are typically [blowback](https://en.wikipedia.org/wiki/Blowback_%28firearms%29). More advanced firearms have [gas operated](https://en.m.wikipedia.org/wiki/Gas-operated_reloading) mechanisms, with separate gas channels and pistons that are [more suited for high power cartridges](https://www.quora.com/What-are-advantages-and-disadvantages-of-gas-operated-firearms).
+1. Cheap semiauto firearms are typically [blowback](https://en.wikipedia.org/wiki/Blowback_%28firearms%29). More advanced firearms have [gas operated](https://en.wikipedia.org/wiki/Gas-operated_reloading) mechanisms, with separate gas channels and pistons that are [more suited for high power cartridges](https://www.quora.com/What-are-advantages-and-disadvantages-of-gas-operated-firearms).
 1. "Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should" came from [Jeff](https://www.youtube.com/watch?v=4PLvdmifDSk&app=desktop) in Jurassic Park.
-1. Oyster sauce and coca cola share the same food colouring, [E150](https://en.m.wikipedia.org/wiki/Caramel_color).
+1. Oyster sauce and coca cola share the same food colouring, [E150](https://en.wikipedia.org/wiki/Caramel_color).
 1. There *was* a nuclear shipping vessel, [NS Savannah](https://en.wikipedia.org/wiki/NS_Savannah).
 1. [值太歲 = Current zodiac (I think)](http://www.outoftruth.com/wp-content/uploads/2014/09/%E7%8A%AF%E5%A4%AA%E6%AD%B2.jpg)
 1. [沖太歲 = Current zodiac ± 6 (I think)](http://outoftruth.com/%E7%8E%84%E5%AD%B8%E9%9B%9C%E8%AB%96/%E7%8A%AF%E5%A4%AA%E6%AD%B2%EF%BC%9F-2013825/)
@@ -1489,7 +1481,6 @@
 [generationmodel]: http://www.generationmodel.eu/gentypmod
 [geojson]: http://geojson.org/
 [geojsonlint]: http://geojsonlint.com/
-[gfycat]: https://gfycat.com/PessimisticBrilliantGroundhog
 [gianigranite]: https://www.gianigranite.com/index.php?route=product/category&path=1_73
 [gilderlehrman]: http://www.gilderlehrman.org/history-by-era/slavery-and-anti-slavery/resources/facts-about-slave-trade-and-slavery
 [github]: https://github.com/yui/yui3/wiki/Graded-Browser-Support
@@ -1547,11 +1538,9 @@
 [lifehacker 4]: http://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791
 [lifehacker 5]: http://lifehacker.com/how-being-uncomfortable-helps-you-grow-1748360327
 [linuxinsight]: http://www.linuxinsight.com/proc_sys_vm_drop_caches.html
-[m]: http://en.wikipedia.org/wiki/Imago
-[m 2]: http://en.wikipedia.org/wiki/Osmeterium
 [m 3]: http://en.wikipedia.org/wiki/Paddington_Bear#History
-[m 4]: https://en.m.wikipedia.org/wiki/Schistosomatidae
-[m 5]: https://en.m.wikipedia.org/wiki/Swimmer%27s_itch
+[m 4]: https://en.wikipedia.org/wiki/Schistosomatidae
+[m 5]: https://en.wikipedia.org/wiki/Swimmer%27s_itch
 [maxwellsci]: http://maxwellsci.com/print/crjss/v2-255-261.pdf
 [mayerdan]: http://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio/
 [media]: http://28.media.tumblr.com/tumblr_ltahvlbVHe1qls341o1_500.jpg
@@ -1610,7 +1599,6 @@
 [reddit 31]: https://www.reddit.com/r/WTF/comments/2zgp6i/train_enthusiasts_xpost_from_runexpected/
 [reddit 32]: https://www.reddit.com/r/todayilearned/comments/31du56/til_the_rolex_watch_company_is_run_by/cq0sxhu
 [reddit 33]: https://www.reddit.com/r/Damnthatsinteresting/comments/31ve8m/80_days_of_cannabis_growth
-[reddit 34]: https://www.reddit.com/r/worldnews/comments/358thb/for_the_first_time_ebola_has_been_discovered/
 [reddit 35]: https://www.reddit.com/r/worldnews/comments/2zld47/bbc_news_indian_students_caught_cheating_in_exams/cpk0xow
 [reddit 36]: https://www.reddit.com/r/AskReddit/comments/36m3ed/reddit_historians_what_are_some_nsfw_rated_facts/
 [reddit 37]: https://www.reddit.com/r/todayilearned/comments/384gf5/til_the_word_dude_was_first_used_in_the_late/
@@ -1703,7 +1691,6 @@
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=Welp&defid=2839204
 [urbandictionary 2]: http://www.urbandictionary.com/define.php?term=tabarnak
 [urbandictionary 3]: http://www.urbandictionary.com/define.php?term=go+ugly+early
-[vice]: http://motherboard.vice.com/read/top-gun-but-for-insects-these-moths-long-tails-are-jammers-for-bat-sonar
 [vice 2]: http://www.vice.com/read/the-great-beanie-baby-bubble?utm_source=vicefbus
 [videolan]: https://forum.videolan.org/viewtopic.php?t=9792
 [voisen]: http://sean.voisen.org/blog/2013/10/intro-monads-maybe/
@@ -1730,7 +1717,6 @@
 [wikipedia 117]: https://en.wikipedia.org/wiki/Incest#/media/File%3ATable_of_Consanguinity_showing_degrees_of_relationship.png
 [wikipedia 118]: https://en.wikipedia.org/wiki/Dysprosium
 [wikipedia 119]: https://en.wikipedia.org/wiki/Caliphate
-[wikipedia 12]: http://en.wikipedia.org/wiki/Aye-aye
 [wikipedia 120]: https://en.wikipedia.org/wiki/Mud_brick
 [wikipedia 121]: https://en.wikipedia.org/wiki/Tell
 [wikipedia 122]: https://en.wikipedia.org/wiki/Cob_(building
@@ -1746,7 +1732,6 @@
 [wikipedia 133]: https://en.wikipedia.org/wiki/Trinidad
 [wikipedia 134]: https://en.wikipedia.org/wiki/Xylitol
 [wikipedia 135]: https://en.wikipedia.org/wiki/Disciple_whom_Jesus_loved
-[wikipedia 136]: https://en.wikipedia.org/wiki/Monarch_butterfly
 [wikipedia 137]: https://en.wikipedia.org/wiki/Enclave_and_exclave
 [wikipedia 138]: https://en.wikipedia.org/wiki/Kaliningrad_Oblast
 [wikipedia 139]: https://en.wikipedia.org/wiki/Mikhail_Kalinin
@@ -1878,7 +1863,6 @@
 [wikipedia 7]: http://en.wikipedia.org/wiki/IDN_homograph_attack
 [wikipedia 72]: http://en.wikipedia.org/wiki/Diabetes_mellitus#Type_1
 [wikipedia 73]: http://en.wikipedia.org/wiki/Death_rattle
-[wikipedia 74]: http://en.wikipedia.org/wiki/Opossum
 [wikipedia 76]: http://en.wikipedia.org/wiki/Medieval_fortification#Stairs
 [wikipedia 79]: http://en.wikipedia.org/wiki/Soak_testing
 [wikipedia 80]: http://en.wikipedia.org/wiki/Spider#/media/File:Spider_internal_anatomy-en.svg
@@ -1887,7 +1871,6 @@
 [wikipedia 84]: http://en.wikipedia.org/wiki/Cryogenic_deflashing
 [wikipedia 85]: http://en.wikipedia.org/wiki/Urticating_hair
 [wikipedia 86]: http://en.wikipedia.org/wiki/Depersonalization
-[wikipedia 87]: http://en.wikipedia.org/wiki/Underdrive_pulleys
 [wikipedia 89]: http://de.wikipedia.org/wiki/Speibecken
 [wikipedia 90]: http://en.wikipedia.org/wiki/Bilderberg_Group
 [wikipedia 91]: http://en.wikipedia.org/wiki/Parietal_eye
@@ -1898,7 +1881,6 @@
 [wikipedia 96]: https://en.wikipedia.org/wiki/Bogon_filtering
 [wikipedia 97]: https://en.wikipedia.org/?title=Finger_protocol
 [wikipedia 98]: https://en.wikipedia.org/wiki/Roche_limit
-[wikipedia 99]: https://en.wikipedia.org/wiki/Star_anise
 [wiktionary]: http://en.wiktionary.org/wiki/skeleton_crew
 [wiktionary 2]: http://en.wiktionary.org/wiki/bury_the_lead
 [wildsparx]: http://wildsparx.com/eurionize/

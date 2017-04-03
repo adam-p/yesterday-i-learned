@@ -74,7 +74,7 @@ cat input_file.txt | command > output_file.txt  # or win the useless cat award
 1. [The `last` command][askubuntu 2] will show `- crash` if a computer crashed, possibly due to power outage. This is the simplest way to determine if someone used the machine and shut it down afterwards, and when `syslog` is emptied for whatever reason.
 1. `readlink (path to link)` outputs where the link is pointing.
 1. `sudo -s` turns you into root and keeps whichever shell you're using.
-1. [`cd -`][winterdrake] gets you back to the previous directory.
+1. [`cd -`][winterdrake] gets you back to the previous directory. To make a directory called `-`, `mkdir '-'`. To go to that directory, use `cd ./-`, because `cd '-'` will not work.
 1. Press `Shift+PgUp` and `Shift+PgDn` to scroll up and down.
 1. If you cannot run a program with sudo because "Could not open X display", even though DISPLAY is already something like `:0`, then try running `xhost +` first.
 1. To do a port scan on anything, run ` nc -z example.com 1-65535`
@@ -212,6 +212,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. `PS1` is the variable used to display the prompt. `PS1='>>> '` changes the bash shell to look like a python shell.
 1. [`;;`](http://stackoverflow.com/questions/16905183/dash-double-semicolon-syntax) is not just two semicolons; it means the end of a case statement.
 1. `SysRq` stands for "system request", says [an Internet stranger](http://royal.pingdom.com/2012/06/26/sysadmin-needs-sysrq-magic/).
+1. `which (some shell function)` will give you the entire function as a string, at best. To see if a command exists, try `command -v (command)`.
 
 ## Tmux
 

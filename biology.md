@@ -1,3 +1,4 @@
+1. According to incogneatolady on Reddit, female ferrets can die in heat if they don't mate, by developing aplastic anemia.
 1. [Pheomelanin](https://en.wikipedia.org/wiki/Melanin#Pheomelanin) is responsible for the red hair colour. It is not as good as other types of melanin in UV blocking.
 1. White mushroom, brown mushroom, and portebello are all the same species, [*Agaricus bisporus*](https://en.wikipedia.org/wiki/Agaricus_bisporus), different in size and maturity.
 1. The [Gibbon](https://en.wikipedia.org/wiki/Gibbon) is the only lesser ape. Gibbons resemble monkeys, but are tailless (like great apes).
@@ -130,7 +131,8 @@
 1. Otter poop is called [spraint](https://en.wikipedia.org/wiki/Spraint). Otters can identify each other by the smells.
 1. [Snails can inhale food.](https://imgur.com/9uPEZMJ) They also eat worms.
 1. (Soluble) fibres lower cholesterol via Le Chatelier's Principle: *When fiber interferes with absorption of bile in the intestines, the bile is excreted in the feces. To make up for this loss of bile, the liver makes more bile salts. The body uses cholesterol to make bile salts. So in order to obtain the cholesterol necessary to make more bile salts, the liver increases its production of LDL receptors. These receptors are responsible for pulling cholesterol out of LDL molecules in the bloodstream. Therefore, the more bile salts are made from the liver, the more LDL cholesterol is pulled from the blood.*
-
+1. Man claims [Burbot](https://en.wikipedia.org/wiki/Burbot) the fish, common in Lake Erie, is the poor man's lobster. The Burbot can be frozen for a day and come back to life when thawed.
+1. [Cymothoa exigua, or the tongue-eating louse, is a parasitic isopod of the family Cymothoidae. This parasite enters fish through the gills, and then attaches itself to the fish's tongue. The female attaches to the tongue and the male attaches on the gill arches beneath and behind the female. Females are 8–29 millimetres (0.3–1.1 in) long and 4–14 mm (0.16–0.55 in) in maximum width. Males are approximately 7.5–15 mm (0.3–0.6 in) long and 3–7 mm (0.12–0.28 in) wide. The parasite severs the blood vessels in the fish's tongue, causing the tongue to fall off. It then attaches itself to the stub of what was once its tongue and becomes the fish's new tongue.](https://imgur.com/gallery/3uW8U)
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

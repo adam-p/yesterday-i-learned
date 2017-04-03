@@ -1,3 +1,24 @@
+1. A group of flamingos are called a flamboyance.
+1. Captain Crunch's full name is Horatio Magellan Crunch.
+1. Homeschooling typically requires a degree of some sort, like  GED. This is not true in some states.
+1. [Japanese Sign Language for the word "brother" requires you to flip the bird, twice.](https://media.spreadthesign.com/video/mp4/7/81416.mp4)
+1. Reno NV is farther west than Los Angeles CA.
+1. Led Zeppelin intentionally misspelled "Lead" as "Led", so it cannot be pronounced as Leed Zep Lin. The name reportedly came from "sink like a lead zeppelin", one of their reviews.
+1. It takes the same amount of energy to melt ice (from 0 degrees solid to 0 degrees liquid) and to heat water (from 0 degrees liquid to 70 degrees liquid).
+1. The reason why solar panel car parks is an awesome idea is two fold. First, cars park in the car park when the sun is up. So they cannot be charged. Second, cars leave the car park at night, when the sun is down, making solar panels useless.
+1. Asphalt is one of the most recycled materials ever. Over 99% is recycled from roadways and turned back into roads elsewhere.
+1. "Giblets" are the edible innards of the fowl (like chicken), such as heart, testicles, and liver. For some reason, the neck is also included.
+1. "Get down to brass tacks" means "begin to talk about important things".
+1. [Lisa Windsor](https://en.wikipedia.org/wiki/Elizabeth_II) has been stuck in her dead end job since 1952.
+1. Digital Ocean [gives out diffs](https://github.com/digitalocean/tos/compare/278a0702186ab94db1a1bafb76f0359ed0112dcf...e215e37e98dbb719ac0eb6de520c6b8b9826f752#diff-7e38e8dcb6d4e31a36d8cb78795190daR205) for their terms of service. This is in contrast with CloudAssCost, who hands out secret terms with an extra payment clause, and lures users into agreeing with it.
+1. [The speed of gravity waves is the same as the speed of light.](https://en.wikipedia.org/wiki/Speed_of_gravity)
+1. The POST request is specifically meant to create things (and over and over). The PUT request is meant to update things (and not over and over).
+1. "The PrivateBank" trades on NASDAQ as PVTB.
+1. GPG requires you to specify a recipient when you encrypt a file with it, naturally, because only that someone will have the private key to decrypt it. So what you end up with is a command line like `gpg --output in_file.txt.gpg --encrypt --recipient yourself_or_someone_else@example.com in_file.txt`, which you may well alias to something more elegant. You can then decrypt with `gpg in_file.txt.gpg`.
+1. 2^31 - 1 is one of only four known [double Mersenne primes](https://en.wikipedia.org/wiki/Double_Mersenne_number) (given a prime `P`, `2P - 1` is a prime, and `2^(2P - 1) - 1` is also prime).
+1. Dry shampoo is essentially powdered starch.
+1. [A fish tank that is too clean can smell too.](http://thegoldfishtank.com/goldfish-care/tank/goldfish-tank-smells-bad/) The tank relies on some bateria to break down goodies in the water.
+1. Polo appears to be horse lacrosse. But then again, there is [polocrosse](https://en.wikipedia.org/wiki/Polocrosse), a cross (heh) between the two.
 1. Jehovah's Witnesses is a cult because they have their own [page explaining how they are not a cult](https://www.jw.org/en/jehovahs-witnesses/faq/are-jehovahs-witnesses-a-cult/). Seriously though, they [discourage tertiary education, don't celebrate birthdays, and use their own (mis)translation of the bible, and somehow don't believe Jesus rose from the dead](http://www.cultwatch.com/jw.html), according to CultWatch.
 1. McDonald's was founded by Richard and Maurice McDonald. McDonald's Corporation (franchises), on the other hand, was founded by Ray Kroc, a salesman.
 1. The term [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code) didn't come from boiler plates (smooth pieces of metal), but from the boiling lead used to make plates to print newspapers, used multiple times after forming.

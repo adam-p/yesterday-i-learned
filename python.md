@@ -270,18 +270,22 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 * Returning inside a `try` *or* an `except` block will still run the `finally` block, if one exists.
 
 ```
-def foo():
+>>> def foo():
     try:
+        print 'foo'
         raise Exception(4)
         return 5
     except:
+        print 'baz'
         return 6
     finally:
         print 'bar'
 
-print foo()
-# bar
-# 6
+>>> print foo()
+foo
+baz
+bar
+6
 ```
 
 * As far as SQLAlchemy is concerned, [there is no difference between `== true()` and `.is_(True)`](https://groups.google.com/forum/#!msg/sqlalchemy/T2bKLjzO6KA/1EwA6spA9QsJ). Howveer, pep8 and co. will complain about the former, so you should use the latter.
@@ -342,6 +346,9 @@ print foo()
 * `ast.literal_eval('123 # comments')` actually returns 123. It still throws ValueError for things like function calls, however.
 * [Simon Pirschel](https://aboutsimon.com/), creator of [udatetime](https://github.com/freach/udatetime), says that we should use udatetime because [it is faster](https://aboutsimon.com/blog/2016/08/04/datetime-vs-Arrow-vs-Pendulum-vs-Delorean-vs-udatetime.html).
 * [`.format()` can do many things.](https://pyformat.info/) Useful examples include `{:d}` (as an integer), `{:>10}` (leftpad a string), `{!r}` (repr an object), and `{foo.bar}` (getattr).
+* [`numpy.split(array, 3)` splits into 3 arrays. `numpy.array_split(array, 3)` splits into arrays of length 3.](http://stackoverflow.com/questions/9922395/python-numpy-split-array-into-unequal-subarrays)
+1. [Click](https://pypi.python.org/pypi/click) is a far more intuitive version of optparse/argparse/whatever.
+1. If you say (in python2 anyway) `[b for b in c]`, but `c` happens to have no elements, then `b` is never defined.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

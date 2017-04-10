@@ -224,6 +224,10 @@ undefined
 * Semver's `~` upgrades to any patch version. `^` upgrades to any minor version. npm stopped defaulting to the tilde because it assumes minor versions are all compatible with each other. In the real world (where npm is used), this is false.
 * [Jeremy Ashkenas on semantic versioning](https://gist.github.com/jashkenas/cbd2b088e20279ae2c8e): *"SemVer tries to compress a huge amount of information — the nature of the change, the percentage of users that will be affected by the change, the severity of the change, into a single number." "SemVer is a false promise that appeals to many developers — the promise of pain-free, don't-have-to-think-about-it, updates to dependencies. But it simply isn't true." "It's alright for robots, but bad for us."*
 
+### Webpack
+
+* The correct usage is `webpack your/index.js dist/bundle.js`. Just make sure you have one of those and you're good to go. Alternatively, make yourself a `webpack.config.js`, and run `webpack (--config webpack.config.js)` again. Also fine.
+
 [ajpiano]: http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/
 [angularjs]: http://angularjs.org/
 [backbonejs]: http://backbonejs.org/#FAQ-mvc

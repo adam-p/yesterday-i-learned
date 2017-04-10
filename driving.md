@@ -1,3 +1,5 @@
+![](http://i.imgur.com/IGedhKP.jpg)
+
 ### Parallel parking
 
 * Back in full right back slowly three yellow lines line up with mirror

@@ -243,6 +243,10 @@ git does not have permission to modify your files. Give it write permission one 
 
 `git commit --allow-empty -m 'empty initial commit yo'`
 
+**OR** If you are an absolute /r/madlad, you can even omit the commit message (Thanks, Rob)
+
+`git commit --allow-empty --allow-empty-message`
+
 ## I can't overwrite untracked local files when pulling
 Try `git fetch --all && git reset --hard origin/(branch)`.
 

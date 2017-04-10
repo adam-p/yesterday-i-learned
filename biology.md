@@ -143,6 +143,9 @@
 1. [Rabbits](https://gfycat.com/PessimisticBrilliantGroundhog) are small, cute, eat their own waste, and can be easily disposed of. They are the ideal pet.
 1. [Ebola can reside in testicles for a very long time](https://www.reddit.com/r/worldnews/comments/358thb/for_the_first_time_ebola_has_been_discovered/).
 1. [Star anise](https://en.wikipedia.org/wiki/Star_anise) makes shikimic acid, an intermediate for oseltamivir (tamiflu).
+1. [Canines have inherited an instinct to hide any pain that is caused by injuries or infirmity. In the wild, an animal that is injured or infirm is vulnerable to attack, and there is a survival advantage to act like nothing is wrong even when something most definitely is.](https://www.psychologytoday.com/blog/canine-corner/201109/do-dogs-feel-pain-the-same-way-humans-do)
+1. The diet of the [maned wolf](https://en.wikipedia.org/wiki/Maned_wolf) (50% meat, 50% vegetables) is healthier than many Americans.
+1. There are over 90 Chickpea genotypes. [The peas come in one-pea pods.](https://en.wikipedia.org/wiki/Chickpea)
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

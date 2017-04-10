@@ -1,5 +1,40 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [John](https://en.wikipedia.org/wiki/John_%28given_name%29) (Hebrew), Hans (German), Ian (Scottish), Evan (Welsh), and Ivan (Cyrillic) are all the same name.
+1. *John* (Yehohanan) means "Yahweh is Gracious"; *Jonathan* (Yonatan) means "JHVH has given". They are not the same name (but *Johnny* is). If you plan to name your child a variant of John, Jonathan is best left for when you have been expecting, but you are on a low sperm count.
+1. Alan Rickman once played a catapillar Alice picked off a man's shoulder.
+1. The [Cheshire Cat](https://en.wikipedia.org/wiki/Cheshire_Cat) with that stupid grin came from Alice[ Kingsleigh]'s Adventures in Wonderland, one of the first things mentioned. That stupid ass-smile (Stephen Fry) dwas popularised by [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice_in_Wonderland_%282010_film%29), the movie. In the movie, you can fall for a whole minute and hit a roof without dying.
+1. 5cm is the difference between being warm, and having your shoulders stuck out of the sleeping bag because you were cheap.
+1. Mr. Burns outlived one of his voice actors, Christopher Collins.
+1. "Rogue one is hit" came from Avatar (2009), not Rogue One (2016).
+1. The Spartan [Gerousia](https://en.wikipedia.org/wiki/Gerousia) performed a common form of eugenics (which is also a Greek word), whereby babies that are weak or abnormal are left for dead. Adolf Hitler considered Sparta to be the first "[Völkisch](https://en.wikipedia.org/wiki/V%C3%B6lkisch_movement) State", whatever folkish means.
+1. It is unclear whether or not Jack Layton used the [Jack Layton Ferry Terminal](https://en.wikipedia.org/wiki/Jack_Layton_Ferry_Terminal) before it was called the Jack Layton Ferry Terminal.
+1. Pokemon evolved (heh) from [Capsule Monsters](http://bulbapedia.bulbagarden.net/wiki/Capsule_Monsters), featuring at least Nidorino, Gengar, and Lapras. It was drawn by Satoshi Tajiri (田尻 智), who is now CEO of Game Freak.
+1. Incidentally, [尻](https://ja.wikipedia.org/wiki/%E5%B0%BB) (haau) is definitely buttocks.
+1. 朗 (long5) and 郎 (long4) are different words.
+1. [Nidoran](http://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%82_%28Pok%C3%A9mon%29) is the first pokemon to feature gender differences, and the only one/two pokemon to have separate pokedex IDs for each gender.
+1. When in an argument, pretend like you are being recorded. In fact, forget about the argument altogether. Always act as if you are being recorded.
+1. Nope ropes kill by constriction. Danger noodles kill using venom.
+1. Cheap hammers are cheap because [their stems are hollow](https://i.redd.it/yebanw2pdfoy.jpg).
+1. "I think there was a research done that suggested just making yourself seen by your boss once or twice a day just by walking past his office when the door is open will improve your chance of being promoted. People tend to trust people that they've grown accustomed to seeing, even if they know not a single thing about them." - Rondaru
+1. Doctors merely delay the inevitable.
+1. Étienne is the French Steve.
+1. Identify Cat5 (100Mbps) and ddCat6 (10Gbps) cables by looking at the cable itself. If it is not printed, [you are screwed.](https://www.computercablestore.com/tiaeia-568a-and-568b-wiring-color-codes)
+1. Cat5 and Cat6 cables are interchangeable.
+1. The term *Django Boys* has a a very low rate of occurrence on the Internet. [This](http://ghostlessmachine.com/en/2016/03/why-django-girls/) is one of the occurrences.
+1. African American prisoners keep their pants low to let other prisoners know that they have no belts.
+1. [You'll say, "well (immutable datastores are) not going to work, because we have to fix errors," Well, do it the way the banks do it: *you create an update record*.](https://www.youtube.com/watch?v=lgLrFPIg1VM) - Steve Jackson at i-Technologyinc
+1. Somber means dark. Sonder (the made up word) means "realising that everyone else is also a person with their own thoughts and feelings".
+1. [“consider various strategies alternatives available to the company.” means “sell, sell, sell.”](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)
+1. The Swiss sell [negative yield bonds](https://www.ft.com/content/2ae4237a-2d3e-33dd-b9e0-120c4a93a29c).
+1. [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) survived for 18 months without a brain (most of it was chopped off). It died possibly having choked on corn.
+1. Squid do not have any legs at all, but they do have eight arms and two tentacles, making for a total limb count of 10. Squidward has two arms, four legs, and no tentacles.
+1. "Morty" stands for Mortimer.
+1. Black Mirror is named after a turned-off screen.
+1. Many theatres show 1984 on April 4th. ["In Orwell’s story, April 4 is the day that protagonist Winston Smith (Hurt) starts his rebellion against the government when he begins to keep a diary, something verboten by the ruling party."](https://www.inverse.com/article/28101-1984-in-theaters-april-4)
+1. [`git rerere`](https://git-scm.com/blog/2010/03/08/rerere.html) is a hidden feature. It redoes a rebase you have done before.
+1. When cooking meat, remove the ["silver skin"](http://www.genuineideas.com/ArticlesIndex/silverskin.html) (mostly fat and collagen) that wraps the tissue. They make meat harder to chew.
+1. (Uber blog) When pictures of people are shopped into cars, men rate women higher than women rate men. In this experiment, [the Bentley Continental was the only car found to make women rate the men higher than the same men in some other car.](https://newsroom.uber.com/economics-of-car-ownership/)
 1. [Channel 4](https://en.wikipedia.org/wiki/Channel_4) is its own thing, not [BBC Four](https://en.wikipedia.org/wiki/BBC_Four). Both are public channels.
 1. A group of flamingos are called a flamboyance.
 1. Captain Crunch's full name is Horatio Magellan Crunch.
@@ -645,7 +680,7 @@
 1. It is [always wise to wear black][buytshirtsonline]. Black instils confidence, intelligence, and attracts (at least) the opposite sex. It is also the best colour to wear to interviews, funerals, weddings, and some sort of gaming event.
 1. ["The more development I do the more I feel like increased Lines Of Code (LOC), nearly always results in increased bugs."][mayerdan]
 1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
-1. Ontario only: [there is a maximum on how much your landlord can raise your rent][ontariotenants], and it is different every year. The maximum percentage increase (1.5%) has been dropping since 1977 (8%).
+1. Ontario only: [there is a maximum on how much your landlord can raise your rent][ontariotenants], and it is different every year. The maximum percentage increase (1.5%) has been dropping since 1977 (8%). This applies only to buildings built before 1991; Bill 96 allows landlords of any building constructed after 1991 to increase rent as they see fit.
 1. A fool-proof way to poach an egg is to [strain away all of the egg white][seriouseats], says mister López-Alt.
 1. Discarded human waste, along with disintegrating [mudbricks][wikipedia 120], create [tells][wikipedia 121], elevated mounds of stuff. Sometimes "Tel" gets into the location's name. Tel Aviv might be one.
 1. [Cob][wikipedia 122] is poor man's building material, similar to [adobe][wikipedia 123], which a company named itself for its building block properties.
@@ -1426,7 +1461,7 @@
 1. "A minimum viable product doesn't mean half finished. It's doing small number of things to a high standard."
 1. New Zealand tried to limit fuel use by limiting which cars can be on the road on which days. It didn't work. People just bought more cars.
 1. The first day of [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) always falls between 21 January and 20 February.
-
+1. "[It turns out JavaScript engines are very good at iterating flat arrays and running small, highly optimized functions](https://news.ycombinator.com/item?id=14050625) and that's what Glimmer is doing at its core."
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
 [about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm

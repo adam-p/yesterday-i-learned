@@ -213,6 +213,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. [`;;`](http://stackoverflow.com/questions/16905183/dash-double-semicolon-syntax) is not just two semicolons; it means the end of a case statement.
 1. `SysRq` stands for "system request", says [an Internet stranger](http://royal.pingdom.com/2012/06/26/sysadmin-needs-sysrq-magic/).
 1. `which (some shell function)` will give you the entire function as a string, at best. To see if a command exists, try `command -v (command)`.
+1. `dc` is an 'arbitrary precision calculator'. `bc` is a 'arbitrary precision calculator language'.
+1. [coreutils](https://www.gnu.org/software/coreutils/coreutils.html) is like [BusyBox](https://busybox.net/), except BusyBox isn't a whiney bitch complaining about calling it GNU/BusyBox/Linux all the time (even though they are both GPL licenced).
 
 ## Tmux
 

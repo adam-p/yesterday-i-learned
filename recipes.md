@@ -51,14 +51,6 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 * Cook for an hour.
 * Apply spices and serve.
 
-## Casserole
-
-* 
-
-## Meatloaf
-
-* 
-
 ## Potatoes
 
 * Wash potatoes.
@@ -97,6 +89,14 @@ Procedures:
 
 * Mix beans with rice.
 
+## Stew
+
+Potato + tomato + carrot + beef = baby, you've got a stew goin
+
+## Soup
+
+Potato + onion + carrot + pork = baby, you've got a soup goin
+
 # Ingredients
 
 ## Hollandaise
@@ -108,10 +108,6 @@ Procedures:
 * Add 1 table spoon of **olive oil** and continue whisking.
 * Add more **olive oil** until mixture doubles in volume.
 * Add some more **grapefruit juice** and whisk for 30 more seconds.
-
-## Red Sauce
-
-* 
 
 ## Onion
 

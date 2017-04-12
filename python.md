@@ -349,6 +349,7 @@ bar
 * [`numpy.split(array, 3)` splits into 3 arrays. `numpy.array_split(array, 3)` splits into arrays of length 3.](http://stackoverflow.com/questions/9922395/python-numpy-split-array-into-unequal-subarrays)
 1. [Click](https://pypi.python.org/pypi/click) is a far more intuitive version of optparse/argparse/whatever.
 1. If you say (in python2 anyway) `[b for b in c]`, but `c` happens to have no elements, then `b` is never defined.
+1. The `cPickle` module in PyPy is written in pure python.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

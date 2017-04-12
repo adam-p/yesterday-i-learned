@@ -215,6 +215,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. `which (some shell function)` will give you the entire function as a string, at best. To see if a command exists, try `command -v (command)`.
 1. `dc` is an 'arbitrary precision calculator'. `bc` is a 'arbitrary precision calculator language'.
 1. [coreutils](https://www.gnu.org/software/coreutils/coreutils.html) is like [BusyBox](https://busybox.net/), except BusyBox isn't a whiney bitch complaining about calling it GNU/BusyBox/Linux all the time (even though they are both GPL licenced).
+1. `rsync --remove-source-files ...` removes the source files after transfer is complete, effectively an `mv`. `--dry-run` might be useful if you are unsure what gets deleted.
 
 ## Tmux
 

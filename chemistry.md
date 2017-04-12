@@ -15,3 +15,5 @@
 1. [Enamel](https://en.wikipedia.org/wiki/Tooth_enamel), the hardest material produced by humans, is only 5 on the hardness scale, yet *still* cracks.
 1. Zinc is a powerful lewis acid (electron [pair] acceptor). [Swallowing a post-1982 American one cent piece (97.5% zinc) can cause damage to the stomach lining through the high solubility of the zinc ion in the acidic stomach.](https://en.wikipedia.org/wiki/Zinc#cite_note-215)
 1. DEET is a solvent. It should not be used on plastics and painted surfaces.
+1. In zinc batteries, [the housing is the anode.](http://www.differencebetween.net/technology/difference-between-zinc-and-alkaline/) This means the housing is consumed when the battery is used, making it more prone to leakage.
+1. [Putrescine](https://en.wikipedia.org/wiki/Putrescine), apart from making up the smell of dead flesh, also contributes to smells like bad breath, bacterial vaginosis, and semen.

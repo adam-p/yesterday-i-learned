@@ -1,3 +1,4 @@
+1. [One testicle is often smaller than hung lower than the other one (if one exists).](http://www.embarrassingproblems.com/problem/testicle-problems/how-to-check-your-balls)
 1. According to incogneatolady on Reddit, female ferrets can die in heat if they don't mate, by developing aplastic anemia.
 1. [Pheomelanin](https://en.wikipedia.org/wiki/Melanin#Pheomelanin) is responsible for the red hair colour. It is not as good as other types of melanin in UV blocking.
 1. White mushroom, brown mushroom, and portebello are all the same species, [*Agaricus bisporus*](https://en.wikipedia.org/wiki/Agaricus_bisporus), different in size and maturity.
@@ -146,6 +147,8 @@
 1. [Canines have inherited an instinct to hide any pain that is caused by injuries or infirmity. In the wild, an animal that is injured or infirm is vulnerable to attack, and there is a survival advantage to act like nothing is wrong even when something most definitely is.](https://www.psychologytoday.com/blog/canine-corner/201109/do-dogs-feel-pain-the-same-way-humans-do)
 1. The diet of the [maned wolf](https://en.wikipedia.org/wiki/Maned_wolf) (50% meat, 50% vegetables) is healthier than many Americans.
 1. There are over 90 Chickpea genotypes. [The peas come in one-pea pods.](https://en.wikipedia.org/wiki/Chickpea)
+1. [Pea crabs](http://gardenandgun.com/articles/southern-secret-the-pea-crab/) used to be eaten with the mussels they grow in.
+1. The solid core in some zits can also be bacteria and white blood cells.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

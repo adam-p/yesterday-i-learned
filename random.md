@@ -1,9 +1,16 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [You can buy back your own car after it is written off,](http://icandrive.ca/driving/my-vehicle-is-a-write-off-now-what-5-things-you-need-to-know/) and drive it, as long as it was never deemed "irreparable". Otherwise, your insurance will either be very high, or impossible to get for a salvage car.
+1. `sleep()` is considered a [temporal side effect](https://en.wikipedia.org/wiki/Side_effect_%28computer_science%29#Temporal_side_effects).
+1. The queen bee mates with males only once: on her flight to build a new nest.
+1. The EU flag is non-flammable.
+1. In 300, Stelios replaces [Dienekes](https://en.wikipedia.org/wiki/Dienekes), the actual brave soldier.
+1. 1kg of flour can become 2,852km of noodles, if you try hard enough.
+1. [Alkyl nitrites](https://en.wikipedia.org/wiki/Poppers) aka Poppers are gaseous recreational drugs. It is frequently inhaled to relax the throat and anal sphincter (may be useful in some situations). A common side effect is dacryoliths (tear duct stones).
 1. [John](https://en.wikipedia.org/wiki/John_%28given_name%29) (Hebrew), Hans (German), Ian (Scottish), Evan (Welsh), and Ivan (Cyrillic) are all the same name.
 1. *John* (Yehohanan) means "Yahweh is Gracious"; *Jonathan* (Yonatan) means "JHVH has given". They are not the same name (but *Johnny* is). If you plan to name your child a variant of John, Jonathan is best left for when you have been expecting, but you are on a low sperm count.
 1. Alan Rickman once played a catapillar Alice picked off a man's shoulder.
-1. The [Cheshire Cat](https://en.wikipedia.org/wiki/Cheshire_Cat) with that stupid grin came from Alice[ Kingsleigh]'s Adventures in Wonderland, one of the first things mentioned. That stupid ass-smile (Stephen Fry) dwas popularised by [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice_in_Wonderland_%282010_film%29), the movie. In the movie, you can fall for a whole minute and hit a roof without dying.
+1. The [Cheshire Cat](https://en.wikipedia.org/wiki/Cheshire_Cat) with that stupid grin came from Alice[ Kingsleigh]'s Adventures in Wonderland, one of the first things mentioned. That stupid ass-smile (Stephen Fry) was popularised by [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice_in_Wonderland_%282010_film%29), the movie. In the movie, you can fall for a whole minute and hit a roof without dying.
 1. 5cm is the difference between being warm, and having your shoulders stuck out of the sleeping bag because you were cheap.
 1. Mr. Burns outlived one of his voice actors, Christopher Collins.
 1. "Rogue one is hit" came from Avatar (2009), not Rogue One (2016).

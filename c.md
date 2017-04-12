@@ -110,3 +110,8 @@ struct B : A { };  // Has all A's fields
 > "One of the main benefits of using std::string is that it manages the underlying string buffer for you automatically, so new-ing it kind of defeats that purpose."
 * Function/method names are [`UpperCamelCase`](https://google.github.io/styleguide/cppguide.html#Function_Names), unless they are cheap, (e.g.) "so cheap that you normally wouldn't bother caching its return value when calling it in a loop", in which case they are `underscored_things`; such a function normally consists of only one comparison.
 * [`do {...} while (0)`](http://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros) is the de facto way of writing a macro that expands correctly, whether in a one-liner if statement, or in an if-else.
+* Macros are not substituted in macros. (Otherwise `#ifdef`s will get complicated)
+* Headers can contain other headers, but should not.
+* Rule: When addressing compile errors in your programs, always resolve the first error produced first.
+* Compared to arrays, **vectors** consume more memory in exchange for the ability to manage storage and [grow dynamically](http://stackoverflow.com/a/6632991/1558430) in an efficient way. Use vector unless you have a very, very small array, and know what you are doing.
+* If both a `<foo>` and `<foo.h>` exists, then the `.h` version is deprecated. Use the non-h version.

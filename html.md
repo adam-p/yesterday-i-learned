@@ -32,6 +32,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 * Saving too much in localStorage gives you a `DOM Exception 22: QuotaExceededError`.
 * In `<head>`, when you expect a script to have access to nothing: [`document.head` is actually available.](https://eager.io/blog/everything-I-know-about-the-script-tag/)
 * "Use of the Application Cache is deprecated on insecure origins", which is great. [AppCache sucks blue balls](http://alistapart.com/article/application-cache-is-a-douchebag), anyway.
+* [An empty href](http://stackoverflow.com/questions/5637969/is-an-empty-href-valid) points to the same document.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

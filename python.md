@@ -1,3 +1,5 @@
+![](http://i.imgur.com/V7Fr14e.jpg)
+
 * Ordering of python lists is persistent. [src][stackoverflow]
 * Pycharm hinting: 
 
@@ -350,6 +352,7 @@ bar
 1. [Click](https://pypi.python.org/pypi/click) is a far more intuitive version of optparse/argparse/whatever.
 1. If you say (in python2 anyway) `[b for b in c]`, but `c` happens to have no elements, then `b` is never defined.
 1. The `cPickle` module in PyPy is written in pure python.
+1. `a_string.replace('foo', '')` can obviously still contain `foo`, if `'ffoooo'.replace('foo', '')`
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

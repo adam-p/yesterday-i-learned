@@ -1,4 +1,4 @@
-# Cars
+![](http://i.imgur.com/gqjVFBq.jpg)
 
 1. Car engines have mounts. [Otherwise, they pop out.](http://www.reddit.com/r/justrolledintotheshop/comments/57jlc4/_/)
 1. Mechanics change your oil by first [pumping pressurised gas](https://www.reddit.com/r/Justrolledintotheshop/comments/5a22jc/never_trust_the_new_guy_to_drain_an_oil_bin/d9d3xg7/) into the "oil bins", emptying them.
@@ -70,11 +70,10 @@
 1. In the case of an emergency radiator leak (in which case, you won't be reading this), [pinch the places where it is leaking.](https://www.reddit.com/r/Justrolledintotheshop/comments/54rcdw/when_in_a_pinch_pinch_the_passages_no_leaks/)
 1. Also, eggs in the radiator will not work. The only thing you can put in is egg *whites*, and even that works terribly.
 1. Deer whistles don't work, either.
-1. Corn occasionally get infected with a [fungus](https://en.m.wikipedia.org/wiki/Corn_smut) that Mexicans consider a delicacy. It's a mushroom, so it may well be.
-1. It is more likely for [flour to have E. coli](https://www.reddit.com/r/explainlikeimfive/comments/4quzvf/eli5_there_is_currently_a_recall_of_flour_due_to/d4w7lsh) than the eggs that are used to bake something.
 1. If the battery is dead, every light except the battery light comes on.
 1. "Trail braking" is releasing the brake when you are half-way into a turn, whose point is called the [apex](https://en.wikipedia.org/wiki/Apex_%28racing%29).
 1. [Chicanes](https://en.wikipedia.org/wiki/Chicanes) are two 90-degree turns designed to slow you down.
-1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
-1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.
 1. [Underdrive pulleys](http://en.wikipedia.org/wiki/Underdrive_pulleys) turn at a slower speed than stock. They increase horsepower by removing power from accessories like the AC.
+1. The [Ford Excursion](https://en.wikipedia.org/wiki/Ford_Excursion), no longer made, was apparently criticised for being too large of an SUV. At 5.7m long, it is the same length as the [Chevrolet Suburban](https://en.wikipedia.org/wiki/Chevrolet_Suburban#2017), which is still on sale today.
+1. The longer your vehicle is, the more it feels, when you tow a trailer, that you are towing, rather than the trailer towing you. This is unfortunately not something a car can compensate by any other dimension.
+1. Having more exhausts can potentially raise horsepower, but really not by much (1, maybe 2). See Dodge Durango.

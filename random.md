@@ -1,5 +1,11 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. There has not been a single occasion (at least until S03E01) where Rick travelled to the past from the present. Maybe it is not possible.
+1. The Google Maps street view man is called [Pegman](https://vulcanpost.com/350661/google-maps-yellow-man-pegman/), not Pinman.
+1. All [Reddit engineering jobs](https://about.reddit.com/careers/) are based in San Francisco.
+1. Some weight lifters attach chains to their weights, so as the weights are lifted, the chains add weight proportional to how high it is off the ground. "A muscle fiber is weakest when all of its contractile units are either fully extended or fully contracted and strongest at some point in between."
+1. [Sand is a finite resource...?](https://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html) Not because silicon dioxide is rare, but because crushing rock is costly, and a use rate of 40 billion tons per year is a lot to come up with.
+1. The colour of gold is [defined](https://en.wikipedia.org/wiki/Gold_%28color%29) as `#ffd700`, but my eyes say it is closer to `#ffee77`.
 1. [You can buy back your own car after it is written off,](http://icandrive.ca/driving/my-vehicle-is-a-write-off-now-what-5-things-you-need-to-know/) and drive it, as long as it was never deemed "irreparable". Otherwise, your insurance will either be very high, or impossible to get for a salvage car.
 1. `sleep()` is considered a [temporal side effect](https://en.wikipedia.org/wiki/Side_effect_%28computer_science%29#Temporal_side_effects).
 1. The queen bee mates with males only once: on her flight to build a new nest.
@@ -591,7 +597,7 @@
 1. Japanese girls have not been [licking doorknobs][tumblr] for more than three years.
 1. "[Dude][reddit 37]" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
 1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.][reddit 38] This makes electroshocking impossible in salt water.
-1. However much Google results decide to decay, the way to check the device's battery percentage is `cat /sys/class/power_supply/battery/capacity`
+1. However much Google results decide to decay, the way to check (your particular android) device's battery percentage is `cat /sys/class/power_supply/battery/capacity`.
 1. Carbines are shorter versions of rifles.
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
 1. [Tap codes][wikipedia 100] go through walls, which morse code does not (because it is not possible to have 'long knocks')

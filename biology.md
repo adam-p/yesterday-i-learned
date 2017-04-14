@@ -149,6 +149,11 @@
 1. There are over 90 Chickpea genotypes. [The peas come in one-pea pods.](https://en.wikipedia.org/wiki/Chickpea)
 1. [Pea crabs](http://gardenandgun.com/articles/southern-secret-the-pea-crab/) used to be eaten with the mussels they grow in.
 1. The solid core in some zits can also be bacteria and white blood cells.
+1. [Starfish have no blood; filtered sea water circulates instead](http://animals.nationalgeographic.com/animals/invertebrates/starfish/). 
+1. Corn occasionally get infected with a [fungus](https://en.wikipedia.org/wiki/Corn_smut) that Mexicans consider a delicacy. It's a mushroom, so it may well be.
+1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
+1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.
+1. It is more likely for [flour to have E. coli](https://www.reddit.com/r/explainlikeimfive/comments/4quzvf/eli5_there_is_currently_a_recall_of_flour_due_to/d4w7lsh) than the eggs that are used to bake something.
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

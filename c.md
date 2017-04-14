@@ -52,7 +52,7 @@
 * [Given the way arrays are created](http://stackoverflow.com/questions/381542/with-c-arrays-why-is-it-the-case-that-a5-5a), `foo[4]` is really `*(foo + 4)` or `*(4 + foo)`, which makes `4[foo]` equivalent.
 * `thing_t` is supposed to mean "a type called 'thing'". C programmers are against the Hungarian notation.
 * [C pointers are not integers](http://nullprogram.com/blog/2016/05/30/); Any pointer type may be converted to an integer type, but the result depends on implementation. (If the pointer is a large negative number, for example, then the behaviour is undefined.)
-* 
+* [`foo->bar` is equivalent to `(*foo).bar`, i.e. it gets the member called `bar` from the struct that `foo` points to.](http://stackoverflow.com/a/2575050/1558430) It serves as syntactic sugar, to make code look nicer if all you have is a pointer.
 
 ## C++
 
@@ -115,3 +115,7 @@ struct B : A { };  // Has all A's fields
 * Rule: When addressing compile errors in your programs, always resolve the first error produced first.
 * Compared to arrays, **vectors** consume more memory in exchange for the ability to manage storage and [grow dynamically](http://stackoverflow.com/a/6632991/1558430) in an efficient way. Use vector unless you have a very, very small array, and know what you are doing.
 * If both a `<foo>` and `<foo.h>` exists, then the `.h` version is deprecated. Use the non-h version.
+* What is normally called `append()`, C++ calls [`push_back()`](http://www.cplusplus.com/reference/vector/vector/push_back/).
+* When used to get strings, [`cin >> a_string` will only get the input up to a space](http://www.cplusplus.com/doc/tutorial/basic_io/). To get the whole line, use `getline(cin, a_string)` instead.
+* [Anything created with `new` and not `delete`d is automatically leaked.](http://stackoverflow.com/questions/7242493/how-to-create-a-memory-leak-in-c) [Anything manually allocated with `malloc` and not `free`d is also automatically leaked.](http://www.geeksforgeeks.org/what-is-memory-leak-how-can-we-avoid/)
+* [Use `delete` by itself to free a single object. Use `delete []` with square brackets to free a heap array.](http://stackoverflow.com/a/8417851/1558430)

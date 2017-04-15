@@ -154,6 +154,8 @@
 1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
 1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.
 1. It is more likely for [flour to have E. coli](https://www.reddit.com/r/explainlikeimfive/comments/4quzvf/eli5_there_is_currently_a_recall_of_flour_due_to/d4w7lsh) than the eggs that are used to bake something.
+1. Like most other mammals, women can run during pregnancy. [But why would you risk it?](http://runfargirl.com/2013/02/28/i-wish-i-hadnt-run-during-pregnancy/)
+1. Storing tomatoes in places under 286K [damages the fruit and destroys the flavour](http://steamykitchen.com/42808-refrigerate-tomatoes.html).
 
 [imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium

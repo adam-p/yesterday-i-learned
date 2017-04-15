@@ -10,3 +10,4 @@
 * Apparently the string interpolation syntax in CoffeeScript is [the exact same from Ruby](http://addyosmani.com/blog/backing-up-a-github-account/).
 * Anonymous classes are as intuitive as you might expect: `class[ extends AnotherClass]`
 * All functions are anonymous functions assigned to variable names. So, you cannot have named functions. This is slower at the cost of (perhaps) fewer hoisting gotchas.
+* [CoffeeScript 2](http://coffeescript.org/v2/) compiles to ES2015. Now you can compile from `.coffee` to ES2015, then babel it to some half-binary ES3 gibberish, then package it with webpack, into a blob that is impossible to debug.

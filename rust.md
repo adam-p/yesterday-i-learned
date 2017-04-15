@@ -1,5 +1,9 @@
 # Wast
 
+![](http://powersmashrepairs.com.au/wp-content/uploads/2011/10/car-rust.png)
+
+Rust is a systems programming language. It is not a general-purpose language and should not be treated as one.
+
 * Rust users call themselves [rustaceans](http://www.rustaceans.org/).
 
 # [Ownership, borrowing, and lifetimes](https://doc.rust-lang.org/book/ownership.html)

@@ -1,10 +1,18 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Mead can be sweet, dry, sparkling, non-sparkling, 8% ABV, to 20% ABV. It can basically be anything. Saying one has tried mead is like saying one has tried "beer".
+1. If code is normally beautiful, then it probably wouldn't be called code now, would it.
+1. Want something done? [Go to the person](https://hbr.org/2017/04/a-face-to-face-request-is-34-times-more-successful-than-an-email). It is a lot (34 times, says article) more effective than email.
+1. You haven't really made microservices properly if [you need to change multiple microservices at once by many teams to make a feature](http://chi.pl/2017/01/30/Micro-monolith-Anti-pattern.html), or if you need to deploy multiple microservices at once to make it work, or if all these microservices, for some inexplicable reason, need the same framework to work together.
+1. Some high-IQ people join a ~~cult~~group called [MENSA](http://www.mensacanada.org/), annual fee being $70.
+1. [*Dinner* is the main (largest) meal of the day, not necessarily at night. It can even be your lunch.](https://english.stackexchange.com/questions/22446/lunch-vs-dinner-vs-supper-times-and-meanings) *Supper* is a meal that is consumed in the evening. So, if your largest meal happens to be in the evening, it can also be your supper.
+1. In braille, one dot means "capitalise the first letter of the next word", and two dots means "capitalise the whole word".
+1. The girl statue on Wall Street is advertisement for a fund.
 1. There has not been a single occasion (at least until S03E01) where Rick travelled to the past from the present. Maybe it is not possible.
 1. The Google Maps street view man is called [Pegman](https://vulcanpost.com/350661/google-maps-yellow-man-pegman/), not Pinman.
-1. All [Reddit engineering jobs](https://about.reddit.com/careers/) are based in San Francisco.
+1. All [Reddit engineering jobs](https://about.reddit.com/careers/) are located in San Francisco.
 1. Some weight lifters attach chains to their weights, so as the weights are lifted, the chains add weight proportional to how high it is off the ground. "A muscle fiber is weakest when all of its contractile units are either fully extended or fully contracted and strongest at some point in between."
-1. [Sand is a finite resource...?](https://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html) Not because silicon dioxide is rare, but because crushing rock is costly, and a use rate of 40 billion tons per year is a lot to come up with.
+1. [Sand is a finite resource...?](https://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html) Not because silicon dioxide is rare, but because crushing rock is costly, desert sand is round and smooth no good for construction, and a use rate of 40 billion tons per year is a lot to come up with.
 1. The colour of gold is [defined](https://en.wikipedia.org/wiki/Gold_%28color%29) as `#ffd700`, but my eyes say it is closer to `#ffee77`.
 1. [You can buy back your own car after it is written off,](http://icandrive.ca/driving/my-vehicle-is-a-write-off-now-what-5-things-you-need-to-know/) and drive it, as long as it was never deemed "irreparable". Otherwise, your insurance will either be very high, or impossible to get for a salvage car.
 1. `sleep()` is considered a [temporal side effect](https://en.wikipedia.org/wiki/Side_effect_%28computer_science%29#Temporal_side_effects).
@@ -848,7 +856,7 @@
 1. By EU law, [Black Forest Ham][wikipedia 184] must come from Black Forest, Germany. It is also dry-cured, contains 20% fat, and is almost never circular (but more bacon-shaped). So, the black forest ham you have been eating is not black forest ham.
 1. The captain ought to go down with the ship, but can also do whatever they want if all others have evacuated.
 1. If your brie isn't oozing, it is not the real thing. Also, never bring brie to a party, because what you buy is never the real thing.
-1. Extra large eggs are 63-70g, large 56-63g, and medium 49-56g. Their price multipliers are 1.12, 1.00, and 1.13, respectively.
+1. Extra large eggs are 63-70g, large 56-63g, and medium 49-56g. Their price multipliers are 1.12, 1.00, and 0.88, respectively.
 1. There is a [Bavarian accent][youtube 22] that even Germans make fun of.
 1. [Brittany][wikipedia 185] is a place in France.
 1. [Robert Landsburg][wikipedia 186] died filming [the eruption of Mt. St. Helens][wikipedia 187], which is in 1980, not the ancient past.

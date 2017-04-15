@@ -77,3 +77,7 @@
 1. The [Ford Excursion](https://en.wikipedia.org/wiki/Ford_Excursion), no longer made, was apparently criticised for being too large of an SUV. At 5.7m long, it is the same length as the [Chevrolet Suburban](https://en.wikipedia.org/wiki/Chevrolet_Suburban#2017), which is still on sale today.
 1. The longer your vehicle is, the more it feels, when you tow a trailer, that you are towing, rather than the trailer towing you. This is unfortunately not something a car can compensate by any other dimension.
 1. Having more exhausts can potentially raise horsepower, but really not by much (1, maybe 2). See Dodge Durango.
+1. Double parking means occupying a lane with hazards on, not occupying two parking spots.
+1. Canada is [**not**](http://www.city-data.com/forum/canada/2017072-commonwealth-right-side-traffic.html) the only commonwealth country to drive on the right.
+1. In Europe, only four countries still drive on the left: the United Kingdom, Ireland, Malta, and Cyprus, all of which are islands.
+1. Don't own a Tesla out of warranty. "The only place you can get them repaired is at the dealership for whatever price they feel like", "you've got to wait months for parts to come in".

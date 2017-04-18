@@ -81,3 +81,9 @@
 1. Canada is [**not**](http://www.city-data.com/forum/canada/2017072-commonwealth-right-side-traffic.html) the only commonwealth country to drive on the right.
 1. In Europe, only four countries still drive on the left: the United Kingdom, Ireland, Malta, and Cyprus, all of which are islands.
 1. Don't own a Tesla out of warranty. "The only place you can get them repaired is at the dealership for whatever price they feel like", "you've got to wait months for parts to come in".
+1. [Car designs are patented piecewise.](http://google.com/patents/USD635067)
+1. On the page for top 10 stolen cars, [the results](http://www.ibc.ca/nt/auto/theft/top-ten-stolen-cars?y=2016#stolen-cars) are mostly trucks.
+1. In 2016, only four cars from 2013 have below-average insurance costs: Buick Verano, Chevy Impala, Honda Fit, and Subaru Outback (just average).
+1. Traction control can be quite fun to turn off before [you kill yourself](https://www.youtube.com/watch?v=I86mQZJWabU). Traction control became a EU requirement in 2014.
+1. Overinflation, dropping trunk junk, throwing away your spare tire, change tires to low resistance tires... [none of these are useful](https://www.youtube.com/watch?v=39g5D7h7jf8) for increasing fuel economy. What does, however, is simply driving carefully. (Video claims that to make a single low-resistance tire worth it, you have to drive 45Mm.)
+1. That old bloke on Fifth Gear is Tiff Needell, a racing driver.

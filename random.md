@@ -1,5 +1,17 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [*Use the second person (you, your) to tell users what to do* like in error messages, and places where the app is telling the user about the user's content. *Use the first person (I, me, my) to let users tell the program what to do* like on buttons and menu items.](https://ux.stackexchange.com/a/4350/40178) An important note is [**Don't start something with My, Your, or The**](https://ux.stackexchange.com/a/4351/40178) because these items don't sort right alphabetically.
+1. At programming meetups, just like your experience, have [Wi-Fi that never work](https://python.sh/2017/4/why-i-stopped-attending-programming-meetups).
+1. *As a recovering ${drug} addict, I get seriously offended when a website or a piece of software still calls me a "user."*
+1. 70% of Japanese people like natto, and 29.8% don't. Compared to durians, its whole deal about "powerful smell, strong flavor, and slimy texture" are a walk in the park.
+1. Amy Schumer [is human plagiarism.](https://www.youtube.com/watch?v=4eDxjxVl8S0).
+1. [Go to Glassdoor and answer every basic question.](https://www.glassdoor.ca/Interview/programming-interview-questions-SRCH_KT0,11.htm?countryRedirect=true)
+1. "If you want someone to come to you, tell them to meet you halfway at X location whilst you are there already. They will be more likely to come to you if they think you are doing the same amount of walking you are." [This also works for Craigslist pickups](https://www.reddit.com/r/SocialEngineering/comments/65i5gv/fairly_harmless_se_trick_i_made/).
+1. If you are extremely paranoid about letting people who mail you things know where you live (which are usually the same place), or just homeless, [get a PO box](https://www.reddit.com/r/LifeProTips/comments/65j5nr/lpt_if_youre_starting_out_in_a_new_city_and_dont/).
+1. Emma Morano, the last surviving person from the 1800s, ate [two raw eggs](http://www.bbc.co.uk/news/amp/39610937) a day.
+1. The looping time machine episode of Futurama, where Fry *et al.* travel to the same universe after the universe dies and recreates itself, came from [the Big Bounce theory](https://en.wikipedia.org/wiki/Big_Bounce).
+1. Paper is rarely (apparently only once or twice) shown in Star Wars.
+1. [Yellow NY plates are the new ones.](https://patch.com/new-york/harrison/not-everyone-happy-with-new-nys-license-plates) White NY plates are the old ones.
 1. Mead can be sweet, dry, sparkling, non-sparkling, 8% ABV, to 20% ABV. It can basically be anything. Saying one has tried mead is like saying one has tried "beer".
 1. If code is normally beautiful, then it probably wouldn't be called code now, would it.
 1. Want something done? [Go to the person](https://hbr.org/2017/04/a-face-to-face-request-is-34-times-more-successful-than-an-email). It is a lot (34 times, says article) more effective than email.
@@ -52,7 +64,7 @@
 1. Squid do not have any legs at all, but they do have eight arms and two tentacles, making for a total limb count of 10. Squidward has two arms, four legs, and no tentacles.
 1. "Morty" stands for Mortimer.
 1. Black Mirror is named after a turned-off screen.
-1. Many theatres show 1984 on April 4th. ["In Orwell’s story, April 4 is the day that protagonist Winston Smith (Hurt) starts his rebellion against the government when he begins to keep a diary, something verboten by the ruling party."](https://www.inverse.com/article/28101-1984-in-theaters-april-4)
+1. Many theatres show 1984 on April 4th. ["In Orwell's story, April 4 is the day that protagonist Winston Smith (Hurt) starts his rebellion against the government when he begins to keep a diary, something verboten by the ruling party."](https://www.inverse.com/article/28101-1984-in-theaters-april-4)
 1. [`git rerere`](https://git-scm.com/blog/2010/03/08/rerere.html) is a hidden feature. It redoes a rebase you have done before.
 1. When cooking meat, remove the ["silver skin"](http://www.genuineideas.com/ArticlesIndex/silverskin.html) (mostly fat and collagen) that wraps the tissue. They make meat harder to chew.
 1. (Uber blog) When pictures of people are shopped into cars, men rate women higher than women rate men. In this experiment, [the Bentley Continental was the only car found to make women rate the men higher than the same men in some other car.](https://newsroom.uber.com/economics-of-car-ownership/)
@@ -619,14 +631,14 @@
 1. [Random blanks][wikipedia 102] are given to soldiers to let them feel that they were not responsible for killing a single person.
 1. A specific breed of dog, the [bloodhound][wikipedia 103], can track a human's scent across different terrains.
 1. [Best general-purpose TCP congestion control algorithm][blogspot]: Cubic (stability) or Westwood (all other occasions)
-1. Aside from the color issue, dogs’ sight is pretty bad. Using a custom eye test for dogs, researchers have found that dogs basically have 20/75 vision compared to a person’s 20/20 vision.
+1. Aside from the color issue, dogs' sight is pretty bad. Using a custom eye test for dogs, researchers have found that dogs basically have 20/75 vision compared to a person's 20/20 vision.
 1. Pinned-back ears mean the animal is annoyed/ready to attack. This is apparently universal.
 1. Skyscanner reports that the lowest price for any transatlantic airline ticket dramatically increases if departing less than one week after; no deals otherwise.
 1. When buying things from eBay (which is already a mistake), remember to make sure something is "genuine". Even fake items can be "brand new".
 1. The "Nippon island effect" describes how the Japanese think they are special (which, in some ways, contributed to their war brutality). Many of them believe that [their intestines are longer than westerners'][medium 2] -- because they are studious farmers or something -- without any actual evidence for it.
 1. "Tiredness" is caused by swolling of the brain (caused by) the accumulation of metabolic wastes. The shrinkage of space between the gyri and sulci (mountains and valleys) of the brain reduces the ability for waste to be removed from the system.
 1. The [“Women are wonderful” effect][wikipedia 104] is not made up. The “Women are wonderful” effect tends to be most pronounced with women who follow traditional gender roles such as child nurturing and stay at home housewife.
-1. [Crows (meaning Corvus, not just the crows with the common name “crow”) pull tails.][tumblr 2]  It’s like they can’t help themselves.
+1. [Crows (meaning Corvus, not just the crows with the common name “crow”) pull tails.][tumblr 2]  It's like they can't help themselves.
 1. [Not supporting unicode in your app can cost lives][ldc]
 1. "Nemo" means "nobody" in Latin.
 1. Steller's jay is Alberta's bird.
@@ -944,7 +956,7 @@
 1. "Baguettes" can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
 1. Charisma is essentially the ability to tell good stories.
 1. "Never let an animal see you as 'the path of least resistance.'" - /u/Quinn_tEskimo's grandpa 
-1. [The meta-programming and object injection that makes (Ruby) easy to install 1,000 gems into your project without a single line of configuration, is exactly why it’s hard to debug. It also gives you zero confidence or guarantees about what you’ve just added to your work and whether it all plays nice together. You may have just peed in your own kiddie pool. The magic of active record, the crazy levels of duck typing and the expressiveness of ruby, are exactly why it runs poorly even on your development box, and costs so much in server fees when you try to scale. It’s why you have to build a caching strategy in as a requirement from first line of code.](https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.fodj13lg5)
+1. [The meta-programming and object injection that makes (Ruby) easy to install 1,000 gems into your project without a single line of configuration, is exactly why it's hard to debug. It also gives you zero confidence or guarantees about what you've just added to your work and whether it all plays nice together. You may have just peed in your own kiddie pool. The magic of active record, the crazy levels of duck typing and the expressiveness of ruby, are exactly why it runs poorly even on your development box, and costs so much in server fees when you try to scale. It's why you have to build a caching strategy in as a requirement from first line of code.](https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.fodj13lg5)
 1. Quirrell stuttered because he was tormented by the back of his head.
 1. [Apparently](http://www.beyondhogwarts.com/harry-potter/articles/doing-the-math-how-many-kids-are-at-hogwarts.html), there are only ~280 students in Hogwarts at any time.
 1. Marrying a native [North] American man for tax credit is [not really worth it](http://www.cbc.ca/news/business/taxes/first-nations-pay-more-tax-than-you-think-1.2971040), particularly if for tax credit alone. You also have to suffer the consequences of marrying a man (if you are heterosexual). Said native man also loses the perpetual tax exemption if he marries a non-native man (or other hipster kins, such as women).
@@ -1127,7 +1139,7 @@
 1. Any Ontarian debt, excluding federal ones, not paid in two years is [automatically forgiven](http://credit-collections.ca/statute-of-limitations-on-canada-debts/), as long as you don't admit to or pay any of it.
 1. [The expiry date on every packet of crisps made in the UK is on a Saturday.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmvfa)
 1. [Donald Duck's middle name is Fauntleroy.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmk14)
-1. [Saying "sorry" after an accident is okay](http://www.theloop.ca/canadians-love-to-say-sorry-so-much-we-had-to-make-this-law/)... as long as you are in Canada. *The “Apology Act“, passed in 2009, is a direct result of Canada’s overuse of the word “sorry”.* Of course, this also means you cannot take someone else's apology as an admission of guilt.
+1. [Saying "sorry" after an accident is okay](http://www.theloop.ca/canadians-love-to-say-sorry-so-much-we-had-to-make-this-law/)... as long as you are in Canada. *The “Apology Act“, passed in 2009, is a direct result of Canada's overuse of the word “sorry”.* Of course, this also means you cannot take someone else's apology as an admission of guilt.
 1. ["Pork is (also) naturally trans fat free."](http://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Cooking-with-Pork--Nutrition,-safety,-handling,-storage.aspx)
 1. Americans are less "diverse" than Europeans, because while a European can have "German, French, and Italian ancestry", an American does not typically claim to have "Idaoan, Floridan, and Pennsylvanian ancestry".
 1. In the event of a financial crisis, there is in fact [a GDP map](https://upload.wikimedia.org/wikipedia/commons/c/c5/GDP_Real_Growth.svg) during the last crisis (2007-2009), indicating places you *should* flee to ahead of time.
@@ -1184,7 +1196,7 @@
 1. ["Cannot interpret human traffic signals"](http://www.autoinsurancecenter.com/top-20-pros-and-cons-associated-with-self-driving-cars.htm) is one of the cons mentioned against self driving technology.
 1. Dry-aged beef is typically not sold by most supermarkets (...) because it takes time and there is a significant loss of weight during the aging process.
 1. [Erdinger non-alcoholic beer](http://singletrackworld.com/forum/topic/erdinger-alcohol-free-beer-recovery-drink) is sold as a sports drink.
-1. ["Do something and don’t stop until it’s complete, no matter how long it takes."](https://medium.com/the-mission/if-it-doesnt-suck-it-s-not-worth-doing-1efdc6eb695c#.8bdgwng0z) is fundamentally how things get done successfully.
+1. ["Do something and don't stop until it's complete, no matter how long it takes."](https://medium.com/the-mission/if-it-doesnt-suck-it-s-not-worth-doing-1efdc6eb695c#.8bdgwng0z) is fundamentally how things get done successfully.
 1. Before you move, make sure the home insurance insurer covers your new address.
 1. *Temperature arithmetic is not a trivial task. If I told you to multiple '10 degrees C' by 2, what would you get: 20 degrees C, or 293 degrees K * 2?*  (Solution is akin to `timedelta`, where the units are always specified.)
 1. The `utm_*` tags like `utm_source` and `utm_campaign` came from ["UTM"](https://urchin.biz/urchin-software-corp-89a1f5292999#.tp44uqer7), Urchin Traffic Monitor. The San Diego company later became Google Analytics.
@@ -1342,7 +1354,7 @@
 1. 刑太歲 = Current zodiac - 3 (???)
 1. 害太歲 = Current zodiac + 1 (???)
 1. The Chinese claim to be able to identify whether someone is potentially a criminal by [looking at their faces](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/), raising concerns for successful, law-abiding citizens that are just ugly.
-1. Ryan Reynolds has a daughter called James. [He claims it's not strange: “I mean, I didn’t call her Summer Squash Meadowlark, or something.”](http://www.usmagazine.com/celebrity-news/news/ryan-reynolds-defends-his-baby-daughter-james-unusual-name-w163540)
+1. Ryan Reynolds has a daughter called James. [He claims it's not strange: “I mean, I didn't call her Summer Squash Meadowlark, or something.”](http://www.usmagazine.com/celebrity-news/news/ryan-reynolds-defends-his-baby-daughter-james-unusual-name-w163540)
 1. Toronto's police mounted unit [gives out trading cards](https://www.thestar.com/news/gta/2013/10/11/toronto_cops_count_on_trading_cards_to_bond_with_public.html) to those who ask.
 1. The symbol of medicine is the Rod of Asclepius, which has only a single snake around it. The [staff of] Caduceus, on the other hand, has two snakes, and is [the staff of the god who escorts you to the afterlife](https://www.reddit.com/r/funny/comments/5rf9e6/this_is_one_cocky_hospital/dd7db6d/), which is obviously inappropriate for the medical profession.
 1. [Traffic cone machines](https://www.clippard.com/cms/tags/traffic-cone-dispenser) put traffic cones down on roads.

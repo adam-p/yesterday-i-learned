@@ -87,3 +87,4 @@
 1. Traction control can be quite fun to turn off before [you kill yourself](https://www.youtube.com/watch?v=I86mQZJWabU). Traction control became a EU requirement in 2014.
 1. Overinflation, dropping trunk junk, throwing away your spare tire, change tires to low resistance tires... [none of these are useful](https://www.youtube.com/watch?v=39g5D7h7jf8) for increasing fuel economy. What does, however, is simply driving carefully. (Video claims that to make a single low-resistance tire worth it, you have to drive 45Mm.)
 1. That old bloke on Fifth Gear is Tiff Needell, a racing driver.
+1. Cars with soft tops don't get automatic car washes.

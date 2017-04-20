@@ -13,7 +13,7 @@
 1. Raccoons are called Washbär (washing bear) in Germany because they wash things a lot.
 1. [(Most) Moths make cocoons.][wikipedia 105] Butterflies harden and make chrysalides instead.
 1. [(Most) Moths have apposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.][wikipedia 106] Butterflies have superposition eyes ("cones" equivalent) instead.
-1. [Caribou eyes change colour][imgur 7] every season to see in the optimum spectrum. (Pictured: different species)
+1. [Caribou eyes change colour](https://i.imgur.com/779RwKL.jpg) every season to see in the optimum spectrum. (Pictured: different species)
 1. [Animals use salt licks too!][wikipedia 108] Some pits are natural mineral licks.
 1. [Nails are more permeable than skin.](https://en.wikipedia.org/wiki/Nail_(anatomy)#Permeability)
 1. Llamas and camels have [ruffles in their eyes](https://www.reddit.com/r/Damnthatsinteresting/comments/4ps5bm/eyes/d4nifxh) (iridic granules) that can close to cover the center of the eye, limiting the amount of light that passes.
@@ -156,8 +156,12 @@
 1. It is more likely for [flour to have E. coli](https://www.reddit.com/r/explainlikeimfive/comments/4quzvf/eli5_there_is_currently_a_recall_of_flour_due_to/d4w7lsh) than the eggs that are used to bake something.
 1. Like most other mammals, women can run during pregnancy. [But why would you risk it?](http://runfargirl.com/2013/02/28/i-wish-i-hadnt-run-during-pregnancy/)
 1. Storing tomatoes in places under 286K [damages the fruit and destroys the flavour](http://steamykitchen.com/42808-refrigerate-tomatoes.html).
+1. "Bilirubin" is the brown substance in urine that signals liver stress.
+1. Ostriches are not from Australia.
+1. Fun fact: Toucan's bill has a network of blood vessels and expand them to cool down its body temperature — just like the elephants use their big ears: [picture](http://i.imgur.com/ljQSI6s.jpg)
+1. Almost all mammals, including elements and giraffes, have 7 neckbones, [except manatees and sloths (9)](http://www.sciencedaily.com/releases/2011/05/110505212314.htm)
+1. In spite of its name, [nattokinase](https://en.wikipedia.org/wiki/Nattokinase) is not a kinase enzyme, but a serine protease of the subtilisin family. It exhibits a strong fibrinolytic activity. (Natto might have an effect on Alzheimer's)
 
-[imgur 7]: https://i.imgur.com/779RwKL.jpg
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
 [wikipedia 105]: https://en.wikipedia.org/wiki/Chrysalis#Chrysalis
 [wikipedia 106]: https://en.wikipedia.org/wiki/Eye#Apposition_eyes

@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. The command for displaying `ls` like a tree is literally [`tree`](http://stackoverflow.com/a/3455675/1558430), as an optional install for some distros.
 1. `yum` is managed by a list of repository configs in `/etc/yum.repos.d/`, each being an ini file.
 1. EC2 has [Extra Packages for Enterprise Linux][amazon] (EPEL).
 1. [Adding a new yum repository][cyberciti]
@@ -216,6 +217,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. `dc` is an 'arbitrary precision calculator'. `bc` is a 'arbitrary precision calculator language'.
 1. [coreutils](https://www.gnu.org/software/coreutils/coreutils.html) is like [BusyBox](https://busybox.net/), except BusyBox isn't a whiney bitch complaining about calling it GNU/BusyBox/Linux all the time (even though they are both GPL licenced).
 1. `rsync --remove-source-files ...` removes the source files after transfer is complete, effectively an `mv`. `--dry-run` might be useful if you are unsure what gets deleted.
+1. [` export HISTFILE=/dev/null`](http://stackoverflow.com/questions/6475524/how-to-prevent-commands-to-show-up-in-bash-history) (space in front) disables command history recording for the session.
 
 ## Tmux
 

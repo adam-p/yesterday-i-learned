@@ -351,6 +351,8 @@ bar
 1. If you say (in python2 anyway) `[b for b in c]`, but `c` happens to have no elements, then `b` is never defined.
 1. The `cPickle` module in PyPy is written in pure python.
 1. `a_string.replace('foo', '')` can obviously still contain `foo`, if `'ffoooo'.replace('foo', '')`
+1. *Thus spake the Lord: Thou shalt indent with four spaces. No more, no less. Four shall be the number of spaces thou shalt indent, and the number of thy indenting shall be four. Eight shalt thou not indent, nor either indent thou two, excepting that thou then proceed to four. Tabs are right out.* -- Georg Brandl
+1. The imports you write assume you run these scripts from the [top level of the project](http://stackoverflow.com/questions/43498467/python-importerror-of-my-own-module). Imports don't magically work simply because there is an `__init__.py` in the directory.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -1,5 +1,17 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. 旁門左道 又為 不正。
+1. Sometimes, people try to hire you as quickly as possible. Sometimes, they already have an internal candidate in mind, and just want to end the mandatory interview with you as quickly as possible. Pick your battles.
+1. Once you stay vegan for three years, you probably will continue to be vegan for the rest of your life. If you quit earlier than three years, this is not true.
+1. Since debloating a ROM doesn't resize the system partition, it is important to choose a phone (and carrier combo) that does not ship with useless junk in the first place.
+1. Hitler was born and died in an April.
+1. [The technologies used predominantly during the workday (are mostly enterprise software).](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/)
+1. Buy fish oil from the states. It is much cheaper there.
+1. [Nick Freeman](https://en.wikipedia.org/wiki/Nick_Freeman), otherwise known as Mr. Loophole, defended David, Jimmy, Ian, Tiff, AND Jeremy from their respective speeding tickets.
+1. *Dykstra* is a dutch word for someone who lives by a dyke.
+1. [Java was found to be the primary Cause of 91 percent of (cyber)attacks](http://www.eweek.com/security/java-primary-cause-of-91-percent-of-attacks-cisco).
+1. The word "[Connecticut](https://en.wikipedia.org/wiki/Connecticut_River)" is a French corruption of the Mohegan word quinetucket, which means "beside the long, tidal river". The river flows both ways.
+1. Air-to-air missiles typically [explode on proximity](https://en.wikipedia.org/wiki/Air-to-air_missile#Warhead) rather than contact.
 1. [*Use the second person (you, your) to tell users what to do* like in error messages, and places where the app is telling the user about the user's content. *Use the first person (I, me, my) to let users tell the program what to do* like on buttons and menu items.](https://ux.stackexchange.com/a/4350/40178) An important note is [**Don't start something with My, Your, or The**](https://ux.stackexchange.com/a/4351/40178) because these items don't sort right alphabetically.
 1. At programming meetups, just like your experience, have [Wi-Fi that never work](https://python.sh/2017/4/why-i-stopped-attending-programming-meetups).
 1. *As a recovering ${drug} addict, I get seriously offended when a website or a piece of software still calls me a "user."*
@@ -280,7 +292,7 @@
 1. Chena Hot Springs, Alaska - constructed an ice hotel... entirely out of ice and snow. It was shut down by the building inspector due to lack of smoke detectors.
 1. Don't keep asking if you're free to go: "No, you aren't free to go, this is a detention. I've found reasonable suspicion that a crime has occurred, is occurring, or is about to occur, and that you are connected to the crime (ie I saw you run a stop sign in your vehicle) which is all I need to detain you. I have the option to let you go with a warning, or write you a citation for that infraction along with any equipment violations I notice during the course of the stop. I also noticed the distinct odor of fresh marijuana emitting from your vehicle, which constitutes probable cause that there is marijuana (am illegal substance under state and federal law) inside your vehicle. Probable cause allows me to search your vehicle order to locate the source of the odor. If I find less than an ounce and determine that it was for personal use, I have the option to confiscate it and arrest you, or let you go with a warning for that as well. If I choose to arrest you, you will be released on your promise to appear in court at a later date (citation). Have I explained things well enough? Do you have any questions?"
 1. ["Feminine-named hurricanes (vs. masculine-named hurricanes) cause significantly more deaths, apparently because they lead to lower perceived risk and consequently less preparedness"][pnas]
-1. [Hebbian theory][wikipedia 15]: "learning" is done by associations done from the presynaptic cell to the postsynaptic cell; cells that fire together wire together
+1. [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory): "learning" is done by associations done from the presynaptic cell to the postsynaptic cell; cells that fire together wire together.
 1. "JavaScript legend Douglas Crockford once said that [monads are cursed – that once you understand monads for yourself you lose the ability to explain them to others][voisen]"
 1. CLM: Career-Limiting Move (something stupid you do that prevents new jobs and opportunities, such as being a douchebag or writing this line
 1. There *is* a way to pull changes from the parent repository once you've forked it. Create a PR, swap base and HEAD branches, and submit the PR to yourself.
@@ -350,7 +362,6 @@
 1. *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
 1. There are many kinds of fats; [brown fats][wikipedia 24] are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
 1. > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... ([continued][reddit 10])
-1. Ostriches are not from Australia.
 1. [People can sue you](http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946) if you give them bad references.
 1. There is such a thing as a [Damn Vulnerable Web App][dvwa] that is built solely for others' testing pleasure.
 1. [There aren't actually that many hacker news readers](https://news.ycombinator.com/item?id=8107658); your server health isn't guaranteed if your "thing" goes mainstream, of course.
@@ -358,7 +369,6 @@
 1. [Gremlin][bulbflow] is "SQL for graph databases", not a tool.
 1. The creator of the sugar stick (as opposed to the sugar packet) decided that the right way to open them is [through the middle][izismile].
 1. The [zipper merge][dot] reduces queuing traffic by knowing merging should be done at the last minute.
-1. "Bilirubin" is the brown substance in urine that signals liver stress.
 1. Not feeling well, but don't want to use the phrase "not feeling well"? Use [Malaise!][wikipedia 25] (ma-LAYS)
 1. Apply garlic to oil, before you apply vegetables to oil.
 1. At the onset of high stress, your blood thickens. This is to encourage clotting of blood in the case of a physical attack. This is often why stress contributes to heart attacks.
@@ -374,7 +384,6 @@
 1. Do not buy Honda Fits made before [2014-06-06][mfit 23].
 1. People are "in cahoots" means that they are conspiring on something.
 1. Authentic chili con carne does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
-1. Fun fact: Toucan's bill has a network of blood vessels and expand them to cool down its body temperature — just like the elephants use their big ears: [picture][imgur 2]
 1. Cheese-crusted pizza is patented by someone who did not ask for royalties.
 1. With a population density of 406 people per km² – 497 if water is excluded – the Netherlands is a very densely populated country for its size. Only Bangladesh, South Korea and Taiwan have both a larger population and a higher population density. Nevertheless, the Netherlands is the world's second largest exporter of food and agriculture products, after the United States.
 1. A cousin, twice *removed* means something like a grandaunt. Each `removed` means one generation apart.
@@ -720,10 +729,10 @@
 1. [Fourier series visual][wikimedia]
 1. [The Passion of the Christ][wikipedia 125] was a controversial film, because viewers didn't know [the meaning of the word Passion in Christian context][wikipedia 126]).
 1. The refugee issue is caused by [western interests in a natural gas pipeline][reddit 45] from Saudi to Europe.
-1. In-N-Out [cook beef patties with mustard][muslimeater].
+1. In-N-Out [cook beef patties with mustard](http://muslimeater.com/2015/05/29/how-to-make-halal-in-n-out-double-double-animal-style-burgers-at-home/).
 1. [Kentucky, Massachusetts, Pennsylvania, and Virginia][wikipedia 127] use the official title of Commonwealth rather than State.
 1. [Make intuitive design decisions][medium 3] when making an app. No one finds cryptic icons and hidden navigation useful.
-1. [NASA had almost achieved 100% code quality][fastcompany] at 1/420000 E/LoC. Perfect software may actually be possible. Don't give up!
+1. [NASA had almost achieved 100% code quality](http://www.fastcompany.com/28121/they-write-right-stuff) at 1/420000 E/LoC. Perfect software may actually be possible. Don't give up!
 1. On fuel octane rating: Most countries use MON, US uses RON/MON average, which results in a lower number. MON 91 is the US 87.
 1. Why do Matthew, Mark, John, and Luke have so much in common? Supposing if a [Q source][wikipedia 128] was supplying such information to Matthew and Luke, then it would explain most of it.
 1. *Gospel* doesn't just mean any book in the New Testament; a gospel is an account describing the life, death, and resurrection of Jesus of Nazareth.
@@ -816,10 +825,9 @@
 1. During prohibition, ["Go ugly early"][urbandictionary 3] was a phrase used by [Harry's Chocolate Shop][harryschocolateshop], a Bar in West Lafayette, IN which called itself a chocolate shop to avoid being known as a bar. Their slogan "Go Ugly Early" was the opposite of its real meaning "come pretty late".
 1. [You can microwave quinoa like oatmeal][reddit 52]
 1. "500cals * 7 = 3500cals = 1lb of fat" - Winona
-1. "Kraft" happens to be the German noun for "strength". That is, [Kraft Foods][wikipedia 165] has nothing to do with it; it was just James Kraft's name.
+1. "Kraft" happens to be the German noun for "strength". That said, [Kraft Foods](https://en.wikipedia.org/wiki/Kraft_Foods_Inc) has nothing to do with it; it was just James Kraft's name.
 1. The bauhinia, [Bauhinia × blakeana][wikipedia 166], is sterile. Someone has been planting it everywhere.
 1. Three-toed sloths are mostly diurnal, while two-toed sloths are nocturnal. Sloths are also known to urinate once a week.
-1. Almost all mammals, including elements and giraffes, have 7 neckbones, [except manatees and sloths (9)][sciencedaily]
 1. "Shinny" is another word for [pickup hockey][imgur 9].
 1. In the order of increasing formality: Bō (坊, boy), Chan, Kun (君, male), San, Shi (氏, people you have never met), Sama (様).
 1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"][wikipedia 167]
@@ -832,7 +840,7 @@
 1. Even if a function does not have side effects, it must return the same value for any given set of inputs to be considered a [pure function][wikipedia 170].
 1. *Correctness* means never returning an incorrect result; *Robustness* means never failing, even if it means having to return an incorrect result.
 1. [Cold FX][nationalpost] does not fight colds.
-1. A [permabear][davemanuel] is the kind of jerkwad investors who are always negative about the stock market.
+1. A [permabear](http://www.davemanuel.com/investor-dictionary/permabear/) is the kind of jerkwad investors who are always negative about the stock market.
 1. [*"Suppose you could design your dream job that you'll be starting on Monday. It's at your ideal company with your ideal job title and salary. All you have to do is tell them what you want to do at your job and you can have it. What does your job entail?"*][nczonline] My job might be Jesus, which is enabling people to do what they can do.
 1. [Apparently][reddit 53], as you grow/age, you are supposed to move to more stable investments.
 1. [What not to do if you use Tor][whonix]: remember to separate your tor life like your work life. Never look at the same thing with and without tor, among other things.
@@ -1161,7 +1169,7 @@
 1. "[The 4G specification requires a minimum speed so LTE was launched to avoid exactly this minimum.](https://news.ycombinator.com/item?id=12746312) It seems that the companies did it right by launching LTE instead of 4G as they could have lost their 4G status, while now they could drop as low as 3G speeds and still be called LTE (which is ironic on itself)."
 1. Children who did chores (have responsibility in general) [end up being more successful.](http://www.reddit.com/r/todayilearned/comments/58fgrg/_/)
 1. The "ring with the fist underneath your pelvis" thing teenages do is called the "ball gazer".
-1. In Saudi Arabia, washroom signs are typically men and women's faces rather than body silhouettes. On [those signs](http://rationalwiki.org/w/images/thumb/f/fc/Islam_veil.jpg/180px-Islam_veil.jpg), they also acknowledge that fact that women have a face.
+1. In Saudi Arabia, washroom signs are typically men and women's faces rather than body silhouettes. On [those signs](http://rationalwiki.org/w/images/thumb/f/fc/Islam_veil.jpg/180px-Islam_veil.jpg), they also acknowledge that fact that women have faces.
 1. On startups solving the world's problems: ["The risk of [being on market] too early is sometimes bigger than the risk of being too late"](https://www.techinasia.com/six-ways-easier-startup-funding-vc) "**We are wary of companies trying to create a market** because being too early to get to market is a killer for startups"
 1. [Those who have an IQ between 0 and 25 are idiots; IQs between 26 and 50 are considered imbeciles; and those who have an IQ between 51 and 70 are considered morons.](http://www.todayifoundout.com/index.php/2010/03/the-words-moron-imbecile-and-idiot-mean-different-things/)
 1. [Fuddy Duddy](https://en.wikipedia.org/wiki/Fuddy-duddy) is the name of a traditionalist.
@@ -1529,7 +1537,6 @@
 [cmu]: http://www.cmu.edu/news/stories/archives/2015/december/diet-and-environment.html
 [crackstation]: https://crackstation.net/hashing-security.htm
 [cs]: http://pages.cs.wisc.edu/~gdguo/driving/BlindSpot.htm
-[davemanuel]: http://www.davemanuel.com/investor-dictionary/permabear/
 [deutsch-als-fremdsprache]: http://www.deutsch-als-fremdsprache.org/en/faq/323-what-does-language-level-a1-a2-b1-b2-c1-and-c2-mean.html
 [dictionary]: http://blog.dictionary.com/ampersand/
 [diffen]: http://www.diffen.com/difference/AK-47_vs_AK-74
@@ -1541,7 +1548,6 @@
 [ehow]: http://www.ehow.com/about_6127367_do-students-shoes-off-school_.html?dmsp=manual
 [energy]: http://energy.gov/articles/top-8-things-you-didn-t-know-about-daylight-saving-time
 [everets]: http://everets.org/kevin/ten-codes.php
-[fastcompany]: http://www.fastcompany.com/28121/they-write-right-stuff
 [fatvat]: http://www.fatvat.co.uk/2015/10/mindless-tdd.html?m=1
 [financeformulas]: http://www.financeformulas.net/Loan_Payment_Formula.html
 [fooducate]: http://blog.fooducate.com/2013/12/04/whats-the-difference-between-tangerines-clementines-and-mandarins/
@@ -1582,7 +1588,6 @@
 [imgur 11]: http://i.imgur.com/iF89Wxe.jpg
 [imgur 12]: http://i.imgur.com/K4IoziO.gif
 [imgur 13]: http://i.imgur.com/AJoxtZi.gifv
-[imgur 2]: http://i.imgur.com/ljQSI6s.jpg
 [imgur 4]: http://imgur.com/a/uFGzs
 [imgur 5]: http://i.imgur.com/ex6Zu.jpg
 [imgur 6]: http://i.imgur.com/P0NFVad.png
@@ -1618,7 +1623,6 @@
 [mentalfloss]: http://m.mentalfloss.com/article.php?id=18812
 [merriam-webster]: http://www.merriam-webster.com/dictionary/pusillanimous
 [mfit 23]: http://www.nytimes.com/2014/08/22/automobiles/2015-honda-fit-gets-second-chance-in-iihs-crash-test.html
-[muslimeater]: http://muslimeater.com/2015/05/29/how-to-make-halal-in-n-out-double-double-animal-style-burgers-at-home/
 [nationalgeographic]: http://news.nationalgeographic.com/news/2014/01/140106-earthquake-lights-earthquake-prediction-geology-science/
 [nationalpost]: http://news.nationalpost.com/news/canada/class-action-lawsuit-reveals-company-sat-on-2004-study-indicating-cold-fx-does-nothing-to-fight-colds
 [nczonline]: https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/
@@ -1710,7 +1714,6 @@
 [reddit 9]: http://www.reddit.com/r/netsec/comments/23xhmo/using_facebooks_bandwidth_to_generate_900_mbps
 [regular-expressions]: http://www.regular-expressions.info/wordboundaries.html
 [royalorderofrogues]: http://royalorderofrogues.com/2013/06/13/wiping-your-butt-with-a-corn-cob/
-[sciencedaily]: http://www.sciencedaily.com/releases/2011/05/110505212314.htm
 [seeingyellow]: http://seeingyellow.com/
 [seriouseats]: http://www.seriouseats.com/2013/03/how-to-poach-eggs-easy-way-poached-breakfast-video.html
 [serverfault]: http://serverfault.com/questions/225999/any-disadvantage-to-short-dns-ttl
@@ -1814,7 +1817,6 @@
 [wikipedia 147]: https://en.wikipedia.org/wiki/Slowloris_%28software%29
 [wikipedia 148]: https://en.wikipedia.org/wiki/Caucasian_race
 [wikipedia 149]: https://en.wikipedia.org/wiki/Mongoloid
-[wikipedia 15]: https://en.wikipedia.org/wiki/Hebbian_theory
 [wikipedia 150]: https://en.wikipedia.org/wiki/Epicanthic_fold
 [wikipedia 151]: https://en.wikipedia.org/wiki/No_quarter
 [wikipedia 152]: https://en.wikipedia.org/wiki/Warrant_canary
@@ -1830,7 +1832,6 @@
 [wikipedia 162]: https://en.wikipedia.org/wiki/Way_of_the_Dragon
 [wikipedia 163]: https://en.wikipedia.org/wiki/Straw_man
 [wikipedia 164]: https://en.wikipedia.org/wiki/Target_fixation
-[wikipedia 165]: https://en.wikipedia.org/wiki/Kraft_Foods_Inc
 [wikipedia 166]: https://en.wikipedia.org/wiki/Bauhinia_%C3%97_blakeana
 [wikipedia 167]: https://en.wikipedia.org/wiki/Japanese_honorifics#San
 [wikipedia 169]: https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise

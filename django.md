@@ -35,6 +35,7 @@
 * Django 1.9 now has a [`Now()`](https://docs.djangoproject.com/en/1.10/ref/models/database-functions/#now) you can use to `filter(field__lt=Now())`. If the two servers have the same timestamp at the same time, using this and whatever from `datetime` have no functional difference.
 * [`list_filter` can contain `admin.(...)Filter`s](https://docs.djangoproject.com/en/1.10/ref/contrib/admin/), not just field names.
 * [`prop.boolean = True`](http://stackoverflow.com/questions/12842095/how-to-display-a-boolean-property-in-the-django-admin) in django admin turns the display of that method into a checkbox, rather than just saying 'True'.
+* Expressions in `{% blocktrans %}{{ this thing }}{% endblocktrans %}` [must not have attribute/key access](http://stackoverflow.com/questions/11338098/why-in-i18n-blocktrans-django-a-object-dict-or-list-dont-work).
 
 ## WSGI
 

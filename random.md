@@ -1,5 +1,14 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [Kettling](https://en.wikipedia.org/wiki/Kettling) (police rounding up protesters and prevented from leaving) is apparently considered cruelty, too.
+1. It is cruelty to leave dogs outside only if it is cold or raining.
+1. Berkshire Hathaway is Buffett's holding company, [originally](https://en.wikipedia.org/wiki/Berkshire_Hathaway#History) working in textiles. According to some guy who watched a show about this company on Netflix, "He bought his original shares because of price vs book, but he bought control because the CEO tried to screw him out of $0.125 per share on a buyback. Buffett got mad at the betrayal, bought the company (partially out of spite) and then cleaned house and made it his holding company. It's notable because that is one of the few times that Buffett bought on emotion versus numbers."
+1. Blood THC level does not strongly correlate with impairment. Detecting THC in the blood means almost nothing when it comes to how well a person drives.
+1. [Microwaving a half-cut piece of grape](https://www.minds.com/blog/view/177271/grape-microwave-and-pyrex) yields plasma.
+1. Unlike Arkansas, the Arkansas City of Kansas is [pronounced](https://translate.google.com/#en/de/Arkansas%20City%2C%20KS%20in%20Arkansas%20and%20Kansas) ar-KAN-sas, with the S, like Kansas.
+1. Horses are often given [terrible names](http://www.sbnation.com/2013/5/3/4297072/the-list-worst-possible-horse-names) compared to other pets.
+1. [The Average Directional Index (ADX)](http://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp) is a value ranging from 0 to 100, with anything above 25 indicating a good trend. Given two peaks, if prices go higher while ADX is not as high at the second peak, that means the trend might reverse.
+1. Insider stock selling is almost never a good sign. Unless they are retiring or something, why would someone with a good company sell?
 1. 旁門左道 又為 不正。
 1. Sometimes, people try to hire you as quickly as possible. Sometimes, they already have an internal candidate in mind, and just want to end the mandatory interview with you as quickly as possible. Pick your battles.
 1. Once you stay vegan for three years, you probably will continue to be vegan for the rest of your life. If you quit earlier than three years, this is not true.

@@ -20,3 +20,4 @@
 1. "[Cocaethylene](https://en.wikipedia.org/wiki/Cocaethylene)" is formed by the liver when cocaine and ethanol coexist in the blood. Apparently it ... carries an 18- to 25-fold increase over cocaine alone in risk of immediate death. Or, if you are an optimist, you may find your chance of dying from cocaine alone at most 1/18 as likely as this cocaethylene thing.
 1. [/u/SimplyOriginal](https://www.reddit.com/r/Drugs/comments/2quas2/weed_as_a_party_drug/cn9ncl8/) posts about maximising alcohol's per-unit potential: *Eat [fatty foods and carbs] 45mins before your first drink [to] slow down the absorption rate. Maintain a [steady] increase of [BAC]. Stick to one type of alcohol [to maintain the feel-good effects. Do not] hammer shots.*
 1. Cocaine stops being detectable in fluids after a few days.
+1. Lasers burn away rust, but not with the iron underneath, because rust absorbs more light than iron.

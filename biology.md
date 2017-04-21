@@ -161,6 +161,9 @@
 1. Fun fact: Toucan's bill has a network of blood vessels and expand them to cool down its body temperature — just like the elephants use their big ears: [picture](http://i.imgur.com/ljQSI6s.jpg)
 1. Almost all mammals, including elements and giraffes, have 7 neckbones, [except manatees and sloths (9)](http://www.sciencedaily.com/releases/2011/05/110505212314.htm)
 1. In spite of its name, [nattokinase](https://en.wikipedia.org/wiki/Nattokinase) is not a kinase enzyme, but a serine protease of the subtilisin family. It exhibits a strong fibrinolytic activity. (Natto might have an effect on Alzheimer's)
+1. The [Welsh Onion](https://en.wikipedia.org/wiki/Allium_fistulosum) is native to China. (Hint: Welsch is Foreign in German, and Welsh Onion is just green onion.)
+1. There are many pathways for [carbon fixation](https://en.wikipedia.org/wiki/Carbon_fixation). Most plants use C3 fixation (calvin cycle), while some (3%) of them can also use [C4 fixation](https://en.wikipedia.org/wiki/C4_carbon_fixation) (like corn).
+1. Fish don't freeze in salt water, despite being less salty than salt water, because animal glycoproteins inhibit ice crystal growth. [Exact mechanism is explained here](https://www.global.hokudai.ac.jp/blog/why-dont-fish-freeze-to-death-in-icy-water/): "flat crystal faces with high growth rates were truncated by faces with slower growth rates, causing the polyhedral crystal to be surrounded by only flat faces with the lowest growth rates. This resulted in greatly slowing down the growth of the ice crystals."
 
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
 [wikipedia 105]: https://en.wikipedia.org/wiki/Chrysalis#Chrysalis

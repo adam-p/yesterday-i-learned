@@ -1,5 +1,14 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Israeli appliances often have this "[Sabbath mode](https://en.wikipedia.org/wiki/Sabbath_mode)" thing that helps with living without doing work on Sundays. The understanding is that the readings on such appliances must not work, but the actual functionality must. So, lights and readings on stoves and fridges might turn off during the Sabbath, but not the actual ability to heat and cool food. Also made apparent is the [Sabbath lamp](https://en.wikipedia.org/wiki/Shabbat_lamp), which bypasses the "doing work" criterion by simply having the light on before the Sabbath, and turning the lamp "on" or "off" with a shade that covers such a lamp, hence never actually operating the lamp itself.
+1. 🤘😝🤘 is sign language for "I love you" where Isco was playing.
+1. Star Wars characters often have a problem with not knowing their real dads.
+1. "First do no harm" is not in the Hippocratic Oath, but the idea is there.
+1. "Bluechips" are large companies with huge market caps. They are usually safe, and don't move up and down much.
+1. For a tongue twister, try "il y a eu une erreur".
+1. For some reason, "À la une" ("at the one") translates to "headlines".
+1. In the past, illegal immigrants could file (income) taxes and get refunds.
+1. Compared to printed book readers, [it is less likely for an ebook reader to recall what was in the book.](http://www.huffingtonpost.com/the-national-book-review/drop-that-kindle-10-reaso_b_8234890.html)
 1. [Kettling](https://en.wikipedia.org/wiki/Kettling) (police rounding up protesters and prevented from leaving) is apparently considered cruelty, too.
 1. It is cruelty to leave dogs outside only if it is cold or raining.
 1. Berkshire Hathaway is Buffett's holding company, [originally](https://en.wikipedia.org/wiki/Berkshire_Hathaway#History) working in textiles. According to some guy who watched a show about this company on Netflix, "He bought his original shares because of price vs book, but he bought control because the CEO tried to screw him out of $0.125 per share on a buyback. Buffett got mad at the betrayal, bought the company (partially out of spite) and then cleaned house and made it his holding company. It's notable because that is one of the few times that Buffett bought on emotion versus numbers."
@@ -613,7 +622,7 @@
 1. To take a screenshot in Firefox, type Shift+F2, then `screenshot --fullpage filename.png`
 1. "Anne Frank was very curious about her lady region and discussed masturbation and menstruation quite a bit in her original writings. The version of her diary thats published and read in schools today is highly edited, leaving out about 99% of her self exploration submissions." [source][reddit 36]
 1. [Confessional booths][uca] were built by the church not to give the person some privacy, but to prevent the priests from having sex with young women who came to confession.
-1. As of Android L, the shell now comes with [htop][wikipedia 92] (or its busybox).
+1. As of Android L, the shell now comes with [htop](http://en.wikipedia.org/wiki/Htop) (or its busybox).
 1. "Compound" is more abrasive than "polish", which is more abrasive than wax. Always wax after doing either one.
 1. [Pescetarians][wikipedia 93] eat... no meat, except for fish and seafood, which are obviously not meat (because fish don't have feelings).
 1. For steaming eggs, [a good ratio of water to eggs would be 1.5:1][wikipedia 94]
@@ -1952,7 +1961,6 @@
 [wikipedia 89]: http://de.wikipedia.org/wiki/Speibecken
 [wikipedia 90]: http://en.wikipedia.org/wiki/Bilderberg_Group
 [wikipedia 91]: http://en.wikipedia.org/wiki/Parietal_eye
-[wikipedia 92]: http://en.wikipedia.org/wiki/Htop
 [wikipedia 93]: http://en.wikipedia.org/wiki/Pescetarianism
 [wikipedia 94]: http://en.wikipedia.org/wiki/Chinese_steamed_eggs
 [wikipedia 95]: https://en.wikipedia.org/wiki/Swan

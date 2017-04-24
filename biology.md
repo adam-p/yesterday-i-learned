@@ -164,6 +164,8 @@
 1. The [Welsh Onion](https://en.wikipedia.org/wiki/Allium_fistulosum) is native to China. (Hint: Welsch is Foreign in German, and Welsh Onion is just green onion.)
 1. There are many pathways for [carbon fixation](https://en.wikipedia.org/wiki/Carbon_fixation). Most plants use C3 fixation (calvin cycle), while some (3%) of them can also use [C4 fixation](https://en.wikipedia.org/wiki/C4_carbon_fixation) (like corn).
 1. Fish don't freeze in salt water, despite being less salty than salt water, because animal glycoproteins inhibit ice crystal growth. [Exact mechanism is explained here](https://www.global.hokudai.ac.jp/blog/why-dont-fish-freeze-to-death-in-icy-water/): "flat crystal faces with high growth rates were truncated by faces with slower growth rates, causing the polyhedral crystal to be surrounded by only flat faces with the lowest growth rates. This resulted in greatly slowing down the growth of the ice crystals."
+1. "I'd say an average person has about 50 cc of stomach fluid. Diabetics, who often have a disorder called gastroparesis (basically slow emptying of the stomach), have between 100 and 250cc."
+1. Quetzals, the national bird of Guatemala, are almost completely reliant on avocados as a food source and avocados are in turn are almost exclusively reliant on quetzals as a seed distributor (not including humans) - they are obligate symbionts. Quetzals eat avocados whole, digest the fruit, then regurgitate the pit.
 
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
 [wikipedia 105]: https://en.wikipedia.org/wiki/Chrysalis#Chrysalis

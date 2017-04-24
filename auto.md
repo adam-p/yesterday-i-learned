@@ -88,3 +88,6 @@
 1. Overinflation, dropping trunk junk, throwing away your spare tire, change tires to low resistance tires... [none of these are useful](https://www.youtube.com/watch?v=39g5D7h7jf8) for increasing fuel economy. What does, however, is simply driving carefully. (Video claims that to make a single low-resistance tire worth it, you have to drive 45Mm.)
 1. That old bloke on Fifth Gear is Tiff Needell, a racing driver.
 1. Cars with soft tops don't get automatic car washes.
+1. "Paying more than what the car is worth" for repairs is fine, as long as you don't do more repairs per year than your year's worth of monthly payments for a new(er) car, which is a bit hard to beat. For example: even if you spend $4000 on old car repairs every year, which is hardly ever possible, it is still cheaper than financing a car that goes for $400 a month, until it's done, anyway.
+1. At least one car out there has been named [*Patricia*](https://www.reddit.com/r/AskReddit/comments/64myo1/what_are_some_green_flags_in_a_relationship/dg3tpx6/) before. According to the theory of infinite parallel universes, there ought to be a car out there named *Scarlet*, as well.
+1. You named your own car *Scarlet*. Scarlet reminds you of Snowball, [whose fur is pretty and white](https://www.youtube.com/watch?v=I1u8HLw4-as).

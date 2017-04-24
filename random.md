@@ -1,5 +1,6 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Colombia the country is spelled with an O. [Everything else](https://en.wikipedia.org/wiki/Columbia) is spelled Columbia with a U.
 1. Those hip, "tub-looking" bathtubs are a bitch to clean, say Redditors.
 1. [Travel bidets](https://www.amazon.ca/Brondell-GS-70-GoSpa-Travel-Bidet/dp/B008CSDKSQ) are squirt bottles, essentially.
 1. To identify which side of an LED is positive, [it is either the longer leg](https://learn.sparkfun.com/tutorials/polarity/diode-and-led-polarity), or, if it is already soldered and cut, the round side rather than the flat side.

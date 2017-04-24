@@ -1,5 +1,13 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Those hip, "tub-looking" bathtubs are a bitch to clean, say Redditors.
+1. [Travel bidets](https://www.amazon.ca/Brondell-GS-70-GoSpa-Travel-Bidet/dp/B008CSDKSQ) are squirt bottles, essentially.
+1. To identify which side of an LED is positive, [it is either the longer leg](https://learn.sparkfun.com/tutorials/polarity/diode-and-led-polarity), or, if it is already soldered and cut, the round side rather than the flat side.
+1. Montreal is the third largest porn-producing city in the world after Los Angeles and Amsterdam.
+1. The University of Waterloo Archery Club is "by far the most successful university archery club in Ontario" (quote from president). Other clubs tend to go broke easily.
+1. The world's largest commercial dildo is only 1/6 the size of [the world's largest non-commercial dildo](https://www.dailydot.com/unclick/worlds-largest-dildo/).
+1. The summit [Chimborazo](https://en.wikipedia.org/wiki/Chimborazo) of Ecuador is the farthest point from the centre of Earth, while Mt. Everest is the highest point from sea level.
+1. Brushing your teeth for two minutes, twice a day, is roughly a day per year.
 1. Israeli appliances often have this "[Sabbath mode](https://en.wikipedia.org/wiki/Sabbath_mode)" thing that helps with living without doing work on Sundays. The understanding is that the readings on such appliances must not work, but the actual functionality must. So, lights and readings on stoves and fridges might turn off during the Sabbath, but not the actual ability to heat and cool food. Also made apparent is the [Sabbath lamp](https://en.wikipedia.org/wiki/Shabbat_lamp), which bypasses the "doing work" criterion by simply having the light on before the Sabbath, and turning the lamp "on" or "off" with a shade that covers such a lamp, hence never actually operating the lamp itself.
 1. 🤘😝🤘 is sign language for "I love you" where Isco was playing.
 1. Star Wars characters often have a problem with not knowing their real dads.

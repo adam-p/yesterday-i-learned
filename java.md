@@ -108,7 +108,7 @@ groovy:000> Boolean.valueOf('true')
 * Adding a method inside an interface will instantly (with a lack of a better term) fuck everyone over because none of the implementations have that new method. To combat this, Java 8 adds [`default type funcName() {...}`](https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html) to interface definitions. Of course you'll start to wonder the purpose of interfaces if you can have code in it, but I digress.
 1. In between `public` and `void`, you can specify [bounded parameters](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html) that specifies ... superclasses of that type that can be passed in, I guess. Today I have not learned.
 1. Prior to Java 7, it was impossible to `switch/case` with a string condition.
-1. 
+1. [`java.util.Date` is actually `Timestamp`, with an underlying implementation of a long.](https://news.ycombinator.com/item?id=14179783) Use something else instead, like jodatime.
 
 # [Android](https://www.reddit.com/r/androiddev/comments/3ka9j0/what_to_know_for_a_mobile_developer_interview/)
 

@@ -71,6 +71,7 @@
   **Make sure the first column in a multi-column index is selected exactly.**
 * Getting the create table SQL for a table: [see guide](http://stackoverflow.com/a/16154183/1558430)
 * [`SELECT COUNT(*) FROM tbl` is slow](https://wiki.postgresql.org/wiki/Slow_Counting); use only with indexed `WHERE` queries instead.
+* `SELECT field1, field2, field3, ...`, even if the list of fields includes all fields in the table, is [more likely to be faster than `SELECT *`](http://stackoverflow.com/a/65532/1558430), being more likely to use the index.
 
 ## Troubleshooting
 

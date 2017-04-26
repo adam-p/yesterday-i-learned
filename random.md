@@ -1,5 +1,18 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. ["La gente esta muy loca"](https://www.youtube.com/watch?v=3wlUPf9PZpY) means "(The) people are (very) crazy" in Spanish.
+1. [Adrian Holovaty](http://www.holovaty.com/) added the line ["Thanks for checking it out."](https://github.com/django/django/commit/226acf35c84b379aa2e3c3b4672c18c61e3a8114) to the django/django repo.
+1. The term "wet nap" might have come from [Wet Nap the product](http://wetnap.com/), like [Wite-Out](https://en.wikipedia.org/wiki/Wite-Out) the product.
+1. Bikes with pedals attached to the front wheel are called [velocipedes](https://en.wikipedia.org/wiki/Velocipede).
+1. A [gear-inch](https://en.wikipedia.org/wiki/Gear_inches) is the distance travelled from one revolution of your gear pedal.
+1. The future is run by Terminators, because of this series of events happening: Man makes robot to help police find illegal parking. [Robot gets beat up when working alone.](https://arstechnica.com/tech-policy/2017/04/silicon-valley-security-robot-beat-up-in-parking-lot-police-say/) Robot gets a gun to protect itself.
+1. [Coconut oil](https://en.wikipedia.org/wiki/Coconut_oil) has too much saturated fatty acids (evident, because it is solid at room temperature) to be healthy.
+1. Lightyear to meter conversion is easy, if you know a lightyear is 9.461E15 meters, and then you just approximate it as 1E16 meters.
+1. Stock price doesn't mean anything (as long as you can afford at least one share). Buying 100 cheap shares worth $5 each that goes up by 1% is going to be $505. Buying 1 share of $500 that goes up by 1% is also going to be $505.
+1. The ["ECB (electronic code book) mode"](https://crypto.stackexchange.com/questions/225/should-i-use-ecb-or-cbc-encryption-mode-for-my-block-cipher) encrypts data block by block. [It is insecure.](https://littlemaninmyhead.wordpress.com/2017/04/22/top-10-developer-crypto-mistakes/) Stop using it wherever you know it exists. CBC (cipher block chaining) mode makes you XOR the next block with the previous block's ciphertext first, making it safer.
+1. If you buy a share of every stock out there in an exchange, you effectively track an index. If you buy a share from only the non-half-arsed stocks in an exchange, you effectively beat an index. If you go on and buy a share from only the stocks that consistently stay on or above average, which isn't hard to spot to be honest (say Apple or Adobe), then you effectively beat an index. That is why index funds often outperform the indices that they track, but never by much.
+1. Cellular Internet in Canada costs more than anywhere else in the world, including Japan, Brazil, and Botswana.
+1. TMX lists itself on the TMX as "X".
 1. Colombia the country is spelled with an O. [Everything else](https://en.wikipedia.org/wiki/Columbia) is spelled Columbia with a U.
 1. Those hip, "tub-looking" bathtubs are a bitch to clean, say Redditors.
 1. [Travel bidets](https://www.amazon.ca/Brondell-GS-70-GoSpa-Travel-Bidet/dp/B008CSDKSQ) are squirt bottles, essentially.
@@ -619,14 +632,14 @@
 1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken orally.
 1. Scottish bank notes are in fact promissory notes, and are worth nothing like GBP in value.
 1. Capsaicin does not affect birds. Hotness in Capsicum plants helps them spread their seeds because it makes them unpleasant for mammals, but still tasty for birds (which, you know, fly).
-1. [Speibecken][wikipedia 89] are German Oktoberfest puke sinks. They are not only used during Oktoberfest.
+1. [Speibecken][wikipedia 89] are German Oktoberfest puke sinks. They are not only used during Oktoberfest. Speibecken conveniently translates on Google to "dining room".
 1. Every year, important people in the [Bilderberg Group][wikipedia 90] meet up, lock themselves in a soundproof room, and discuss world affairs in confidence. No one knows what they talk about.
 1. [The Indian education system] revolve around examinations, the education itself is deeply flawed. Rote memorization in almost every subject, no critical thinking whatsoever, outdated syllabuses, terrible teachers (they aren't paid well so usually "good" people don't get into teaching), and exams that are easy to "game". [Rest of comment][reddit 35]
 1. [When accompanied by a slightly less attractive person who looks like you, you are more attractive to others around you.][ted]
 1. Rubbing a bruised spot floods the area with pain signals, making it paradoxically less painful. Rubbing a painful spot is also a universal human instinct.
 1. [Quakes][quake] happen everywhere, all planets with tectonic plates, and the moon...
 1. Many reptiles have a photoreceptive [parietal eye][wikipedia 91] on top of their heads (where the parietal gland is) that control thermoregulation.
-1. To keep notes organised, [tag their page edges][highfivehq].
+1. To keep notes organised, [tag their page edges][highfivehq] with a line of ink.
 1. "Rhadamanthine" means "stern" or "inflexible".
 1. To take a screenshot in Firefox, type Shift+F2, then `screenshot --fullpage filename.png`
 1. "Anne Frank was very curious about her lady region and discussed masturbation and menstruation quite a bit in her original writings. The version of her diary thats published and read in schools today is highly edited, leaving out about 99% of her self exploration submissions." [source][reddit 36]
@@ -1264,7 +1277,7 @@
 1. Samsung phones often have the NFC and wireless charging coils wrapped up inside the battery housing.
 1. If matrix multiplication means [placing the second matrix on top of the first one, and calculating the dot products successively](http://matrixmultiplication.xyz/), then in order to multiply two matrices, the number of columns of the first must equal to the number of rows of the second.
 1. [Timsort](https://en.wikipedia.org/wiki/Timsort), somewhere between insertion sort and merge sort, was made by Tim Peters, the same man who wrote PEP 20.
-1. If you want a reason to dislike the [double spacing](http://www.quickanddirtytips.com/education/grammar/two-spaces-after-a-period) plague, here's a sick burn: ["Your typing as well as your typesetting will benefit from unlearning this quaint [double spacing] Victorian habit"](https://en.wikipedia.org/wiki/Sentence_spacing#Typography)
+1. If you want a reason to dislike the [double spacing](http://www.quickanddirtytips.com/education/grammar/two-spaces-after-a-period) plague, here's a sick burn: ["Your typing as well as your typesetting will benefit from unlearning this quaint (double spacing) Victorian habit"](https://en.wikipedia.org/wiki/Sentence_spacing#Typography)
 1. ["Distributed guessing"](http://eprint.ncl.ac.uk/file_store/production/230123/19180242-D02E-47AC-BDB3-73C22D6E1FDB.pdf) is when a hacker tries the same credit card with different expiry dates and CVV on different sites at the same time, hitting retry limits on none of them. The valid combination [of expiry and CVV] can optimistically be found in minutes, and much harder if address is required.
 1. It is not so hard to believe [Josephus Daniels' name](http://qz.com/88453/why-coffee-is-called-joe/) stands for coffee, when Jack Daniels' name stands for whiskey. Joe got the fame for banning alcohol, directly offering coffee as a substitute.
 1. "Scars are a testament to life. Scars are a testament that I can love deeply and live deeply and be cut, or even gouged, and that I can heal and continue to live and continue to love. And the scar tissue is stronger than the original flesh ever was. Scars are a testament to life." - [GSnow](https://www.reddit.com/r/Assistance/comments/hax0t/my_friend_just_died_i_dont_know_what_to_do/c1u0rx2/)

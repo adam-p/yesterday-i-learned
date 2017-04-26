@@ -21,3 +21,4 @@
 1. [/u/SimplyOriginal](https://www.reddit.com/r/Drugs/comments/2quas2/weed_as_a_party_drug/cn9ncl8/) posts about maximising alcohol's per-unit potential: *Eat [fatty foods and carbs] 45mins before your first drink [to] slow down the absorption rate. Maintain a [steady] increase of [BAC]. Stick to one type of alcohol [to maintain the feel-good effects. Do not] hammer shots.*
 1. Cocaine stops being detectable in fluids after a few days.
 1. Lasers burn away rust, but not with the iron underneath, because rust absorbs more light than iron.
+1. (Throwback Wednesday) Buffer solutions can only be made from [weak acids](http://chemcollective.org/activities/tutorials/buffers/buffers3) (and their conjugate bases). When a strong acid is added, the conjugate base neutralises it. When a strong base is added, the acid protonates, neutralising the base. In both cases, the pH did not change much.

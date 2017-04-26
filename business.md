@@ -105,6 +105,11 @@ Further reading: [0001.md](sources/0001.md)
 * A Partial Gap Up occurs when today's opening price is higher than yesterday's close, but not higher than yesterday's high.
 * A Partial Gap Down occurs when the opening price is below yesterday's close, but not below yesterday's low.
 
+## Mutual Funds
+
+## ETFs (Exchange-traded funds)
+[Leveraged ETFs are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. You lost money because of resetting leverage."
+
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 
 * Don't attempt to manage unmotivated people.
@@ -133,4 +138,4 @@ Further reading: [0001.md](sources/0001.md)
 * MACD (Moving Average Convergence/Divergence): The MACD is calculated by simply subtracting a 26-period exponential moving average (EMA) of the closing prices from a 12-period EMA. The signal line is a nine-period exponential moving average of the MACD.
 * ROI (Return on investment): (Income - taxes) last year, divided by the debts. Higher is better.
 * S&P500 (Standard & Poor's 500): stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ"
-* 
+*

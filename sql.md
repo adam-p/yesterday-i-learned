@@ -72,6 +72,8 @@
 * Getting the create table SQL for a table: [see guide](http://stackoverflow.com/a/16154183/1558430)
 * [`SELECT COUNT(*) FROM tbl` is slow](https://wiki.postgresql.org/wiki/Slow_Counting); use only with indexed `WHERE` queries instead.
 * `SELECT field1, field2, field3, ...`, even if the list of fields includes all fields in the table, is [more likely to be faster than `SELECT *`](http://stackoverflow.com/a/65532/1558430), being more likely to use the index.
+* [Creating a partial index on a boolean field](http://stackoverflow.com/questions/42972726/postgres-sql-create-index-for-boolean-column) is useful if only a few of the records have either true or false.
+* ["An index computed on `upper(col)` would allow the clause `WHERE upper(col) = 'JIM'` to use an index."](https://www.postgresql.org/docs/9.1/static/sql-createindex.html)
 
 ## Troubleshooting
 

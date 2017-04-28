@@ -1,5 +1,15 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. "Meat and Great" doesn't work as a slogan.
+1. Walter Lewin, the professor known for drawing dotted lines on chalkboards, was charged for sexual harrassment.
+1. Amazon was an online book store 20 years ago. It sold nothing else.
+1. The only Family Guy character that moves at a given time is the character that is talking (a side effect of animators being lazy/underpaid/both). After a few seasons, they also kill their own jokes by explaining them right after (a side effect of lengthening the show without adding substance).
+1. Justin [reportedly](http://www.thespec.com/news-story/5968652-justin-trudeau-out-of-his-father-s-shadow-and-into-power/) likes Labatt 50. He's just not ready.
+1. 56g of daily minimum of protein intakes is like a kilogram of food, give or take. Depends on what you eat, obviously (300g of beans or 2 kilos of spinach or...)
+1. Steve Job's biological father was a Syrian Muslim. His adoptive father was named Jobs.
+1. [大秦](https://en.wikipedia.org/wiki/Daqin) did not refer to the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty); it referred to the Roman empire.
+1. [The Tale of Two Lovers](https://en.wikipedia.org/wiki/The_Tale_of_Two_Lovers), an erotic novel, was written by Pope Pius II. It was reportedly a popular best-seller.
+1. Only a fool would look at fool.com/fool.ca. On the 24th: ["Why Home Capital Group Inc is the Stock of the Year"](http://www.fool.ca/2017/04/24/why-home-capital-group-inc-is-the-stock-of-the-year/). On the 26th: Home Capital Group Inc drops by 60%+.
 1. ["La gente esta muy loca"](https://www.youtube.com/watch?v=3wlUPf9PZpY) means "(The) people are (very) crazy" in Spanish.
 1. [Adrian Holovaty](http://www.holovaty.com/) added the line ["Thanks for checking it out."](https://github.com/django/django/commit/226acf35c84b379aa2e3c3b4672c18c61e3a8114) to the django/django repo.
 1. The term "wet nap" might have come from [Wet Nap the product](http://wetnap.com/), like [Wite-Out](https://en.wikipedia.org/wiki/Wite-Out) the product.
@@ -1235,6 +1245,7 @@
 1. Centripetal force is the force acting on the center. Centrifugal force is the force acting outward on the flying object.
 1. Creatine, to quote the Internet: "Holy shit, they're not wrong. Basically the majority of days are fine, no effects, then all of a sudden I will have a day where I am basically pissing out of my ass."
 1. To get memory protection, you need special ECC RAM. [Don't use Btrfs](http://superuser.com/questions/959431/how-to-fix-bit-rot-back-up-strategy) with non-ECC RAM either, because you know it'll try to recover, and recover incorrectly.
+1. Also related to ECC memory, "compared to the sea level, the rate of neutron flux is 3.5 times higher at 1.5 km (...)"
 1. [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
 1. `m3u8`s are `m3u`s with UTF-8 encoding.
 1. When cooking a steak with cast iron, use oil, and [don't try to move the meat until it comes off the pan by itself](https://youtube.com/watch?feature=youtu.be&v=KLGSLCaksdY).

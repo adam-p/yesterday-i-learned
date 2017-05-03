@@ -220,6 +220,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. [` export HISTFILE=/dev/null`](http://stackoverflow.com/questions/6475524/how-to-prevent-commands-to-show-up-in-bash-history) (space in front) disables command history recording for the session.
 1. The [maximum number of levels for symlinks](https://unix.stackexchange.com/questions/53087/how-do-you-increase-maxsymlinks) is reportedly hardcoded to 40.
 1. Adding something like `ALL: 63.143.42.245` to your `/etc/hosts.deny` prevents that IP from connecting to your server. (In this case, 63.143.42.245 is an actual offender.)
+1. If `rsync` is given [`--ignore-missing-args`](http://stackoverflow.com/a/27637277/1558430), whenever it cannot find the source, it just skips it.
 
 ## Tmux
 

@@ -26,6 +26,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 
 * In Chrome, `<img>` tags with no `src` have a [grey border](http://stackoverflow.com/questions/10848722/google-chrome-images-have-border) that does not go away with any amount of CSS.
 * HTML5 allows closing tags to be omitted where the semantics are obvious, for example, `li` in `ul`, or `option` in `optgroup`. Then again, your colleagues will kill you, so it is not a usable part of the spec.
+* However, [custom tags can never be self-closing in HTML5](http://stackoverflow.com/questions/23961178/do-custom-elements-require-a-close-tag).
 * `disabled` prevents focus on the element, whereas `readonly` lets you focus on it, but not edit it. `readonly` elements also get `submit`ted.
 * You can [change an `<input>`'s placeholder style](http://stackoverflow.com/a/2610741) using pseudoselectors `::-webkit-input-placeholder, :-moz-placeholder, ::-moz-placeholder, :-ms-input-placeholder`, if the field's `appearance: textfield`. With that said, these styles are platform-dependent (as you may expect with prefixed styles), and currently the placeholder cannot be inspected.
 * Well, you cannot specify [offline file wildcards](http://stackoverflow.com/questions/8001196/how-do-i-specify-a-wildcard-in-the-html5-cache-manifest-to-load-all-images-in-a).

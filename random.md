@@ -1,5 +1,43 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. No one ever said the protagonists in Rick and Morty are the same Rick and Morty every episode, but the story so far has been consistent, even though [the default universe is no longer C-137](http://rickandmorty.wikia.com/wiki/Dimension_C-137).
+1. [Tabling](https://en.wikipedia.org/wiki/Table_%28parliamentary_procedure%29) means "place on the side of the table" aka halt consideration in the US, or "lay on the table" aka begin consideration for everywhere else in the world. (Clarke)
+1. [Ted](https://en.wikipedia.org/wiki/Ted_Cruz) is Calgarian. His names are also "Rafael Edward", Ted being short for Edward. To run for presidency, one must either be born in America, or one parent must be American.
+1. Ted can also be short for Edwin, Edmund, and Theodore.
+1. The difference between a good day and a bad day is how much alcohol you want to consume, versus how much you need to consume. ~Rob
+1. For any pipe you intend to use for delivering waste, only use smooth pipes, not ribbed ones, for reasons that may be obvious later.
+1. Complimenting someone should not be relative. Good: "Good dog." Bad: "You are good, not like other dogs."
+1. [People hear differences between lossless audio formats](https://en.wikipedia.org/wiki/Transparency_%28data_compression%29), which is obviously bogus.
+1. A [*charlotte*](http://imgur.com/nljKA2I) is "a large soft hat covering all of the hair and typically having a decorative frill, worn indoors by women in the 18th and early 19th centuries."
+1. Bud light is [so bad on ratebeer](https://www.ratebeer.com/beer/bud-light/474/), its overall rating of 0 turned into n/a.
+1. *Emaciated* means thin and weak.
+1. *[That](https://en.wikipedia.org/wiki/Eat,_Pray,_Love)'s that girl who wrote that book based on that movie.*
+1. [Nastapoka arc](https://en.wikipedia.org/wiki/Nastapoka_arc), the near-perfect-circular crater-like thing in Hudson Bay, does not have properties commonly found in craters, such as [shatter cones](https://en.wikipedia.org/wiki/Shatter_cone) in the bedrock.
+1. People who like doing presentations often strategically choose awkward people to do group projects, do they don't need to do the projects themselves, just doing the presentation.
+1. In the first two years of your adventures, you averaged 137 per day.
+1. [No current flag has only one colour.](https://en.wikipedia.org/wiki/List_of_flags_by_number_of_colors) And, as expected, [most flags are red and white](http://www.infocaptor.com/dashboard/color-and-pattern-analysis-on-flags-of-countries-simple-visualization-but-interesting-data), with blue being the third most popular colour, and [red, white, blue, green, yellow, black] covering the vast majority.
+1. *Peperoni* (pepperoni) can either be peppers, or sausages seasoned with peppers.
+1. [You can't just say cheese for pizza](https://www.youtube.com/watch?v=u5AZhjhbxf8&app=desktop): "*Just cheese* is one ingredient away from grilled cheese and two ingredients away from being just bread."
+1. "Daddy issues" typically refers to seeking attention from men in order to compensate for the attention (she) may not have received from (her) father.
+1. [The University of Northern New Jersey](https://en.wikipedia.org/wiki/University_of_Northern_New_Jersey) was a fake university, created by the United States Department of Homeland Security to investigate student visa fraud.
+1. [Natural and artificial flavours can be the same compounds.](http://www.seriouseats.com/2014/04/what-is-the-difference-between-natural-and-artificial-flavors.html)
+1. Many cults are self-sufficient so members don't ever have to leave.
+1. [Sticky pine sap](https://survivalsherpa.wordpress.com/2015/02/05/16-uses-of-sticky-pine-sap-for-wilderness-survival-and-self-reliance/) is a fire starter.
+1. To emulate a chicken, say these words: *Bawk. Bawk. Bawka.*
+1. ["The nice thing about IKEA is that you pretty much get what you pay for."](https://www.quora.com/How-easily-does-IKEA-furniture-fall-apart)
+1. If you are given 2+ choices instead of 1, [your expectation of the one you choose will go up](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) (which means you will be less happy with it, even though you were given the choice to pick it). The take away is: choice isn't always good, and if you suck at cooking, don't ask your wife what she wants to eat.
+1. In almost every country (except Central African Republic), [giving money away makes you happier than if you kept it for yourself](https://www.ted.com/playlists/4/what_makes_you_happy). In the same video, spending money on others has better returns per dollar than spending money on yourself; people who think about how they can beneft other people are happier than people who think about how they can benefit themselves.
+1. Why isn't "boxing" "boxxing"?
+1. ["Trust but verify"](https://en.wikipedia.org/wiki/Trust,_but_verify) is a Russian quote.
+1. [2.5% of the US workforce are professional software developers](https://en.wikipedia.org/wiki/Software_engineering_demographics). There are 21 million software developers in the world.
+1. Bob Ross [painted rocks like nothing](https://www.reddit.com/r/interestingasfuck/comments/682pif/bob_ross_effortlessly_painting_rocks/).
+1. Even in toys, [sacrificial gears](https://en.wikipedia.org/wiki/Gear#Gear_materials) are put in between real gears to make sure neither components get damaged if either side goes wrong.
+1. Duct tape does not protect windows against the wind in a storm; duct tape does not protect anything during a storm. It ensures glass shrapnels do not fly everywhere.
+1. Maple Syrup molds. Honey doesn't.
+1. The car is never in neutral in any driving situation.
+1. The majority of "Kingdom Hall of Jehovah's Witnesses" on Google Maps are/were rated 5.0 stars by fewer than 3 users.
+1. [Beers are traditionally sour.](https://en.wikipedia.org/wiki/Sour_beer) It was when people started sterilising the vessels that beers stopped having that sour taste.
+1. If vacation days cannot be carried forward over New Year, suspect you can convert all of them into pay, and then simply not getting paid for the future days you don't go to work, netting $0.
 1. "Meat and Great" doesn't work as a slogan.
 1. Walter Lewin, the professor known for drawing dotted lines on chalkboards, was charged for sexual harrassment.
 1. Amazon was an online book store 20 years ago. It sold nothing else.

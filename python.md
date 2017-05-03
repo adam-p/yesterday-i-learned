@@ -355,6 +355,8 @@ bar
 1. The imports you write assume you run these scripts from the [top level of the project](http://stackoverflow.com/questions/43498467/python-importerror-of-my-own-module). Imports don't magically work simply because there is an `__init__.py` in the directory.
 1. [The backspace character](https://en.wikipedia.org/wiki/Backspace) (`chr(8)`) is a caret shifting mechanism. One backspace moves the caret one character to the left, and the next character replaces the character that is already in that position. For example, `print 'A' + chr(8) + 'B'` prints just `B` (because the B replaced the A), and `'A' + chr(8)` prints just `A` (because nothing replaced the A yet). `print 'A' + 'B' + chr(8) + chr(8) + 'C'` prints `CB`, because the caret is moved two characters back, and the C replaces the A.
 1. The `a, *_, b = [...]` unpacking thing raises a ValueError if the list is fewer than two elements long.
+1. [`type('', (), {})()` will create an object that can have arbitrary attributes.](http://stackoverflow.com/a/24448351/1558430)
+1, Up until python 3.7, [it was impossible](https://docs.python.org/3.7/whatsnew/3.7.html) to have a function with more than 255 parameters, but a function name of more than 255 parameters is ok (you tested 100,000 characters).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

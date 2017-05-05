@@ -1,5 +1,10 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Stephanie Tarling sang the first [Pure Imagination](https://www.youtube.com/watch?v=xojCXUfzjSY&app=desktop) song for Microsoft's Surface Studio. Then she messed up and [sang again](https://www.youtube.com/watch?v=74kPEJWpCD4) for the Surface Laptop.
+1. Home alarm monitoring service (the thing that calls your house when someone breaks in) is useless. Thieves usually leave in 5-10 minutes. Phone calls start at 5 minutes.
+1. "Desks don't kill people, people kill people." You thought you were being witty and original, but there is already [one other Google result](https://www.google.ca/search?q=%22desks+don%27t+kill+people%2C+people+kill+people%22) with that exact phrase.
+1. Mr Rohit's advice to reading code is to try to understand it.
+1. Raichu7 claims that suicide is illegal in England, only because police can only enter private property without a warrant if they have reason to believe a crime is being committed.
 1. No one ever said the protagonists in Rick and Morty are the same Rick and Morty every episode, but the story so far has been consistent, even though [the default universe is no longer C-137](http://rickandmorty.wikia.com/wiki/Dimension_C-137).
 1. [Tabling](https://en.wikipedia.org/wiki/Table_%28parliamentary_procedure%29) means "place on the side of the table" aka halt consideration in the US, or "lay on the table" aka begin consideration for everywhere else in the world. (Clarke)
 1. [Ted](https://en.wikipedia.org/wiki/Ted_Cruz) is Calgarian. His names are also "Rafael Edward", Ted being short for Edward. To run for presidency, one must either be born in America, or one parent must be American.

@@ -1,5 +1,11 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [The Queen has two birthdays](http://www.telegraph.co.uk/news/0/why-does-the-queen-have-two-birthdays/) The ruling person always has two birthdays: [one on the real day, and one in Spring, in the form of a military parade, known as Trooping the Colour.](http://www.telegraph.co.uk/news/0/why-does-the-queen-have-two-birthdays/) King George II started that tradition because he was born in cold weather.
+1. [Simple English](https://en.wikipedia.org/wiki/Simplified_Technical_English), a legit engineering term for making things unambiguous, has [its own Simple English wiki page](https://simple.wikipedia.org/wiki/Simplified_English). Who knew!
+1. The last courses in a Chinese cuisine are usually the ones they also pack up and let you bring home.
+1. [*Pablum*](https://en.wikipedia.org/wiki/Pablum) can now be used to describe something that is bland, mushy, unappetizing, or infantile. It is the exact marketing opposite of "Googling".
+1. [Five-pin bowling](https://en.wikipedia.org/wiki/Five-pin_bowling), a Canadian invention, is a bowling variant which is played only in Canada.
+1. Speaking of [Canadian inventions](https://en.wikipedia.org/wiki/The_Greatest_Canadian_Invention), wonderbra (#5) placed higher on the list than Java (#12, the language), standard time (#15), alkaline batteries (#32), and many other more things that don't make boobs look bigger.
 1. Stephanie Tarling sang the first [Pure Imagination](https://www.youtube.com/watch?v=xojCXUfzjSY&app=desktop) song for Microsoft's Surface Studio. Then she messed up and [sang again](https://www.youtube.com/watch?v=74kPEJWpCD4) for the Surface Laptop.
 1. Home alarm monitoring service (the thing that calls your house when someone breaks in) is useless. Thieves usually leave in 5-10 minutes. Phone calls start at 5 minutes.
 1. "Desks don't kill people, people kill people." You thought you were being witty and original, but there is already [one other Google result](https://www.google.ca/search?q=%22desks+don%27t+kill+people%2C+people+kill+people%22) with that exact phrase.

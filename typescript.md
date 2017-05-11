@@ -82,6 +82,8 @@ var func: FuncSignature = function (foo: string, bar: string): number {
 
 `var func: FuncSignature` can be saved and used on multiple functions, so you might save some work by doing so.
 
+**NOTE**: [Don't use the types `Number`, `String`, `Boolean`, or `Object`](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html) "These types refer to non-primitive boxed objects", aka you should just ask for the primitive types `number`, `string`, `boolean`, and `object`.
+
 #### Function subtyping
 
 From [the Handbook](http://www.typescriptlang.org/Handbook#type-compatibility-comparing-two-functions), a variable can be assigned a function, then be assigned another function with fewer [but the same types of remaining] parameters than it:

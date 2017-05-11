@@ -1,5 +1,11 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Curling irons can [look like dildos](http://imgur.com/QXWT6EV).
+1. [Level 1 holsters](https://www.youtube.com/watch?v=qIXc9NRLRJI&app=desktop) have a restraining latch that holds the gun. Level 2 holsters have a button that you need to press to get the gun out. You can still yank it out though, so Level 3 holsters have yet another thing covering the top of the gun to prevent yanking.
+1. "俺たちはいまイカとセックスをしている。" means "I am having sex with squid now", in case anyone tells you.
+1. Pickleball has nothing to do with pickles. It is a cross between badminton, tennis, and table tennis.
+1. The [Black Sea](https://en.wikipedia.org/wiki/Black_Sea) is 5000 times (rounded up) bigger than the [Dead Sea](https://en.wikipedia.org/wiki/Dead_Sea). More or less a lake, the Dead Sea is not really visible on a map unless you go looking for it. The average temperature at Dead Sea year round is 47 degrees Celcius.
+1. [Tenderloin](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco), the SF district just a few blocks away from the financial district, has a high rate of both crime and human feces sightings.
 1. [The Queen has two birthdays](http://www.telegraph.co.uk/news/0/why-does-the-queen-have-two-birthdays/) The ruling person always has two birthdays: [one on the real day, and one in Spring, in the form of a military parade, known as Trooping the Colour.](http://www.telegraph.co.uk/news/0/why-does-the-queen-have-two-birthdays/) King George II started that tradition because he was born in cold weather.
 1. [Simple English](https://en.wikipedia.org/wiki/Simplified_Technical_English), a legit engineering term for making things unambiguous, has [its own Simple English wiki page](https://simple.wikipedia.org/wiki/Simplified_English). Who knew!
 1. The last courses in a Chinese cuisine are usually the ones they also pack up and let you bring home.

@@ -1,5 +1,8 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [*Collegiate institutes*](https://en.wikipedia.org/wiki/Collegiate_institute) offered arts and humanities education (...) for university-bound students. *High schools* offered vocational and science programs for those planning to enter the workforce upon graduation. (...) It was quite quickly realized that this division did not work very well. (...) Eventually the two systems were merged in to a single secondary school system.
+1. "None of us are getting out of here alive, so please stop treating yourself like an after thought. Eat the delicious food. Walk in the sunshine. Jump in the ocean. Say the truth that you're carring in your heart like hidden treasure. Be silly. Be Kind. Be weird. There is no time for anything else." - [/u/hotsauceinmyeye's mother](https://www.reddit.com/r/GetMotivated/comments/6aq640/image_we_buried_mum_today_we_found_this_in_one_of/)
+1. PornHub and LiveJasmin are the only pornographic websites in the world's top 50 visited websites.
 1. Curling irons can [look like dildos](http://imgur.com/QXWT6EV).
 1. [Level 1 holsters](https://www.youtube.com/watch?v=qIXc9NRLRJI&app=desktop) have a restraining latch that holds the gun. Level 2 holsters have a button that you need to press to get the gun out. You can still yank it out though, so Level 3 holsters have yet another thing covering the top of the gun to prevent yanking.
 1. "俺たちはいまイカとセックスをしている。" means "I am having sex with squid now", in case anyone tells you.

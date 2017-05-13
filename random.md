@@ -1,5 +1,11 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. *Stickler* means perfectionist, with a negative connotation.
+1. Mothers don't moth. Fathers don't fath. Don't thank them for these things.
+1. The vast majority of investment "advisors" in Canada are actually salespeople — only advisers spelled with an "e" have a legal duty to act in a client's best interest.
+1. In Punjabi, a lakh is called lakkh.
+1. [The Indian numbering system separates the first thousand with a comma, then a comma for every factor of 2.](https://en.wikipedia.org/wiki/Indian_numbering_system#Use_of_separators)
+1. The D in [D-day](https://www.army.mil/e2/rv5_downloads/d-day/the-meaning-of-dday-fact.pdf) is also Day. So D-day is Day-day. There is also [H-hour](https://en.wiktionary.org/wiki/H-hour), which is---you guessed it---Hour-hour.
 1. [*Collegiate institutes*](https://en.wikipedia.org/wiki/Collegiate_institute) offered arts and humanities education (...) for university-bound students. *High schools* offered vocational and science programs for those planning to enter the workforce upon graduation. (...) It was quite quickly realized that this division did not work very well. (...) Eventually the two systems were merged in to a single secondary school system.
 1. "None of us are getting out of here alive, so please stop treating yourself like an after thought. Eat the delicious food. Walk in the sunshine. Jump in the ocean. Say the truth that you're carring in your heart like hidden treasure. Be silly. Be Kind. Be weird. There is no time for anything else." - [/u/hotsauceinmyeye's mother](https://www.reddit.com/r/GetMotivated/comments/6aq640/image_we_buried_mum_today_we_found_this_in_one_of/)
 1. PornHub and LiveJasmin are the only pornographic websites in the world's top 50 visited websites.

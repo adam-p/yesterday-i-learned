@@ -1,3 +1,4 @@
+1. According to an unknown source on that online encyclopedia, "A few giant pill millipede species are able to produce sound, the only millipedes known to do this".
 1. ["Yeast extract" is MSG](http://www.thehealthyhomeeconomist.com/chicken-broth-no-msg-labels-are-false/). This is why [vegemite](https://en.wikipedia.org/wiki/Vegemite) tastes incredible. "Organic spices" might also be MSG. Sarah is a filthy triple-spacer.
 1. [Acorns](https://en.wikipedia.org/wiki/Acorn) (oak nuts) take 6-24 months to mature. They contain bitter tannins, which interfere with an animal's ability to metabolize protein. When the tannins are metabolized in cattle, the tannic acid produced can cause ulceration and kidney failure.
 1. The [Ashy mining bee](https://en.wikipedia.org/wiki/Ashy_mining_bee) has black and white stripes.

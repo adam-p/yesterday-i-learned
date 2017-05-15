@@ -37,6 +37,7 @@
 * [`prop.boolean = True`](http://stackoverflow.com/questions/12842095/how-to-display-a-boolean-property-in-the-django-admin) in django admin turns the display of that method into a checkbox, rather than just saying 'True'.
 * Expressions in `{% blocktrans %}{{ this thing }}{% endblocktrans %}` [must not have attribute/key access](http://stackoverflow.com/questions/11338098/why-in-i18n-blocktrans-django-a-object-dict-or-list-dont-work).
 * If you filter by `id__in=queryset`, Django might make it a subquery. But if you do `id__in=list(queryset)`, no matter the size of the queryset, the queryset must be evaluated first, and the two-query version might be faster than the subquery version.
+* Django 1.7 got rid of the `--dry-run` option formerly available in South.
 
 ## WSGI
 
@@ -119,7 +120,7 @@ Instead of `from app.models import Foo`, you might need to use [`Foo = apps.get_
 ## Base models storing common fields
 
 Add a `class Meta` that contains `abstract = True`. 
-This has a downside of no longer allowing the class to be referenced (as foreign keys) directly.
+<!-- This has a downside of no longer allowing the class to be referenced (as foreign keys) directly. -->
 
 ## Can't have `__getattr__` in django models
 

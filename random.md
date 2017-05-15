@@ -1,5 +1,19 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Bonds have had an incredible bull run over the last 20 years due to falling interest rates. Very unlikely that continues.
+1. ["Your mother was a hamster and your father smelt of elderberries!"](https://www.youtube.com/watch?v=cAy4zULKFDU) meant "your mother is a whore / makes many babies and your father is a drunk".
+1. "Dabbing" is supposed to be you sneezing into your shoulder (because you smoked cannibis oil, i.e. dabbing), and also handing the dab to the next person. Information provided by /u/submortimer.
+1. [Sloe gin](https://en.wikipedia.org/wiki/Sloe_gin) is not slow gin. Sloe gin is made by soaking sloes (a fruit like plums) in gin.
+1. A police from [where's the little girl](http://www.huffingtonpost.com/2011/11/11/save-miranda-police-video_n_1088723.html) video was actually fired for being involved in inappropriate humour.
+1. [Religion websites see the most expensive phone users, and Adult and pornography websites see the least expensive phone users.](https://www.scientiamobile.com/page/smartphone-price-website-category) Conclusion: if you want a cheaper phone, you should masturbate furiously. 100% legit advice.
+1. Abraham Weber started everything [in Waterloo].
+1. Abraham Erb built a mill, an act of founding Waterloo (1816).
+1. Both Breithaupt and Hespeler were big German families. David Bauer, however, was a priest from Toronto.
+1. Conestoga horses pulled Conestoga wagons, which were made with fabric (rare), and did not float. Conestoga horses are now extinct.
+1. Only 806 people from the Waterloo region fought in world war 2. Only 4 fought in the Korean war.
+1. The perimeter institute is from the last century.
+1. Anabaptism is adult baptism.
+1. Don't try to make a startup in a field where people can arrange their work amongst themselves. Examples: [home cleaning](http://startupgraveyard.io/company/homejoy/), [carpooling](https://www.facebook.com/groups/372772186164295/?fref=nf),
 1. *Stickler* means perfectionist, with a negative connotation.
 1. Mothers don't moth. Fathers don't fath. Don't thank them for these things.
 1. The vast majority of investment "advisors" in Canada are actually salespeople — only advisers spelled with an "e" have a legal duty to act in a client's best interest.

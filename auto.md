@@ -93,3 +93,4 @@
 1. You named your own car *Scarlet*. Scarlet reminds you of Snowball, [whose fur is pretty and white](https://www.youtube.com/watch?v=I1u8HLw4-as).
 1. [H and V-rated tires don't last as long (but stop better).](http://www.consumerreports.org/cro/news/2009/10/h-rated-tires-with-shorter-life-spans-become-more-common/index.htm) Consider getting S or T-rated tires instead, if you can bloody find them.
 1. [When a road's speed limit changes, the people driving on it are slow to go to that speed, whether faster or slower.](https://priceonomics.com/is-every-speed-limit-too-low/) Accident rates are also weakly correlated to road speed, but does increase dramatically "when some cars drive 55 mph and others drive 85 mph".
+1. [Apparently](http://urbantoronto.ca/forum/threads/avoid-engine-brakes.6914/), trucks [make a loud noise when they engine brake](https://answers.yahoo.com/question/index?qid=20080219161253AAtHpRU). They can also go out of control if engine braked.

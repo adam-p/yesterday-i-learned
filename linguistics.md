@@ -90,6 +90,7 @@
 1. >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.
 1. Wikipedia claims that *Django* was a Romani nickname, meaning "I awake".
 1. Catholicism is pronounced ka-THO-lic-si-sum.
+1. Both Chinese and Greek words for kangaroo come to Bag rat, from unrelated roots.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

@@ -1,5 +1,7 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. The general difference between [a product manager and project manager](https://blog.aha.io/the-product-manager-vs-project-manager/) seems to be that the product manager is one more layer up, being cross-functional in more things.
+1. Kotlin is Java with some good things mixed in, so that it is not all bad.
 1. [Database normalisation](https://en.wikipedia.org/wiki/Database_normalization) refers to making tables and columns that make sense (to reduce redundancy). It comes in many normal forms; [here is the first normal form.](https://en.wikipedia.org/wiki/First_normal_form)
 1. "Discombobulate" is a verb that means exactly what it does, namely, to confuse.
 1. Bonds have had an incredible bull run over the last 20 years due to falling interest rates. Very unlikely that continues.

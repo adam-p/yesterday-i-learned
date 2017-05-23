@@ -1,3 +1,6 @@
+1. [A difference in blood pressure between arms can mean (cardiovascular) trouble](http://www.acsh.org/news/2017/01/01/difference-blood-pressure-between-arms-can-mean-trouble-10666). So be sure to measure both arms.
+1. Females Sunfish can produce up to 300,000,000 eggs at a time.
+1. If you hit your head, [then hit your head again when the brain is still swollen](https://en.wikipedia.org/wiki/Second-impact_syndrome), the problem gets way worse.
 1. [Surface veins can be flushed away with saline solution](https://www.reddit.com/r/BetterEveryLoop/comments/6bje27/-/dhn9444) ("Sclerotherapy"), which is good for you, but doctors say don't try this at home.
 1. [Lyme disease](https://en.wikipedia.org/wiki/Lyme_disease) is not just the ticks, but also the bacteria carried by the ticks. [Treatment can take six months.](https://www.cdc.gov/lyme/postlds/)
 1. According to an unknown source on that online encyclopedia, "A few giant pill millipede species are able to produce sound, the only millipedes known to do this".

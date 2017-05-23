@@ -1,5 +1,11 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. The [throwback weekdays](https://trends.google.com/trends/explore?q=%22throwback%20monday%22,%22throwback%20sunday%22,%22throwback%20wednesday%22,%22throwback%20friday%22,%22throwback%20saturday%22) rank as such: Thursday, Tuesday, Friday, Saturday, Monday, Sunday, Wednesday.
+1. ["Extravert"](http://www.phonearena.com/phones/LG-Extravert-2_id8589/photos) means "more green".
+1. In Japan, [you can only buy fresh cartridges by returning the spent cartridges you bought on your last visit to the gun shop.](http://www.bbc.com/news/magazine-38365729)
+1. The [Saturn V](https://en.wikipedia.org/wiki/Saturn_V) remains the tallest, heaviest, and most powerful rocket ever (used). 15 were made, but 13 flew. None lost crew or payload. It burned ["22 tons of fuel a second"; "one minute into the launch, the Saturn V was already supersonic."](https://www.youtube.com/watch?v=y-cv_JJOxGI)
+1. For whatever reason, [lamb is even more environmentally damaging than beef to produce](http://www.wri.org/blog/2016/04/sustainable-diets-what-you-need-know-12-charts). which is awful.
+1. Gallowboob is a man named [Robert Allam](https://www.facebook.com/robert.allam). He [claims](https://www.linkedin.com/in/robert-allam-769350b7/) to live in Manchester.
 1. The general difference between [a product manager and project manager](https://blog.aha.io/the-product-manager-vs-project-manager/) seems to be that the product manager is one more layer up, being cross-functional in more things.
 1. Kotlin is Java with some good things mixed in, so that it is not all bad.
 1. [Database normalisation](https://en.wikipedia.org/wiki/Database_normalization) refers to making tables and columns that make sense (to reduce redundancy). It comes in many normal forms; [here is the first normal form.](https://en.wikipedia.org/wiki/First_normal_form)

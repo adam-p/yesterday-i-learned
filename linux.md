@@ -222,6 +222,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Adding something like `ALL: 63.143.42.245` to your `/etc/hosts.deny` prevents that IP from connecting to your server. (In this case, 63.143.42.245 is an actual offender.)
 1. If `rsync` is given [`--ignore-missing-args`](http://stackoverflow.com/a/27637277/1558430), whenever it cannot find the source, it just skips it.
 1. In other news, Arch Linux dropped i686 support in 2017-02 because [32-bit is just so unpopular](https://www.archlinux.org/news/phasing-out-i686-support/).
+1. [`set -e` is not safe mode](https://blogs.janestreet.com/when-bash-scripts-bite/). Just because you say `set -e` in your script, it doesn't mean the "subscripts" will also fail explicitly.
 
 ## Tmux
 

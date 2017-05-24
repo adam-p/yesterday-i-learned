@@ -1,5 +1,15 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Eggs can increase cardiovascular risk, not largely because of the cholesterol content, but largely because eggs contain a lot of lecithin, which is converted to ["TMAO"](https://en.wikipedia.org/wiki/Trimethylamine_N-oxide) by gut bacteria, which, in turn, alters cholesterol metabolism, increasing cholesterol deposition along blood vessel walls. Counter this with vegetarian food, which changes the gut flora composition slightly.
+1. [62.1 Tg of chicken eggs was produced in 2009.](https://en.wikipedia.org/wiki/Egg_as_food)
+1. /r/popular [is](https://www.reddit.com/r/NoStupidQuestions/comments/5ud2pe/difference_between_rpopular_and_rall/) a cleaned up version (or censored, if you want to think of it that way) of /r/all.
+1. WOSIB stands for "Women Opposing Shitting In Bags", the same people in Women Aginst [Colectomies](https://en.wikipedia.org/wiki/Colectomy) and Proctocolectomies (WACAP).
+1. Through a cheap USB-C cable (say between a laptop and a phone), it is not that the phone will blow up because it asks for too much power; [it is that the laptop will burn out because it could not supply the requested power.](https://www.theverge.com/2016/2/4/10916264/usb-c-russian-roulette-power-cords) At least for that guy on The Verge.
+1. [Experts](https://www.slideshare.net/inapurba/quality-assurance-vs-quality-control-62273982) (i.e. people on the Internet) argue that QC is fulfilling quality requirements, whereas QA devises processes to ensure high quality. In short, QA are the managers, QC are the monkeys.
+1. [Early electric cars](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle) were limited to 32km/h because, apparently, they didn't have transistors. Suspect this has to do with holding charge.
+1. Gerrit shares the same "Working ..." popover as Gmail. Odd, really, because Gerrit is made with GWT, but Gmail isn't. Gerrit is a fork of [Rietveld](https://en.wikipedia.org/wiki/Rietveld_%28software%29), named after [Gerrit Rietveld the Dutch architect](https://en.wikipedia.org/wiki/Gerrit_Rietveld), which was in turn written by [Guido](https://en.wikipedia.org/wiki/Guido_van_Rossum), to manage his subversion repositories.
+1. [Five whys](http://www.startuplessonslearned.com/2008/11/five-whys.html), a systematic way to find the root cause of a problem, can potentially blame the wrong thing. For example, if you incorrectly assert that "the code was written  because Bob did it", rather than "the code was written because management wants it", the chain of explanations can be entirely different.
+1. There are 3720 instances of [people believing in tooth fairies](https://www.google.ca/search?q="i+believe+in+tooth+fairies").
 1. The [throwback weekdays](https://trends.google.com/trends/explore?q=%22throwback%20monday%22,%22throwback%20sunday%22,%22throwback%20wednesday%22,%22throwback%20friday%22,%22throwback%20saturday%22) rank as such: Thursday, Tuesday, Friday, Saturday, Monday, Sunday, Wednesday.
 1. ["Extravert"](http://www.phonearena.com/phones/LG-Extravert-2_id8589/photos) means "more green".
 1. In Japan, [you can only buy fresh cartridges by returning the spent cartridges you bought on your last visit to the gun shop.](http://www.bbc.com/news/magazine-38365729)
@@ -742,7 +752,7 @@
 1. To take a screenshot in Firefox, type Shift+F2, then `screenshot --fullpage filename.png`
 1. "Anne Frank was very curious about her lady region and discussed masturbation and menstruation quite a bit in her original writings. The version of her diary thats published and read in schools today is highly edited, leaving out about 99% of her self exploration submissions." [source][reddit 36]
 1. [Confessional booths][uca] were built by the church not to give the person some privacy, but to prevent the priests from having sex with young women who came to confession.
-1. As of Android L, the shell now comes with [htop](http://en.wikipedia.org/wiki/Htop) (or its busybox).
+1. As of ~~Android L~~CyanogenMod 12, the shell now comes with [htop](http://en.wikipedia.org/wiki/Htop) (or its busybox).
 1. "Compound" is more abrasive than "polish", which is more abrasive than wax. Always wax after doing either one.
 1. [Pescetarians][wikipedia 93] eat... no meat, except for fish and seafood, which are obviously not meat (because fish don't have feelings).
 1. For steaming eggs, [a good ratio of water to eggs would be 1.5:1][wikipedia 94]

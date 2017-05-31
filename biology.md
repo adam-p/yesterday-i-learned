@@ -1,3 +1,6 @@
+1. Oranges might have originated from Australia.
+1. [Key lime](https://en.wikipedia.org/wiki/Key_lime) is its own fruit, like a lime but not really.
+1. According to sources, the clearer (and less sticky) the vaginal discharge, the more fertile the [person](https://www.youtube.com/watch?v=sFBOQzSk14c) is.
 1. [A difference in blood pressure between arms can mean (cardiovascular) trouble](http://www.acsh.org/news/2017/01/01/difference-blood-pressure-between-arms-can-mean-trouble-10666). So be sure to measure both arms.
 1. Females Sunfish can produce up to 300,000,000 eggs at a time.
 1. If you hit your head, [then hit your head again when the brain is still swollen](https://en.wikipedia.org/wiki/Second-impact_syndrome), the problem gets way worse.

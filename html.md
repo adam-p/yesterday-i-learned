@@ -34,6 +34,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 * In `<head>`, when you expect a script to have access to nothing: [`document.head` is actually available.](https://eager.io/blog/everything-I-know-about-the-script-tag/)
 * "Use of the Application Cache is deprecated on insecure origins", which is great. [AppCache sucks blue balls](http://alistapart.com/article/application-cache-is-a-douchebag), anyway.
 * [An empty href](http://stackoverflow.com/questions/5637969/is-an-empty-href-valid) points to the same document.
+* ["Properties"](https://stackoverflow.com/a/6004028/1558430) are likely something where `prop in node` is true. "Attributes" are likely what you write directly in HTML. So if an `input` element has `value="foo"`, but user types in `bar`, then that element has attribute `foo`, but value `bar`.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

@@ -1,7 +1,18 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. ["Rendering"](https://en.wikipedia.org/wiki/Rendering_%28animal_products%29) can also mean the separation of animal fat from other tissues.
+1. [John Nolte is a divwad.](http://www.dailywire.com/news/12572/proof-cnn-knows-climate-change-big-fat-hoax-john-nolte#)
+1. OnePlus and Vivo were owned by Oppo. Oppo is owned by [BBK](https://en.m.wikipedia.org/wiki/BBK_Electronics). Then BBK buys OnePlus from Oppo. It's conglomerates all the way up.
+1. [Mites can grow in eyes?](http://www.wikihow.com/Know-if-You-Have-Eye-Mites?amp=1)
+1. ["More than 167,000 young people age 17 and under married in 38 states between 2000 and 2010, according to a search of available marriage license data by a group called Unchained at Last, which aims to ban child marriage."](https://mobile.nytimes.com/2017/05/26/opinion/sunday/it-was-forced-on-me-child-marriage-in-the-us.html?_r=0&referer=https://news.ycombinator.com/)
+1. At the height of fidget spinner madness, ["fidget spinner porn" got to top 10](http://www.menshealth.com/sex-women/fidget-spinner-porn-pornhub) among pornhub searches.
+1. To have deaths on your hands is the same as to have blood on your hands, i.e. to be responsible for the deaths.
+1. Samsung reports preventing OLED burn-in by ["avoid keeping a static picture on ... for more than two hours at a time"](http://www.samsung.com/ca/support/skp/faq/441670).
+1. [Why would you pay for a phone made by Google? "You paid for a phone so Google can sell you to advertisers."](https://www.forbes.com/sites/ianmorris/2017/02/10/how-google-blew-it-with-the-pixel-and-pixel-xl/#3a1ca730f3f6) This is not the case for Apple.
+1. E162 [Betanin](https://en.wikipedia.org/wiki/Betanin) aka Beetroot red is the name of the red food dye. Betanin degrades when subjected to light, heat, and oxygen.
+1. Midlife is when you are between the age of 40 and 55. Midwife is when you deal with someone else's pregnancy.
 1. Eggs can increase cardiovascular risk, not largely because of the cholesterol content, but largely because eggs contain a lot of lecithin, which is converted to ["TMAO"](https://en.wikipedia.org/wiki/Trimethylamine_N-oxide) by gut bacteria, which, in turn, alters cholesterol metabolism, increasing cholesterol deposition along blood vessel walls. Counter this with vegetarian food, which changes the gut flora composition slightly.
-1. [62.1 Tg of chicken eggs was produced in 2009.](https://en.wikipedia.org/wiki/Egg_as_food)
+1. [62.1 Tg of chicken eggs was produced in 2009.](https://en.wikipedia.org/wiki/Egg_as_food) That is 2.32 million tonnes of cholesterol.
 1. /r/popular [is](https://www.reddit.com/r/NoStupidQuestions/comments/5ud2pe/difference_between_rpopular_and_rall/) a cleaned up version (or censored, if you want to think of it that way) of /r/all.
 1. WOSIB stands for "Women Opposing Shitting In Bags", the same people in Women Aginst [Colectomies](https://en.wikipedia.org/wiki/Colectomy) and Proctocolectomies (WACAP).
 1. Through a cheap USB-C cable (say between a laptop and a phone), it is not that the phone will blow up because it asks for too much power; [it is that the laptop will burn out because it could not supply the requested power.](https://www.theverge.com/2016/2/4/10916264/usb-c-russian-roulette-power-cords) At least for that guy on The Verge.
@@ -516,7 +527,7 @@
 1. To flash a tab, [change its title][stackoverflow 9].
 1. [Gremlin][bulbflow] is "SQL for graph databases", not a tool.
 1. The creator of the sugar stick (as opposed to the sugar packet) decided that the right way to open them is [through the middle][izismile].
-1. The [zipper merge][dot] reduces queuing traffic by knowing merging should be done at the last minute.
+1. The [zipper merge][dot] reduces queuing traffic by knowing merging should be done at the last minute. But apparently the zipper merge doesn't work because, and I quote, "only takes one dick to stop a zipper."
 1. Not feeling well, but don't want to use the phrase "not feeling well"? Use [Malaise!][wikipedia 25] (ma-LAYS)
 1. Apply garlic to oil, before you apply vegetables to oil.
 1. At the onset of high stress, your blood thickens. This is to encourage clotting of blood in the case of a physical attack. This is often why stress contributes to heart attacks.

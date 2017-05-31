@@ -2,6 +2,7 @@
 
 * `TRUNCATE some table` differs from `DELETE * FROM some table` in that the `TRUNCATE` statement does not leave behind transaction logs, and thus cannot be rolled back. (Here's a trivia you will never use again)
 * SQL is more than 40 years old and is still used today, not because it's great, but because [it just works, 90% of the time](http://blog.sqlizer.io/posts/sql-43/), makes [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) and SQL solved problems in computing.
+* You don't need to select any database to `SELECT 1;`. This is a poor man's way of checking if the database connection is working.
 
 # MySQL
 

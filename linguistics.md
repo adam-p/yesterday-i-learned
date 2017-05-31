@@ -1,3 +1,6 @@
+1. If you include some Scottish place names, [every letter in English can be silent in one word](https://en.wikipedia.org/wiki/Silent_English_alphabet).
+1. "Milk toast" is actually *milquetoast*, a timid person.
+1. 'Till' is older than 'Until', [as it turns out](https://www.merriam-webster.com/words-at-play/should-you-use-until-or-till-or-til).
 1. Canary is pronounced kun-NAIR-ree.
 1. "LL" is pronounced "Y" in Spanish.
 1. Orion is pronounced oh-RYE-un.

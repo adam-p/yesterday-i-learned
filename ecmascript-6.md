@@ -194,6 +194,7 @@ Importing the two named exports under the same names
 * You can also `import * from 'a library'`.
 * You [cannot](http://stackoverflow.com/questions/30340005/importing-modules-using-es6-syntax-and-dynamic-path) import dynamic paths. (In python, you `__import__(dynamic)`.)
 * `require('a library')` is slower than imports, as the latter can be optimised statically.
+* `import` is [not](http://adrianmejia.com/blog/2016/08/12/Getting-started-with-Node-js-modules-require-exports-imports-npm-and-beyond/#Imports) available in node 6.
 * [Arrow functions can be multiline](http://ilikekillnerds.com/2015/01/a-guide-to-es6-arrow-functions/), but they also make the `return` statement compulsary.
 
 ```

@@ -1,3 +1,4 @@
+* [The article about NodeJS 8 release](https://nodejs.org/en/blog/release/v8.0.0/), saying *'Note that, when referring to Node.js release versions, we have dropped the "v" in Node.js 8. Previous versions were commonly referred to as v0.10, v0.12, v4, v6, etc. In order to avoid confusion with V8, the underlying JavaScript engine, we've dropped the "v" and call it Node.js 8'*, was titled *'Node v8.0.0 (Current)'*.
 * `window.location.reload()` accepts either `true` or `false` for hard reload.
 * `window.location.reload()` does not accept arguments across all browsers.
 * You can't send code to the server by POST and have the browser run the same code. (Refused to execute a JavaScript script. Source code of script found within request.)

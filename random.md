@@ -1,5 +1,8 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. When [Yoshito Usui](https://en.wikipedia.org/wiki/Yoshito_Usui) (the [蠟筆小新](https://en.wikipedia.org/wiki/Crayon_Shin-chan) guy) fell off a cliff and died, the Chinese media incorrectly reported his death with the picture of [this bloke](http://www.magazine9.jp/interv/kuroda/images/photo.jpg) (黒田征太郎). More than 100 million copies of the Crayon Shin-chan manga have been sold worldwide.
+1. [Noyes](https://en.wikipedia.org/wiki/Noyes) is a real name, say the Internets.
+1. As of [the article](http://www.anandtech.com/show/9394/analysing-amoled-power-efficiency)'s time of writing, AMOLED can beat IPS in efficiency (with a sample size of 2) if the screen contents are less than 60% white.
 1. ["Rendering"](https://en.wikipedia.org/wiki/Rendering_%28animal_products%29) can also mean the separation of animal fat from other tissues.
 1. [John Nolte is a divwad.](http://www.dailywire.com/news/12572/proof-cnn-knows-climate-change-big-fat-hoax-john-nolte#)
 1. OnePlus and Vivo were owned by Oppo. Oppo is owned by [BBK](https://en.m.wikipedia.org/wiki/BBK_Electronics). Then BBK buys OnePlus from Oppo. It's conglomerates all the way up.

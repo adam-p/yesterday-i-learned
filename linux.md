@@ -223,6 +223,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. If `rsync` is given [`--ignore-missing-args`](http://stackoverflow.com/a/27637277/1558430), whenever it cannot find the source, it just skips it.
 1. In other news, Arch Linux dropped i686 support in 2017-02 because [32-bit is just so unpopular](https://www.archlinux.org/news/phasing-out-i686-support/).
 1. [`set -e` is not safe mode](https://blogs.janestreet.com/when-bash-scripts-bite/). Just because you say `set -e` in your script, it doesn't mean the "subscripts" will also fail explicitly.
+1. ext2 was [a lot crappier than other solutions at the time](http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html), [say Ted](http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html). ext2 always fails a power outage. What makes it better ("worse is better"), was that e2fsck is so well-tested that file recovery is almost always automatic, whereas other filesystems are well-designed, do not run on good hardware, and then tend to fail in irrecoverable ways.
 
 ## Tmux
 

@@ -1,5 +1,11 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. 豊田 is Toyoda with a D, but they changed to [トヨタ](https://en.wikipedia.org/wiki/History_of_Toyota) (Toyota) anyway, because トヨタ has 8 strokes in it, and apparently that's good luck.
+1. DON’T PUT GROUND WASP NEST ON YOUR VAGINA TO TIGHTEN MUSCLES, WARNS GYNAECOLOGIST: [“Here's a pro-tip, if something burns when you apply it to the vagina it is generally bad for the vagina” - Dr Gunter](http://www.independent.co.uk/life-style/ground-wasp-nest-vagina-tighten-warn-gynaecologist-painful-sex-bacteria-hiv-a7766376.html)
+1. [Fishwives](https://en.wikipedia.org/wiki/Fishwife), also known as fish fags, are women who sell, rather than marry, fish.
+1. "Back in the 80ies and early 90ies disks were already shipped with bad sectors from the factory and had the bad sectors lists on their drive label. You would have to enter them when low-level formatting a drive." - /u/cbmuser
+1. When going to Hawaii, worry about getting hit in the head by a coconut, rather than getting bitten by a shark.
+1. Singapore has a latitude of ~1.28.
 1. When [Yoshito Usui](https://en.wikipedia.org/wiki/Yoshito_Usui) (the [蠟筆小新](https://en.wikipedia.org/wiki/Crayon_Shin-chan) guy) fell off a cliff and died, the Chinese media incorrectly reported his death with the picture of [this bloke](http://www.magazine9.jp/interv/kuroda/images/photo.jpg) (黒田征太郎). More than 100 million copies of the Crayon Shin-chan manga have been sold worldwide.
 1. [Noyes](https://en.wikipedia.org/wiki/Noyes) is a real name, say the Internets.
 1. As of [the article](http://www.anandtech.com/show/9394/analysing-amoled-power-efficiency)'s time of writing, AMOLED can beat IPS in efficiency (with a sample size of 2) if the screen contents are less than 60% white.

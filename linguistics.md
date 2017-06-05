@@ -1,3 +1,4 @@
+1. [Bean](https://blogs.transparent.com/irish/bean-or-ban-or-mna-or-mban-how-to-say-woman-women-in-irish-just-in-time-for-nollaig-na-mban-on-6-january/) might mean "woman" in Irish.
 1. If you include some Scottish place names, [every letter in English can be silent in one word](https://en.wikipedia.org/wiki/Silent_English_alphabet).
 1. "Milk toast" is actually *milquetoast*, a timid person.
 1. 'Till' is older than 'Until', [as it turns out](https://www.merriam-webster.com/words-at-play/should-you-use-until-or-till-or-til).
@@ -94,6 +95,8 @@
 1. Wikipedia claims that *Django* was a Romani nickname, meaning "I awake".
 1. Catholicism is pronounced ka-THO-lic-si-sum.
 1. Both Chinese and Greek words for kangaroo come to Bag rat, from unrelated roots.
+1. ["Gung ho"](https://en.wikipedia.org/wiki/Gung-ho) is apparently English people's attempt at saying 工合, which is pronounced either Gong he or Gung hap. 工合 is supposed to mean "work" "together", but you can't just glue two words together and make it a sentence.
+1. "Ho hum" is entirely related to gung ho. Ho hum is an imitation of a yawn from the 1920s.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

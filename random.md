@@ -1,5 +1,15 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [*Any time you use the new keyword, you are (...) permanently (...) hard-coding your application to work with a particular class’s implementation. That’s huge.*](http://ardalis.com/new-is-glue) *Use (new) when you don’t expect you’ll need flexibility in the future.*
+1. [What you know doesn't matter to a company; what you can do for the company, does.](https://news.ycombinator.com/item?id=14271819)
+1. "Your emotions are a good guide for the fears of others. Your analysis, whether technical, fundamental, etc. is a good guide on where to place your greed. When the two don't match, that's where you profit." - /u/EHC11375
+1. [A, 2, and D](https://www.youtube.com/watch?v=gVGbDEAnDyo&app=desktop) was a numbering system used by Buzz in Home Alone.
+1. A [line producer](http://www.media-match.com/usa/media/jobtypes/line-producer-jobs-402734.php) is someone who manages the budget of a production.
+1. WTFPL is dead. Use Do What The Fuck You Want To But It's Not My Fault Public License v1 instead.
+1. If tuna is to be the primary ingredient in a can of tuna, then at least 51% of it must be tuna, the other being water. But if you have [tuna, water, *and* broth](http://cockeyed.com/inside/tunafish/tunafish.html), then only 34% needs to be tuna. Screw you Walmart.
+1. "Smoke" is sometimes pronounced "go outside".
+1. The only answer to [the "shabooya roll call" nonsense](https://www.reddit.com/r/videos/comments/6evkks/workplace_of_my_nightmares/) is [My name is Kevin, that is my name. They call me Kevin, cuz that's my name](https://www.youtube.com/watch?v=kAdVAbOtVK4).
+1. To find the core value of housing in a market while in a bubble, just take the prices before the bubble, extrapolate using the inflation rate, and you'll know.
 1. 豊田 is Toyoda with a D, but they changed to [トヨタ](https://en.wikipedia.org/wiki/History_of_Toyota) (Toyota) anyway, because トヨタ has 8 strokes in it, and apparently that's good luck.
 1. DON’T PUT GROUND WASP NEST ON YOUR VAGINA TO TIGHTEN MUSCLES, WARNS GYNAECOLOGIST: [“Here's a pro-tip, if something burns when you apply it to the vagina it is generally bad for the vagina” - Dr Gunter](http://www.independent.co.uk/life-style/ground-wasp-nest-vagina-tighten-warn-gynaecologist-painful-sex-bacteria-hiv-a7766376.html)
 1. [Fishwives](https://en.wikipedia.org/wiki/Fishwife), also known as fish fags, are women who sell, rather than marry, fish.

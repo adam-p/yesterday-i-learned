@@ -1,3 +1,7 @@
+1. The [gypsy moth](https://en.wikipedia.org/wiki/Lymantria_dispar_dispar) is one of the most destructive pests of hardwood trees in the eastern United States.
+1. Epidemiologists use x in 10,000 as a standard scale. Saying "1:1000 vs 1:1400" is confusing.
+1. [King Oyster Mushroom](https://en.wikipedia.org/wiki/Pleurotus_eryngii) is a meatier relative to [Oyster mushroom](https://en.wikipedia.org/wiki/Pleurotus_ostreatus). They are different species.
+1. Ketogenic diets can sometimes cause [rashes](https://www.dietdoctor.com/keto-rash-people-itch-low-carb), skin irritation by acetone in sweat.
 1. Oranges might have originated from Australia.
 1. [Key lime](https://en.wikipedia.org/wiki/Key_lime) is its own fruit, like a lime but not really.
 1. According to sources, the clearer (and less sticky) the vaginal discharge, the more fertile the [person](https://www.youtube.com/watch?v=sFBOQzSk14c) is.

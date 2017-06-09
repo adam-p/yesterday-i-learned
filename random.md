@@ -1,5 +1,9 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [`∀x ∃!y ∋ f(x)=y`](https://news.realm.io/news/altconf-daniel-steinberg-what-the-functor-monad/) = "(For every) x  (There exists a unique) y (such that) f(x) equals y". More useful symbols [here](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm).
+1. Louis XIV (or was it XIII?) was rumoured to have taken only three baths in his life.
+1. [Gunpowder tea](https://en.wikipedia.org/wiki/Gunpowder_tea) is a form of Chinese tea in which each leaf has been rolled into a small round pellet. The shinier, the fresher. "Rolling renders the leaves less susceptible to physical damage and breakage and allows them to retain more of their flavor and aroma."
+1. Magikarp can learn [tackle at level 15](https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)/Generation_I_learnset#By_leveling_up), and [flail at level 30](https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)/Generation_III_learnset#By_leveling_up). It is not entirely useless.
 1. [*Any time you use the new keyword, you are (...) permanently (...) hard-coding your application to work with a particular class’s implementation. That’s huge.*](http://ardalis.com/new-is-glue) *Use (new) when you don’t expect you’ll need flexibility in the future.*
 1. [What you know doesn't matter to a company; what you can do for the company, does.](https://news.ycombinator.com/item?id=14271819)
 1. "Your emotions are a good guide for the fears of others. Your analysis, whether technical, fundamental, etc. is a good guide on where to place your greed. When the two don't match, that's where you profit." - /u/EHC11375

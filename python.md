@@ -360,6 +360,7 @@ bar
 1. A statement is a complete line of code that performs some action, while an expression is any section of the code that evaluates to a value. [Expressions can be combined “horizontally” into larger expressions using operators, while statements can only be combined “vertically” by writing one after another, or with block constructs.](https://www.quora.com/Whats-the-difference-between-a-statement-and-an-expression-in-Python)
 1. [`sets.Set`](http://stackoverflow.com/a/32108276/1558430) is deprecated (removed in 3, even); `set` is not.
 1. `json.dumps(float('inf'))` should fail because `Infinity` is not valid JSON. Yet, using `simplejson`, it succeeds. So if your python code generates any JSON that contains an `Infinity` in it, your JS will get rekt.
+1. Too many items in your celery 3 queue? [`celery worker -Q queuename --purge`](https://stackoverflow.com/a/33531638/1558430)
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

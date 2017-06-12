@@ -1,3 +1,4 @@
+1. [Aloe vera](https://en.wikipedia.org/wiki/Aloe_vera) extracts can be used to dilute sheep semen for artificial fertilization. Eating it, however, may cause stomach cramps.
 1. The [gypsy moth](https://en.wikipedia.org/wiki/Lymantria_dispar_dispar) is one of the most destructive pests of hardwood trees in the eastern United States.
 1. Epidemiologists use x in 10,000 as a standard scale. Saying "1:1000 vs 1:1400" is confusing.
 1. [King Oyster Mushroom](https://en.wikipedia.org/wiki/Pleurotus_eryngii) is a meatier relative to [Oyster mushroom](https://en.wikipedia.org/wiki/Pleurotus_ostreatus). They are different species.
@@ -62,7 +63,7 @@
 1. [Hippos are red due to an insect repelling sunscreen they secrete from their skin](http://www.reddit.com/r/todayilearned/comments/57if43/_/)
 1. The [red cornetfish](http://i.imgur.com/WTWQjjZ.jpg) can reach 2m in length.
 1. Prawns have [three pairs of claws](http://i.stack.imgur.com/GyirW.jpg). Shrimp have two pairs.
-1. Hair greying is caused by hydrogen peroxide build-up in the follicles. Reduction in methionine intake is linked to this buildup.
+1. [Hair greying](https://www.newscientist.com/article/mg20227135-000-grey-hair-may-be-protecting-us-from-cancer/) is caused by hydrogen peroxide build-up in the follicles. Reduction in methionine intake is linked to this buildup.
 1. Rabies patients are to fear water so they swallow less spit and bite more, for the purpose of transmission.
 1. [Beetle shells are wings.](https://www.quora.com/Why-do-some-insects-have-2-pairs-of-wings-and-some-have-only-one-pair-What-are-the-pros-and-cons-of-having-2-pairs-versus-1-pair) *Coleoptera* (sheath wings) have the first pair of wings, now a shell, covering the second.
 1. [Arm span DOES NOT necessarily equal height](http://www.science-sparks.com/2013/05/21/is-your-arm-span-equal-to-your-height/)

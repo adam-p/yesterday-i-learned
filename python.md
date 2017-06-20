@@ -361,6 +361,7 @@ bar
 1. [`sets.Set`](http://stackoverflow.com/a/32108276/1558430) is deprecated (removed in 3, even); `set` is not.
 1. `json.dumps(float('inf'))` should fail because `Infinity` is not valid JSON. Yet, using `simplejson`, it succeeds. So if your python code generates any JSON that contains an `Infinity` in it, your JS will get rekt.
 1. Too many items in your celery 3 queue? [`celery worker -Q queuename --purge`](https://stackoverflow.com/a/33531638/1558430)
+1. [Avoiding attribute access in loops](https://wiki.python.org/moin/PythonSpeed/PerformanceTips#Loops) can have a measurable improvement in loop speed, and not only when the attributes are magic.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

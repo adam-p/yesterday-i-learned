@@ -1,5 +1,42 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Back in other people's days, they made "shaving cream" by rubbing the shaving brush on a piece of soap. None of you cheese-eating soft soiled shaving cream in can business.
+1. [Train tracks just happen to be around the same width as Roman roads, not a cause.](http://www.snopes.com/history/american/gauge.asp)
+1. [Gauntlet tracks](https://en.wikipedia.org/wiki/Gauntlet_track#Canada) are used when bigger trains need to go through the same place as smaller trains (like light rail), but there is no space for two parallel tracks, so they overlap the tracks and allow only one train in at a time.
+1. [Hawaii has the highest homelessness rate in the states.](https://vid.me/6YZ5) The high cost of living makes it very easy to go bankrupt there, with nowhere to go.
+1. Any form of accident is technically lethal, eventually. (Tripping, cracking the hip but no big deal, but years later you get an infection at the site...)
+1. The Safari responsive design mode straight out [denies other ecosystems exist](http://imgur.com/TYfG7DN).
+1. [Hudson's Bay Company is a real estate company](http://business.financialpost.com/news/retail-marketing/u-s-activist-investor-urges-hudsons-bay-co-to-go-private), says activists.
+1. [If you go to a walk-in clinic, your family doctor gets paid less.](http://www.ctvnews.ca/health/why-your-walk-in-clinic-visits-could-mean-trouble-for-your-family-doctor-and-you-1.2775362)
+1. When marijuana is legalised, the government is obligated to keep prices low, to undercut the black market. After the black market is gone, they can freely increase prices for taxation.
+1. [In the early days of colonoscopies, attempts to burn off polyps in the colon ignited explosive hydrogen gas in the colon of several unlucky people, sometimes with tragic results. The colon-cleansing preparations people now take the night before a colonoscopy have solved the problem.](http://www.ctvnews.ca/mobile/flatulence-expert-defines-normal-output-rate-1.269197)
+1. Raising interest rates make stocks drop because higher rates hurt companies' bottom line.
+1. Tree removals are very expensive. So is dirt. "Dirt cheap" isn't a thing.
+1. Donkey Kong has nothing to do with donkeys.
+1. Nautical miles were defined as one minute of latitude.
+1. Dale Carnegie said, “Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.”
+1. "À la carte" are menu items they are sold separately, rather than as part of a combo.
+1. There are [*a lot*](http://www.npr.org/sections/krulwich/2011/06/01/128389587/look-up-the-billion-bug-highway-you-cant-see) of bugs in the sky. Like billions in a square kilometre of sky.
+1. [Texas was its own country in the 1800s.](https://en.m.wikipedia.org/wiki/Republic_of_Texas)
+1. [Hard phone cases are worse than soft cases in transferring the energy anywhere.](http://androidandme.com/2014/08/opinions/what-you-need-to-know-about-phone-cases-and-drop-protection-warning-science-content/)
+1. The [far side of the moon](https://en.wikipedia.org/wiki/Far_side_of_the_Moon) actually isn't always dark. It experiences two weeks of sunlight followed by two weeks of night.
+1. [Someone](https://www.reddit.com/r/explainlikeimfive/comments/6hmt3d/eli5_how_casinos_can_refuse_to_pay_a_jackpot/dizl5bn/) claims that slot machine winnings are decided by law. Slot machines mean that you always lose at a predetermined rate. If you win, go away.
+1. Start a meaningful conversation with strongly opinionated topics and open-ended questions, like music and movies.
+1. [Ultrasonic welding](http://s.hswstatic.com/gif/ultrasonic-welding-2.gif) uses ultrasound to heat up and weld two adjacent pieces of metal together. [Microsoft pulled that dick move once.](https://www.ifixit.com/Teardown/Microsoft+Surface+Laptop+Teardown/92915)
+1. Duck eggs are richer because the yolks are massive. Naturally, then, if you scramble one, it will turn out more yellow than scrambled chicken eggs.
+1. General Tso in General Tso's chicken was supposed to be [Zuo Zongtang](https://en.wikipedia.org/wiki/Zuo_Zongtang) (左宗棠).
+1. ["I have a great idea" "What?" "A motorcycle that goes slower than a bicycle, and that won't work unless you charge it every time" "This will sell" "Hang on, we should also remove one wheel so you faceplant every time" "Hold my beer"](https://www.youtube.com/watch?v=VdmJMLNuECQ)
+1. [Any age over 18](https://www.organdonor.gov/about/donors/seniors.html) can be donors.
+1. [Empire Company](https://en.wikipedia.org/wiki/Empire_Company) (EMP.A) owns Sobeys.
+1. "A [provisioning profile](https://pewpewthespells.com/blog/migrating_code_signing.html#introduction-to-code-signing) is a plist file that is cryptographically signed by Apple's CA to ensure it cannot be modified after being created. This allows Apple to have complete control over the deployment mechanism that is used on iOS."
+1. When attempting to change a project's configuration, Gerrit will save a draft of the config for you.
+1. [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr)'s real name is Richard Starkey.
+1. [WKWebView](http://blog.initlabs.com/post/100113463211/wkwebview-vs-uiwebview) uses less CPU for WebGL-related tasks on iOS.
+1. [Honey nut cheerios don't contain almond anymore](https://consumerist.com/2014/06/09/heres-why-honey-nut-cheerios-dont-contain-nuts/). The flavour is now from peaches[' pits], which are a relative of almonds.
+1. When a helicopter or quadcopter descends vertically, (according to /u/eaterofdog) the vehicle may lose lift to the phenomenon called "prop wash". However, when researched online, prop wash seems to generate a leftward torque, rather than a downward force.
+1. Realtors don't do the lawyer stuff; lawyers do the lawyer stuff. You can (if you want) buy and sell houses without a realtor. "The real work in a real estate transaction is done by the lawyers... title searches, transfer of funds, lien registrations, signing of documents, and more... Real estate agents show the house, and very little more. They write the offer, but anyone can do that, the forms are pre-printed."
+1. Samsung is not an Android manufacturer for Google; [Samsung is a conglomerate that wants to take Android off Google](https://www.youtube.com/watch?v=2_L9j6mDJBg). No other series of devices have both Samsung and Google Apps suites.
+1. [Bruce Wayne talked to Batman once.](https://www.youtube.com/watch?v=tgCkmUS1IYI)
 1. "Having read the Dynamo paper, and knowing Cassandra to be a close derivative, I understood that these distributed databases prioritize write availability (Amazon wanted the “add to cart” action to never fail)."
 1. [Socialites have their own tier on Tinder.](https://www.theverge.com/2017/3/7/14848286/tinder-select-exclusive-dating-app)
 1. It is [much easier](https://www.youtube.com/watch?v=KP7IBUWdeZg) to go all the way around the swing set if the chains were replaced by tubes.

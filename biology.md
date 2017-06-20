@@ -1,3 +1,6 @@
+1. [Internally](http://i.imgur.com/8bfl4FA.jpg), elephant legs look like they are on high heels.
+1. Adults are supposed to eat [4.7g of potassium daily](http://www.healthcommunities.com/electrolyte-imbalance/too-much-potassium-too-little-potassium_jhmwp.shtml).
+1. [Dogs have their own version of herpes](https://www.reddit.com/r/WTF/comments/6fqh5e/canine_cpv/). It happens so often because they sniff butts so much.
 1. [Aloe vera](https://en.wikipedia.org/wiki/Aloe_vera) extracts can be used to dilute sheep semen for artificial fertilization. Eating it, however, may cause stomach cramps.
 1. The [gypsy moth](https://en.wikipedia.org/wiki/Lymantria_dispar_dispar) is one of the most destructive pests of hardwood trees in the eastern United States.
 1. Epidemiologists use x in 10,000 as a standard scale. Saying "1:1000 vs 1:1400" is confusing.
@@ -190,6 +193,14 @@
 1. "I'd say an average person has about 50 cc of stomach fluid. Diabetics, who often have a disorder called gastroparesis (basically slow emptying of the stomach), have between 100 and 250cc."
 1. Quetzals, the national bird of Guatemala, are almost completely reliant on avocados as a food source and avocados are in turn are almost exclusively reliant on quetzals as a seed distributor (not including humans) - they are obligate symbionts. Quetzals eat avocados whole, digest the fruit, then regurgitate the pit.
 1. The term for "having shat but feels like there is still shit in there" is [Rectal tenesmus](https://en.wikipedia.org/wiki/Rectal_tenesmus). The term for "having pissed but feels like there is still piss in there" is [Vesical tenesmus](https://en.wikipedia.org/wiki/Vesical_tenesmus)
+1. Whales eat only when krill is abundant, which is around [four months a year in the arctic](https://youtu.be/1_BqC9IIuKU).
+1. Bee drones (males) have huge eyes, which the workers and queen don't have. They also get much bigger rooms (yes, they are laid in bigger cells. The queen knows if an egg will eventually yield a worker, drone, or a new queen.)
+1. It is perfectly normal to sleep in two four-hour segments, with an hour or two in between, for meditation and whatnot.
+1. [Menisectomy](http://drrobertlaprademd.com/effects-of-a-partial-meniscectomy-on-articular-cartilage/), full or partial, has a later osteoarthritis rate of 90%, which is reportedly four times normal. Untreated meniscus tears, on the other hand, increases osteoarthritis fivefold within the next 2.5 years.
+1. [40 Canadians (any gender amirite?)](https://www.testicularcancer.ngo/how-you-can-help) die from testicular cancer each year. That is 1% that of [prostate cancer](http://www.prostatecancer.ca/Prostate-Cancer/About-Prostate-Cancer/Statistics), which is 4000 deaths per year.
+1. Stress supposedly shortens telomeres (which makes you die sooner).
+1. [If you wake up early, you need to eat early.](https://qz.com/1006048/waking-up-early-for-work-could-quite-literally-be-killing-you/) Otherwise it is bad for your body glucose levels.
+1. Pigs don't sweat. That's why they roll in mud: mud is cool.
 
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
 [wikipedia 105]: https://en.wikipedia.org/wiki/Chrysalis#Chrysalis

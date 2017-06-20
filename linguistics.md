@@ -98,6 +98,9 @@
 1. Both Chinese and Greek words for kangaroo come to Bag rat, from unrelated roots.
 1. ["Gung ho"](https://en.wikipedia.org/wiki/Gung-ho) is apparently English people's attempt at saying 工合, which is pronounced either Gong he or Gung hap. 工合 is supposed to mean "work" "together", but you can't just glue two words together and make it a sentence.
 1. "Ho hum" is entirely related to gung ho. Ho hum is an imitation of a yawn from the 1920s.
+1. "Freund" is friend; "Freud" is joy. They are the same thing.
+1. The American barbarians say "niche" like they say "nitch".
+1. *Rare* (for steak) came from *hrere*, [old English for lightly cooked](http://etymonline.com/index.php?term=rare&allowed_in_frame=0).
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

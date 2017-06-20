@@ -1,3 +1,5 @@
+1. When cereal makers say they add iron to it, [they actually add solid Fe-0](http://littleshop.physics.colostate.edu/Try%20At%20Home/IronCereal.htm). Not even oxide, just iron.
+1. Replacing BPA with [BPF](https://en.wikipedia.org/wiki/Bisphenol_F) or [BPS](https://en.wikipedia.org/wiki/Bisphenol_S) (i.e. "BPA-free") is [not that great](https://www.youtube.com/watch?v=QuMGc0EswTc&feature=youtu.be). BPF/BPS can alter testosterone levels.
 1. [Cobalt-chrome](https://en.wikipedia.org/wiki/Cobalt-chrome) is an alloy made with cobalt and chrome.
 1.[Pop fizzes more when you shake it](https://www.scienceabc.com/pure-sciences/why-a-soft-drink-bottle-fizzes-when-opened.html) as a direct consequence of you adding energy into the bottle by shaking it. More energy upsets the equilibrium, giving trapped gas enough energy to break surface tension, forming bubbles.
 1. [The mint lifesaver glows in the dark when bitten into.](http://recipes.howstuffworks.com/question505.htm) "Actually, all hard sugar-based candies emit some degree of light when you bite them, but most of the time, that light is very faint." Crystalline sugar emits energy as UV light when crushed, and the methyl salicylate in that mint absorbs UV light and emits visible light.
@@ -25,3 +27,7 @@
 1. Cocaine stops being detectable in fluids after a few days.
 1. Lasers burn away rust, but not with the iron underneath, because rust absorbs more light than iron.
 1. (Throwback Wednesday) Buffer solutions can only be made from [weak acids](http://chemcollective.org/activities/tutorials/buffers/buffers3) (and their conjugate bases). When a strong acid is added, the conjugate base neutralises it. When a strong base is added, the acid protonates, neutralising the base. In both cases, the pH did not change much.
+1. Aluminium cookware can potentially add [1~2mg](http://www.livestrong.com/article/475155-health-risks-of-cooking-in-aluminum/) of it to your diet per day. The upper limit is 85mg. Better safe than sorry.
+1. The [pH of urine](https://www.rnceus.com/ua/uaph.html) can vary wildly from 4.5 to 8. It correlates to whatever pH your body is, which can be low (dehydration) or high (crazy illnesses, see link).
+1. [Oxalic acid](https://www.livescience.com/56237-why-spinach-makes-teeth-feel-weird.html) is the cause of spinach making your teeth feel funny. Too much (now calcium oxalate) in your kidneys become kidney stones.
+1. Henna is light brown. There is no such thing as black henna. [Black henna is P-Phenylenediamine](https://en.wikipedia.org/wiki/P-Phenylenediamine), which is a banned skin irritant (for henna).

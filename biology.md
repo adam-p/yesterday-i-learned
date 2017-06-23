@@ -1,3 +1,11 @@
+1. Malaria can potentially damage the liver.
+1. Parasitoids are parasites that eventually kill their hosts.
+1. [Head lice](https://en.wikipedia.org/wiki/Parasitism#/media/File:Male_human_head_louse.jpg) have hairs on themselves
+1. [Phorid flies](https://en.wikipedia.org/wiki/Phoridae) look like fruit flies, and can often be identified by their escape habit of running rapidly across a surface rather than taking to the wing.
+1. "Rheumatism" covers at least 200 different conditions, including articular pain (like arthritis), non-articular pain (like back pain), and various other autoimmune diseases (like gout). In other words, rheumatism doesn't mean anything.
+1. "Bubble netting" can refer to whales/dolphins' behaviour of blowing bubbles in the form of rings, trapping krill/prey within, and then ["slurp them bitches up"](https://www.reddit.com/r/gifs/comments/6itivh/kayaking_surprise/dj9ida1/).
+1. The shinbone is just the tibia. (Or perhaps "the tibia is just the shinbone.")
+1. Menkes disease is a genetic disease that results in copper deficiency.
 1. [Internally](http://i.imgur.com/8bfl4FA.jpg), elephant legs look like they are on high heels.
 1. Adults are supposed to eat [4.7g of potassium daily](http://www.healthcommunities.com/electrolyte-imbalance/too-much-potassium-too-little-potassium_jhmwp.shtml).
 1. [Dogs have their own version of herpes](https://www.reddit.com/r/WTF/comments/6fqh5e/canine_cpv/). It happens so often because they sniff butts so much.
@@ -201,6 +209,8 @@
 1. Stress supposedly shortens telomeres (which makes you die sooner).
 1. [If you wake up early, you need to eat early.](https://qz.com/1006048/waking-up-early-for-work-could-quite-literally-be-killing-you/) Otherwise it is bad for your body glucose levels.
 1. Pigs don't sweat. That's why they roll in mud: mud is cool.
+1. Even if you drink milk, [you will lose bone density if you drink soda.](http://www.webmd.com/osteoporosis/features/soda-osteoporosis#2) Study does not conclude whether the soda or the caffeine is the culprit.
+1. Tiny mites called [demodex](https://en.wikipedia.org/wiki/Demodex) live in hair follicles. They are 0.4mm at the largest, and can move 8~16cm per hour on your skin. Almost all adults carry these mites. The good news is that they eat skin cells and sebum; the bad news is they might cause acne.
 
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
 [wikipedia 105]: https://en.wikipedia.org/wiki/Chrysalis#Chrysalis

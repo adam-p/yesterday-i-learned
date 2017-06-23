@@ -101,6 +101,9 @@
 1. "Freund" is friend; "Freud" is joy. They are the same thing.
 1. The American barbarians say "niche" like they say "nitch".
 1. *Rare* (for steak) came from *hrere*, [old English for lightly cooked](http://etymonline.com/index.php?term=rare&allowed_in_frame=0).
+1. They call "bokeh" "beau-kay".
+1. *Cortical* means "relating to the outside of".
+1. The use of ‘-ize’ spellings is part of the house style at Oxford University Press; the -ize ending corresponds to the Greek verb endings -izo and –izein. Then, for whatever reason, -ise is now used more in the UK.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

@@ -61,6 +61,7 @@
 * According to [this pgcon video](https://www.pgcon.org/2016/schedule/events/934.en.html), GIN indices are good for full text search, and GiST indices are good for full text search, and ranges in general (not just geospatial stuff).
 * [Want to write a bank app? Don't read-modify-update.](http://blog.2ndquadrant.com/postgresql-anti-patterns-read-modify-write-cycles/) Potential workarounds for race conditions include `INSERT` journals (inserting deltas, e.g. `insert... values (1)` for having one extra dollar), doing calculated `UPDATE`s (e.g. `update... set value = value + 1` for bumping up balance by 1), row locking with `SELECT... FOR UPDATE` (which waits if the row is already being read in another transaction), `BEGIN ISOLATION LEVEL SERIALIZABLE` (which aborts if another transaction is already updating the same row), or manage your own `version` column that limits what your `UPDATE` queries match (manually not recommended).
 [`LIKE '%s'`](https://www.w3schools.com/sql/sql_like.asp) means "ending with s". It is not a string substitution marker. To find in any position, use `LIKE '%s%'`. To find starting with something, use `LIKE 's%'`.
+* `ORDER BY 1, 2` would order by column 1, then column 2.
 
 ## Performance
 
@@ -76,6 +77,7 @@
 * `SELECT field1, field2, field3, ...`, even if the list of fields includes all fields in the table, is [more likely to be faster than `SELECT *`](http://stackoverflow.com/a/65532/1558430), being more likely to use the index.
 * [Creating a partial index on a boolean field](http://stackoverflow.com/questions/42972726/postgres-sql-create-index-for-boolean-column) is useful if only a few of the records have either true or false.
 * ["An index computed on `upper(col)` would allow the clause `WHERE upper(col) = 'JIM'` to use an index."](https://www.postgresql.org/docs/9.1/static/sql-createindex.html)
+* Postgres transparently breaks up large field values into multiple rows for performance reasons. They call this ["TOAST"](https://www.postgresql.org/docs/8.3/static/storage-toast.html).
 
 ## Troubleshooting
 

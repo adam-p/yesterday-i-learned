@@ -1,5 +1,33 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. The source of the fire is usually well-burned, because there was a lot of oxygen at the time. All other places are poorly burned. This is how firemen ("[fire people](https://github.com/WCF/black-to-african-american)") deduce where a fire started.
+1. Chen can sometimes map to [程](https://en.wikipedia.org/wiki/John_S._Chen).
+1. Ken M's last name is [McCarthy](http://time.com/4258291/30-most-influential-people-on-the-internet-2016/).
+1. The stock exchange is where people smarter than you get money off people less smart than them, like you. It is not a gambling table. It is an exchange. The smartest people win.
+1. Calling Brian "B-rye" is [nothing new](http://www.urbandictionary.com/define.php?term=B-RYE).
+1. There are [745 T-shirt designs about gender pronouns](https://www.redbubble.com/shop/pronouns+t-shirts) on a single e-commerce site.
+1. Involuntary euthanasia is when a person is forced to kill itself. Non-voluntary euthanasia is when a person cannot give consent to have itself killed.
+1. While war-time Nazi Germany did not execute [eugenics](https://en.wikipedia.org/wiki/History_of_eugenics#Germany) to save food, killing millions of Jews surely should have had some effect on that metric.
+1. CarrotPop makes an iPhone app, called ["Send Me to Heaven"](http://www.huffingtonpost.ca/entry/send-me-to-heaven-throw-phone-apple_n_3720888), that scores how high you throw the phone into the air. The app was banned.
+1. "I still do, but I used to, too." was from [Mitch Hedberg](https://www.youtube.com/watch?v=ndBjraV-3UY). The opening was "I used to do drugs."
+1. Now every other website bans being in an iframe to either prevent clickjacking or DDoS.
+1. [Goombas](http://mario.wikia.com/wiki/Goomba) are enemy mushrooms.
+1. [Ossur](https://www.ossur.com/corporate/about-ossur/locations) headquarters in Iceland. (So there is something going on there, after all.)
+1. Osseous/Ossified (note e/i) means "bony / turned into bone".
+1. The whole thing about people eating spiders in their sleep was ["invented as an example of the absurd things people will believe simply because they come across them on the Internet."](http://www.snopes.com/science/stats/spiders.asp) Vibrations from a sleeping person's lungs alone would alert spiders of danger.
+1. Steve Choi is bald. He has a lovely voice, though, which more than makes up for it.
+1. Force touch is more basic; [3D touch](https://www.wired.com/2015/09/what-is-the-difference-between-apple-iphone-3d-touch-and-force-touch/) is more granular. [It](https://en.wikipedia.org/wiki/Force_Touch#3D_Touch) would appear that iPhones have 3D touch, and all other "trackpad devices" have force touch.
+1. [Suicide tourism](https://en.wikipedia.org/wiki/Suicide_tourism) is a thing. People travel to Zurich to legally end themselves all the time.
+1. ["Right to Hire"](http://emersongroupinc.com/employment-definitions/) in the States is hiring a temporary position that might be retained as permanent later on. This is in contrast with direct hire, which is your stereotypical full-time job.
+1. The first question from [plant phone charger](https://www.reddit.com/r/shittykickstarters/comments/4fceqw/bioo_charge_your_phone_from_a_living_plant_yet/) was along the lines of "why "
+1. In [one study](https://nccih.nih.gov/research/results/gait/qa.htm), glucosamine/chondroitin relieved pain only for the most serious cases.
+1. Sears was founded in 1886. [Sears Holdings](https://en.wikipedia.org/wiki/Sears_Holdings) is actually [Kmart](https://en.wikipedia.org/wiki/Kmart). When Kmart bought Sears in 2005, Kmart named itself Sears Holdings, then spun off the remainder into Kmart again.
+1. [But why male models](https://www.youtube.com/watch?v=WHrn_pHW2so) is a Zoolander reference.
+1. The highest reward for lowest risk investments would be buying your own government bonds directly (1~5%). The highest reward, regardless of risk, would either be stocks or real estate, depending on many variables.
+1. The American League has a "designated hitter" rule. That rule ["allows a tenth player, a hitter who does not play in the field but bats regularly in place of the pitcher. Pitchers don't have to bat."](http://entertainment.howstuffworks.com/american-vs-national-baseball-league1.htm) National Leagues don't have that rule.
+1. iPad and iPad Pro have different "air gap" sizes (thickness between glass and display).
+1. A tachometer measures rotations per minute. A [tacometer](http://www.urbandictionary.com/define.php?term=tacometer%20%28Tm%29) measures tacos.
+1. [Hot weather seriously degrades aircrafts' ability to take off.](http://www.bbc.com/news/world-us-canada-40339730) air is thinner when hot.
 1. Back in other people's days, they made "shaving cream" by rubbing the shaving brush on a piece of soap. None of you cheese-eating soft soiled shaving cream in can business.
 1. [Train tracks just happen to be around the same width as Roman roads, not a cause.](http://www.snopes.com/history/american/gauge.asp)
 1. [Gauntlet tracks](https://en.wikipedia.org/wiki/Gauntlet_track#Canada) are used when bigger trains need to go through the same place as smaller trains (like light rail), but there is no space for two parallel tracks, so they overlap the tracks and allow only one train in at a time.

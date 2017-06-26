@@ -105,7 +105,7 @@ See also: [backing up your keys][stackoverflow 14]
 
 `git stash apply` or `git stash pop` (the latter removes the stash)
 
-### git submodules
+### Submodules
 #### Can't tell if I will be committing a file to the repo or the submodule
 The file will be committed to the closest `.git` repository.
 
@@ -122,7 +122,7 @@ repo
 #### "fatal: Not a git repository: (one of your submodules)"
 Nudge around your `.git/modules/(submodule name)/config` file and see if any obvious errors are in place.
 
-### I cloned a repository without the `--recursive` flag
+#### I cloned a repository without the `--recursive` flag
 At project root, `git submodule init && git submodule update --recursive`
 
 #### There is nothing in my submodule folders
@@ -232,23 +232,17 @@ git config color.status auto --global
 
 ### I forgot what I did between the last commit and now
 
-```
-git status
-```
+`git status`
 
 ### I forgot what I did for some specific commit
 
-``
-git show (sha1)
-``
+`git show (sha1)`
 
 ### I have no idea what happened to a lost file
 
 This shows git log for a particular file, even if it's gone:
 
-```
-git log --name-status -- (non-existent file name)
-```
+`git log --name-status -- (non-existent file name)`
 
 ### I am an idiot
 
@@ -276,9 +270,7 @@ ln -s /full/path/to/your/virtualenv/src/scripts/git_precommit_hook.sh /full/path
 
 To [disable pre-commit hooks](http://stackoverflow.com/a/7230886) when you commit:
 
-```
-git commit -n
-```
+`git commit -n`
 
 ## booboos
 
@@ -357,7 +349,7 @@ In vim, type [`:cq`](http://stackoverflow.com/a/28134068/1558430) to make the ed
 ### I don't want to share my commit history with others
 [`git archive -o latest.zip HEAD`][stackoverflow 9]
 
-## I want to create an empty repo
+### I want to create an empty repo
 
 `git commit --allow-empty -m 'empty initial commit yo'`
 

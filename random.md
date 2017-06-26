@@ -1,5 +1,10 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Canada went from [most ATMs per capita in the world](https://en.wikipedia.org/wiki/Banking_in_Canada) to [third most ATMs per capita in the world](http://data.worldbank.org/indicator/FB.ATM.TOTL.P5?year_high_desc=true). [SAD!](http://knowyourmeme.com/memes/donald-trump-s-sad-tweets)
+1. [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)
+1. Apart from pain relief, anti-inflammatory drugs also delay cartilage wear and breakdown by inhibiting "interleukin-1 and tumor necrosis factor alpha" activity.
+1. Excel's SUMPRODUCT(row1, row1...) multiplies two rows together and gives you a sum. Good for weighted tallies.
+1. [This converter](http://www.kylesconverter.com/frequency/hertz-to-frames-per-second) claims that display FPS and refresh rate Hz are equivalent units (30 FPS = 30 Hz).
 1. You need your passport to renew your health card. And you need your drivers licence to renew your passport. And you need your health card to renew your passport. (just kidding)
 1. If you can't run a marathon, there is a [0.05k run](http://www.thebaltimoremarathon.com/race-information-2/05k-presented-by-98rock/) that you can join.
 1. Modern train/subway platforms have [stations that are higher than the rest of the track](http://www.gizmodo.co.uk/2017/05/its-official-the-bakerloo-is-the-hottest-london-underground-line/), so they naturally slow down when they enter the station, and naturally gain kinetic energy when they leave the station. This makes the station less hot, and need less ventilation.

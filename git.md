@@ -1,15 +1,232 @@
 # [git troubleshooting](https://git-man-page-generator.lokaltog.net/)
 
-## git asks me for the user name and password every time I pull and push
+## Usage
+
+### Branches
+
+#### "Your branch is ahead of..."
+
+*Your branch has different code than the remote one even if a `git pull origin (branch)` tells you `Already up-to-date.` This will make you deploy incorrect code. Beware!*
+On the branch that says that, do [`git reset --hard origin/(branch) && git pull`][stackoverflow 7]
+
+#### Don't know which branches are merged
+
+`git branch --merged` shows all branches that are already merged into your local master.
+`git branch --merged | grep -v "\*" | xargs -n 1 git branch -d` deletes all of them.
+
+#### I forgot where I committed my code
+
+If it's in the stash, either [`git log -g stash`][stackoverflow 4] or `git diff -g stash` will show the commit.
+
+If it's in a branch, consider running `git log -S "(keyword from diff)" --source --all`, or any other solution [here][stackoverflow 5].
+
+#### I want to remove all commits.
+1. Find the ID of the first commit ever. It will be a hash. Remember the first six characters, e.g. `a1b2c3`.
+2. Run `git checkout (e.g. a1b2c3)`.
+3. Delete everything on that branch, and commit the branch with `git commit -a`. Give yourself a good reason why you're doing this.
+4. Run `git gc`.
+5. Run [`git filter-branch --parent-filter "sed 's/-p (e.g. a1b2c3)//'" HEAD`][stackoverflow 6].
+6. Optionally, push to remote.
+
+#### I was smart enough to use `--depth=1`, but too dumb to undo it
+Well, now you need `--depth=999` (or even more).
+
+#### I committed to the wrong branch
+
+**If you haven't pushed the branch to remote yet**:
+Run `git reset --soft HEAD^ && git stash && git checkout (correct branch) && git stash pop`.
+Optionally, run `git commit -a` to commit the correct branch.
+
+**If you've already tainted the remote repo:**
+Run `git reset --soft HEAD^ && git stash && git checkout (correct branch) && git stash pop`.
+Commit your local branch with `git commit -a`, and force-push to cover your remote using `git push --force origin (branch)`.
+
+**If you just want your change live**:
+Use this syntax to push from a local branch to a remote branch that has a different name.
+
+`git push origin local_branch:remote_branch`
+
+This is also how you [fast forward remote branches][stackoverflow 15].
+
+### Patches
+
+#### Adding only some of the staged things
+
+* `git add -p` (p stands for patch)
+
+#### Creating a patch
+* Save a patch: `git format-patch -n HEAD^`
+* Save a patch file under any name: `git format-patch (branch name) --stdout > diff.patch`
+
+#### Applying a patch
+
+* Check what's in the patch: `git apply --stat diff.patch`
+* Check if the patch can be applied: `git apply --check diff.patch`
+* Apply the patch: `git apply diff.patch`, **OR**
+* If you want to sign off what you apply, `git am --signoff < diff.patch`
+
+### Tags
+
+#### My tags won't go onto the remote repo
+`git push --tags` (pushes just the tags)
+
+or
+
+`git push --follow-tags`  (pushes all tags on the current branch along with the branch itself)
+
+#### ... but I accidentally all the tags
+Delete a tag locally, then push it.
+```
+git tag -d 12345
+git push origin :refs/tags/12345
+```
+
+#### Checking out a tag
+`git checkout tags/{tag name}`
+
+
+### Blaming people
+
+* Basic blame: `git blame HEAD -- file`
+* Blame with `sudo apt-get git-gui`: `git gui blame file`
+
+#### Some idiot impersonated me
+
+Then [sign your commits][mikegerwitz] with `git commit -S` (yo)
+
+And [verify them][stackoverflow 13] with `git log --show-signature`
+
+See also: [backing up your keys][stackoverflow 14]
+
+
+### The Stash
+
+#### Stashed something, can't get it back out
+
+`git stash apply` or `git stash pop` (the latter removes the stash)
+
+### git submodules
+#### Can't tell if I will be committing a file to the repo or the submodule
+The file will be committed to the closest `.git` repository.
+
+```
+repo
++ submodule
+| - foo.txt  (to submodule)
++ bar.txt  (to main repo)
+```
+
+#### I edited a file in one of my submodules
+`cd (submodule path) && git reset --hard HEAD`
+
+#### "fatal: Not a git repository: (one of your submodules)"
+Nudge around your `.git/modules/(submodule name)/config` file and see if any obvious errors are in place.
+
+### I cloned a repository without the `--recursive` flag
+At project root, `git submodule init && git submodule update --recursive`
+
+#### There is nothing in my submodule folders
+At project root, `git submodule init && git submodule update --recursive`
+
+#### I couldn't remove a submodule
+Edit the `.gitmodules` file in the project root. Remove references to the submodule.
+Run `git rm --cached (path/to/submodule) && git commit -a`
+
+#### fatal: reference isn’t a tree: (submodule repo had a force-push)
+`cd (submodule path) && git reset --hard origin/(branch) && git pull`
+
+#### What if I want to change where the submodule comes from?
+To [change origin of submodules that have already been cloned][stackoverflow 8], follow these steps:
+
+```
+cd submodule_folder
+git config remote.origin.url (repo ssh url)
+```
+
+### Cherry-picking
+
+#### Tried to cherry-pick a range of commits, but it didn't include the oldest commit
+You need a `^`. Run `git cherry-pick -m 1 --ff (older hash)^..(newer hash)`. `m` isn't necessarily 1.
+
+#### I can't cherry pick something from remote
+
+Fetch the repository first. Then, the hash of the commit can be cherry picked.
+
+#### Want to search for a change in history
+`git grep <regex> $(git rev-list --all)`
+
+
+## Errors
+
+### Cannot checkout master for some reason
+You got this message:
+
+'''
+$ git checkout master
+error: pathspec 'master' did not match any file(s) known to git.
+'''
+
+If you really have a `master` branch, then try `git checkout -b master && git pull origin master` as a hack.
+
+### "error: pathspec '(remote branch)' did not match any file(s) known to git."
+Run `git pull`. You can now checkout the branch.
+
+### "You are in 'detached HEAD' state"
+`git checkout -b (new branch)`
+
+Or `git stash && git checkout -b (new branch) && git stash pop`, if it makes you feel any cleaner.
+
+### `M` (modified) flags won't go away after a hard reset
+git does not have permission to modify your files. Give it write permission one way or another, using something like `chmod -R 664 .` (untested)
+
+### `unpack failed: error Missing tree f0f4a5dd...`
+
+There is a bug in `git-review`. This will happen:
+
+```
+error:
+fatal: Unpack error, check server log
+To ssh://brian@remote
+ ! [remote rejected] HEAD -> refs/publish/master/foo (n/a (unpacker error))
+error: failed to push some refs to 'remote'
+```
+
+### I can't overwrite untracked local files when pulling
+Try `git fetch --all && git reset --hard origin/(branch)`.
+
+### git 1.7.1 couldn't create orphan branches
+
+[Solution][stackoverflow 11]
+
+```
+git symbolic-ref HEAD refs/heads/newbranch
+rm .git/index
+git clean -fdx
+<do work>
+git add your files
+git commit -m 'Initial commit'
+```
+
+### ` ! [remote rejected] a/b -> a/b (failed to lock)`
+You already have a branch called `a`.
+You cannot have another branch called `a/b`.
+
+
+## Annoyances
+
+### github asks me for the user name and password every time I pull and push
 Use the SSH URL instead of the HTTPS URL.
 
-### The SSH URL
+### Git keeps asking me for my SSH password
+[The agent][stackoverflow 12] must be run with `eval \`ssh-agent -s\``. And only after that can you run `ssh-add`.
 
-Your github user name is actually just part of the path.
+### [zsh isn't showing diffs in colour][stackoverflow 10]
 
 ```
-nix-user@domain.com:path/to/project.git
+git config color.diff auto --global
+git config color.status auto --global
 ```
+
 
 ## User incompetence
 
@@ -33,15 +250,6 @@ This shows git log for a particular file, even if it's gone:
 git log --name-status -- (non-existent file name)
 ```
 
-### I accidentally deleted a file, and thought I could just check it back out
-`git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.
-
-### I accidentally deleted a file, and I have already made a commit after that
-`git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"`
-
-### I accidentally added a file, and luckily I haven't committed anything yet
-`git reset HEAD (added file)`
-
 ### I am an idiot
 
 [This one-liner][stackoverflow] shows your addition/removal statistics.
@@ -64,7 +272,7 @@ Implement a git pre-commit hook in your repo so that no one can push code that (
 ln -s /full/path/to/your/virtualenv/src/scripts/git_precommit_hook.sh /full/path/to/your/virtualenv/.git/hooks/pre-commit
 ```
 
-### My colleagues are idiots, and I am in fact far superior than them
+### My colleagues are idiots, and I am in fact far superior to them
 
 To [disable pre-commit hooks](http://stackoverflow.com/a/7230886) when you commit:
 
@@ -72,8 +280,16 @@ To [disable pre-commit hooks](http://stackoverflow.com/a/7230886) when you commi
 git commit -n
 ```
 
-
 ## booboos
+
+### I accidentally deleted a file, and thought I could just check it back out
+`git checkout (deleted file)` won't bring it back. Run `git reset HEAD (deleted file)`, then `git checkout -- (deleted file)`.
+
+### I accidentally deleted a file, and I have already made a commit after that
+`git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"`
+
+### I accidentally added a file, and luckily I haven't committed anything yet
+`git reset HEAD (added file)`
 
 ### I used a GUI for git and the diffs/patches/merges/pull requests don't turn out right
 
@@ -95,25 +311,10 @@ git stash apply
 Run a rebase on your local branch with `git rebase -i HEAD~1`, then force a push to your branch with `git push origin +(branch)`. The commit will still be accessible by commit ID.
 
 ### I pushed really stupid things onto the remote server
-Follow [this guide][github].
+Like secret keys and passwords? Follow [this guide][github].
 
-### I committed to the wrong branch
-#### If you haven't pushed the branch to remote yet
-Run `git reset --soft HEAD^ && git stash && git checkout (correct branch) && git stash pop`.
-Optionally, run `git commit -a` to commit the correct branch.
-#### If you've already tainted the remote repo
-Run `git reset --soft HEAD^ && git stash && git checkout (correct branch) && git stash pop`.
-Commit your local branch with `git commit -a`, and force-push to cover your remote using `git push --force origin (branch)`.
-
-#### If you just want your change live
-
-Use this syntax to push from a local branch to a remote branch that has a different name.
-
-```
-git push origin local_branch:remote_branch
-```
-
-This is also how you [fast forward remote branches][stackoverflow 15].
+### I want to revert, like, one file from a booboo commit
+Run `git checkout HEAD^ -- path_to_file`. The file will be popped out to its previous state.
 
 ### I merged a pull request I didn't want / That PR broke everything and I want it out
 
@@ -123,23 +324,6 @@ Follow any one of [these advice][stackoverflow 3]:
 git revert -m 1 (the hash where the PR merge happened)  # Preserves history
 git reset --merge (the hash where the PR merge happened)  # Removes history
 ```
-
-### I forgot where I committed my code
-
-If it's in the stash, either [`git log -g stash`][stackoverflow 4] or `git diff -g stash` will show the commit.
-
-If it's in a branch, consider running `git log -S "(keyword from diff)" --source --all`, or any other solution [here][stackoverflow 5].
-
-### I want to remove all commits.
-1. Find the ID of the first commit ever. It will be a hash. Remember the first six characters, e.g. `a1b2c3`.
-2. Run `git checkout (e.g. a1b2c3)`.
-3. Delete everything on that branch, and commit the branch with `git commit -a`. Give yourself a good reason why you're doing this.
-4. Run `git gc`.
-5. Run [`git filter-branch --parent-filter "sed 's/-p (e.g. a1b2c3)//'" HEAD`][stackoverflow 6].
-6. Optionally, push to remote.
-
-### I was smart enough to use `--depth=1`, but too dumb to undo it
-Well, now you need `--depth=999`.
 
 ### I already made my changes in multiple commits, but the repo owner wants me to rebase it to a single commit
 
@@ -169,74 +353,8 @@ Change the top commit from `pick` to `r` (reword), and all the others `s` (squas
 
 In vim, type [`:cq`](http://stackoverflow.com/a/28134068/1558430) to make the editor quit and bail.
 
-## "Your branch is ahead of..."
-*Your branch has different code than the remote one even if a `git pull origin (branch)` tells you `Already up-to-date.` This will make you deploy incorrect code. Beware!*
-On the branch that says that, do [`git reset --hard origin/(branch) && git pull`][stackoverflow 7]
 
-## Cannot checkout master for some reason
-You got this message:
-
-'''
-$ git checkout master
-error: pathspec 'master' did not match any file(s) known to git.
-'''
-
-If you really have a `master` branch, then try `git checkout -b master && git pull origin master` as a hack.
-
-## "error: pathspec '(remote branch)' did not match any file(s) known to git."
-Run `git pull`. You can now checkout the branch.
-
-## "You are in 'detached HEAD' state"
-`git stash && git checkout -b (new branch) && git stash pop`
-
-## Don't know which branches are merged
-
-`git branch --merged` shows all branches that are already merged into your local master.
-`git branch --merged | grep -v "\*" | xargs -n 1 git branch -d` deletes all of them.
-
-## git submodules
-### Can't tell if I will be committing a file to the repo or the submodule
-The file will be committed to the closest `.git` repository.
-
-```
-repo
-+ submodule
-| - foo.txt  (to submodule)
-+ bar.txt  (to main repo)
-```
-
-### I edited a file in one of my submodules
-`cd (submodule path) && git reset --hard HEAD`
-
-### "fatal: Not a git repository: (one of your submodules)"
-Nudge around your `.git/modules/(submodule name)/config` file and see if any obvious errors are in place.
-
-### I cloned a repository without the `--recursive` flag
-At project root, `git submodule init && git submodule update --recursive`
-
-### There is nothing in my submodule folders
-At project root, `git submodule init && git submodule update --recursive`
-
-### I couldn't remove a submodule
-Edit the `.gitmodules` file in the project root. Remove references to the submodule.
-Run `git rm --cached (path/to/submodule) && git commit -a`
-
-### fatal: reference isn’t a tree: (submodule repo had a force-push)
-`cd (submodule path) && git reset --hard origin/(branch) && git pull`
-
-### What if I want to change where the submodule comes from?
-To [change origin of submodules that have already been cloned][stackoverflow 8], follow these steps:
-
-```
-cd submodule_folder
-git config remote.origin.url (repo ssh url)
-```
-
-
-## `M` (modified) flags won't go away after a hard reset
-git does not have permission to modify your files. Give it write permission one way or another, using something like `chmod -R 664 .` (untested)
-
-## I don't want to share my commit history with others
+### I don't want to share my commit history with others
 [`git archive -o latest.zip HEAD`][stackoverflow 9]
 
 ## I want to create an empty repo
@@ -247,106 +365,7 @@ git does not have permission to modify your files. Give it write permission one 
 
 `git commit --allow-empty --allow-empty-message`
 
-## I can't overwrite untracked local files when pulling
-Try `git fetch --all && git reset --hard origin/(branch)`.
 
-## Tried to cherry-pick a range of commits, but it didn't include the oldest commit
-You need a `^`. Run `git cherry-pick -m 1 --ff (older hash)^..(newer hash)`. `m` isn't necessarily 1.
-
-## I can't cherry pick something from remote
-
-Fetch the repository first. Then, the hash of the commit can be cherry picked.
-
-## My tags won't go onto the remote repo
-`git push --tags` (pushes just the tags)
-
-or
-
-`git push --follow-tags`  (pushes all tags on the current branch along with the branch itself)
-
-## ... but I accidentally all the tags
-Delete a tag locally, then push it.
-```
-git tag -d 12345
-git push origin :refs/tags/12345
-```
-
-### Checking out a tag
-`git checkout tags/{tag name}`
-
-## [zsh isn't showing diffs in colour][stackoverflow 10]
-
-```
-git config color.diff auto --global
-git config color.status auto --global
-```
-
-## Want to search for a change in history
-`git grep <regex> $(git rev-list --all)`
-
-## Want to revert, like, one file from a booboo commit
-Run `git checkout HEAD^ -- path_to_file`. The file will be popped out to its previous state.
-
-## git 1.7.1 couldn't create orphan branches
-
-[Solution][stackoverflow 11]
-
-```
-git symbolic-ref HEAD refs/heads/newbranch 
-rm .git/index 
-git clean -fdx 
-<do work> 
-git add your files 
-git commit -m 'Initial commit'
-```
-
-## Git keeps asking me for my SSH password
-[The agent][stackoverflow 12] must be run with `eval \`ssh-agent -s\``. And only after that can you run `ssh-add`.
-
-
-* `git clean` is a version of `git reset --hard HEAD` that removes all untracked files.
-
-## ` ! [remote rejected] a/b -> a/b (failed to lock)`
-You already have a branch called `a`.
-You cannot have another branch called `a/b`.
-
-## Git patches
-
-### Adding only some of the staged things
-
-* `git add -p` (p stands for patch)
-
-### Creating a patch
-* Save a patch: `git format-patch -n HEAD^`
-* Save a patch file under any name: `git format-patch (branch name) --stdout > diff.patch`
-
-### Applying a patch
-
-* Check what's in the patch: `git apply --stat diff.patch`
-* Check if the patch can be applied: `git apply --check diff.patch`
-* Apply the patch: `git apply diff.patch`, **OR**
-* If you want to sign off what you apply, `git am --signoff < diff.patch`
-
-## Blaming people
-
-* Basic blame: `git blame HEAD -- file`
-* Blame with `sudo apt-get git-gui`: `git gui blame file`
-
-### Some idiot impersonated me
-
-Then [sign your commits][mikegerwitz] with `git commit -S -am`
-
-And [verify them][stackoverflow 13] with `git log --show-signature`
-
-See also: [backing up your keys][stackoverflow 14]
-
-## The Stash
-
-* Stashed something, can't get it back out: `git stash apply` or `git stash pop` (the latter removes the stash)
-
-## GitHub
-
-* [Permission classes][github 2]
 
 ## Gerrit: using git like subversion
 
@@ -375,7 +394,7 @@ Change your code there, and commit your code.
 
 Whatever change you pushed will automatically be bound to you.
 
-### Where should I be push my code?
+### Where should I push my code?
 
 > (Gerrit implementing both git and the web server) allows (it) to provide magical refs, such as `refs/for/*` for new change submission and `refs/changes/*` for change replacement.
 
@@ -409,18 +428,6 @@ There's a "submit patch n" button under your changeset that means "merge".
 
 Besides risking accidentally being depdendent on other branches, your old parent will be updated to the new one.
 
-### `unpack failed: error Missing tree f0f4a5dd...`
-
-There is a bug in `git-review`. This will happen:
-
-```
-error: 
-fatal: Unpack error, check server log
-To ssh://brian@remote
- ! [remote rejected] HEAD -> refs/publish/master/foo (n/a (unpacker error))
-error: failed to push some refs to 'remote'
-```
-
 ### Gerrit says "Can Merge: No" when I rebased locally just fine.
 
 Gerrit does not do three-way merges.
@@ -432,13 +439,23 @@ To fix it, replace `git push` with `git push --no-thin` to the `git-review` scri
 
 That's because you really can't. You can't `git push origin -u anything` unless it already exists.
 
-## Usage
+## Fun facts
 
+* `git clean` is a version of `git reset --hard HEAD` that removes all untracked files.
 * Why `git push origin (branch)`, when you can [`git push origin HEAD`](http://stackoverflow.com/a/23241152) from your local one?
 * `git log --stat` shows diffs as well as the commit messages.
 * Git commits have two dates: commit date and author date. Changing one of the dates (e.g. via cherry-picking) will change the hash of that commit.
 * You can `git diff` and `git diff HEAD`. If you already `git add`ed some things and made further changes before committing, `git diff HEAD` shows you changes including in the files already added.
 * To add a "local remote", [literally](http://www.thehorrors.org.uk/snippets/git-local-filesystem-remotes/) `git remote add origin /local/path/myrepo.git`.
+* GitHub: [Permission classes][github 2]
+
+### The SSH URL
+
+Your github user name is actually just part of the path.
+
+```
+nix-user@domain.com:path/to/project/.git
+```
 
 [github]: https://help.github.com/articles/remove-sensitive-data
 [github 2]: https://help.github.com/articles/permission-levels-for-an-organization-repository

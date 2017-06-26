@@ -87,6 +87,7 @@ Further reading: [0001.md](sources/0001.md)
 * The stock's [beta](http://www.investopedia.com/terms/b/beta.asp) should be less than 1 (i.e. less volatile than the market). a Beta of 0.6 means the thing is 40% less volatile than the market. "Many utilities stocks have a beta of less than 1." "Negative betas are possible for investments that tend to go down when the market goes up."
 * "Buy low sell high" is great, but [do not let world events affect your investing decisions](http://www.cnbc.com/2014/03/03/warren-buffetts-5-key-investing-donts.html). During e.g. a war, stocks continue to go up. It is more worthwhile to hold onto securities (assets) than cash.
 * In August. "October is known for bringing the highest shifts in volatility for a couple of reasons: third-quarter earnings season kicks off early October, and trading volume is significantly higher after the calm summer months."
+* A "buy" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a buy when a stock dips below a certain price.
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 
@@ -97,6 +98,7 @@ Further reading: [0001.md](sources/0001.md)
 * When the company goes bankrupt (selling it doesn't give you money, but you can claim it as capital loss)
 * [When you anticipate a market failure](http://www.reddit.com/r/stocks/comments/53znlq/_/).
 * When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
+* A "sell" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a sell when a stock goes above a certain price.
 
 ### [Gap ups and downs](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort)
 

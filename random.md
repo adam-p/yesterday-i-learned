@@ -1,5 +1,20 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. You need your passport to renew your health card. And you need your drivers licence to renew your passport. And you need your health card to renew your passport. (just kidding)
+1. If you can't run a marathon, there is a [0.05k run](http://www.thebaltimoremarathon.com/race-information-2/05k-presented-by-98rock/) that you can join.
+1. Modern train/subway platforms have [stations that are higher than the rest of the track](http://www.gizmodo.co.uk/2017/05/its-official-the-bakerloo-is-the-hottest-london-underground-line/), so they naturally slow down when they enter the station, and naturally gain kinetic energy when they leave the station. This makes the station less hot, and need less ventilation.
+1. [Tire rubber simply becomes dust.](https://physics.stackexchange.com/questions/80371/where-does-the-rubber-go-when-a-tire-wears-down) Apparently the dust is minute in quantity, so it is not a big deal.
+1. [Anal Emma](http://www.slate.com/blogs/bad_astronomy/2013/04/29/analemma_the_position_of_the_sun_in_the_sky_changing_over_a_year.html) is the word for how the sun draws a [figure 8 in the sky](http://solar-center.stanford.edu/images/solar-analemma-140000-UTC.jpg) if you overlay its position every day at the same time of day.
+1. A typeface is a family of fonts. When you mix the two up, [people get real mad](https://www.reddit.com/r/oddlysatisfying/comments/6jcykc/handwriting_machine/djdsk28/).
+1. [List of animals with fraudulent diplomas](https://en.wikipedia.org/wiki/List_of_animals_with_fraudulent_diplomas)
+1. 50 Cent is [African American](https://github.com/WCF/black-to-african-american). Eminem is Caucasian American.
+1. Nepotism: rich people giving jobs to each other's relatives.
+1. 3.5 ounces is around a 100g. Unfortunately, it is 3.3 yards that is roughly 1 metre, rather than 3.5.
+1. Making a battery pack that can both charge and discharge at the same time [apparently](https://www.anker.com/products/A1272011) has detrimental effects on the lifespan of the battery.
+1. A 1080p PenTile display has an actual resolution of [1564 x 880](https://medium.com/@suyashsrijan/1080p-pentile-is-not-true-1080p-9951b9e5c2ee) (66% of pixels, 81% on each side). They get away with this because VESA uses "50% Michelson contrast" to define boundaries of a pixel, rather than rows and lines.
+1. Do not give internet access to Android System WebView. Granting network to this component gives all apps that use this component internet access, even if they aren't themselves whitelisted.
+1. Kidney donors cannot use ibuprofen or ASA, [or so some of them say](http://www.transplantbuddies.org/tbx/messages/5/523549.html?1320947089).
+1. BPA in cup noodles containers ("cups") is [already](https://www.ncbi.nlm.nih.gov/pubmed/24966409) known to cause cardiometabolic problems. [TBHQ](https://en.wikipedia.org/wiki/Tert-Butylhydroquinone) in the noodles is also known to be carcinogenic.
 1. The source of the fire is usually well-burned, because there was a lot of oxygen at the time. All other places are poorly burned. This is how firemen ("[fire people](https://github.com/WCF/black-to-african-american)") deduce where a fire started.
 1. Chen can sometimes map to [程](https://en.wikipedia.org/wiki/John_S._Chen).
 1. Ken M's last name is [McCarthy](http://time.com/4258291/30-most-influential-people-on-the-internet-2016/).

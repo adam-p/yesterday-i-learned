@@ -1,3 +1,16 @@
+1. Preventing presbyopia ("old people vision loss") seems to involve just [looking at things that aren't right in front of you all the time](http://www.rebuildyourvision.com/blog/vision-conditions/presbyopia/eye-exercises-for-presbyopia/). Also, take your vitamins.
+1. The lifetime expectation for a knee OA is [10%](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3886119/).
+1. Echidnas are one of few mammals to lay eggs.
+1. Ocean acidification lowers the Humboldt squid's metabolic rate by 31% and activity levels by 45%. This will lead the squid to have to retreat to shallower waters, where they can take up oxygen at higher rates.
+1. Pelicans are considered living fossils.
+1. [Fried egg jellyfish](https://en.wikipedia.org/wiki/Phacellophora_camtschatica), *Phacellophora camtschatica*, eats smaller jellyfish.
+1. All 1100 species of hermit crabs poop in their own shells.
+1. Snails hate copper; a copper band around the trunk of a tree will prevent snails from climbing up and reaching the leaves and fruit.
+1. Coelacanth flesh has high amounts of oil, urea, wax esters, and other compounds that are difficult to digest and can cause diarrhea.
+1. Tardigrades lay eggs inside the shed skin. "Tardigrades" is its own phylum, Tardigrada.
+1. Bursitis is the inflammation or irritation of the [bursa](https://www.arthritis-health.com/types/bursitis/what-bursa). The [bursa](https://en.wikipedia.org/wiki/Synovial_bursa) is a lubricated cushion between a bone and surrounding soft tissues. [It looks like this](http://images.medicinenet.com/images/appictures/shoulder-bursitis-s1-illustration.jpg).
+1. Children's bones apparently have [growth plates](http://kidshealth.org/en/parents/growth-plate-injuries.html). They are cartilage near the ends of bones, which lengthen the bone when they grow. On the child's 18th birthday, these plates turn into solid bone.
+1. To court a female, all a male chimpanzee needs to do is to [look at it](http://i.imgur.com/a9uIG9x.gifv).
 1. Malaria can potentially damage the liver.
 1. Parasitoids are parasites that eventually kill their hosts.
 1. [Head lice](https://en.wikipedia.org/wiki/Parasitism#/media/File:Male_human_head_louse.jpg) have hairs on themselves

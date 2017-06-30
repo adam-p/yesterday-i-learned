@@ -185,6 +185,14 @@ from django.db.models import Count, Q
 Content.objects.annotate(tp=Count('tagged_products')).filter(tp__gte=3)
 ```
 
+### Filtering by `foo__in([1, 2,3, None])` not working
+
+[Apparently you can't?](https://stackoverflow.com/a/15366686/1558430) You need to filter the None separately.
+
+```
+.filter(Q(foo__isnull=True) | Q(foo__in=[1, 2, 3]))
+```
+
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 
 Conventional wisdom tells us `request.GET.get('foo')` would get us whatever `foo` is, which is, by default, the last `foo`.

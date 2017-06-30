@@ -272,6 +272,10 @@ To [disable pre-commit hooks](http://stackoverflow.com/a/7230886) when you commi
 
 `git commit -n`
 
+### My colleagues are idiots, and all of us think we are superior to each other
+
+If you guys all `git push` to a branch regularly, and you need to `git push --force` to fix something, [try `git push --force-with-lease` instead](https://robots.thoughtbot.com/git-push-force-with-lease), which makes sure the remote's head is the same as your local tracking branch for the remote. So, `git fetch` first.
+
 ## booboos
 
 ### I accidentally deleted a file, and thought I could just check it back out

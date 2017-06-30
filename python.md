@@ -354,7 +354,7 @@ bar
 1. *Thus spake the Lord: Thou shalt indent with four spaces. No more, no less. Four shall be the number of spaces thou shalt indent, and the number of thy indenting shall be four. Eight shalt thou not indent, nor either indent thou two, excepting that thou then proceed to four. Tabs are right out.* -- Georg Brandl
 1. The imports you write assume you run these scripts from the [top level of the project](http://stackoverflow.com/questions/43498467/python-importerror-of-my-own-module). Imports don't magically work simply because there is an `__init__.py` in the directory.
 1. [The backspace character](https://en.wikipedia.org/wiki/Backspace) (`chr(8)`) is a caret shifting mechanism. One backspace moves the caret one character to the left, and the next character replaces the character that is already in that position. For example, `print 'A' + chr(8) + 'B'` prints just `B` (because the B replaced the A), and `'A' + chr(8)` prints just `A` (because nothing replaced the A yet). `print 'A' + 'B' + chr(8) + chr(8) + 'C'` prints `CB`, because the caret is moved two characters back, and the C replaces the A.
-1. The `a, *_, b = [...]` unpacking thing raises a ValueError if the list is fewer than two elements long.
+1. The `a, *_, b = [...]` unpacking thing raises a ValueError if the list is fewer than two elements long. `a, b = foo[0], foo[-1]` does not do that.
 1. [`type('', (), {})()` will create an object that can have arbitrary attributes.](http://stackoverflow.com/a/24448351/1558430)
 1, Up until python 3.7, [it was impossible](https://docs.python.org/3.7/whatsnew/3.7.html) to have a function with more than 255 parameters, but a function name of more than 255 parameters is ok (you tested 100,000 characters).
 1. A statement is a complete line of code that performs some action, while an expression is any section of the code that evaluates to a value. [Expressions can be combined “horizontally” into larger expressions using operators, while statements can only be combined “vertically” by writing one after another, or with block constructs.](https://www.quora.com/Whats-the-difference-between-a-statement-and-an-expression-in-Python)
@@ -363,6 +363,7 @@ bar
 1. Too many items in your celery 3 queue? [`celery worker -Q queuename --purge`](https://stackoverflow.com/a/33531638/1558430)
 1. [Avoiding attribute access in loops](https://wiki.python.org/moin/PythonSpeed/PerformanceTips#Loops) can have a measurable improvement in loop speed, and not only when the attributes are magic.
 1. [`python -m`](https://docs.python.org/2/using/cmdline.html) runs that module as if the module's contents were `__main__`. There is no difference between `python that.py` and `python -m 'that'`.
+1. [You cannot monkey patch python's `list`](https://stackoverflow.com/a/38257902/1558430). Well, [you can](https://stackoverflow.com/a/4025310/1558430), but literals won't use your subclass, and outside of a PoC, that won't be a smart thing to do.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

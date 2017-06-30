@@ -1,3 +1,5 @@
+1. It is uncommon for the hand crease to [go all the way across the palm](https://en.wikipedia.org/wiki/Single_transverse_palmar_crease). Down syndrome patients often have this. So palm reading has some reasoning, after all.
+1. Mayflies molt once more after getting functional wings. This is unique among insects. The shortest-living adult mayflies are the *Dolania americana*, for just five minutes.
 1. Preventing presbyopia ("old people vision loss") seems to involve just [looking at things that aren't right in front of you all the time](http://www.rebuildyourvision.com/blog/vision-conditions/presbyopia/eye-exercises-for-presbyopia/). Also, take your vitamins.
 1. The lifetime expectation for a knee OA is [10%](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3886119/).
 1. Echidnas are one of few mammals to lay eggs.

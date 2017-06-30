@@ -104,6 +104,7 @@
 1. They call "bokeh" "beau-kay".
 1. *Cortical* means "relating to the outside of".
 1. The use of ‘-ize’ spellings is part of the house style at Oxford University Press; the -ize ending corresponds to the Greek verb endings -izo and –izein. Then, for whatever reason, -ise is now used more in the UK.
+1. The stress on eczema is always on the first E.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

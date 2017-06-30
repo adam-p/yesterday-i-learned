@@ -1,5 +1,28 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Adam in the bible did not have the largest penis on Earth at any given time.
+1. Apparently displays can appear to have a ["jelly-like" effect](https://www.xda-developers.com/oneplus-is-aware-of-the-jelly-scrolling-effect-some-oneplus-5-owners-are-reporting/) if contents are scrolled while upside down.
+1. "9H hardness", frequently used to quantify tempered glass screen protectors, is [well under 6 on mohs hardness scale.](http://www.moutfitters.com/blog/true-hardness-tempered-glass-screen-protector/) There does not appear to be a conversion table available, because pencil hardness is a colour scale.
+1. Over the years, more useless elements have been added to TF2. This slows down the game. In response, [Valve made the game look even worse](https://www.youtube.com/watch?v=w1W5DU4zmAA) so as to maintain a decent framerate.
+1. "Dickbuttery" is the term for putting dickbutts everywhere.
+1. Hiring more people doesn't make projects finish quicker. 9 people can't make a baby in a month.
+1. A [Hall sensor](https://en.wikipedia.org/wiki/Hall_effect_sensor) senses changes in magnetic field, and varies the output voltage accordingly.
+1. If you use ["wide gamut"](https://en.wikipedia.org/wiki/Wide-gamut_RGB_color_space) displays, what you show on it should use 16-bit colours, or you will see some polarising effect on the image.
+1. Crockford's JSON/JSLint licence had a clause in there, saying ["The Software should be used for Good, not Evil."](http://dev.hasenj.org/post/3272592502/ibm-and-its-minions) So then IBM's lawyers had to ask for permission to use them for evil...
+1. The anti-skip feature in many CD players used significantly more power than having it off. That's why they have a switch for it.
+1. Terry Fox was born in Winnipeg in 1958. He had to stop running at Thunder Bay. Before he died, he specified no corporate sponsorship for any event in his name, "as he felt that it would detract from his goal of creating public awareness". He was right.
+1. At 300 million emails a day, Gmail might actually have issues with regular hash collisions, not numerically, but by [the way entropy is gathered](https://stackoverflow.com/questions/1155008/how-unique-is-uuid).
+1. Louisiana is named after King Louis XIV, the dude who never bathed.
+1. When Thomas Jefferson was still around, USA was still divided widthwise by [The French](https://en.wikipedia.org/wiki/Louisiana_%28New_France%29) until the [Louisiana purchase](https://en.wikipedia.org/wiki/Louisiana_Purchase) (basically the middle 1/3 of the states). The remnants of that purchase was Quebec.
+1. The [Anker 20100 mAh battery pack](https://www.amazon.com/dp/B00X5RV14Y/) is just six of [these](https://www.amazon.com/Panasonic-NCR18650B-3400mAh-Rechargeable-Battery-Green/dp/B00DHXY72O) NCR18650B cells packed together. If the $42 battery pack has six of these, and two of these cost $15, You can take one of those packs apart for cheap cells.
+1. /r/fakenews existed before it was cool. It has nothing to do with that guy who keeps making up fake news.
+1. Instead of "Please play again / réessayez SVP", the "special edition" timmy cup reads "Happy Canada 150th / Joyeux 150e du Canada."
+1. The Australians tried to fight the emus. They lost. It was called the [emu war](https://en.wikipedia.org/wiki/Emu_War).
+1. If you can't [draw a clock](https://www.littlethings.com/brain-on-fire/?utm_source=iqx6&utm_medium=Facebook), you might [have](http://neuro.psychiatryonline.org/doi/10.1176/appi.neuropsych.12070180) [issues](http://www.alzheimersreadingroom.com/2009/12/alzheimers-clock-draw-test-detect-signs.html).
+1. Bethlehem is in West Bank now. The [Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip) is the tiny thing that is neither Israel nor the West Bank. Together, West Bank and Gaza Strip make up [Palestine](https://en.wikipedia.org/wiki/State_of_Palestine).
+1. Michael J. Fox's middle name is Andrew. He changed from A to J [because his middle initial sounded too much like the Canadian "eh?"](https://en.m.wikipedia.org/wiki/Michael_J._Fox)
+1. At its height, Brunei, as the [Bruneian Empire](https://en.wikipedia.org/wiki/Bruneian_Empire), controlled the whole of [Borneo](https://en.wikipedia.org/wiki/Borneo), the world's third largest island that is now part of Malaysia and Indonesia.
+1. The basement is cooler in the summer, and colder in the winter.
 1. Canada went from [most ATMs per capita in the world](https://en.wikipedia.org/wiki/Banking_in_Canada) to [third most ATMs per capita in the world](http://data.worldbank.org/indicator/FB.ATM.TOTL.P5?year_high_desc=true). [SAD!](http://knowyourmeme.com/memes/donald-trump-s-sad-tweets)
 1. [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)
 1. Apart from pain relief, anti-inflammatory drugs also delay cartilage wear and breakdown by inhibiting "interleukin-1 and tumor necrosis factor alpha" activity.

@@ -33,3 +33,4 @@
 * [Loser answered the wrong base64 question](http://stackoverflow.com/a/29383697/1558430), but it works. [This should work.](http://stackoverflow.com/a/15683305/1558430)
 * Two apps signed with the same key can [securely share code and data](https://developer.android.com/studio/publish/app-signing.html#considerations).
 * adbd cannot run as root in production builds.
+* Daydream is triggered only if the device is allowed to sleep from screen timeout while charging. Pressing the power button at any time will cancel the timeout.

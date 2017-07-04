@@ -1,5 +1,18 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. The most famous current use of quantum computers is [Integer factorisation using Shor's algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm), where it is already faster than classical computers (in run-time complexity).
+1. The Bic pen was made (not invented) by a Mr.Bich. He changed the pen's name from Bich to Bic after he learned about how the English would pronounce it.
+1. [Anna Gunn](https://en.wikipedia.org/wiki/Anna_Gunn), the Skyler White actress, actually lives in New Mexico. Her commute must have been excellent.
+1. [Paris, Ontario](https://en.wikipedia.org/wiki/Paris,_Ontario) was named after the [plaster](https://en.wikipedia.org/wiki/Plaster#Gypsum_plaster) famous in Paris, rather than Paris itself. "Plaster of Paris" was made with gypsum found in [Montmartre](https://en.wikipedia.org/wiki/Montmartre), a hill in Paris.
+1. A teenth is 1/16.
+1. [Giancarlo Esposito](https://en.wikipedia.org/wiki/Giancarlo_Esposito): father Italian, mother African American, born in Copenhagen.
+1. [The Donald posts on the_donald](https://www.reddit.com/user/the-realDonaldTrump).
+1. ["Never make the same mistake twice"](https://www.quora.com/What-does-Gus-mean-when-he-advises-Walt-Dont-make-the-same-mistake-twice) is exactly the same as "Always learn from your mistakes."
+1. In season one of Breaking Bad, two people died. [In season two, they reckon 176 did.](http://breakingbad.wikia.com/wiki/List_of_deaths_on_Breaking_Bad)
+1. Chemo patients don't grow beards. Not sure how Walter was doing it.
+1. There are more calories in [African American coffee](https://funsubstance.com/fun/239676/id-like-an-african-american-coffee/) from being hot than from being coffee. (Simply being 60 degrees Celcius gives around 80 Calories.)
+1. [At low concentrations, both musk and skunk smell sweet.](https://www.quora.com/What-does-musk-smell-like) At high concentrations, musk smells like crap, and skunk smells like skunk.
+1. Any website is "web-scale".
 1. Adam in the bible did not have the largest penis on Earth at any given time.
 1. Apparently displays can appear to have a ["jelly-like" effect](https://www.xda-developers.com/oneplus-is-aware-of-the-jelly-scrolling-effect-some-oneplus-5-owners-are-reporting/) if contents are scrolled while upside down.
 1. "9H hardness", frequently used to quantify tempered glass screen protectors, is [well under 6 on mohs hardness scale.](http://www.moutfitters.com/blog/true-hardness-tempered-glass-screen-protector/) There does not appear to be a conversion table available, because pencil hardness is a colour scale.

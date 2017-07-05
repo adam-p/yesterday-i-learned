@@ -1,3 +1,4 @@
+1. Ecstasy (MDMA) might curb alcoholism. User reports that ravers who use MDMA are banned from bars, because they would enter, just to ask for free water.
 1. [Androstadienone](https://en.wikipedia.org/wiki/Androstadienone), substance with possible pheromone-like effects on hetereosexual women and homosexual men, is said to be included in many male fragrances. [Androstenol](https://en.wikipedia.org/wiki/Androstenol), another similar chemical, *is* a human pheromone, and is found in truffles.
 1. It is uncommon for the hand crease to [go all the way across the palm](https://en.wikipedia.org/wiki/Single_transverse_palmar_crease). Down syndrome patients often have this. So palm reading has some reasoning, after all.
 1. Mayflies molt once more after getting functional wings. This is unique among insects. The shortest-living adult mayflies are the *Dolania americana*, for just five minutes.
@@ -34,7 +35,7 @@
 1. [Key lime](https://en.wikipedia.org/wiki/Key_lime) is its own fruit, like a lime but not really.
 1. According to sources, the clearer (and less sticky) the vaginal discharge, the more fertile the [person](https://www.youtube.com/watch?v=sFBOQzSk14c) is.
 1. [A difference in blood pressure between arms can mean (cardiovascular) trouble](http://www.acsh.org/news/2017/01/01/difference-blood-pressure-between-arms-can-mean-trouble-10666). So be sure to measure both arms.
-1. Females Sunfish can produce up to 300,000,000 eggs at a time.
+1. Female Sunfish can produce up to 300,000,000 eggs at a time.
 1. If you hit your head, [then hit your head again when the brain is still swollen](https://en.wikipedia.org/wiki/Second-impact_syndrome), the problem gets way worse.
 1. [Surface veins can be flushed away with saline solution](https://www.reddit.com/r/BetterEveryLoop/comments/6bje27/-/dhn9444) ("Sclerotherapy"), which is good for you, but doctors say don't try this at home.
 1. [Lyme disease](https://en.wikipedia.org/wiki/Lyme_disease) is not just the ticks, but also the bacteria carried by the ticks. [Treatment can take six months.](https://www.cdc.gov/lyme/postlds/)

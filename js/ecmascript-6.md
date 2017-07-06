@@ -1,10 +1,13 @@
-* [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let), which works much like `var`, has the following differences:
-    * `let` declarations are not hoisted.
-    * If there's a `var` in an `if` block, it will be declared outside the block [to the nearest function scope](http://ariya.ofilabs.com/2013/05/es6-and-block-scope.html). `let` limits its scope to inside the block (which, if you like brackets, makes some sense)
-    * `let`s cannot be declared in the same scope twice. So, you cannot use `let`s in multiple `switch` statements.
+## [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) and `const`
+
+* `let` declarations are not hoisted.
+* If there's a `var` in an `if` block, it will be declared outside the block [to the nearest function scope](http://ariya.ofilabs.com/2013/05/es6-and-block-scope.html). `let` limits its scope to inside the block (which, if you like brackets, makes some sense)
+* `let`s cannot be declared in the same scope twice. So, you cannot use `let`s in multiple `switch` statements.
     * You can use `for(let i = 0;...)` to limit `i` to the `for` block, and jshint won't complain like it does for `var`.
     * You can also use `let` to directly make a block: `let(foo='bar', baz='buz') { /* use foo inside */}`
 * `const` [does NOT](http://exploringjs.com/es6/ch_variables.html) mean immutable. If you `const` an object, it is still mutable; the const itself just cannot be reassigned.
+
+## Arrays and array-like things
 * [Array comprehension](http://ariya.ofilabs.com/2013/02/es6-and-destructuring-assignment.html):
 
 ```
@@ -14,6 +17,8 @@
 [console.log(t, a) for ({title: t, author: a} of books)];
 [for (book of books) console.log(book.title, book.author)];
 ```
+
+## Destructuring
 
 * Destructuring assignment:
 
@@ -57,21 +62,7 @@ Function signatures are no special case. They also automatically destructure an 
 function getFullName({ firstName, lastName })  // Extracts firstName and lastName from the first argument object
 ```
 
-* [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html): a virtual wrapper that can handle property reads and changes on the original object.
-
-```
-var engineer = { name: 'Joe Sixpack', salary: 50 };
- 
-var interceptor = {
-  set: function (receiver, property, value) {
-    console.log(property, 'is changed to', value);
-    receiver[property] = value;
-  }
-};
- 
-engineer = Proxy(engineer, interceptor);
-```
-
+## Functions
 * Spread (packing) and Rest (unpacking):
 
 ```
@@ -82,11 +73,21 @@ foo(...[1,2,3,4,5]);
 * Arrow notation: only `=>`, no `->`, and no context binding.
 
 ```
-array.map((p) => p * 2);  
+array.map((p) => p * 2);
 array.reduce((p, q) => (p + q));  // example with two arguments
 ```
 
 `arguments` cannot be used inside arrow functions, much like `this` cannot be.
+
+* [Arrow functions can be multiline](http://ilikekillnerds.com/2015/01/a-guide-to-es6-arrow-functions/), but they also make the `return` statement compulsary.
+
+```
+var a = (foo) => {
+    return foo;
+};
+
+a(3)  // 3
+```
 
 * [Default arguments](http://ariya.ofilabs.com/2013/02/es6-and-default-argument.html):
 
@@ -131,6 +132,30 @@ is equivalent to
 }
 ```
 
+## Classes
+
+* Classes are not hoisted, even if they down-transpile to a function.
+* Classes can be anonymous.
+* [Class definitions are block-scoped, and cannot be redeclared in the same scope.](https://stackoverflow.com/a/36420130/1558430)
+
+## [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html)
+
+Proxies: a virtual wrapper that can handle property reads and changes on the original object.
+
+```
+var engineer = { name: 'Joe Sixpack', salary: 50 };
+
+var interceptor = {
+  set: function (receiver, property, value) {
+    console.log(property, 'is changed to', value);
+    receiver[property] = value;
+  }
+};
+
+engineer = Proxy(engineer, interceptor);
+```
+
+
 * Getter and setters in object shorthands:
 
 ```
@@ -163,7 +188,8 @@ was previously available with an awkward syntax in ES5.
     }
 ```
 
-* Imports and [default imports](http://www.2ality.com/2014/09/es6-modules-final.html) are similar, the only difference being whether the import is wrapped in braces.
+## Imports
+Imports and [default imports](http://www.2ality.com/2014/09/es6-modules-final.html) are similar, the only difference being whether the import is wrapped in braces.
 
 ```
 export default function () { return 4 }
@@ -174,10 +200,9 @@ CallItAnything();  // 4
 foo();  // 5
 ```
 
-* [Default imports can be mixed with named imports on a single line.](http://stackoverflow.com/a/31098182/1558430)
+[Default imports can be mixed with named imports on a single line.](http://stackoverflow.com/a/31098182/1558430)
 
 ```
-
 export default function () { .. this is React }
 export function Component () { ... }
 export function PropTypes () { ... }
@@ -195,52 +220,8 @@ Importing the two named exports under the same names
 * You [cannot](http://stackoverflow.com/questions/30340005/importing-modules-using-es6-syntax-and-dynamic-path) import dynamic paths. (In python, you `__import__(dynamic)`.)
 * `require('a library')` is slower than imports, as the latter can be optimised statically.
 * `import` is [not](http://adrianmejia.com/blog/2016/08/12/Getting-started-with-Node-js-modules-require-exports-imports-npm-and-beyond/#Imports) available in node 6.
-* [Arrow functions can be multiline](http://ilikekillnerds.com/2015/01/a-guide-to-es6-arrow-functions/), but they also make the `return` statement compulsary.
 
-```
-var a = (foo) => {
-    return foo;
-};
-
-a(3)  // 3
-```
-
-* Classes are not hoisted, even if they down-transpile to a function.
-* Classes can be anonymous.
-
-
-## ES7
-
-### Function bind syntax
-
-With the new [function bind syntax](http://blog.jeremyfairbank.com/javascript/javascript-es7-function-bind-syntax/), which is simply syntactic sugar. The JavaScript world is ecstatic about this new proposal:
-
-> Why? Why do we need YET ANOTHER FUCKING WAY OF BINDING `this`? As if constructor binding, function binding, method binding, `call()` `apply()` and `bind()` were'nt enough, we now need FUCKING SYNTACTIC SUPPORT FOR IT? NO. JUST NO. Javascript is turning into a clown car
-
-```
-log = console.log.bind(console);  // is the same as...
-log = ::console.log;  // default bind to itself
-
-bar.call(foo);  // is the same as...
-foo::bar();
-
-world.apply(foo, arguments);  // is the same as...
-foo::world(...arguments);
-```
-
-The new syntax *can* be chained, much like the previous one can be chained.
-
-```
-world
-    .apply(foo, arguments)
-    .apply(foo, arguments);  // is the same as...
-
-foo
-    ::world(...arguments)
-    ::world(...arguments);
-```
-
-### Async/Await
+## Async/Await (ES7)
 
 * `async function`s always return a promise. A `return 5` in an async function returns a promise that resolves with 5.
 * `async function`s always reject with the error if an error is thrown in it.

@@ -241,3 +241,9 @@ Sometimes (but not according to the docs), unless you wrap all that in `<table>`
 
 [github]: https://github.com/devilry/devilry-deploy/blob/master/docs/src/migrationguides/1.4.0.rst#2-----migrate-the-database
 [readthedocs]: http://south.readthedocs.org/en/latest/dependencies.html
+
+### `class Meta` has nothing in it
+
+Say for a normal python class `Foo(object)` containing another class `Bar(object)`, in which an attribute `baz = 1`, you access that attribute with `Foo.Bar.baz`, no problem.
+But if you have a Django `Foo(Model)` with a class `Meta(object)` and `index_together = [...]` inside, you will find [this POS](https://stackoverflow.com/a/10344218/1558430): `AttributeError: class Meta has no attribute 'index_together'`
+No worries though, [you can still find what you want in `Foo._meta.index_together`](https://stackoverflow.com/a/15395241/1558430).

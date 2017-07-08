@@ -1,3 +1,6 @@
+1. With the exception of HPV type 2, HPV types that cause plantar warts [don't](https://en.wikipedia.org/wiki/Human_papillomavirus_infection) infect anywhere else.
+1. Old people not sleeping well is a dot product of [fewer hours asleep, and less of the time in REM state while sleeping.](http://www.businessinsider.com/why-older-people-wake-up-early-2014-10)
+1. Trees remove waste by moving it into parts that fall off, like leaves, flowers, and fruit.
 1. Ecstasy (MDMA) might curb alcoholism. User reports that ravers who use MDMA are banned from bars, because they would enter, just to ask for free water.
 1. [Androstadienone](https://en.wikipedia.org/wiki/Androstadienone), substance with possible pheromone-like effects on hetereosexual women and homosexual men, is said to be included in many male fragrances. [Androstenol](https://en.wikipedia.org/wiki/Androstenol), another similar chemical, *is* a human pheromone, and is found in truffles.
 1. It is uncommon for the hand crease to [go all the way across the palm](https://en.wikipedia.org/wiki/Single_transverse_palmar_crease). Down syndrome patients often have this. So palm reading has some reasoning, after all.

@@ -1,5 +1,15 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. 640K displays ought to be enough for everybody.
+1. Ham radio operators use [call signs](https://en.wikipedia.org/wiki/Amateur_radio#Call_signs), basically a unique ID per station, to identify themselves. Canadian call signs that start with CY indicate islands.
+1. Working out in the evening [supposedly](https://www.reddit.com/r/Fitness/comments/6lonqw/buzzfeed_employee_tries_dietfitness_plan_based_on/) prevents you from eating too much for the rest of the day. This often responds with weight loss.
+1. [**Want to refactor legacy code? Write tests.**](https://softwareengineering.stackexchange.com/questions/122014/what-are-the-key-points-of-working-effectively-with-legacy-code) Step one is to make the code not clean, but testable. Step two is refactoring without failing those tests. [Working Effectively With Legacy Code](https://www.amazon.com/dp/0131177052/?tag=stackoverfl08-20) is written for languages with compilers.
+1. Spain is not a federation, but a highly decentralized unitary state. In essence, powers are more local than federal. In practice, it means nothing to tourists.
+1. RAID 5 is single distributed striped parity (1 disk worth of backups spread among all disks, at least 3). RAID 6 is double distributed striped parity (2 disks worth of backups spread among all disks, at least 4).
+1. [RAID 01 is just two RAID 0s with the same contents in it](https://en.wikipedia.org/wiki/Nested_RAID_levels). RAID 10 is just two RAID 1s put side by side to make a combined volume twice the size. RAID 50 is just two RAID 5s put side by side to make a combined volume twice the size. RAID 60 is just two RAID 6s put side by side to make a combined volume twice the size. (...)
+1. "Recipes are useless if you don't cook. To-do lists are useless if you don't do." - Me
+1. The [inside of a cordless drill](http://i.imgur.com/AZfCA4q.jpg) is actually substance.
+1. The "ghetto" is where minorities live in groups, typically as a result of some socioeconomic pressure. It has nothing to do with how bad a place is. A ghetto can be a beautiful little India if they do it properly.
 1. The [ISO 31-0 standard](https://en.wikipedia.org/wiki/ISO_31-0#Numbers) defines the [thin space](https://en.wikipedia.org/wiki/Thin_space), ` ` (looks like a normal space in monospace, obviously) as the digit grouping separator, i.e. '1 000 000', rather than '1,000,000'.
 1. 1.4142... is the square root of 2. You use it to estimate how much longer the Manhattan distance would be between two points.
 1. Beef goes up to AAA; chicken only goes up to A.

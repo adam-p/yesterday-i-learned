@@ -1,3 +1,4 @@
+1. If you charge a lithium ion battery to 60% and stop, the wear is 0.1 cycles worth. 70%? 0.14. [80%? 0.26.](https://accubattery.zendesk.com/hc/en-us/articles/210384245-Quick-start-infographic?mobile_site=false) 85%? 0.35. 90%? 0.48. 95%? 0.66. 100%? 1, obviously. Battery life still depends on the actual hours since made, so just because 1/0.26 = 3.84, it doesn't mean you get a battery that lasts 3.8x longer (more like 2).
 1. [Keto](https://en.wikipedia.org/wiki/Tautomer) form is the one with a ketone group; Enol form is the one with that ketone group reduced to an alcohol group, but a nearby C-C sigma bond hybridising with a pi (aka double bond). [Keto-enol tautomerism](https://en.wikipedia.org/wiki/Keto%E2%80%93enol_tautomerism) occurs in aqueous solutions only (faster if either acidic or basic).
 1. When cereal makers say they add iron to it, [they actually add solid Fe-0](http://littleshop.physics.colostate.edu/Try%20At%20Home/IronCereal.htm). Not even oxide, just iron.
 1. Replacing BPA with [BPF](https://en.wikipedia.org/wiki/Bisphenol_F) or [BPS](https://en.wikipedia.org/wiki/Bisphenol_S) (i.e. "BPA-free") is [not that great](https://www.youtube.com/watch?v=QuMGc0EswTc&feature=youtu.be). BPF/BPS can alter testosterone levels.
@@ -32,3 +33,4 @@
 1. The [pH of urine](https://www.rnceus.com/ua/uaph.html) can vary wildly from 4.5 to 8. It correlates to whatever pH your body is, which can be low (dehydration) or high (crazy illnesses, see link).
 1. [Oxalic acid](https://www.livescience.com/56237-why-spinach-makes-teeth-feel-weird.html) is the cause of spinach making your teeth feel funny. Too much (now calcium oxalate) in your kidneys become kidney stones.
 1. Henna is light brown. There is no such thing as black henna. [Black henna is P-Phenylenediamine](https://en.wikipedia.org/wiki/P-Phenylenediamine), which is a banned skin irritant (for henna).
+1. Microscopic glass cracks get bigger as you drop the phone more often.

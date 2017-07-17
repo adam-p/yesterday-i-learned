@@ -1,3 +1,11 @@
+1. Foot cramps can be caused by [almost everything](http://www.achillespodiatry.com/what-is-causing-your-foot-cramps/).
+1. Given the daily potassium intake should be something like [5g](https://en.wikipedia.org/wiki/Potassium#Biological_role), replacing sodium with potassium for any occasion seems like a good idea.
+1. Potatoes were domesticated in Peru.
+1. Natural plants don't need to be repotted because they already have all the space they need to grow out their roots.
+1. Bananas used to be the gros michel variety before 1960, which now has major problems with fungal infections.
+1. Luxation is a cool word for dislocation.
+1. Scientists [estimated](https://www.theguardian.com/science/2009/feb/07/dinosaur-lifespan) Sue the T-rex to have lived just 30 years, and all T-rex to live around 20 to 30 years.
+1. [Take Daraprim to like cats less.](https://en.wikipedia.org/wiki/Pyrimethamine) The drug treats toxoplasmosis, the only reason people like being around cats in the first place.
 1. With the exception of HPV type 2, HPV types that cause plantar warts [don't](https://en.wikipedia.org/wiki/Human_papillomavirus_infection) infect anywhere else.
 1. Old people not sleeping well is a dot product of [fewer hours asleep, and less of the time in REM state while sleeping.](http://www.businessinsider.com/why-older-people-wake-up-early-2014-10)
 1. Trees remove waste by moving it into parts that fall off, like leaves, flowers, and fruit.
@@ -66,7 +74,7 @@
 1. An erect turtle penis looks like [Anthurium][wikipedia 101], a common type of flower.
 1. Raccoons are called Washbär (washing bear) in Germany because they wash things a lot.
 1. [(Most) Moths make cocoons.][wikipedia 105] Butterflies harden and make chrysalides instead.
-1. [(Most) Moths have apposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.][wikipedia 106] Butterflies have superposition eyes ("cones" equivalent) instead.
+1. [(Most) Moths have superposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.][wikipedia 106] Butterflies have apposition eyes ("cones" equivalent) instead.
 1. [Caribou eyes change colour](https://i.imgur.com/779RwKL.jpg) every season to see in the optimum spectrum. (Pictured: different species)
 1. [Animals use salt licks too!][wikipedia 108] Some pits are natural mineral licks.
 1. [Nails are more permeable than skin.](https://en.wikipedia.org/wiki/Nail_(anatomy)#Permeability)
@@ -77,7 +85,7 @@
 1. [Passerine](https://en.wikipedia.org/wiki/Passerine) birds have three toes pointing forward and one toe back, which facilitates perching, which, in turn, implies many of them are songbirds.
 1. Appendicitis is often caused by a [fecolith](https://en.wikipedia.org/wiki/Fecaloma), aka shit stone.
 1. Baleen whales [have hind legs](https://en.wikipedia.org/wiki/Baleen_whale#Motion). They are entirely vestigial, but they have hind legs.
-1. [Baby lobsters](https://de.wikipedia.org/wiki/Hummer#/media/File:Juvenile-lobster.jpg) look just like lobsters, but smaller.dlobsdl
+1. [Baby lobsters](https://de.wikipedia.org/wiki/Hummer#/media/File:Juvenile-lobster.jpg) look just like lobsters, but smaller.
 1. Bed bugs can [also] be detected by their characteristic smell of rotting raspberries.
 1. [Orcas](https://en.wikipedia.org/wiki/Killer_whale) have just as much latitudinal range as humans do (all oceans).
 1. Sloths have green algae growing in their fur, which dyes them green, camouflaging with the thick forests that they live in.
@@ -155,7 +163,7 @@
 1. Fat people are much more likely to have arthritis. Because gravity.
 1. Some concerns over stem cell research: cross-species transmission, and degradation of organ hosts (human parts grown for the same of organ harvesting are not treated as humans).
 1. Roman makeup [reportedly](http://www.livescience.com/65-face-cream-ancient-roman-women.html) contained fat, starch, and tin.
-1. Cold dogs (like huskies and doges) shed in the spring.
+1. Cold dogs (like huskies and doges) shed in the spring. Hot dogs never shed.
 1. The distinct lychee smell (not taste) is 100% [lost through canning](https://en.wikipedia.org/wiki/Lychee). It can only be smelled when eating fresh. Nine fresh lychees provides the daily requirement of vitamin C. It otherwise provides next to no nutritional value.
 1. (Some) fish can be eaten raw and chicken cannot, [simply](https://www.youtube.com/watch?v=9aoTr9CbHew) because fish bacteria usually aren't that harmful to humans.
 1. Invertibrate moulting is called [ecdysis](http://en.wikipedia.org/wiki/Ecdysis). Exoskeleton is shed off, and the soft, new exoskeleton inside expand to accomodate the animal's larger body before it hardens again.

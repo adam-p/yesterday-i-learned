@@ -1,6 +1,50 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
-1. 640K displays ought to be enough for everybody.
+1. New Hampshire is known as the granite state. Its capital city is [Concord](https://en.wikipedia.org/wiki/Concord,_New_Hampshire), a place you have never heard of.
+1. Side menus in every offical Google app [are all different widths](http://imgur.com/a/v2d6v).
+1. [Superfamily](https://en.wikipedia.org/wiki/Superfamily_%28band%29) was known as Norway's most well-educated and acedemic band. *"At one point, every member of the band had Master's degrees, or were in the progress of getting one. Vocalist Steven Wilson holds a Ph.D. in chemistry.[24] He defended his thesis, On-line multidimensional LC-techniques. Determinations of known and unknown compounds in limited and complex samples, in December 2007."*
+1. Manitoba was Tinytoba [when it joined the confederation in 1870](https://upload.wikimedia.org/wikipedia/commons/6/6b/Canada_provinces_evolution_frame.png).
+1. [Afterbirth](http://www.urbandictionary.com/define.php?term=Afterbirth), mixture of fluids emitted after childbirth, does not give your baby superpowers.
+1. There is [no reference](https://en.wikipedia.org/wiki/Wizard_%28software%29) who first started calling software walkthroughs, 'wizards'.
+1. Pac Man was originally going to be called Puck Man, but was changed because Fuck Man.
+1. Every odd number has a 'e' in it; excluding 'and', the first number to have an 'a' is 'one thousand'.
+1. The fastest object to be propelled by man, apart from trivial things like particles, was a [manhole cover](https://en.wikipedia.org/wiki/Operation_Plumbbob#Propulsion_of_steel_plate_cap), at 0.02% the speed of light.
+1. Three-toed sloths are reportedly much nicer than two-toed sloths.
+1. Bill Murray did Garfield because he signed on thinking [Joel Coen](http://www.imdb.com/name/nm0001054/) wrote it. [Joel Cohen](https://en.wikipedia.org/wiki/Joel_Cohen_%28writer%29) (with the H) did.
+1. The ZIP in ZIP code stands for Zone Improvement Plan.
+1. Arnold Schwarzenneger was the first civilian to own a Hummer.
+1. [Saint-Louis-du-Ha! Ha!, QC](https://en.wikipedia.org/wiki/Saint-Louis-du-Ha!_Ha!) has two exclamation marks in its name. It is, along with the rivers that flow near it, the only places on Earth with two exclamation marks in their names.
+1. Something known as ["10mm"](https://www.amazon.com/TEKTON-14115-4-Inch-Shallow-6-Point/dp/B000NYA1XY/ref=pd_lpo_vtph_469_lp_t_3/132-1839096-9099206?_encoding=UTF8&psc=1&refRID=53N3J210BWNFHRNT9RFZ) is car mechanics' favourite lost item.
+1. Tenants who share a kitchen or bathroom with the landlord [can be evicted with no advance notice](http://www.legalline.ca/legal-answers/do-tenants-have-rights-if-they-only-rent-a-room/), because the Residential Tenancies Act does not apply. Landlords and renters are encouraged to have a document written to cover all cases that the Act does otherwise.
+1. A quad HD AMOLED screen has only 20% more pixels as a 1080p LCD display, when it should have almost 80% as many.
+1. An orthotic's "break in period" is for your foot, not for the orthotic itself.
+1. [Vitas](https://en.wikipedia.org/wiki/Vitas) (Vitaliy Grachov) has a five-octave vocal range.
+1. Labatt 50 changed itself to Labatt 150 on Canada's 150th birthday.
+1. ["...for every breath you take, there's a ... 99% ... chance that you're breathing in at least one molecule of Caesar's farts from his last day alive."](https://www.quora.com/What-percentage-of-breathable-air-on-earth-has-been-part-of-a-fart)
+1. Because owning a home requires taking care of it, percentage home ownership in a neighbourhood directly impacts how nice a neighbourhood is, and, to a certain extent, negatively impacts the crime rate in the same neighbourhood. This implies rentals are often in high-crime areas.
+1. Clear red signs of a house that cannot be bought: 1) bad location 2) smells (nearby landfill, mold, or ventilation issues) 3) uneven flooring 4) no natural lighting 5) oddly-shaped rooms 6) parking spaces that you can't get into.
+1. 過往由於冰室只持有小食牌照，除了售賣飲品外，只能販賣三文治、糕餅等，而不能供應即時製作如炒飯、小菜等熟食。
+1. The *clip* is a machanism that holds cartridges together, so they are easier to load into the *magazine*.
+1. The Vatican ruled that [their daily bread must contain at least some gluten](https://www.rt.com/viral/395810-gluten-free-holy-bread/), just as their wine must be made from unsoured grapes, both for reasons they can probably explain.
+1. 90% of participants would switch the flip in the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem), killing one instead of five. The percentage is much lower when that one person is one's lover.
+1. Le nom de la quiche might have come from German *Kuchen*, cake/tart.
+1. [`(a + b)(c + d) = a(c + d) + b(c + d)`](http://www.mathwords.com/f/foil_method.htm) is apparently called the FOIL method? First ("ac") outer ("ad") inner ("bc") last ("bd"). Back in my day, we just called it the binomial expansion.
+1. Walter White is written to be slowly blinded by money and/or ambition, [even himself](http://i.imgur.com/BdzuGWg.jpg).
+1. "America's real safety net is drugs, alcohol, cheap food, and free porn." Attributed to a Henry Rollins
+1. Compass is the "two sticks" thing you use to draw circles. Protractor is the plastic disc you use to measure angles.
+1. [It's odd in the northwest](https://www.reddit.com/r/AskReddit/comments/6lyjnc/what_is_the_most_useful_thing_you_know/djxmfq1/): even numbered buildings will be on the south and east sides of streets. It only works in the US though, and, assuming you have eyes, can't you just look?
+1. A bat [held onto a rocket](http://imgur.com/gallery/bwP6u) once. And only once.
+1. Fun fact: despite absolutely being able to say "hello", [them](https://www.reddit.com/r/videos/comments/6m5w72/japanese_girl_has_one_minute_to_make_5_random/).
+1. Fresh tuna is tough and has no flavour. Age it for a few days first.
+1. Selfie sticks are banned from Disney theme parks.
+1. [A plane](https://en.wikipedia.org/wiki/North_American_B-25_Mitchell) [crashed](https://en.wikipedia.org/wiki/1945_Empire_State_Building_B-25_crash) into the Empire State Building and [it didn't collapse](https://i.redd.it/p4ier7ehw27z.jpg).
+1. [Public opinion](https://www.reddit.com/r/uwaterloo/comments/6lalj8/shawerma_plus_portions/) recommends shawarma wraps in this order: Lazeez, Mozys, Shawarma Plus.
+1. /r/dickpics is full of pictures of Richards.
+1. "[There are phones that bend in half, and there are phones that don't bend in half.](https://www.youtube.com/watch?v=r3cWVdLqXCg)" - Jerry, from Zack's Rig
+1. Indians (Hindus; Northeast) were looking for ways to dispose of bodies using the river in a way that [they won't wash back up](http://www.planetcustodian.com/2015/10/19/8134/over-50-scary-images-depicting-filth-of-varanasi-and-river-ganges-that-went-viral-in-china.html). [They are still doing it](http://www.featureshoot.com/2017/02/a-death-photographer-on-the-sacred-river-ganges/). Don't worry though, [it's not like anyone drinks out of that river or anything.](https://en.wikipedia.org/wiki/Ganges#Pollution_and_environmental_concerns)
+1. The "90 degrees north" version of Polar Ice vodka is called that because it is 90 proof. Also because North pole.
+1. The non-sugarcoated version of [正露丸](https://en.wikipedia.org/wiki/Seirogan) claims to also treat toothaches (use by filling cavity with crushed pill). The main ingredient is [wood-tar creosote](https://en.wikipedia.org/wiki/Creosote#Wood-tar_creosote), some sort of smoky greasy liquid.
+1. 640K displays ought to be enough for everybody. (A 640K display is more than 300 1080p displays tiled together on each side.)
 1. Ham radio operators use [call signs](https://en.wikipedia.org/wiki/Amateur_radio#Call_signs), basically a unique ID per station, to identify themselves. Canadian call signs that start with CY indicate islands.
 1. Working out in the evening [supposedly](https://www.reddit.com/r/Fitness/comments/6lonqw/buzzfeed_employee_tries_dietfitness_plan_based_on/) prevents you from eating too much for the rest of the day. This often responds with weight loss.
 1. [**Want to refactor legacy code? Write tests.**](https://softwareengineering.stackexchange.com/questions/122014/what-are-the-key-points-of-working-effectively-with-legacy-code) Step one is to make the code not clean, but testable. Step two is refactoring without failing those tests. [Working Effectively With Legacy Code](https://www.amazon.com/dp/0131177052/?tag=stackoverfl08-20) is written for languages with compilers.
@@ -109,7 +153,7 @@
 1. [If you go to a walk-in clinic, your family doctor gets paid less.](http://www.ctvnews.ca/health/why-your-walk-in-clinic-visits-could-mean-trouble-for-your-family-doctor-and-you-1.2775362)
 1. When marijuana is legalised, the government is obligated to keep prices low, to undercut the black market. After the black market is gone, they can freely increase prices for taxation.
 1. [In the early days of colonoscopies, attempts to burn off polyps in the colon ignited explosive hydrogen gas in the colon of several unlucky people, sometimes with tragic results. The colon-cleansing preparations people now take the night before a colonoscopy have solved the problem.](http://www.ctvnews.ca/mobile/flatulence-expert-defines-normal-output-rate-1.269197)
-1. Raising interest rates make stocks drop because higher rates hurt companies' bottom line.
+1. On one hand, raising interest rates make stocks drop because higher rates hurt companies' bottom line; on the other hand, if the rate hiked is less than the rate expected (e.g. +0.25% rather than +0.5%), then the market will still go up.
 1. Tree removals are very expensive. So is dirt. "Dirt cheap" isn't a thing.
 1. Donkey Kong has nothing to do with donkeys.
 1. Nautical miles were defined as one minute of latitude.
@@ -276,7 +320,7 @@
 1. If vacation days cannot be carried forward over New Year, suspect you can convert all of them into pay, and then simply not getting paid for the future days you don't go to work, netting $0.
 1. "Meat and Great" doesn't work as a slogan.
 1. Walter Lewin, the professor known for drawing dotted lines on chalkboards, was charged for sexual harrassment.
-1. Amazon was an online book store 20 years ago. It sold nothing else.
+1. Amazon was an online book store 20 years ago. It sold nothing else. [The boss looked like a book nerd.](https://i.imgur.com/BfZ6roy.jpg)
 1. The only Family Guy character that moves at a given time is the character that is talking (a side effect of animators being lazy/underpaid/both). After a few seasons, they also kill their own jokes by explaining them right after (a side effect of lengthening the show without adding substance).
 1. Justin [reportedly](http://www.thespec.com/news-story/5968652-justin-trudeau-out-of-his-father-s-shadow-and-into-power/) likes Labatt 50. He's just not ready.
 1. 56g of daily minimum of protein intakes is like a kilogram of food, give or take. Depends on what you eat, obviously (300g of beans or 2 kilos of spinach or...)
@@ -1046,7 +1090,7 @@
 1. It is [always wise to wear black][buytshirtsonline]. Black instils confidence, intelligence, and attracts (at least) the opposite sex. It is also the best colour to wear to interviews, funerals, weddings, and some sort of gaming event.
 1. ["The more development I do the more I feel like increased Lines Of Code (LOC), nearly always results in increased bugs."][mayerdan]
 1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
-1. Ontario only: [there is a maximum on how much your landlord can raise your rent][ontariotenants], and it is different every year. The maximum percentage increase (1.5%) has been dropping since 1977 (8%). This applies only to buildings built before 1991; Bill 96 allows landlords of any building constructed after 1991 to increase rent as they see fit.
+1. Ontario only: [there is a maximum on how much your landlord can raise your rent][ontariotenants], and it is different every year. The maximum percentage increase (1.5%) has been dropping since 1977 (8%). This applies only to buildings built before 1991; Bill 96 allowed landlords of any building constructed after 1991 to increase rent as they see fit, while [Bill 124](http://www.lexology.com/library/detail.aspx?g=b6a910c1-d862-4e32-9fd2-0056f19b3e93) repeals that exact thing, capping annual increase to 2.5%.
 1. A fool-proof way to poach an egg is to [strain away all of the egg white][seriouseats], says mister López-Alt.
 1. Discarded human waste, along with disintegrating [mudbricks][wikipedia 120], create [tells][wikipedia 121], elevated mounds of stuff. Sometimes "Tel" gets into the location's name. Tel Aviv might be one.
 1. [Cob][wikipedia 122] is poor man's building material, similar to [adobe][wikipedia 123], which a company named itself for its building block properties.
@@ -1237,7 +1281,7 @@
 1. Naval Maps are centered at America, [cutting Asia in half][imgur 11].
 1. Since mercury adheres to itself stronger than usual liquids (read: high surface tension), [sponges cannot absorb it][imgur 12].
 1. [Papa and Mama don't have lettuce, but the Uncle and Teen do.][reddit 59] Uncle and Teen also share the same L nose, while the rest of the family all have round noses.
-1. [Death throes][ldoceonline], not death rows!
+1. [Death throes][ldoceonline] are annoying sound made by people about to die. [Death rows](https://en.wikipedia.org/wiki/Death_row) are a place for people to hang out before they are executed.
 1. Winning is only half the battle.
 1. Washroom hand dryers spread around 60~1300 times more germs than paper towels, [according to a flawed study][telegraph].
 1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.

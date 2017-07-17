@@ -106,6 +106,9 @@
 1. The use of ‘-ize’ spellings is part of the house style at Oxford University Press; the -ize ending corresponds to the Greek verb endings -izo and –izein. Then, for whatever reason, -ise is now used more in the UK.
 1. The stress on eczema is always on the first E.
 1. "Cajones" means drawers. "Cojones" means balls.
+1. *Punjab*, in Persian, means "five waters". [Land of the five waters](https://en.wikipedia.org/wiki/Punjabis). That which is now Pakistan and India (northwest) was conquered by the Persians. Punjabi is the [third native language in Canada](https://en.wikipedia.org/wiki/Punjabi_language), and unusual among [its language group](https://en.wikipedia.org/wiki/Indo-European_languages) for being a [tonal language](https://en.wikipedia.org/wiki/Tone_%28linguistics%29).
+1. *Helico-pter* means "spiral wings."
+1. Japanese formal writing ends questions with [か](https://japanese.stackexchange.com/questions/24805/do-you-need-a-question-mark-to-indicate-a-question-in-japanese) rather than '?'
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

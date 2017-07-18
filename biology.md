@@ -1,3 +1,5 @@
+1. If you have a brain tumour, [chances are](http://www.medicinenet.com/script/main/mobileart.asp?articlekey=296&questionid=55) you will also experience one or two more unexplainable issues, like vision problems, trouble balancing, nausea, or hearing things.
+1. Coconut oil treats dry skin and [cradle cap](https://en.wikipedia.org/wiki/Cradle_cap)
 1. Foot cramps can be caused by [almost everything](http://www.achillespodiatry.com/what-is-causing-your-foot-cramps/).
 1. Given the daily potassium intake should be something like [5g](https://en.wikipedia.org/wiki/Potassium#Biological_role), replacing sodium with potassium for any occasion seems like a good idea.
 1. Potatoes were domesticated in Peru.

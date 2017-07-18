@@ -1,5 +1,10 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Ellen DeGeneres voiced Dory the blue tang. Blue tangs can live for 20 years.
+1. WiFi "Guest mode" mainly disables LAN access, not Internet access. Think your printers and network shares.
+1. [The 13th Doctor Who is a woman.](https://www.theverge.com/2017/7/16/15973556/jodie-whittaker-bbc-doctor-who-thirteenth-series-eleven-2018-tardis)
+1. [Volkswagan made currywurst](https://de.wikipedia.org/wiki/Volkswagen-Currywurst), and it looks like they are still making it.
+1. [STUN](https://en.wikipedia.org/wiki/STUN) used to stand for Simple Traversal of UDP through NAT; now it stands for Session Traversal Utilities for NAT.
 1. New Hampshire is known as the granite state. Its capital city is [Concord](https://en.wikipedia.org/wiki/Concord,_New_Hampshire), a place you have never heard of.
 1. Side menus in every offical Google app [are all different widths](http://imgur.com/a/v2d6v).
 1. [Superfamily](https://en.wikipedia.org/wiki/Superfamily_%28band%29) was known as Norway's most well-educated and acedemic band. *"At one point, every member of the band had Master's degrees, or were in the progress of getting one. Vocalist Steven Wilson holds a Ph.D. in chemistry.[24] He defended his thesis, On-line multidimensional LC-techniques. Determinations of known and unknown compounds in limited and complex samples, in December 2007."*

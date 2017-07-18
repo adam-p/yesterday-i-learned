@@ -109,6 +109,8 @@
 1. *Punjab*, in Persian, means "five waters". [Land of the five waters](https://en.wikipedia.org/wiki/Punjabis). That which is now Pakistan and India (northwest) was conquered by the Persians. Punjabi is the [third native language in Canada](https://en.wikipedia.org/wiki/Punjabi_language), and unusual among [its language group](https://en.wikipedia.org/wiki/Indo-European_languages) for being a [tonal language](https://en.wikipedia.org/wiki/Tone_%28linguistics%29).
 1. *Helico-pter* means "spiral wings."
 1. Japanese formal writing ends questions with [か](https://japanese.stackexchange.com/questions/24805/do-you-need-a-question-mark-to-indicate-a-question-in-japanese) rather than '?'
+1. *Cognates* are words that have the same origin, e.g. is, ist, est, esti.
+1. According to Google Translate *and* [Wickerpedia](https://en.wikipedia.org/wiki/Nokia), Nokia is pronounced 'Nokia in Finnish.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

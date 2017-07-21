@@ -1,5 +1,26 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [Cat litter](https://en.wikipedia.org/wiki/Litter_box) can be made of many materials, like clay, [zeolite, diatomite and sepiolite], calcium bentonite (clumping formula), silica gel, and all sorts of other biodegradable options. There are litter boxes that scoop up the poop automatically, apparently...
+1. Each request for legs can give you 587 of them.
+1. Herring has a great fibrous texture.
+1. That mentally special ["air horn sound"](https://www.youtube.com/watch?v=QVw5mnRI8Zw) found in many new songs are from a rap trend in the 80s.
+1. [Asking potential employers "how do you reward tenure?" during an interview is very revealing about the company.](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
+1. "HODL" is a typo of HOLD. It originated [here](https://bitcointalk.org/index.php?topic=375643.0).
+1. When people have less money for budget, [they buy more cheap things to compensate for not buying expensive things](https://www.theguardian.com/business/2017/jul/15/the-lipstick-effect-britons-treat-themselves-as-budgets-tighten).
+1. Putting an employee on PIP (performance improvement plan), whether or not there is a performance issue, is [a great way to legally fire someone for no reason](https://www.thebalance.com/is-a-pip-the-first-step-in-firing-an-employee-3980663).
+1. Ask for directions from a dog walker. Dog walkers are likely local, likely walk a lot, and likely know the roads on which they walk.
+1. *Yinz* is Pittsburghers' unique version of *Y'all*.
+1. French stop signs say "ARRET\nSTOP". Quebec signs just say "ARRET".
+1. By total length, Birmingham has more canals than Venice.
+1. 75% of the mass of the universe is hydrogen, and 25% helium. The rest are insignificant.
+1. In Jurassic World, two children save themselves by fixing a 20-year old Jeep. Trouble is, gas doesn't last that long, and nowhere does the scene show gasoline.
+1. The gunslinger character in the original Westworld movie was a copy of Chris Adams, the protagonist of The Magnificent Seven. Same actor (Yul Brynner), same outfit.
+1. T-Mobile was/is owned by Deutsche Telekom.
+1. AlphaBay founder Alexandre Cazes decided it would be cool to end his own life when the site got shut down.
+1. Demetria "Demi" Lovato actually has that real last name.
+1. [Amputees are never handcuffed to a vehicle door](https://www.quora.com/How-are-amputees-handcuffed), because of liability issues should the vehicle be set on fire. Other wastes of time include trying to handcuff double amputees, or pregnant women that get arrested for some reason.
+1. Fun fact: if you have a car without a trunk, like a hatchback or a trunk, then [you can store your gun next to your seat, unlocked, underneath a blanket, pretty much indefinitely](http://firearmslaw.ca/gun-law-resources/firearms-storage-transportation/), as long as it is unloaded... legally speaking, anyway. Don't be surprised if a judge screws you over by saying [a car that isn't moving is considered storage](http://www.gunownersofcanada.ca/showthread.php?10081-Truck-or-Car-Gun), though.
+1. The original version of the Pokérap had mewtwo, but not mew.
 1. Ellen DeGeneres voiced Dory the blue tang. Blue tangs can live for 20 years.
 1. WiFi "Guest mode" mainly disables LAN access, not Internet access. Think your printers and network shares.
 1. [The 13th Doctor Who is a woman.](https://www.theverge.com/2017/7/16/15973556/jodie-whittaker-bbc-doctor-who-thirteenth-series-eleven-2018-tardis)

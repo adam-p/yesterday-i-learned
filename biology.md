@@ -1,3 +1,9 @@
+1. Locusts are grasshoppers on steroids (the kind of steroids that are caused by overcrowding). "Increased tactile stimulation of the hind legs causes an increase in levels of serotonin. This causes the locust to change colour, eat much more, and breed much more easily. The transformation of the locust to the swarming form is induced by several contacts per minute over a four-hour period."
+1. "Heavy days" mean as much as 90mL of blood.
+1. [Food preferences may be inherited.](http://www.supermarketguru.com/articles/are-food-preferences-inherited-or-learned.html)
+1. Poops get worse during a period.
+1. Institute estimates about [450 periods per woman](http://www.arhp.org/Publications-and-Resources/Studies-and-Surveys/Menstruation-and-Menstrual-Suppression-Survey/fact-sheet), which translates to around 38 years of fertility, and [over 9000 tampons](http://www.huffingtonpost.ca/entry/period-cost-lifetime_n_7258780). Say if (idk) it begins at 13, that extends to age 51.
+1. The deadliest kind of brain cancer, [glioblastoma](https://zh.wikipedia.org/wiki/%E8%83%B6%E8%B4%A8%E6%AF%8D%E7%BB%86%E8%83%9E%E7%98%A4), happens to be the most common kind.
 1. If you have a brain tumour, [chances are](http://www.medicinenet.com/script/main/mobileart.asp?articlekey=296&questionid=55) you will also experience one or two more unexplainable issues, like vision problems, trouble balancing, nausea, or hearing things.
 1. Coconut oil treats dry skin and [cradle cap](https://en.wikipedia.org/wiki/Cradle_cap)
 1. Foot cramps can be caused by [almost everything](http://www.achillespodiatry.com/what-is-causing-your-foot-cramps/).

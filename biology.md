@@ -1,3 +1,9 @@
+1. Penis bone: [baculum](https://en.wikipedia.org/wiki/Baculum).
+1. [Multiple organisms](https://en.wikipedia.org/wiki/Necrotizing_fasciitis) cause flesh-eating disease. Worryingly, Group A Strep and E Coli are among the usual suspects, and already reside on/in the skin prior to the wound.
+1. For some reason, "the feeling of sadness, anxiety, agitation or aggression after sexual intercourse" is prevalent enough to be given the term "Post-coital tristesse".
+1. [Twins can absorb the other one](https://en.wikipedia.org/wiki/Vanishing_twin).
+1. Book gills are found externally, while [book lungs](https://en.wikipedia.org/wiki/Book_lung) are found internally
+1. Endoskeletons are better than exoskeletons not because of strength, but because of the convenience of not having to change your shell every few months.
 1. Locusts are grasshoppers on steroids (the kind of steroids that are caused by overcrowding). "Increased tactile stimulation of the hind legs causes an increase in levels of serotonin. This causes the locust to change colour, eat much more, and breed much more easily. The transformation of the locust to the swarming form is induced by several contacts per minute over a four-hour period."
 1. "Heavy days" mean as much as 90mL of blood.
 1. [Food preferences may be inherited.](http://www.supermarketguru.com/articles/are-food-preferences-inherited-or-learned.html)

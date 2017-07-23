@@ -1,3 +1,9 @@
+1. Use [disiamylborane](https://en.wikipedia.org/wiki/Disiamylborane) to turn terminal alkynes into aldehydes.
+1. [Diethyl ether](https://en.wikipedia.org/wiki/Diethyl_ether) can be used as a general anesthetic.
+1. [Isovaleric acid](https://en.wikipedia.org/wiki/3-Methylbutanoic_acid) is your cheesy feet smell.
+1. [Diethylene glycol](https://en.wikipedia.org/wiki/Diethylene_glycol) is a poisonous diol that can be dissolved in almost everything.
+1. [Sodium thiopental](https://en.wikipedia.org/wiki/Sodium_thiopental) is a lethal injection used in the US.
+1. Tubes must be inserted in pairs in a [centrifuge](https://en.wikipedia.org/wiki/Laboratory_centrifuge#Microcentrifuge_tubes) so they spin balanced.
 1. There is no such thing as a "frame of reference" for a photon. Photons do not have positions.
 1. [Thioacetone](https://en.wikipedia.org/wiki/Thioacetone) is a molecule so stinky that few have studied it.
 1. If you charge a lithium ion battery to 60% and stop, the wear is 0.1 cycles worth. 70%? 0.14. [80%? 0.26.](https://accubattery.zendesk.com/hc/en-us/articles/210384245-Quick-start-infographic?mobile_site=false) 85%? 0.35. 90%? 0.48. 95%? 0.66. 100%? 1, obviously. Battery life still depends on the actual hours since made, so just because 1/0.26 = 3.84, it doesn't mean you get a battery that lasts 3.8x longer (more like 2). The equation appears to follow `y = 0.0027 * e^{5.8x}`.
@@ -5,7 +11,7 @@
 1. When cereal makers say they add iron to it, [they actually add solid Fe-0](http://littleshop.physics.colostate.edu/Try%20At%20Home/IronCereal.htm). Not even oxide, just iron.
 1. Replacing BPA with [BPF](https://en.wikipedia.org/wiki/Bisphenol_F) or [BPS](https://en.wikipedia.org/wiki/Bisphenol_S) (i.e. "BPA-free") is [not that great](https://www.youtube.com/watch?v=QuMGc0EswTc&feature=youtu.be). BPF/BPS can alter testosterone levels.
 1. [Cobalt-chrome](https://en.wikipedia.org/wiki/Cobalt-chrome) is an alloy made with cobalt and chrome.
-1.[Pop fizzes more when you shake it](https://www.scienceabc.com/pure-sciences/why-a-soft-drink-bottle-fizzes-when-opened.html) as a direct consequence of you adding energy into the bottle by shaking it. More energy upsets the equilibrium, giving trapped gas enough energy to break surface tension, forming bubbles.
+1. [Pop fizzes more when you shake it](https://www.scienceabc.com/pure-sciences/why-a-soft-drink-bottle-fizzes-when-opened.html) as a direct consequence of you adding energy into the bottle by shaking it. More energy upsets the equilibrium, giving trapped gas enough energy to break surface tension, forming bubbles.
 1. [The mint lifesaver glows in the dark when bitten into.](http://recipes.howstuffworks.com/question505.htm) "Actually, all hard sugar-based candies emit some degree of light when you bite them, but most of the time, that light is very faint." Crystalline sugar emits energy as UV light when crushed, and the methyl salicylate in that mint absorbs UV light and emits visible light.
 1. [TNT](https://en.wikipedia.org/wiki/Trinitrotoluene) is not [trinitroglycerin](https://en.wikipedia.org/wiki/Nitroglycerin), which can be made by slowly adding 1:1 HNO3/H2SO4 into cold glycerol. The HNO3/H2SO4 process is done twice for TNT, plus an extra nitration step using HNO3 and oleum (apparently).
 1. Whatever you used to call "precipitate out", apparently professional chemists just call "crash out". It involves making a soluble compound insoluble by, well, changing the solubility of the solvent.

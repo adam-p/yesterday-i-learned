@@ -1,5 +1,10 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. "Klismaphilia", the love for enemas. They even have special aluminium nozzles for the job.
+1. [Drowning is a way to kill Wolverine.](https://scifi.stackexchange.com/questions/14347/how-to-kill-wolverine) Healing does not work after death. This is evident in his death in Logan (oh right spoilers). He had an X for his grave, marked by his ["daughter" Laura (X-23)](https://en.wikipedia.org/wiki/X-23).
+1. "A classic car is like a pet dog. One day it's gonna let you down and die." - Clarkson on pet dogs
+1. How low you must have gotten if you are best known for [being punched in the face](https://en.wikipedia.org/wiki/Bart_Sibrel).
+1. [The Romanian flag is indistinguishable from Chad's flag](http://www.msn.com/en-au/travel/other/10-of-the-worlds-most-confusing-flags-and-how-to-figure-them-out/ar-BBvIfW5) under the sun. They are slightly different shades of blue, yellow, and (maybe even the same) red.
 1. [Cat litter](https://en.wikipedia.org/wiki/Litter_box) can be made of many materials, like clay, [zeolite, diatomite and sepiolite], calcium bentonite (clumping formula), silica gel, and all sorts of other biodegradable options. There are litter boxes that scoop up the poop automatically, apparently...
 1. Each request for legs can give you 587 of them.
 1. Herring has a great fibrous texture.

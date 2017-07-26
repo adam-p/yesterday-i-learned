@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. VW has a [VR engine](https://en.wikipedia.org/wiki/VR6_engine) (Vmotorreihenmotor) that is a V engine, except a bit more stacked, closer to inline.
 1. Car engines have mounts. [Otherwise, they pop out.](http://www.reddit.com/r/justrolledintotheshop/comments/57jlc4/_/)
 1. Mechanics change your oil by first [pumping pressurised gas](https://www.reddit.com/r/Justrolledintotheshop/comments/5a22jc/never_trust_the_new_guy_to_drain_an_oil_bin/d9d3xg7/) into the "oil bins", emptying them.
 1. If you end up being idiotic enough to buy a !Toyota, remember to take into account the [outrageous warranty](https://www.youtube.com/watch?v=QJNO6p54bUI) that you will want to buy.

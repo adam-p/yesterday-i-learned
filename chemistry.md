@@ -1,3 +1,4 @@
+1. [Gamma-Hydroxybutyric_acid](https://en.wikipedia.org/wiki/Gamma-Hydroxybutyric_acid) (GHB) and [Gamma-Butyrolactone](https://en.wikipedia.org/wiki/Gamma-Butyrolactone) (GBL, the prodrug) have date-rape effects. Fun fact, it is not illegal to possess GBL in Canada.
 1. Use [disiamylborane](https://en.wikipedia.org/wiki/Disiamylborane) to turn terminal alkynes into aldehydes.
 1. [Diethyl ether](https://en.wikipedia.org/wiki/Diethyl_ether) can be used as a general anesthetic.
 1. [Isovaleric acid](https://en.wikipedia.org/wiki/3-Methylbutanoic_acid) is your cheesy feet smell.

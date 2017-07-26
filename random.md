@@ -1,5 +1,10 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Two mochis stacked on top of each other becomes [鏡餅](https://en.wikipedia.org/wiki/Kagami_mochi), some sort of Japanese new year cake.
+1. Although fencing is not done with real [rapiers](https://en.wikipedia.org/wiki/Rapier), Spanish people did really stab others with them.
+1. Campus democrats are [found](https://pjmedia.com/trending/2017/04/28/study-finds-democrats-least-tolerant-of-opposing-views/) to be less tolerant than republicans, when it comes to opposing views.
+1. You use your phone 50% more on weekends.
+1. Don't eat out. But ["When you do eat out, make it count"](https://www.reddit.com/r/minimalism/comments/6p1zw1/spartan_living_will_make_your_life_easier/)
 1. So many people owned "四驅車" that it became the term for model racing cars, rather than actual 4WD vehicles. AKA "Mini 4WD", they are [actually](http://donsmini4wd.blogspot.ca/2013/05/blog-post.html) powered by four wheels, but there is no diff so they might as well be RWD.
 1. [Tomica](https://en.wikipedia.org/wiki/Tomica) has a disproportionate number of Toyota and Nissan models.
 1. Reddit's database has two tables [*per thing*](https://www.reddit.com/r/programming/comments/z9sm8/reddits_database_has_only_two_tables/), not just two tables. How they use it, they didn't say, but one of the tables appear to be a [meta or paginator of sorts](https://github.com/reddit/reddit/blob/master/r2/r2/models/listing.py).

@@ -1,5 +1,17 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. So many people owned "四驅車" that it became the term for model racing cars, rather than actual 4WD vehicles. AKA "Mini 4WD", they are [actually](http://donsmini4wd.blogspot.ca/2013/05/blog-post.html) powered by four wheels, but there is no diff so they might as well be RWD.
+1. [Tomica](https://en.wikipedia.org/wiki/Tomica) has a disproportionate number of Toyota and Nissan models.
+1. Reddit's database has two tables [*per thing*](https://www.reddit.com/r/programming/comments/z9sm8/reddits_database_has_only_two_tables/), not just two tables. How they use it, they didn't say, but one of the tables appear to be a [meta or paginator of sorts](https://github.com/reddit/reddit/blob/master/r2/r2/models/listing.py).
+1. [70% of Ionic deploy users work where the entire company has fewer than 10 employees.](https://ionicframework.com/survey/2017#results)
+1. Roombas can monetise themselves by [selling your floor plan to third parties.](http://gizmodo.com/roombas-next-big-step-is-selling-maps-of-your-home-to-t-1797187829)
+1. There are three ways to punish someone with [the wheel](https://en.wikipedia.org/wiki/Breaking_wheel): either beaten while tied up to the wheel, beaten up and displayed on the wheel like a cross, or, simply, hitting the dude with the wheel.
+1. More than 60000 people live in a town called [Medicine Hat](https://en.wikipedia.org/wiki/Medicine_Hat).
+1. The Japanese term for "idiot-proofing" is [Poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke), originally called Baka-yoke, which fell out of favour because of the "baka". In the case of poka-yoke, the idiots are actually factory workers, rather than the users.
+1. "Exit Music (For a Film)" is a Radiohead song. There are four Radiohead songs in the Westworld album.
+1. Braille comes in two types: [uncontracted](http://www.rnib.org.uk/braille-and-other-tactile-codes-portal-braille-codes/uncontracted-grade-1-braille-explained) (1:1 with alphabets), and [contracted](http://www.rnib.org.uk/braille-and-moon-%E2%80%93-tactile-codes-braille-codes/contracted-grade-2-braille-explained) (with single-cell codes for common word patterns like 'sh' and 'the'). Virtually all printed braille is contracted.
+1. [This wiki article](https://en.wikipedia.org/wiki/Unisex_name#English) claims that Ashley, Beverly, Carol, Evelyn, Hillary, Joyce, Kelly, Lindsay, Shannon, Shirley, Tracy, and Vivian were all masculine names, before being popular among females.
+1. The fastest path to go from a high point to a low point is the [Brachistochrone curve](https://en.wikipedia.org/wiki/Brachistochrone_curve).
 1. "Klismaphilia", the love for enemas. They even have special aluminium nozzles for the job.
 1. [Drowning is a way to kill Wolverine.](https://scifi.stackexchange.com/questions/14347/how-to-kill-wolverine) Healing does not work after death. This is evident in his death in Logan (oh right spoilers). He had an X for his grave, marked by his ["daughter" Laura (X-23)](https://en.wikipedia.org/wiki/X-23).
 1. "A classic car is like a pet dog. One day it's gonna let you down and die." - Clarkson on pet dogs

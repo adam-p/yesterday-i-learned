@@ -1,3 +1,9 @@
+1. If you find a giant cavity in your chest, that's called [Pectus excavatum](https://en.wikipedia.org/wiki/Pectus_excavatum)
+1. [Velvet ant](https://en.wikipedia.org/wiki/Mutillidae) is the most painful stinging *wasp*. They only sting when aggravated. Velvet aunts always hit you where it hurts the most: your heart.
+1. [Tapeworms do different things in different stomachs.](http://www.thedogplace.org/images/Illustrations/Dogworms-Taenia-tape_lanting.jpg) They lay eggs in predator stomachs, and form protective cysts in prey stomachs.
+1. Book binding has traditionally been done with [wheatpaste](https://en.wikipedia.org/wiki/Wheatpaste), or simply *paste*.
+1. Pepto-bismol might make you [grow hair on your tongue.](https://en.wikipedia.org/wiki/Black_hairy_tongue)
+1. If your thumb bends backwards too much, it is called the [hitchhiker's thumb](https://udel.edu/~mcdonald/myththumb.html).
 1. Penis bone: [baculum](https://en.wikipedia.org/wiki/Baculum).
 1. [Multiple organisms](https://en.wikipedia.org/wiki/Necrotizing_fasciitis) cause flesh-eating disease. Worryingly, Group A Strep and E Coli are among the usual suspects, and already reside on/in the skin prior to the wound.
 1. For some reason, "the feeling of sadness, anxiety, agitation or aggression after sexual intercourse" is prevalent enough to be given the term "Post-coital tristesse".

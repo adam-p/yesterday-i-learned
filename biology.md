@@ -1,3 +1,6 @@
+1. When you lower food intake, [your metabolic rate goes down with it](https://intensivedietarymanagement.com/biggest-loser-diet-explained/) so starvation diets don't work. That paper presents ketogenic diet as a way to keep your metabolic rate high.
+1. The Paso Fino horse have a very smooth gait. They are the smoothest riding horses.
+1. Rabbits birth young that are born blind and hairless. Hares are born relatively well-prepared. Neither have enough body fat to be a survival food.
 1. If you find a giant cavity in your chest, that's called [Pectus excavatum](https://en.wikipedia.org/wiki/Pectus_excavatum)
 1. [Velvet ant](https://en.wikipedia.org/wiki/Mutillidae) is the most painful stinging *wasp*. They only sting when aggravated. Velvet aunts always hit you where it hurts the most: your heart.
 1. [Tapeworms do different things in different stomachs.](http://www.thedogplace.org/images/Illustrations/Dogworms-Taenia-tape_lanting.jpg) They lay eggs in predator stomachs, and form protective cysts in prey stomachs.

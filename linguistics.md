@@ -111,6 +111,7 @@
 1. Japanese formal writing ends questions with [か](https://japanese.stackexchange.com/questions/24805/do-you-need-a-question-mark-to-indicate-a-question-in-japanese) rather than '?'
 1. *Cognates* are words that have the same origin, e.g. is, ist, est, esti.
 1. According to Google Translate *and* [Wickerpedia](https://en.wikipedia.org/wiki/Nokia), Nokia is pronounced 'Nokia in Finnish.
+1. "Celt" ultimately came from Greek *Keltoi* ("barbarian") and is pronounced with a hard K.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

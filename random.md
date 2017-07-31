@@ -1,6 +1,26 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
-1. Two mochis stacked on top of each other becomes [鏡餅](https://en.wikipedia.org/wiki/Kagami_mochi), some sort of Japanese new year cake.
+1. Tetanus is caused by [Clostridium tetani](https://en.wikipedia.org/wiki/Clostridium_tetani), an anaerobic bacterium. An infected nail not only has to be rusty, it must also puncture the skin to reach the anaerobic meat inside.
+1. "Ben屎" is a brand of vehicle. "石屎" is a name for concrete.
+1. Malta and Italy are the world's top two consumers of rabbits, more than 5kg per person-year.
+1. For normal car owners (people who already own, pay for, and maintain a car), driving is 10x ~ 12x more economical than taking Uber. For people who don't own a car (people who would otherwise have to buy a car and pay for insurance and maintenance), that difference is only 2x.
+1. Zehrs has a gas station in Stratford.
+1. The country with the highest sales tax goes to either Bhutan, at [50%](https://tradingeconomics.com/country-list/sales-tax-rate), or Hungary, at [27%](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates), depending on the sources you trust.
+1. BLU (the phone manufacturer) stands for Bold Like Us.
+1. Any personal project is a good personal project if [it has a gif demo in the readme](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/). Apart from you and your own self esteem, no one cares about your code.
+1. Bill Burr on cows: "We have such a crazy relationship with cows. You ever think about that? You can nurse from it, you can eat it, alright? You can tip it over when it's sleeping. But if you fuck it, you're going to jail."
+1. A good thing about depdendency injection over imports is that [injected depdendencies do not need full paths declared](https://stackoverflow.com/questions/32365877/why-use-dependency-injection-when-you-can-import-a-java-class), so you can swap these dependencies with different implementations however you like.
+1. [Sci-Hub](http://www.sciencemag.org/news/2017/07/sci-hub-s-cache-pirated-papers-so-big-subscription-journals-are-doomed-data-analyst) is the world's library of pirated scientific journals. It's great.
+1. Quite a bit of rural Australia is [still farmland](http://i.imgur.com/PZSiEJU.jpg).
+1. The Titanic broke inwards (crushed at the middle), but the movie depicted it as breaking outwards (middle separated).
+1. Women in burqas often report vitamin D deficiency.
+1. The Louisiana Purchase was more of a "if you don't sell it, we will just invade that land and take it anyway" kind of deal.
+1. A [bench hook](https://en.wikipedia.org/wiki/Bench_hook) provides an edge for your hands to push a piece of wood onto.
+1. "The ironic thing is this: If you decide that you can live with downtime, and therefor with a much less complex system - your uptime will increase. Of course." - [Moans Nogood](http://wedonotuse.blogspot.ca/2007/04/so-few-really-need-uptime.html) (really? that's the real name?)
+1. [Jewish people don't really know who they are.](https://en.wikipedia.org/wiki/Who_is_a_Jew%3F#Legal_structure_in_Israel) They can define "Jew" not as a race, not as skin tone (there are Ethiopian Jews), not by religion (you can make that stuff up), not even by Israel (what, before or after it was recreated?)
+1. Painting your bathroom light blue [suddenly](http://www.marketwatch.com/story/paint-your-bathroom-this-color-and-boost-your-homes-selling-price-by-5400-2017-06-04?siteid=rss&rss=1) raises your house price by $5400 on average.
+1. MediaTek is "not that much worse" than Qualcomm *iff* [you don't use custom ROMs](https://www.reddit.com/r/Android/comments/6p8nio/is_mediatek_really_that_worse/).
+1. Two mochis stacked on top of each other become [鏡餅](https://en.wikipedia.org/wiki/Kagami_mochi), some sort of Japanese new year cake.
 1. Although fencing is not done with real [rapiers](https://en.wikipedia.org/wiki/Rapier), Spanish people did really stab others with them.
 1. Campus democrats are [found](https://pjmedia.com/trending/2017/04/28/study-finds-democrats-least-tolerant-of-opposing-views/) to be less tolerant than republicans, when it comes to opposing views.
 1. You use your phone 50% more on weekends.

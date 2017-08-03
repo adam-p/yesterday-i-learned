@@ -1,5 +1,16 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. A ["down round"](https://unsupervisedmethods.com/the-uber-of-startup-lingo-a-translation-of-47-startup-one-liners-c5f21e255e74) is when a company raises money at a lower valuation than a previous round. And apparently a "flight risk" is employee(s) who may leave soon.
+1. Bangalore is officially known as Bengaluru.
+1. *Hasta la vista*, "until the sight", just means "bye".
+1. [How to combat AYCE buffets saving money](http://www.savethestudent.org/save-money/food-drink/get-the-most-out-of-an-all-you-can-eat-buffet.html): only go to restaurants with the food you like. Poop in the morning, eat cereal for breakfast, do some exercises, then go to a lunch buffet. Start with a soup, eat slowly, and avoid soft drinks.
+1. [How AYCE buffets save money](https://www.psychologytoday.com/blog/the-science-behind-behavior/201510/how-all-you-can-eat-buffets-use-psychology-make-money): "[if a] relatively expensive protein (say, a platter of steak) [is] surrounded by four or five cheaper veggie side dishes [...] studies show that [...] people tend to pick and consume more vegetables. [...] potatoes and rice trays are huge and filled to the brim thus encouraging large servings. [...] Compared to those in the highest BMI tertile (top third), those in the lowest one were more than twice as likely to browse the buffet first (71.0% vs. 33.3%), almost three times as likely to use chopsticks rather than a fork (23.5% vs. 8.7%), and chew more times (14.8 vs. 11.9)."
+1. The French call it ["en ligne"](https://www.collinsdictionary.com/dictionary/french-english/en-ligne) just because it sounds exactly like "online". 🤦
+1. Compared to USB keyboards and mice, [PS/2 peripherals send interrupts.](https://www.youtube.com/watch?v=AWkvzycD5PE) This reduction of latency makes PS/2 keyboards and mice still somewhat relevant for pro gaming.
+1. People wanted thin bezels, so OnePlus made the fifth phone ($813) narrower. [But also taller. The screen to body ratio is still 73%.](http://www.gsmarena.com/compare.php3?idPhone1=8416&idPhone2=8647)
+1. Some Clack dude reads this repo.
+1. "無三不成幾" came from 西游记 ["常言道，事无三不成，你进洞两遭了，再进去一遭，管情救出师父来也。"](https://baike.baidu.com/item/%E6%97%A0%E4%B8%89%E4%B8%8D%E6%88%90%E5%87%A0), and is supposed to mean "you should try more", rather than the literal "'A few' means at least three."
+1. Wikipedia claims that [Roast beef](https://en.wikipedia.org/wiki/Roast_beef) is served at Sunday dinners ("Sunday roasts") after church.
 1. Tetanus is caused by [Clostridium tetani](https://en.wikipedia.org/wiki/Clostridium_tetani), an anaerobic bacterium. An infected nail not only has to be rusty, it must also puncture the skin to reach the anaerobic meat inside.
 1. "Ben屎" is a brand of vehicle. "石屎" is a name for concrete.
 1. Malta and Italy are the world's top two consumers of rabbits, more than 5kg per person-year.

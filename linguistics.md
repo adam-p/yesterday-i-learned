@@ -1,3 +1,5 @@
+1. Oh my god, it's [wheelbarrow](https://en.wikipedia.org/wiki/Wheelbarrow), not wheel barrel.
+1. [To *cant* something](https://www.merriam-webster.com/dictionary/cant) is to put it at an angle.
 1. [螄蚶](https://zh.wikipedia.org/wiki/%E6%B3%A5%E8%9A%B6) is pronounced si1 ham1.
 1. [Bean](https://blogs.transparent.com/irish/bean-or-ban-or-mna-or-mban-how-to-say-woman-women-in-irish-just-in-time-for-nollaig-na-mban-on-6-january/) might mean "woman" in Irish.
 1. If you include some Scottish place names, [every letter in English can be silent in one word](https://en.wikipedia.org/wiki/Silent_English_alphabet).

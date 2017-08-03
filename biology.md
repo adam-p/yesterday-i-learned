@@ -1,3 +1,5 @@
+1. [Apamin](https://en.wikipedia.org/wiki/Apamin) (2% of bee venom) is the smallest neurotoxin polypeptide known, and the only one that passes the blood-brain barrier.
+1. [Left-handed women are more likely to get breast cancer than right-handed women](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2360366/#bib2), either due to whatever it is that they are, whatever it is that they do differently, or nothing in particular.
 1. When you lower food intake, [your metabolic rate goes down with it](https://intensivedietarymanagement.com/biggest-loser-diet-explained/) so starvation diets don't work. That paper presents ketogenic diet as a way to keep your metabolic rate high.
 1. The Paso Fino horse have a very smooth gait. They are the smoothest riding horses.
 1. Rabbits birth young that are born blind and hairless. Hares are born relatively well-prepared. Neither have enough body fat to be a survival food.

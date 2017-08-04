@@ -1,3 +1,4 @@
+1. Cyclohexanhexone aka [Brianone](https://en.wikipedia.org/wiki/Cyclohexanehexone), a useless compound, has never been synthesised industrially.
 1. For a brief moment in history (2008-2009), [Calgary limited its trans fat content in cooking oil to under 2%.](https://en.wikipedia.org/wiki/Trans_fat#Health_risks)
 1. [Single-crystal sapphire](https://en.wikipedia.org/wiki/Transparent_ceramics#Sapphire_2) is considered a ceramic.
 1. [Gamma-Hydroxybutyric_acid](https://en.wikipedia.org/wiki/Gamma-Hydroxybutyric_acid) (GHB) and [Gamma-Butyrolactone](https://en.wikipedia.org/wiki/Gamma-Butyrolactone) (GBL, the prodrug) have date-rape effects. Fun fact, it is not illegal to possess GBL in Canada.

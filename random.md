@@ -1,11 +1,21 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Stop (my particular android) device from charging using `echo 0 > /sys/class/power_supply/battery/charging_enabled`. (Use 1 to re-enable, or 2 to blow the phone up.)
+1. [Adjectives](https://www.infoplease.com/language-arts/grammar-and-spelling/adjectives-versus-adverbs-introduction) are equivalent to "Adnouns".
+1. In the cryptocurrency world, you can just [clone a bunch of coins](https://techcrunch.com/2017/08/02/wtf-is-bitcoin-cash-and-is-it-worth-anything/) and end up having twice the amount of money (assuming people want to trade the cloned version).
+1. Apart from the literal meaning, ["per diem"](https://en.wikipedia.org/wiki/Per_diem) appears to mean "daily expense allowance" as well.
+1. 人仔 is worth more than the other kind of dollar now.
+1. Zeta is the sixth Greek alphabet, but [has a value of 7](https://en.wikipedia.org/wiki/Greek_numerals), because man, [screw you](https://en.wikipedia.org/wiki/Stigma_%28letter%29). Classically "Zedta", it is now "Zita" in modern Greek.
+1. "You know you are doing your job when at least three people are angry at you at once" - A clay bar
+1. In 1984, the thought police [removed and reconstructed words](https://en.wikipedia.org/wiki/Newspeak) from the language to make expressions harder ("freedom") or impossible ("god").
+1. [Dick Street](https://www.google.ca/maps/place/Dick+St,+Waterloo,+ON/@43.4564732,-80.5352238,17.75z/data=!4m5!3m4!1s0x882bf4187cbdc25d:0x86ff890d28423903!8m2!3d43.4563352!4d-80.5356282) in Waterloo is very short (~200m).
+1. Mailchimp offers a 10% discount if 2FA is enabled.
 1. A ["down round"](https://unsupervisedmethods.com/the-uber-of-startup-lingo-a-translation-of-47-startup-one-liners-c5f21e255e74) is when a company raises money at a lower valuation than a previous round. And apparently a "flight risk" is employee(s) who may leave soon.
 1. Bangalore is officially known as Bengaluru.
 1. *Hasta la vista*, "until the sight", just means "bye".
 1. [How to combat AYCE buffets saving money](http://www.savethestudent.org/save-money/food-drink/get-the-most-out-of-an-all-you-can-eat-buffet.html): only go to restaurants with the food you like. Poop in the morning, eat cereal for breakfast, do some exercises, then go to a lunch buffet. Start with a soup, eat slowly, and avoid soft drinks.
 1. [How AYCE buffets save money](https://www.psychologytoday.com/blog/the-science-behind-behavior/201510/how-all-you-can-eat-buffets-use-psychology-make-money): "[if a] relatively expensive protein (say, a platter of steak) [is] surrounded by four or five cheaper veggie side dishes [...] studies show that [...] people tend to pick and consume more vegetables. [...] potatoes and rice trays are huge and filled to the brim thus encouraging large servings. [...] Compared to those in the highest BMI tertile (top third), those in the lowest one were more than twice as likely to browse the buffet first (71.0% vs. 33.3%), almost three times as likely to use chopsticks rather than a fork (23.5% vs. 8.7%), and chew more times (14.8 vs. 11.9)."
-1. The French call it ["en ligne"](https://www.collinsdictionary.com/dictionary/french-english/en-ligne) just because it sounds exactly like "online". 🤦
+1. The French call it ["en ligne"](https://www.collinsdictionary.com/dictionary/french-english/en-ligne) ~~just because it sounds exactly like "online". 🤦~~
 1. Compared to USB keyboards and mice, [PS/2 peripherals send interrupts.](https://www.youtube.com/watch?v=AWkvzycD5PE) This reduction of latency makes PS/2 keyboards and mice still somewhat relevant for pro gaming.
 1. People wanted thin bezels, so OnePlus made the fifth phone ($813) narrower. [But also taller. The screen to body ratio is still 73%.](http://www.gsmarena.com/compare.php3?idPhone1=8416&idPhone2=8647)
 1. Some Clack dude reads this repo.
@@ -625,7 +635,7 @@
 1. The fun thing about RRSPs is that if you have been poor, you can put the money you just got from a tax refund right back into the same RRSP for extra refund next year.
 1. /u/learner1314: [Never pump in money into a mutual fund that has invested more than 95% of its money. Instead look at those who have sat on the sidelines and are cash rich with 20-30% of money sitting idle.](https://www.reddit.com/r/investing/comments/5w41k3/warrens_letter/) I believe the reasoning is that funds with some cash leeway can easily overcome a short term market downturn without having to sell existing positions.
 1. From a nurse: "If it's wet and it didn't come from you, don't touch it."
-1. People who sweep chimneys used to get [giant ball cancers](https://en.wikipedia.org/wiki/Chimney_sweeps%27_carcinoma) from soot irritation.
+1. People who sweep chimneys used to get [giant ball cancers](https://en.wikipedia.org/wiki/Chimney_sweeps%27_carcinoma) from soot irritation. Microwaving your own balls in a cartoon [also](https://en.wikipedia.org/wiki/Medicinal_Fried_Chicken) gives you giant ball cancers.
 1. [Peter](http://www.diamandis.com/blog/success-experimentation) says: you *can* do too many experiments with your customers. Before you do an experiment, you need to make sure 1) you don't already know the outcome, and 2) you are willing to change what you are doing once you get the results from the experiment.
 1. When the interviewer asks ["How badly do you want the job"](https://www.forbes.com/sites/lizryan/2017/02/24/how-to-answer-the-question-how-badly-do-you-want-the-job/#8ffa60a36741), you can't win. Try to answer instead the question "What got you interested in the job and the company".
 1. [Vanna White](https://www.wheeloffortune.com/vanna-white), Wheel of Fortune letter turner, has never worn the same dress twice (on TV).

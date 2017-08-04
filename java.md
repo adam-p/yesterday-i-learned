@@ -111,3 +111,4 @@ groovy:000> Boolean.valueOf('true')
 1. In between `public` and `void`, you can specify [bounded parameters](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html) that specifies ... superclasses of that type that can be passed in, I guess. Today I have not learned.
 1. Prior to Java 7, it was impossible to `switch/case` with a string condition.
 1. [`java.util.Date` is actually `Timestamp`, with an underlying implementation of a long.](https://news.ycombinator.com/item?id=14179783) Use something else instead, like jodatime.
+1. In Java, when you make a new instance of an interface (say `MyList(List)`), you can say ["I depend on any class that does this stuff"](https://stackoverflow.com/questions/1992384/program-to-an-interface-what-does-it-mean) and write stuff like `List foo = new MyList()`. This is more apparent when you write a function that takes in "collections of anything, as long as it is a collection."

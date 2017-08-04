@@ -1,8 +1,12 @@
+1. [Trying to kill off the ance bacterium ends up creating antimicrobial-resistant ance bacteria.](https://en.wikipedia.org/wiki/Propionibacterium_acnes) *Propionibacterium acnes* obtain nutrients by digesting the skin/sebum using enzymes.
+1. If you like to fake illnesses all the time to get people's attention, you end up being diagnosed with [Munchausen syndrome](https://en.wikipedia.org/wiki/Munchausen_syndrome), thus fulfilling your own prophecy.
+1. [Plants crave only some electrolytes.](https://www.quora.com/Do-plants-actually-crave-electrolytes) Potassium nitrate is a famous one. They crave both the potassium and the nitrate.
 1. [Apamin](https://en.wikipedia.org/wiki/Apamin) (2% of bee venom) is the smallest neurotoxin polypeptide known, and the only one that passes the blood-brain barrier.
 1. [Left-handed women are more likely to get breast cancer than right-handed women](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2360366/#bib2), either due to whatever it is that they are, whatever it is that they do differently, or nothing in particular.
 1. When you lower food intake, [your metabolic rate goes down with it](https://intensivedietarymanagement.com/biggest-loser-diet-explained/) so starvation diets don't work. That paper presents ketogenic diet as a way to keep your metabolic rate high.
 1. The Paso Fino horse have a very smooth gait. They are the smoothest riding horses.
 1. Rabbits birth young that are born blind and hairless. Hares are born relatively well-prepared. Neither have enough body fat to be a survival food.
+1. [Having a giant one side of the body](https://pocketmortys.net/mortys/paper/203-giant-arm-morty) also has a name, "Hemihypertrophy".
 1. If you find a giant cavity in your chest, that's called [Pectus excavatum](https://en.wikipedia.org/wiki/Pectus_excavatum)
 1. [Velvet ant](https://en.wikipedia.org/wiki/Mutillidae) is the most painful stinging *wasp*. They only sting when aggravated. Velvet aunts always hit you where it hurts the most: your heart.
 1. [Tapeworms do different things in different stomachs.](http://www.thedogplace.org/images/Illustrations/Dogworms-Taenia-tape_lanting.jpg) They lay eggs in predator stomachs, and form protective cysts in prey stomachs.

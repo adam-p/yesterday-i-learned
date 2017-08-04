@@ -18,6 +18,11 @@
 [for (book of books) console.log(book.title, book.author)];
 ```
 
+### New methods
+
+* The equivalent to `all()` is [`.every()`](https://zabanaa.github.io/notes/functional-programming-and-javascript-arrays.html): `let bar: boolean = array.every(x => isTrue(x))`
+* The equivalent to `any()` is [`.some()`](https://zabanaa.github.io/notes/functional-programming-and-javascript-arrays.html): `let bar: boolean = array.some(x => isTrue(x))`
+
 ## Destructuring
 
 * Destructuring assignment:
@@ -132,11 +137,21 @@ is equivalent to
 }
 ```
 
+and a clutch to adding dynamic names is, for some reason, done with square brackets:
+
+```
+let foo = 'foo'
+const obj = {
+  [foo + 'bar']: true
+}
+```
+
 ## Classes
 
 * Classes are not hoisted, even if they down-transpile to a function.
 * Classes can be anonymous.
 * [Class definitions are block-scoped, and cannot be redeclared in the same scope.](https://stackoverflow.com/a/36420130/1558430)
+* If you have the balls to have a [class extends `null`](https://github.com/denysdovhan/wtfjs#function-is-not-function), be prepared to see unexpected behaviours ("function is not a function").
 
 ## [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html)
 

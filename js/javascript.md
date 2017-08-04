@@ -165,6 +165,7 @@ undefined
 * [Try to be explicit](https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/) when it comes to imports. Finding usages of `foo.bar()` is much harder than `require('bar')`.
 * [Web workers don't run if the procotol is file://.](https://stackoverflow.com/questions/21408510/chrome-cant-load-web-worker)
 * If you `a = function () {}`, the function's name will be `a` (not sure why, but there you go.) If you `a = function b() {}`, the function's name will be `b`. If you `(function () {}).name`, that is an empty string. If you `(function (a) { console.log(a.name) }(function () {}))`, you will end up printing an empty string, but return undefined.
+* `<!--` are intentionally allowed as comment markers in JS. [It is part of the spec.](https://github.com/denysdovhan/wtfjs#html-comments-are-valid-in-javascript) To get fired, you need to insert a space in between your mental gymnastics, like so: `if (5 < !--i) { ... }`
 
 ## Deferred API
 

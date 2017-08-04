@@ -39,6 +39,7 @@
 * If you filter by `id__in=queryset`, Django might make it a subquery. But if you do `id__in=list(queryset)`, no matter the size of the queryset, the queryset must be evaluated first, and the two-query version might be faster than the subquery version.
 * Django 1.7 got rid of the `--dry-run` option formerly available in South.
 * Queries can accept [`Variable` instances](https://lincolnloop.com/blog/faster-django-sites-pypy/) where values normally go, so that these queries can be precompiled (and later inserted using `.bind()`). You know, for rare cases when a query takes longer to generate than it takes to run.
+* "Repeatedly getting a certain index in a queryset" is not cached. Unless you evaluate the entire queryset, in which case, it is.
 
 ## WSGI
 

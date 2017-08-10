@@ -166,6 +166,7 @@ undefined
 * [Web workers don't run if the procotol is file://.](https://stackoverflow.com/questions/21408510/chrome-cant-load-web-worker)
 * If you `a = function () {}`, the function's name will be `a` (not sure why, but there you go.) If you `a = function b() {}`, the function's name will be `b`. If you `(function () {}).name`, that is an empty string. If you `(function (a) { console.log(a.name) }(function () {}))`, you will end up printing an empty string, but return undefined.
 * `<!--` are intentionally allowed as comment markers in JS. [It is part of the spec.](https://github.com/denysdovhan/wtfjs#html-comments-are-valid-in-javascript) To get fired, you need to insert a space in between your mental gymnastics, like so: `if (5 < !--i) { ... }`
+* To `apply` a constructor, you [need](https://stackoverflow.com/questions/1606797/use-of-apply-with-new-operator-is-this-possible) to `new (Function.prototype.bind.apply(Foo, [null, a, b, c]));`
 
 ## Deferred API
 
@@ -208,6 +209,7 @@ undefined
 * [Except in Safari][jsperf 2], never pre-allocate arrays.
 * Avoid element reflowing/redrawing (but this is more of a DOM thing rather than JS)
 * Trig (`sin`, `cos`) is [*MUCH slower*](http://jsperf.com/sin-cos-vs-sqrt) than `sqrt`, in cases where the former is applicable.
+* Consider WebAssembly, which is "closer to binary". Files are also sent as binary rather than text, which is faster to load.
 
 ## [Lesser console methods](http://www.mitchrobb.com/chromes-console-api-greatest-hits/)
 

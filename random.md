@@ -1,5 +1,40 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. "[Need onion salt for a recipe?](https://www.thebalance.com/how-to-make-onion-salt-1387993) Ingredients: Onion powder, Salt." "[Need garlic salt for a recipe?](https://www.thebalance.com/how-to-make-garlic-salt-1387987) Ingredients: Garlic powder, Salt." "Need celery salt for a recipe? Ingredients: [Celery **seeds**](https://wholenewmom.com/recipes/homemade-celery-salt-and-how-to-use-it/), Salt."
+1. Batarang is a portmanteau of bat and boomerang, and was originally spelled baterang. Batarangs are more throwing stars than boomerangs.
+1. Companise are bailed out if they employ a large number of people, leading some people to believe that the economy would be unable to sustain such a huge jump in unemployment if the business folded.
+1. The soverign state of Hong Kong coins the term [爛gag](http://evchk.wikia.com/wiki/Gag) to describe what are effectively dad jokes.
+1. [You will have to be fairly messed up to be exempt from Singapore national service.](https://www.quora.com/How-hard-is-it-to-be-exempt-from-National-Service-in-Singapore-What-do-they-do-with-conscripts-who-have-limited-physical-abilities)
+1. Arnold actively trains to retain his accent, evident by the fact that he [can](https://youtube.com/watch?v=kayFrIR-Qfw) imitate the American accent.
+1. A [gramophone](https://en.wikipedia.org/wiki/Gramophone) is a phonograph. A [grandmaphone](http://www.urbandictionary.com/define.php?term=grandma%20phone) is a phone with huge buttons and no screen.
+1. [The son also became the prime minister](https://en.wikipedia.org/wiki/Lee_Hsien_Loong) and his children probably will, too.
+1. ["Singapore"](https://en.wikipedia.org/wiki/Singapore) from Sanskrit सिंहपुर is literally Lion City, hence the lions. The Brits colonised it, made it drive on the left, but lost control in 1959, when [Lee Kuan Yew](https://en.wikipedia.org/wiki/Lee_Kuan_Yew) the god won [the election](https://en.wikipedia.org/wiki/Singaporean_general_election,_1959). Lee died in 2015.
+1. "[The best age to die](https://www.quora.com/What-is-the-best-age-to-die-1) is when your body says you have to die. ... Approaching death robs a bodies strength. Any movement becomes difficult. Your body is telling you it soon must shut down. You sleep all the time and reality hurts. ... Many people know death will soon take them. They say goodbye to their friends, hug their children and then close their eyes forever," says Michael Fitzjohn, member of "the terminal illness club". Before his death, he added, **"Live your life in such a way that you’re smiling as you fade away into eternity."**
+1. Baltimore is on the east coast, roughly where Washington DC is.
+1. In Michigan, [taking in orphaned animals that turn out not to be orphaned count as capturing](https://www.reddit.com/r/pics/comments/6sec8r/deer_find_their_way_into_a_home_to_escape_a_storm/dlcf6jk/).
+1. The wild saying about Lebanon's animal sex law "In Lebanon, men are legally allowed to have sex with animals, but the animals must be female. Having sexual relations with a male animal is punishable by death." might be false. [Sex with animals was outlawed in 1943.](https://en.wikipedia.org/wiki/Legality_of_bestiality_by_country_or_territory)
+1. [Mulan](https://zh.wikipedia.org/wiki/%E8%8A%B1%E6%9C%A8%E5%85%B0) is a story.
+1. Turns out [`localhost` is not necessarily loopback](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04). It never made a spec until August 2017.
+1. [Digs](http://www.urbandictionary.com/define.php?term=digs) means residence. Appears to be `s/\b(house|apartment)s?\b/digs/ig`.
+1. By sheer chance, you went clothes shopping with employees from all of your full-time companies.
+1. Sapporo is basically a worse Heineken.
+1. [It is possible to download files straight from Kodi.](http://www.kodisimplified.com/how-do-i/enable-downloading-option-in-exodus/)
+1. ["Salt was found to improve the perception of product thickness, enhance sweetness, mask metallic or chemical off-notes, and round out overall flavor while improving flavor intensity."](https://www.ncbi.nlm.nih.gov/books/NBK50958/) In other words, salt makes things taste better by manipulating how receptors sense other tastes. See same paper: if you have a low sodium diet, you can substitute some NaCl with a smaller amount of MSG for roughly the same taste.
+1. Almost into 2020, desktop computers still don't come with webcams.
+1. The "Civic Holiday" is not officially known as that in Ontario. Toronto names it Simcoe Day. Ottawa names it Colonel Day. Every city calls it a different, funny name. It is not a statutory holiday.
+1. The [Rothschild family](https://en.wikipedia.org/wiki/Rothschild_family) is primarily Jewish. They earn [a billion a year](http://www.investopedia.com/updates/history-rothschild-family/), give or take a billion.
+1. ["Maybe your preference for women with vaginas over women with penises is, to some degree, influenced by our cissexist society."](https://twitter.com/rileyjaydennis/status/884991412202229760?lang=en) - Riley, some kind of ["gay, trans, nonbinary, queer woman."](http://www.rileyjaydennis.com/about.html) "nonbinary ... woman".
+1. [You are going to die in the Netherlands.](https://www.youtube.com/watch?v=XpQMgbDJPok)
+1. [People rate condoms on the Internet.](http://www.trojanbrands.com/en-CA/condoms/TROJAN-Her-Pleasure-Sensations-Lubricated-Condoms)
+1. According to Expedia, [Northwest territories](https://www.expedia.ca/travelblog/wp-content/uploads/2017/03/DESIGN-Literal-map-of-Canada.png) meant "North-Western territory".
+1. Treadmills were a prison torture device, which also treaded grains (one of it uses). Prisoners did so for six hours a day, which led to malnutrition and death. Modern gyms typically allow you to stop jogging before the six hour mark. (ted.com)
+1. [In 2009, a man in Mozambique fucked a coconut.](https://www.reddit.com/r/tifu/comments/6rr6ay/tifu_by_cumming_into_a_coconut/) To see more fun facts about Mozambique, search for that word in this file.
+1. People prefer letters that are in their names. "The [Letter Preference Task](https://en.wikipedia.org/wiki/Name-letter_effect) is the second-most popular method to measure implicit self-esteem, surpassed only by the Implicit Association Test."
+1. "Peggy Hill is a horrible person. Every episode with a plotline centered around her involves her doing something outlandish, and she uses the good intentions of whatever she's doing to justify her selfish desires. For instance, she wants to be a teacher so she just becomes a nun? Can you imagine if your mom did stuff like that?" - /u/Venntrical
+1. [Matthew Fredrick "Matthias"](http://matthias.wikia.com/wiki/Matthias) is the CEO of Hi5 Studios. As it turns out, [half of everyone there is a C-something-O.](http://hi5studios.com/team/)
+1. [Dude](https://www.youtube.com/watch?v=sdYiUw-lZrk) says it matters to differentiate "GPU" from "graphics card", the card on which the GPU is soldered.
+1. All natural numbers (N) are... integers (Z), which are all rational numbers (Q), which are all real numbers (R)
+1. You can't just add an aftermarket USB to wireless charging pad without needing wireless charging everywhere.
 1. Stop (my particular android) device from charging using `echo 0 > /sys/class/power_supply/battery/charging_enabled`. (Use 1 to re-enable, or 2 to blow the phone up.)
 1. [Adjectives](https://www.infoplease.com/language-arts/grammar-and-spelling/adjectives-versus-adverbs-introduction) are equivalent to "Adnouns".
 1. In the cryptocurrency world, you can just [clone a bunch of coins](https://techcrunch.com/2017/08/02/wtf-is-bitcoin-cash-and-is-it-worth-anything/) and end up having twice the amount of money (assuming people want to trade the cloned version).
@@ -1725,7 +1760,7 @@
 1. The most relevant weather zip code is 14174.
 1. [Muslims cannot cook pork](http://islam.stackexchange.com/questions/10719/can-a-muslim-cook-pig-meat), not because it is a sin, but because eating pork is a sin, and helping others sin (i.e. eat pork) is a sin.
 1. Vermouth is almost no different from sherry. Real vermouth would have aromatics in it, but not if you buy the cheap stuff, like the brand "Martini".
-1. Pyrex does not mean good. Check [the pyrex guide](https://www.reddit.com/r/BuyItForLife/comments/5ji9cq/now_that_pyrex_is_intentionally_weakening_their/) before buying. The glass should not have a bluish tint. Also check [the logo](https://i.imgur.com/olslOMN.jpg) before you buy.
+1. Pyrex does not mean good. Check [the pyrex guide](https://www.reddit.com/r/BuyItForLife/comments/5ji9cq/now_that_pyrex_is_intentionally_weakening_their/) before buying. The glass should not have a bluish tint. Also check [the logo](https://i.imgur.com/olslOMN.jpg) before you buy. The logo you want is all-caps white on red. It should also say "made in France" somewhere.
 1. Stephen Lake, Thalmic Labs, once tried to lower company expenditure by [writing a blog post about how much STEM people should earn.](https://medium.com/@srlake/debunking-the-myth-of-higher-pay-in-silicon-valley-87828cbf6698#.2vrwrfxcr) He failed.
 1. Jet fuel can't melt steel beams, but jet fuel can certainly weaken steel beams.
 1. "Twenty-two astronauts were born in Ohio. What is it about your state that makes people want to flee the Earth?" - Stephen Colbert

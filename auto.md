@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. To clean your engine bay, [vacuum away the dust before you wash it with water.](https://www.youtube.com/watch?v=PRSoRkM8GcM) Disconnect the battery. Don't get any water on the electricals. Actually, just scrap the whole idea of cleaning the engine bay.
+1. The Veloster... [the driver's side has one big door, but the passenger side has two doors](https://www.youtube.com/watch?v=Q3_3yv5JhgA). Hatch opens right over the rear passengers. Horsepower of a Corolla, with fuel economy worse than a Corolla. Less passenger space than a Corolla. Less trunk space than a Corolla. No spare tire. What the heck?
 1. VW has a [VR engine](https://en.wikipedia.org/wiki/VR6_engine) (Vmotorreihenmotor) that is a V engine, except a bit more stacked, closer to inline.
 1. Car engines have mounts. [Otherwise, they pop out.](http://www.reddit.com/r/justrolledintotheshop/comments/57jlc4/_/)
 1. Mechanics change your oil by first [pumping pressurised gas](https://www.reddit.com/r/Justrolledintotheshop/comments/5a22jc/never_trust_the_new_guy_to_drain_an_oil_bin/d9d3xg7/) into the "oil bins", emptying them.

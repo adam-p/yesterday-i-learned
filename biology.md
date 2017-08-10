@@ -1,3 +1,6 @@
+1. First tea, now [枸杞](https://en.wikipedia.org/wiki/Lycium_barbarum), to be the next health drink.
+1. The [gulper catfish](https://imgur.com/NOGHJLn) eat whatever fits through the mouth, including smaller versions of themselves. That's why you don't put catfish with other kinds of fish in a [fish] tank. That's why you can't put catfish anywhere.
+1. Imagine being ginger *and* having [xeroderma pigmentosum](https://en.wikipedia.org/wiki/Xeroderma_pigmentosum) (inability to repair UV damage)
 1. [Trying to kill off the ance bacterium ends up creating antimicrobial-resistant ance bacteria.](https://en.wikipedia.org/wiki/Propionibacterium_acnes) *Propionibacterium acnes* obtain nutrients by digesting the skin/sebum using enzymes.
 1. If you like to fake illnesses all the time to get people's attention, you end up being diagnosed with [Munchausen syndrome](https://en.wikipedia.org/wiki/Munchausen_syndrome), thus fulfilling your own prophecy.
 1. [Plants crave only some electrolytes.](https://www.quora.com/Do-plants-actually-crave-electrolytes) Potassium nitrate is a famous one. They crave both the potassium and the nitrate.

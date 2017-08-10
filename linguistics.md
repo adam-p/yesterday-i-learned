@@ -1,3 +1,4 @@
+1. *Plato* unfortunately calls himself *Plaaton*, rather than "play-doh".
 1. Oh my god, it's [wheelbarrow](https://en.wikipedia.org/wiki/Wheelbarrow), not wheel barrel.
 1. [To *cant* something](https://www.merriam-webster.com/dictionary/cant) is to put it at an angle.
 1. [螄蚶](https://zh.wikipedia.org/wiki/%E6%B3%A5%E8%9A%B6) is pronounced si1 ham1.
@@ -114,6 +115,7 @@
 1. *Cognates* are words that have the same origin, e.g. is, ist, est, esti.
 1. According to Google Translate *and* [Wickerpedia](https://en.wikipedia.org/wiki/Nokia), Nokia is pronounced 'Nokia in Finnish.
 1. "Celt" ultimately came from Greek *Keltoi* ("barbarian") and is pronounced with a hard K.
+1. [Adapter](https://stackoverflow.com/questions/2076321/adapter-or-adaptor) may be spelled "adaptor" if you live on an island.
 
 [youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
 [wikipedia 77]: http://en.wikipedia.org/wiki/Nauru

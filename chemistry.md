@@ -1,3 +1,4 @@
+1. [Soaps are usually fatty acids](http://www.quirkyscience.com/difference-soap-detergent/). Instead of an acid, detergents may have sulfate or sulfonate groups instead.
 1. Cyclohexanhexone aka [Brianone](https://en.wikipedia.org/wiki/Cyclohexanehexone), a useless compound, has never been synthesised industrially.
 1. For a brief moment in history (2008-2009), [Calgary limited its trans fat content in cooking oil to under 2%.](https://en.wikipedia.org/wiki/Trans_fat#Health_risks)
 1. [Single-crystal sapphire](https://en.wikipedia.org/wiki/Transparent_ceramics#Sapphire_2) is considered a ceramic.

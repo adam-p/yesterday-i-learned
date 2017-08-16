@@ -1,3 +1,5 @@
+1. Your grains almost certainly contain weevil larvae.
+1. The only groups of living things that use powered flight are birds, insects, and bats.
 1. First tea, now [枸杞](https://en.wikipedia.org/wiki/Lycium_barbarum), to be the next health drink.
 1. The [gulper catfish](https://imgur.com/NOGHJLn) eat whatever fits through the mouth, including smaller versions of themselves. That's why you don't put catfish with other kinds of fish in a [fish] tank. That's why you can't put catfish anywhere.
 1. Imagine being ginger *and* having [xeroderma pigmentosum](https://en.wikipedia.org/wiki/Xeroderma_pigmentosum) (inability to repair UV damage)

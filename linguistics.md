@@ -1,3 +1,5 @@
+1. Jupiter is secretly YOO-piter and, Uranus, OOranos.
+1. "Grasshopper" in French is ["criquet"](http://www.entomoveproject.com/blog/2014/12/03/the-bug-investigation-locust-grasshopper-cricket-or-katydid/). "Cricket” is then called "un grillon".
 1. *Plato* unfortunately calls himself *Plaaton*, rather than "play-doh".
 1. Oh my god, it's [wheelbarrow](https://en.wikipedia.org/wiki/Wheelbarrow), not wheel barrel.
 1. [To *cant* something](https://www.merriam-webster.com/dictionary/cant) is to put it at an angle.

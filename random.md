@@ -1,5 +1,23 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Chinese men originally get a [new name at the age of 20](https://zh.m.wikipedia.org/wiki/%E8%A1%A8%E5%AD%97). Women, either at the age of 15, or whenever they get married. No longer the case possibly because passports.
+1. The [spur](https://en.wikipedia.org/wiki/Spur) is the spike behind cowboy boots. It annoys the horse and makes it go forward.
+1. Sunni Islam is the world's largest religious denomination, followed by Catholicism. According to Sunni tradition, Muhammad did not clearly designate a successor/caliph ("caliph" being the dude who leads the "caliphate", which is the Muslim world/community.)
+1. [Nejd](https://en.m.wikipedia.org/wiki/Najd) ("the middle of Saudi Arabia") is the birthplace of wahhabism, the fundamentalist branch of beliefs.
+1. A man named Tom [recommends](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439) having integers as primary keys, and another UUID column for whenever these resources/objects are accessed externally. "Primary keys should never be exposed, even UUIDs"
+1. You are supposed to store **UUIDs** as [four bytes](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439), rather than a 36-character string. Smaller, faster for sorting, creating, pretty much everything is better. ORMs already do this for you.
+1. [Nest Egg](http://www.investopedia.com/terms/n/nestegg.asp) means savings (for a purpose).
+1. B&H are the initials of the original owners, Blimie and Herman. ["Barnes and Hobo"](https://www.barnesandnoble.com/) is some other company, which, [*of course*](https://www.google.com/search?q="Barnes+and+Hobo"), is not a clever and original phrase.
+1. A "misdemeanor" is a small wrongdoing that is still worth punishing.
+1. [7% of Canadians go to a McDonalds everyday](http://www.ctvnews.ca/business/mcdonald-s-canada-selling-67-cent-hamburgers-to-mark-50th-birthday-1.3545030).
+1. [Actuaries use numbers rather than guessing to evaluate the likelihood of future events, design creative ways to reduce the likelihood of undesirable events and decrease the impact of undesirable events that do occur.](http://www.academicinvest.com/science-careers/mathematics-careers/how-to-become-an-actuary) "[Hedging](http://www.investopedia.com/terms/h/hedge.asp)" refers to risk reduction. Actuaries can reduce the risk of a portfolio either by manipulating its asset class, or buying "insurance" type actions that prevent too much of a loss in the event of a downturn.
+1. ["The Muslim slave trade was much larger, lasted much longer, and was more brutal than the transatlantic slave trade and yet few people have heard about it."](https://www.youtube.com/watch?v=WolQ0bRevEU)
+1. Uber drivers don't give a flying floop where you sit, as long as you aren't right behind them for a one-passenger booking.
+1. ["I'm in Ontario and everyone I know who died in winter wasn't buried until the spring."](https://www.reddit.com/r/WTF/comments/6t4pwt/corpse_foot_from_neighboring_grave_falls_out_to/dli9orb/) - /u/Keets
+1. The [Chaoui people](https://en.wikipedia.org/wiki/Chaoui_people) of Algeria like to play a flute-like instrument called the [Gasba](https://en.wikipedia.org/wiki/Gasba_music) (gasba literally means "reed" in the [Berber language](https://en.wikipedia.org/wiki/Berber_languages).)
+1. Android devices can be rooted with the [row hammer effect](https://en.wikipedia.org/wiki/Row_hammer). "Repeatedly accessing data stored in memory chips could flip certain bits," say [Arstechnica](https://arstechnica.com/information-technology/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/).
+1. "/r/theydidthemath" "/r/theydidthemonstermath" is not an original joke. ["They did the mash, they did the monster mash"](https://www.youtube.com/watch?v=-z5rIaxycMQ) is actually a song by Bobby Pickett.
+1. [DMZs](https://en.wikipedia.org/wiki/Demilitarized_zone) often become wildlife preserves because no one lives there.
 1. "[Need onion salt for a recipe?](https://www.thebalance.com/how-to-make-onion-salt-1387993) Ingredients: Onion powder, Salt." "[Need garlic salt for a recipe?](https://www.thebalance.com/how-to-make-garlic-salt-1387987) Ingredients: Garlic powder, Salt." "Need celery salt for a recipe? Ingredients: [Celery **seeds**](https://wholenewmom.com/recipes/homemade-celery-salt-and-how-to-use-it/), Salt."
 1. Batarang is a portmanteau of bat and boomerang, and was originally spelled baterang. Batarangs are more throwing stars than boomerangs.
 1. Companise are bailed out if they employ a large number of people, leading some people to believe that the economy would be unable to sustain such a huge jump in unemployment if the business folded.

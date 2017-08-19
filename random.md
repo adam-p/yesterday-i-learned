@@ -1,5 +1,14 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [At least two solar and two lunar eclipses happen every year](https://www.android.com/eclipse/), but most of them are not spectacular enough to be called eclipses.
+1. [Donald Trump is the first president since Polk (1845 ~ 1849) to not have a white house pet.](https://www.thoughtco.com/white-house-pets-4144590)
+1. In a very glitchy way, one-handed mode is shipped with Android 6.0 using the [`wm overscan`](https://forum.xda-developers.com/u/tasker-tips-tricks/guide-hold-swipe-home-button-to-enable-t3330353) command.
+1. "Tommy and Gina" were referenced in both Bon Jovi's [Livin' on a Prayer](https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer) in 1986, and [It's my life](https://en.wikipedia.org/wiki/It%27s_My_Life_%28Bon_Jovi_song%29) in 2000.
+1. Weevils can be killed by either frying your rice at 60 degrees Celcius for 15 minutes, or freezing at -18 degrees for 3 days.
+1. There is nothing courageous about [eating a hot dog](https://d12qk6n9ersps4.cloudfront.net/3970357/medium-clean.jpg).
+1. REIT stands for real estate investment trust. It is a way to [invest in real estate](https://www.google.com/finance?q=TSE%3ACAR.UN) without buying houses.
+1. [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) is caused by a late bus spending even more time picking up more passengers that have been waiting, making it more late. Then the next bus catches up, hence the bunch.
+1. [Small functions considered harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29): "My main problem with DRY is that it forces us into abstractions — nested and premature ones at that. Inasmuch as it’s impossible to abstract perfectly, the best we can do abstract well enough insofar as we can."
 1. Chinese men originally get a [new name at the age of 20](https://zh.m.wikipedia.org/wiki/%E8%A1%A8%E5%AD%97). Women, either at the age of 15, or whenever they get married. No longer the case possibly because passports.
 1. The [spur](https://en.wikipedia.org/wiki/Spur) is the spike behind cowboy boots. It annoys the horse and makes it go forward.
 1. Sunni Islam is the world's largest religious denomination, followed by Catholicism. According to Sunni tradition, Muhammad did not clearly designate a successor/caliph ("caliph" being the dude who leads the "caliphate", which is the Muslim world/community.)

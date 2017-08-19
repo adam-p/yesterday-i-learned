@@ -1,3 +1,6 @@
+1. Most sexually active men and women will probably acquire genital HPV infection at some point in their lives. The American Social Health Association estimates that about 75–80% of sexually active Americans will be infected with HPV at some point in their lifetime. [Worldwide, HPV is estimated to infect about 12% of women at any given time.](https://en.wikipedia.org/wiki/Human_papillomavirus_infection#Epidemiology) The virus is relatively hardy and immune to many common disinfectants. Exposure to 90% ethanol for at least 1 minute, 2% glutaraldehyde, 30% Savlon, and/or 1% sodium hypochlorite (bleach) can disinfect the pathogen. The virus is resistant to drying and heat, but killed at 100 °C (212 °F) and by ultraviolet radiation.
+1. [Corn](https://en.wikipedia.org/wiki/Corn_%28medicine%29) is called the chicken eye in Chinese.
+1. Some dogs get the [zoomies](http://www.thelabradorsite.com/dog-zoomies/) (suddenly running around a lot). No one knows the root cause.
 1. Your grains almost certainly contain weevil larvae.
 1. The only groups of living things that use powered flight are birds, insects, and bats.
 1. First tea, now [枸杞](https://en.wikipedia.org/wiki/Lycium_barbarum), to be the next health drink.

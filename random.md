@@ -1,5 +1,28 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. A solar eclipse looks like a [vague dark spot](http://time.com/4908949/total-solar-eclipse-space-view/) from space.
+1. I think [Nicholas Winton](https://www.youtube.com/watch?v=6_nFuJAF5F0) is a pretty cool guy. Eh saves Czechoslovakian children from Nazis and doesn't afraid of anything.
+1. The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
+1. Russia and Kazakhstan share +7 for the calling code.
+1. [USS John S McCain](https://en.wikipedia.org/wiki/USS_John_S._McCain_%28DDG-56%29) is an Arleigh Burke-class destroyer named after  John McCain Sr., and John McCain Jr., the grandfather and father of [John McCain III](https://en.wikipedia.org/wiki/John_McCain), the person we call John McCain; that John McCain [*of course*](http://heavy.com/news/2017/07/john-mccain-kids-family-children-daughter-meghan-adopted-mother/) has another son called John McCain IV, and that fourth dude is 31 right now, so we don't know if he's making a John McCain V.
+1. Hydrocortisone cream works [everywhere except the face.](http://www.nhs.uk/chq/Pages/868.aspx?CategoryID=73) Face skin will [wrinkle](https://www.drbaileyskincare.com/info/blog/how-long-is-it-safe-to-use-cortisone-on-the-face) and the cornea will be thinned.
+1. A redditor /u/gryff42 once achieved double meta karma by first posting a picture of a dog, [have Alexis talk about it on Jimmy's show](https://www.youtube.com/watch?v=3vzkw2zD7gE), have his weird "release the cocken, my friends" comment shown on screen, *and then* [post a TIFU](https://www.reddit.com/r/tifu/comments/6r3xyb/tifu_by_having_my_reddit_history_revealed_by/) about that extra karma, about that extra karma.
+1. "Buzz lightyear was in denial of being a toy but still froze when humans were around??" - [meirl](https://www.reddit.com/r/meirl/comments/6qvl9a/meirl/)
+1. The emoji [🙏](https://emojipedia.org/person-with-folded-hands/) is both "high five" and "praying hands". So if you tweet about "my grandma died 🙏" [it can get confusing](https://i.redd.it/ix769by3nugz.jpg).
+1. [14](https://en.wikipedia.org/wiki/Fourteen_Words) refers to the fourteen words "We must secure the existence of our people and a future for white children," or another fourteen words "Because the beauty of the White Aryan woman must not perish from the earth." Much simpler, the 88 that follows is just "Heil Hitler", because H is the eighth letter.
+1. "Je reviens en trois jours, ne te laves pas." - Napoleon.
+1. Some (most?) ships have [clear view screens](https://en.wikipedia.org/wiki/Windscreen_wiper#Bladeless_alternatives) instead of wipers. The outside of the two-layer window spins at high speeds, removing the rain without a wiper blade.
+1. The [ideal weight](https://en.wikipedia.org/wiki/Human_body_weight) is apparently 170~180 lbs for an adult male of some standard height.
+1. Just because an apartment building says it has a gym, it doesn't mean it has a good gym.
+1. [Doubly-landlocked](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) countries are landlocked by landlocked countries. There are currently only two countries in this category: Liechtenstein and Uzbekistan.
+1. Dead people don't see ads.
+1. Red scotch brite is coarser than green scotch brite is coarser than blue scotch brite.
+1. There is a German saying "I'm too poor to buy cheap" "Ich bin zu arm, um billig zu kaufen"
+1. "In general, a [swollen battery](https://www.tekrevue.com/swollen-battery/) occurs when the battery’s cells are overcharged." Overcharging oxidises the elctrolytes in the cells, turning them into gas.
+1. A US president [once implied](http://www.mirror.co.uk/news/politics/donald-trump-just-suggested-fighting-11007233) wanting to kill muslims with pig blood dipped bullets.
+1. Solar eclipses occur [pretty much anywhere](http://nationaleclipse.com/maps/images/map_usa_21stcentury.png) on the map. Any curvature. Any direction. Toronto might see one in 2024.
+1. At some point, Michelangelo had to make out [David](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)'s peehole.
+1. [Tile's batteries are not user-replaceable.](https://www.amazon.ca/Tile-Combo-Wallet-Finder-4-Pack/dp/B01MF9VQOP/ref=pd_sbs_107_1?_encoding=UTF8&psc=1&refRID=2FA6KEAHKFDTCX7H1ZDK) But [it's just a CR-2032.](https://www.youtube.com/watch?v=k-BTStjaxgw) So why don't they let you replace it yourself? Because it would break the waterproofing? No! Because fuck you, that's why.
 1. [At least two solar and two lunar eclipses happen every year](https://www.android.com/eclipse/), but most of them are not spectacular enough to be called eclipses.
 1. [Donald Trump is the first president since Polk (1845 ~ 1849) to not have a white house pet.](https://www.thoughtco.com/white-house-pets-4144590)
 1. In a very glitchy way, one-handed mode is shipped with Android 6.0 using the [`wm overscan`](https://forum.xda-developers.com/u/tasker-tips-tricks/guide-hold-swipe-home-button-to-enable-t3330353) command.

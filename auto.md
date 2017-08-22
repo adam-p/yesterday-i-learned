@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. The Camry shared the same temperature knobs with the corolla at around the same time the corolla shared the same temperature knobs with the matrix. Rav4 also had the same knobs at some point. These cars also shared the same power door buttons, inside door handles, and possibly even the steering wheels.
 1. To clean your engine bay, [vacuum away the dust before you wash it with water.](https://www.youtube.com/watch?v=PRSoRkM8GcM) Disconnect the battery. Don't get any water on the electricals. Actually, just scrap the whole idea of cleaning the engine bay.
 1. The Veloster... [the driver's side has one big door, but the passenger side has two doors](https://www.youtube.com/watch?v=Q3_3yv5JhgA). Hatch opens right over the rear passengers. Horsepower of a Corolla, with fuel economy worse than a Corolla. Less passenger space than a Corolla. Less trunk space than a Corolla. No spare tire. What the heck?
 1. VW has a [VR engine](https://en.wikipedia.org/wiki/VR6_engine) (Vmotorreihenmotor) that is a V engine, except a bit more stacked, closer to inline.

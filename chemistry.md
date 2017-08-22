@@ -1,3 +1,5 @@
+1. Brushing teeth after breakfast does not work. [It just brushes the food and acid (in the case of orange juice) around.](https://www.quora.com/Should-you-brush-your-teeth-before-or-after-breakfast)
+1. Calcium ammonium nitrate is hygroscopic. Its dissolution in water is endothermic, leading to its use in some instant cold packs.
 1. [Pure carbonic acid](https://en.wikipedia.org/wiki/Carbonic_acid#Pure_carbonic_acid) can be made by "...exposing a frozen mixture of water and carbon dioxide to high-energy proton radiation, and then warming to remove the excess water...", or "...a cryogenic reaction of potassium bicarbonate and HCl dissolved in methanol."
 1. [Soaps are usually fatty acids](http://www.quirkyscience.com/difference-soap-detergent/). Instead of an acid, detergents may have sulfate or sulfonate groups instead.
 1. Cyclohexanhexone aka [Brianone](https://en.wikipedia.org/wiki/Cyclohexanehexone), a useless compound, has never been synthesised industrially.

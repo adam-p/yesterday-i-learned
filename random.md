@@ -1,5 +1,13 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [Infanticide became a capital offense in Roman law in 374 AD](https://en.wikipedia.org/wiki/Infanticide), before which the babies were left in clay pots to die, which "took the responsibility away from the parents because the child would die of natural causes (...)"
+1. [Sparta](https://en.wikipedia.org/wiki/Sparta_%28modern%29) is now the capital of the region of [Laconia](https://en.wikipedia.org/wiki/Laconia), an [unremarkable](https://goo.gl/maps/nXTVeBTRVN52) part of Greece.
+1. [High car manufacturing volume accelerates the depreciation of used vehicles.](https://www.bloomberg.com/news/articles/2017-08-21/your-car-is-now-worth-less-than-you-think) Avis lost 92% of the profits failing to sell off used fleet cars. Recession decelerates the depreciation (or even raises the value) of used vehicles, because people keep their old vehicles, knowing they cannot afford new ones. But if all things are considered, why don't you think about the electric car / ridesharing revolutions more?
+1. Until 2017, [since the 1970s,] [Nunavut has been the only jurisdiction in Canada where you can't nip down to the nearest outlet and pick up a six-pack](http://thechronicleherald.ca/canada/1495883-nunavut-hopes-first-legal-beer-and-wine-store-might-curb-boozing) for the game or a bottle of wine for dinner. All liquor must be ordered from a government warehouse.
+1. Grocers are people who own/operate the grocery, not the people who buy groceries.
+1. Women don't get beer belly as often as men because women don't drink enough to have society tell them they shouldn't be drinking "while pregnant", [draws illustrator](http://nifymag.com/illustrator-shows-the-hidden-side-of-women-that-society-doesnt-want-to-see/).
+1. [Amazon Glacier](https://en.wikipedia.org/wiki/Amazon_Glacier) ("ZDNet says, that according to private e-mail") runs on low RPM hard drives with custom logic boards "where only a percentage of a rack's drives can be spun at full speed at any one time." This makes storage fairly cheap compared to other forms of online storage. Downloading the data has a "retrieval cost", which means they are probably throwing full hard drives into a cabinet eventually.
+1. According to this repo, RSTLNE are not the most common letters. TSNRH are the 5 most popular consonants, and E is the most common vowel. You should pick CDHA, rather than the usual CDMA.
 1. A solar eclipse looks like a [vague dark spot](http://time.com/4908949/total-solar-eclipse-space-view/) from space.
 1. I think [Nicholas Winton](https://www.youtube.com/watch?v=6_nFuJAF5F0) is a pretty cool guy. Eh saves Czechoslovakian children from Nazis and doesn't afraid of anything.
 1. The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
@@ -330,7 +338,7 @@
 1. On one hand, raising interest rates make stocks drop because higher rates hurt companies' bottom line; on the other hand, if the rate hiked is less than the rate expected (e.g. +0.25% rather than +0.5%), then the market will still go up.
 1. Tree removals are very expensive. So is dirt. "Dirt cheap" isn't a thing.
 1. Donkey Kong has nothing to do with donkeys.
-1. Nautical miles were defined as one minute of latitude.
+1. Nautical miles were defined as one minute of latitude. Now a nautical mile is just 1852 metres.
 1. Dale Carnegie said, “Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.”
 1. "À la carte" are menu items they are sold separately, rather than as part of a combo.
 1. There are [*a lot*](http://www.npr.org/sections/krulwich/2011/06/01/128389587/look-up-the-billion-bug-highway-you-cant-see) of bugs in the sky. Like billions in a square kilometre of sky.
@@ -773,7 +781,6 @@
 1. A jenkins job can also be copied by right-clicking on it, you idiot.
 1. Compiling `npm` will require [this fix][stackoverflow 6]. 
 1. A `site.pp` file controls Puppet's behaviour. It's a Perl script.
-1. `gem` is really nice, because `gem fetch abc` downloads the package, and `gem install abc.gem` (with the `.gem`) installs it.
 1. Double hashing, triple hashing, or other "wacky hashing functions" are discouraged because of [Kerckhoff's Principle][crackstation] -- the attacker will usually have both the database and the source code -- and will be able to find your function's weaknesses by supplying dummy data.
 1. Apparently SHA1 isn't suitable for hashing passwords anymore.
 1. If you aren't smart enough to find out how an attacker attacked you, hire a security firm. You can't skip this.
@@ -791,7 +798,6 @@
 1. Regex substitutions: when in doubt, try `$1` first, then `\1`.
 1. Google analytics allows you to measure events based on custom dimensions, which allows you to filter events by them, but you will have to tell Google that the user is in one. There can be at most 15 custom dimensions.
 1. Power steering noise came from low fluid levels, or, rather, [air in the pump caused by low fluid levels][youtube 2]. Checking for leaks requires a pump; if a leak exists, pressure will promptly return to normal once applied. [1][wikihow]
-1. A [vole][wikipedia 10]: something like a mouse, but live in holes and burrows. Eats roots of plants.
 1. Rommel was apparently a [micromanager][reddit 3], loved by soldiers but hated by his subordinates.
 1. The story of a 17yo man and [his encounter with a girl called Monica][reddit 4]; accept challenges from strangers
 1. Tim Hortons isn't beloved because the food and coffee is fantastic. It's mediocre at best. It's not a place we go to treat ourselves. It's a lot more like "holy shit hockey practice is early and it's minus thirty out! Better grab a Timmies to wake up and warm up!" Or maybe you've been driving a couple hours and you've already seen two deer and a moose and you know if you don't stay alert you're going to hit one and die. So you go grab a Timmies and stretch you legs. We know the coffee isn't to die for, and the donuts are just do hints but it's a comfort to us. Tim Hortons is always going to be just around the corner, it's always going to have that warm welcoming smell and you're never going to kick off a road trip with out it. And just to answer your question I live on the east coast and I've never seen a dunkin donuts or Krispy Kremes anywhere near here. They probably have them in Toronto or something.
@@ -925,7 +931,7 @@
 1. [*Wiener Schnitzel*][wikipedia 31] is a protected term for Viennese schnitzel made with veal (calves).
 1. Do not buy Honda Fits made before [2014-06-06][mfit 23].
 1. People are "in cahoots" means that they are conspiring on something.
-1. Authentic chili con carne does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
+1. Authentic *chili con carne* does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
 1. Cheese-crusted pizza is patented by someone who did not ask for royalties.
 1. With a population density of 406 people per km² – 497 if water is excluded – the Netherlands is a very densely populated country for its size. Only Bangladesh, South Korea and Taiwan have both a larger population and a higher population density. Nevertheless, the Netherlands is the world's second largest exporter of food and agriculture products, after the United States.
 1. A cousin, twice *removed* means something like a grandaunt. Each `removed` means one generation apart.
@@ -1058,9 +1064,9 @@
 1. [KGV][insidehalton] proclaimed Canada's colours to be red and white. Dr. George Stanley recommended so simply because red and white are clearly visible -- the same reason the Nazi party chose red, white, and black.
 1. Caffeine makes exercises [easier, more enjoyable, and makes you (binge) less afterwards][physiology]
 1. [If][xda-developers] a democracy would have an overwhelming amount of individuals with low capability quotients, [simulations][maxwellsci] suggest that such a population would choose low capability quotient Heads of State.
-1. A hard corn is called a heloma durum (*durum* is literally "hard"), while a soft corn is called a heloma molle.
+1. A hard [corn](https://en.wikipedia.org/wiki/Corn_%28medicine%29) is called a heloma durum (*durum* is literally "hard"), while a soft corn is called a heloma molle.
 1. None of the people who successfully committed suicide report regretting their decision. This is called suvivorship bias.
-1. [The victims of the biggest mass lynching in US history were Italians.][wikipedia 66]
+1. [The victims of the biggest mass lynching in US history were Italians.](http://en.wikipedia.org/wiki/Anti-Italianism)
 1. [Only 6%][gilderlehrman] of Africans during the slave trade were imported into the US. The rest were into the Caribbeans and South America, where the environment was hostile, the slaves died often, and needed frequent replacement.
 1. Typically, wealthier families produce the best looking offspring. This is most likely because the prettiest women are able to choose wealthy ([and][reddit 25], well, handsome, perhaps) husbands. Also, good nutrition and easy living let people's good-lookingness come out.
 1. [Swordfish can be huge][wired], but that is not a swordfish. That's a [marlin][wikipedia 67].
@@ -1069,7 +1075,7 @@
 1. Both ["bury the lead"][wiktionary 2] and "bury the lede" are used. There is no clear answer.
 1. "GILDAN Ultra Cotton (TM) Heavyweight" is the most comfortable T-shirt in the whole wide world.
 1. [AK-74][diffen] has better recoil handling, shoots farther, and has less spread. For no reason, then, should it be produced less frequently than the AK-47.
-1. On Walmart promoting bumping up the minimum wage: Their "benevolence" allows them to lobby for higher minimum wages and push Mom-and-Pop retailers out of business without looking hypocritical. Longer-term the lack of competition helps their bottom-line.
+1. On Walmart promoting bumping up the minimum wage: [Their "benevolence" allows them to lobby for higher minimum wages and push Mom-and-Pop retailers out of business without looking hypocritical. Longer-term the lack of competition helps their bottom-line.](https://www.reddit.com/r/business/comments/2wfpn6/walmart_gives_workers_a_raise_shares_drop/coqkovk/) - dt084
 1. When a person is near death, saliva accumulate near the throat, making noises known as the [death rattle][wikipedia 73].
 1. In Jesus' times, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine." The act of Jesus conjuring good wine when everyone is already drunk made him "the ultimate bro". (John 2:9-10)
 1. Facebook has clauses in their open source software that [make their usage completely useless][ycombinator 4].
@@ -2313,7 +2319,6 @@
 [wikihow]: http://www.wikihow.com/Flush-Power-Steering-Fluid
 [wikimedia]: https://upload.wikimedia.org/wikipedia/commons/1/1a/Fourier_series_square_wave_circles_animation.gif
 [wikipedia]: http://en.wikipedia.org/wiki/Homarus_americanus
-[wikipedia 10]: http://en.wikipedia.org/wiki/Vole
 [wikipedia 100]: https://en.wikipedia.org/wiki/Tap_code
 [wikipedia 102]: https://en.wikipedia.org/wiki/Andriza_Mircovich
 [wikipedia 103]: https://en.wikipedia.org/wiki/Bloodhound
@@ -2470,7 +2475,6 @@
 [wikipedia 63]: http://en.wikipedia.org/wiki/Mozambique_Drill
 [wikipedia 64]: http://en.wikipedia.org/wiki/Petroleum_jelly
 [wikipedia 65]: http://en.wikipedia.org/wiki/Hydrogen_embrittlement
-[wikipedia 66]: http://en.wikipedia.org/wiki/Anti-Italianism
 [wikipedia 67]: http://en.wikipedia.org/wiki/Marlin
 [wikipedia 7]: http://en.wikipedia.org/wiki/IDN_homograph_attack
 [wikipedia 72]: http://en.wikipedia.org/wiki/Diabetes_mellitus#Type_1

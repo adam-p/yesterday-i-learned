@@ -280,6 +280,7 @@
 1. Pigs don't sweat. That's why they roll in mud: mud is cool.
 1. Even if you drink milk, [you will lose bone density if you drink soda.](http://www.webmd.com/osteoporosis/features/soda-osteoporosis#2) Study does not conclude whether the soda or the caffeine is the culprit.
 1. Tiny mites called [demodex](https://en.wikipedia.org/wiki/Demodex) live in hair follicles. They are 0.4mm at the largest, and can move 8~16cm per hour on your skin. Almost all adults carry these mites. The good news is that they eat skin cells and sebum; the bad news is they might cause acne.
+1. A [vole](http://en.wikipedia.org/wiki/Vole): something like a mouse, but live in holes and burrows. Eats roots of plants.
 
 [wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
 [wikipedia 105]: https://en.wikipedia.org/wiki/Chrysalis#Chrysalis

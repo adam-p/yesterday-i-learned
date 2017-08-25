@@ -1,5 +1,12 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Despite being one of the two official languages, only 0.6% of the Macanese population speak Portuguese at home.
+1. [Wake](http://www.dictionary.com/browse/in--the--wake--of) (n.) means the line of waves left by a boat or ship.
+1. Apparently, the sex of [an afternoon](https://www.lalanguefrancaise.com/un-ou-une-apres-midi-orthographe) changes depending on what happens during the afternoon, but the academy says afternoons should stay male regardless of activity, because mornings are males, and there's no reason for males to change into females in the afternoon. *Hon hon hon.*
+1. Your watch has a timer. You don't need a phone to boil an egg.
+1. Raymond, your role model, got burned [at least once](https://lwn.net/Articles/730962/) by a Dropbox employee.
+1. CAF (Code Aurora Forums) is not the project; "Android for MSM" is the project. When dudes say they are based on CAF, they actually mean they are based on Android for MSM by CAF.
+1. [Out of sight, out of mind](https://www.lukew.com/ff/entry.asp?1945): people don't click on things if they are hidden behind a menu or a dropdown. Important things ought to be visible, and ought to be [near the bottom](https://www.lukew.com/ff/entry.asp?1927) (if designing for mobile).
 1. [Infanticide became a capital offense in Roman law in 374 AD](https://en.wikipedia.org/wiki/Infanticide), before which the babies were left in clay pots to die, which "took the responsibility away from the parents because the child would die of natural causes (...)"
 1. [Sparta](https://en.wikipedia.org/wiki/Sparta_%28modern%29) is now the capital of the region of [Laconia](https://en.wikipedia.org/wiki/Laconia), an [unremarkable](https://goo.gl/maps/nXTVeBTRVN52) part of Greece.
 1. [High car manufacturing volume accelerates the depreciation of used vehicles.](https://www.bloomberg.com/news/articles/2017-08-21/your-car-is-now-worth-less-than-you-think) Avis lost 92% of the profits failing to sell off used fleet cars. Recession decelerates the depreciation (or even raises the value) of used vehicles, because people keep their old vehicles, knowing they cannot afford new ones. But if all things are considered, why don't you think about the electric car / ridesharing revolutions more?
@@ -1373,7 +1380,7 @@
 1. During prohibition, ["Go ugly early"][urbandictionary 3] was a phrase used by [Harry's Chocolate Shop][harryschocolateshop], a Bar in West Lafayette, IN which called itself a chocolate shop to avoid being known as a bar. Their slogan "Go Ugly Early" was the opposite of its real meaning "come pretty late".
 1. [You can microwave quinoa like oatmeal][reddit 52]
 1. "500cals * 7 = 3500cals = 1lb of fat" - Winona
-1. "Kraft" happens to be the German noun for "strength". That said, [Kraft Foods](https://en.wikipedia.org/wiki/Kraft_Foods_Inc) has nothing to do with it; it was just James Kraft's name.
+1. "Kraft" happens to be the German noun for "strength". That said, [Kraft Foods](https://en.wikipedia.org/wiki/Kraft_Foods_Inc) has nothing to do with it; it was just James Kraft's name. And James Kraft patented processed cheese.
 1. The bauhinia, [Bauhinia × blakeana][wikipedia 166], is sterile. Someone has been planting it everywhere.
 1. Three-toed sloths are mostly diurnal, while two-toed sloths are nocturnal. Sloths are also known to urinate once a week.
 1. "Shinny" is another word for [pickup hockey][imgur 9].
@@ -1381,7 +1388,7 @@
 1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"][wikipedia 167]
 1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.
 1. You can set your TTL as low as you want; DNS servers just [won't honour it][serverfault]. Even if they do, low TTLs increase load on the DNS.
-1. VLC was made [just to let some students justify the funding for faster networks][ycombinator 7]. The VLC icon was from a [story about a VLC member stealing a cone while intoxicated][videolan].
+1. VLC was made [just to let some students justify the funding for faster networks][ycombinator 7].  "We need [to build] something that uses a ton of bandwidth, let's make a video streaming app". The VLC icon was from a [story about a VLC member stealing a cone while intoxicated][videolan].
 1. Suicide by paracetamol takes between 3–5 days to 4–6 weeks.
 1. The phytohemagglutinin in as few as 25 unsoaked kidney Beans can kill you. If they are slow cooked, the toxicity increases fivefold.
 1. Investment "Rule of 72"... 72/rate = investment doubles in n years

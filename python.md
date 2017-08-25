@@ -365,6 +365,7 @@ bar
 1. [`python -m`](https://docs.python.org/2/using/cmdline.html) runs that module as if the module's contents were `__main__`. There is no difference between `python that.py` and `python -m 'that'`.
 1. [You cannot monkey patch python's `list`](https://stackoverflow.com/a/38257902/1558430). Well, [you can](https://stackoverflow.com/a/4025310/1558430), but literals won't use your subclass, and outside of a PoC, that won't be a smart thing to do.
 1. The `call` object is supposed to be used by [unpacking](https://stackoverflow.com/a/39669722/1558430): `args, kwargs = mock_func.call_args`
+1. `simplejson.loads()` has a `for_json=False` argument that can be turned True if you want any object with a `for_json(self)` method to return their own representation instead.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -1,3 +1,4 @@
+1. Breasts (nsfw) form some kind of concave shape when [skydiving nude.](https://i.imgur.com/8gowSEn.png) Something you will never need to worry about.
 1. 熱氣 "hot air" has no definitive English translation. Consumption of fatty acids does not cause the classic symptoms of acidosis.
 1. Apparently [being in jail](http://www.liver.ca/liver-disease/types/viral_hepatitis/Hepatitis_C.aspx) puts you in high risk for hepatitis C, because reasons. 10% of the population has hepatitis, so you probably do, too.
 1. The wood frog can survive being frozen. They do so by [mixing urea and glucose into the blood](https://www.youtube.com/watch?v=pLPeehsXAr4) so the cells are suspended in what is effectively antifreeze.

@@ -7,7 +7,7 @@
 1. [Adding a new yum repository][cyberciti]
 1. yum can be used in conjunction with [package priorities][serverfault] to determine which version of a package to install, if many repositories provide the same package.
 1. Processing getting killed across SSH? [`nohup something &`][wikipedia]. This took way too long.
-1. `-f` for `tail` autoscrolls it.
+1. `-f` for `tail` autoscrolls it. Because `-f` is `--follow`. Because screw `-f` being `--file`.
 1. Count instances of `foo`: `foo | grep -c .`
 1. Log in as someone else: `(sudo) su - username`
 1. `>` [redirects to (and overwrites) a file](http://linuxcommand.org/lts0060.php), while `<` redirects a file to a command. Both must appear after a command. So if you expect something like

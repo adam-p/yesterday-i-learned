@@ -19,6 +19,15 @@
 * Add cheese, [mushrooms](https://www.youtube.com/watch?v=Ow9pGXT3KwY), or something.
 * For authentic Jean Imbert experience, fold the thing in half when pouring it out.
 
+### Zip-loc Omelette
+
+From your broke ass-college student notes. May or may not work.
+
+* Place 2 eggs in Ziploc bag
+* Place shredded cheese, ham in Ziploc bag
+* Add salt, pepper, garlic, whatever
+* Boil in pot until solid
+
 # Lunch
 
 ## [Spinach Pasta](http://m.allrecipes.com/recipe/16142/spinach-pasta-salad)
@@ -86,7 +95,6 @@ Procedures:
 * Dump in your can of beans and stir.
 * Add a pinch of Cayenne pepper
 * Simmer
-
 * Mix beans with rice.
 
 ## Stew
@@ -96,6 +104,56 @@ Potato + tomato + carrot + beef = baby, you've got a stew goin
 ## Soup
 
 Potato + onion + carrot + pork = baby, you've got a soup goin
+
+## 炒麵
+
+* Add ½ water to stove and heat stove to max
+* When water boils, put in noodles
+* Add salt
+* Add meat and vegetables if present
+* Continue boiling until water is almost all gone
+* Add sauce if present
+* Continue frying until water dries
+* Add flavouring
+
+## 腐乳生菜
+
+* 落油
+* 落蒜頭
+* 落三塼腐乳
+* 落菜
+* 炒到干上下堪蓋
+
+## 番茄炒蛋
+
+* 炒蛋
+* 落油
+* 落少鹽
+* 落多糖
+* 落茄汁
+* 煮腍
+* 落蔥
+* 熄火
+* 落蛋
+
+## 蒸排骨/瘦肉
+
+* 肉切件
+* 用糖，鹽，豉油，酒，豆粉，油醃十五分鐘去蒸
+* 落梅菜榨菜或蒜頭豆豉
+
+## 雞湯
+
+* 落兩只雞脾
+* 落北萁黨參每樣五片
+* 煲三個鐘
+
+## 芥蘭臘肉
+
+* 開油
+* 落姜落蒜頭落兩條臘腸炒香
+* 落半斤芥蘭炒
+* 落鹽落一湯勺酒
 
 # Ingredients
 

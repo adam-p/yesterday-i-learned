@@ -1,5 +1,27 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. People can totally downgrade your APK while preserving data with the 'adb -r -d' options.
+1. Some people are so sensitive to sounds that [they identify the AC current at 60Hz as B flat](https://www.reddit.com/r/askscience/comments/6wdnnw/why_does_electricity_always_hum_at_a_bflat_pitch/).
+1. A dye is ["light-fast"](https://en.wikipedia.org/wiki/Colour_fastness) if it fades quickly. [Turmeric](https://en.wikipedia.org/wiki/Turmeric) is a light-fast dye. So, instead of dyeing clothes, it is used as food colouring.
+1. You are supposed to play the "forgetful man places coffee cup on top of car" prank with a magnet, not superglue.
+1. The Samsung Galaxy Note II (Note 2) had a 5.5 inch screen, the size everyone has today. Nexus 6p, which was never sold as a phablet, share the same screen size with the Note 3, 4, 5, and 7.
+1. Noodles contain salt.
+1. A cottage is where a [cotter](https://en.wikipedia.org/wiki/Cotter_%28farmer%29) (peasant farmer) lived. Cottages are horrible.
+1. Waiters/Waitresses ("waitists") first take food out of the kitchen with a tray, then take the tray to an empty table next to yours, then unload the food from that table to your table. They bring the tray to your table only if there are no free adjacent tables.
+1. $10 + tax a meal for a month is a thousand dollars a month.
+1. The iPhone 6s is 0.3mm thicker than the iPhone 6 (for the force touch rubbish). Their casings are not interchangeable.
+1. Hyderabad is at the middle of India. It is pronounced HIderabad.
+1. Factorials end up with lots of zeros at the end. That's because [every time the number reaches "10", an additional trailing zero is guaranteed.](http://www.purplemath.com/modules/factzero.htm) Every pair of 2 and 5 also add a zero.
+1. Encrypting your hard drive is useless if your backups are not encrypted the same way or stronger.
+1. Mona says that [the song starting with "O say can you see"](https://www.youtube.com/watch?v=YaxGNQE5ZLA) was a story about the Brits bombing the flag, but the Americans propped it up with bodies.
+1. Bolivia has the world's highest number of official languages, [at 38](https://en.wikipedia.org/wiki/Bolivia) (mostly indigenous). [Singapore is fifth at four.](https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_recognized_official_languages)
+1. If you want to learn two languages based on how official they are, [English and French](https://en.wikipedia.org/wiki/List_of_languages_by_the_number_of_countries_in_which_they_are_recognized_as_an_official_language) are probably your best bet. And then Arabic.
+1. The Essential phone model PH-1 just spells out "PHone".
+1. According to EverythingApplePro, [Apple releases things on Tuesdays and starts preorders on Fridays](https://www.youtube.com/watch?v=norgCJzrNb4).
+1. [Fake tears](https://en.wikipedia.org/wiki/Artificial_tears) typically contain some type of cellulose.
+1. The Nazis plotted to [print fake UK banknotes and throw them all over the island](https://en.m.wikipedia.org/wiki/Operation_Bernhard) to collapse the economy. It didn't work.
+1. Steve Ballmer (employee #30) was the first business manager hired by Gates. [Steve Ballmer announced Windows ME, breaking a promise made by Bill Gates in 1998 that Windows 98 would be the final consumer-oriented version of Windows to use the MS-DOS architecture.](https://en.wikipedia.org/wiki/Windows_XP)
+1. Hanoi has the same population as Hong Kong. [Shanghai is almost 7x more populous than Berlin](https://en.wikipedia.org/wiki/List_of_cities_proper_by_population), and almost 3x that of NYC.
 1. Despite being one of the two official languages, only 0.6% of the Macanese population speak Portuguese at home.
 1. [Wake](http://www.dictionary.com/browse/in--the--wake--of) (n.) means the line of waves left by a boat or ship.
 1. Apparently, the sex of [an afternoon](https://www.lalanguefrancaise.com/un-ou-une-apres-midi-orthographe) changes depending on what happens during the afternoon, but the academy says afternoons should stay male regardless of activity, because mornings are males, and there's no reason for males to change into females in the afternoon. *Hon hon hon.*

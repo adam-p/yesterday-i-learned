@@ -1,4 +1,11 @@
-1. Breasts (nsfw) form some kind of concave shape when [skydiving nude.](https://i.imgur.com/8gowSEn.png) Something you will never need to worry about.
+1. [Joints feel better after saunas.](https://www.youtube.com/watch?v=aHOlM-wlNjM&list=PLVSNb34tcIbkAUFTLdirECUlxq2Tw9cGh) (I didn't watch the video)
+1. The [Pacu](https://en.wikipedia.org/wiki/Pacu) fish has teeth "uncannily similar" to human teeth.
+1. The answer to "why are birds warm-blooded" is ["I dunno, they just switched one day"](http://www.abc.net.au/science/articles/2010/11/23/3073903.htm).
+1. Worms have no limbs. Caterpillars are not worms.
+1. [Anthrax](https://en.wikipedia.org/wiki/Anthrax) (whichever bacterium) definitely infects cows and mice.
+1. [The opposite of addiction is connection](https://www.youtube.com/watch?v=ao8L-0nSYzg): rats in a "fulfilling environment" with each other to hang out with do not get addicted to heroin. To stop being addicted to something, hang out with your friends and family.
+1. Clownfishes are hermaphrodites. [Finding Nemo makes no sense.](https://www.youtube.com/watch?v=cVYDj-DHAOc#t=2.005335)
+1. Breasts (nsfw) form some kind of concave shape when [skydiving nude.](https://i.imgur.com/8gowSEn.png) Something you will never need to worry about. And, according to that video... whales don't have uvulas.
 1. 熱氣 "hot air" has no definitive English translation. Consumption of fatty acids does not cause the classic symptoms of acidosis.
 1. Apparently [being in jail](http://www.liver.ca/liver-disease/types/viral_hepatitis/Hepatitis_C.aspx) puts you in high risk for hepatitis C, because reasons. 10% of the population has hepatitis, so you probably do, too.
 1. The wood frog can survive being frozen. They do so by [mixing urea and glucose into the blood](https://www.youtube.com/watch?v=pLPeehsXAr4) so the cells are suspended in what is effectively antifreeze.

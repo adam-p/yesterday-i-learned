@@ -1,3 +1,4 @@
+1. "Erwin Schrödinger" [sounds](https://www.youtube.com/watch?v=QOCaacO8wus) more like AIR-vin SH-HER-din-er than whatever we have been saying.
 1. Jupiter is secretly YOO-piter and, Uranus, OOranos.
 1. "Grasshopper" in French is ["criquet"](http://www.entomoveproject.com/blog/2014/12/03/the-bug-investigation-locust-grasshopper-cricket-or-katydid/). "Cricket” is then called "un grillon".
 1. *Plato* unfortunately calls himself *Plaaton*, rather than "play-doh".

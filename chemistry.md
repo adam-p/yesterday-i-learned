@@ -1,3 +1,5 @@
+1. Methanoic acid is poured into rubber tree sap to make rubber. Drying rubber turns it yellow. That's why rubber bands are yellow.
+1. *c* is not the speed of light; *c* is ~3e8 m/s, and light happens to travel at that speed. So we call that the speed of light. But other things travel at *c*, too.
 1. Brushing teeth after breakfast does not work. [It just brushes the food and acid (in the case of orange juice) around.](https://www.quora.com/Should-you-brush-your-teeth-before-or-after-breakfast)
 1. Calcium ammonium nitrate is hygroscopic. Its dissolution in water is endothermic, leading to its use in some instant cold packs.
 1. [Pure carbonic acid](https://en.wikipedia.org/wiki/Carbonic_acid#Pure_carbonic_acid) can be made by "...exposing a frozen mixture of water and carbon dioxide to high-energy proton radiation, and then warming to remove the excess water...", or "...a cryogenic reaction of potassium bicarbonate and HCl dissolved in methanol."

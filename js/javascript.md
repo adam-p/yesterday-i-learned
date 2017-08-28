@@ -169,6 +169,7 @@ undefined
 * To `apply` a constructor, you [need](https://stackoverflow.com/questions/1606797/use-of-apply-with-new-operator-is-this-possible) to `new (Function.prototype.bind.apply(Foo, [null, a, b, c]));`
 * `new RegExp(/already a regexp literal/)` can still be useful if you want to [add a flag to it](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp), like `new RegExp(/already a regexp literal/, 'i')`.
 * `clobber: true` when using `fs.copy` or `copySync` would overwrite the destination file if it exists. The term [clobber](https://stackoverflow.com/a/9392784/1558430) might have come from `cp`, where `cp -n` has a man page saying "do not overwrite an existing file (overrides a previous -i option)".
+* "Node JS" pronunciations [include](https://groups.google.com/forum/#!msg/nodejs/-d5LcWlQrxI/CarozdtVP3MJ) Node Jay Ess (commonly), No der Jay Ess, and most importantly, Node Dot Jizz.
 
 ## Deferred API
 

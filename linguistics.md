@@ -1,3 +1,5 @@
+1. English and French share the same ambiguity for "going" in "I am going to the supermarket" and "I am going to die."
+1. [Weiße](https://en.wiktionary.org/wiki/Wei%C3%9Fe) is the female version of "Weißer", so it becomes to mean "white woman".
 1. "Erwin Schrödinger" [sounds](https://www.youtube.com/watch?v=QOCaacO8wus) more like AIR-vin SH-HER-din-er than whatever we have been saying.
 1. Jupiter is secretly YOO-piter and, Uranus, OOranos.
 1. "Grasshopper" in French is ["criquet"](http://www.entomoveproject.com/blog/2014/12/03/the-bug-investigation-locust-grasshopper-cricket-or-katydid/). "Cricket” is then called "un grillon".

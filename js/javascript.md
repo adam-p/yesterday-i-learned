@@ -237,6 +237,7 @@ undefined
 * If you run `--save-exact` without `--save`, it doesn't save.
 * Semver's `~` upgrades to any patch version. `^` upgrades to any minor version. npm stopped defaulting to the tilde because it assumes minor versions are all compatible with each other. In the real world (where npm is used), this is false.
 * [Jeremy Ashkenas on semantic versioning](https://gist.github.com/jashkenas/cbd2b088e20279ae2c8e): *"SemVer tries to compress a huge amount of information — the nature of the change, the percentage of users that will be affected by the change, the severity of the change, into a single number." "SemVer is a false promise that appeals to many developers — the promise of pain-free, don't-have-to-think-about-it, updates to dependencies. But it simply isn't true." "It's alright for robots, but bad for us."*
+* `0.1 + 0.2 = 0.30000000000000004` (over). `0.7 + 0.2 = 0.8999999999999999` (under).
 
 ### Webpack
 

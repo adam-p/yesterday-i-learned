@@ -1,5 +1,22 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. According to [your own math](http://imgur.com/xa11NdK) in wear and tear per charging cycle, you get the most bang for your buck from your personal 4.4V Li-pol battery if you charge from 20% to 50%. (You can charge from 40% to 50% and get like 100x the cell life, but if you charge just 10% every time, you need to charge 10x as often.) If you want to use your battery like a normal person, charging from 20% to 70% isn't that bad.
+1. You don't mine with wallets. You mine with [miners](https://www.reddit.com/r/dogemining/wiki/index/mining_guide).
+1. [There are no pure oil public companies (assumptions?).](https://www.uncommonwisdomdaily.com/the-best-time-to-own-energy-stocks-17766) Energy exploration/production companies usually have both natural gas and oil reserves.
+1. Pollock is the sux.
+1. Trees painted in purple mark a ["no trespassing"](http://www.snopes.com/purple-paint-no-trespassing/) zone, within which Texans may shoot you to death.
+1. http://oahi.ca goes to Ontario Association of Home Inspectors. http://ohai.ca goes to some Internet dipshit's home page.
+1. In French, cans are called canettes. Therefore, French cans are bigger than English cans.
+1. Taking the exponent of a number turned negative (`exp(-x)`) is a great way to get a number between 0 and 1. The closer x is to 0, the closer the result is to 1.
+1. [USB type C supports USB 3.0/3.1](http://www.dignited.com/21457/difference-micro-usb-usb-type-c/), but [USB 2.0 type C cables exist](https://en.wikipedia.org/wiki/USB-C#Cables). USB micro-A/B require [extra backwards-compatible connectors](https://en.wikipedia.org/wiki/USB_3.0#CONNECTORS) to achieve that speed.
+1. The metallic outside of USB cable inserts help remove static electricity upon contact.
+1. To charge 3Ah in an hour, calling that 1C rate, obviously takes a 3A charger.
+1. When you take an elevator ride with Steve Jobs and tell him what you do, results may vary. You either [get fired](https://www.quora.com/Who-did-Steve-Jobs-actually-fire-in-an-elevator), or [you don't](https://www.reddit.com/r/apple/comments/6wsmub/did_steve_jobs_make_much_smalltalk_with_his/) ("That's what I heard. I hope it gets better.") It depends on what you say (said).
+1. [Ubuntu 17.04 EOLs before Ubuntu 18.04 is even out.](https://wiki.ubuntu.com/Releases)
+1. ["老泥妹"](https://zh.wikipedia.org/wiki/%E8%80%81%E6%B3%A5%E5%A6%B9) 因離家出走，只能靠與其他人進行性交易之後才有機會洗澡，經常在尖東和旺角一帶出沒。
+1. ["援交"](https://zh.wikipedia.org/wiki/%E6%8F%B4%E4%BA%A4) strictly involves one underage party and one adult "helping each other out". If both parties are of age, this term does not work.
+1. The longer your organisation has been around, and the larger the organisation is, the more likely is it for it to have useless policies. John calls it ["organizational scar tissue"](https://www.johndcook.com/blog/2009/07/30/organizational-scar-tissue/).
+1. Fast chargers [totally](http://batteryuniversity.com/learn/article/ultra_fast_chargers) destroy your batteries. BU-401a from 2012/2017 shows bumping charge rate to anything above [1C](batteryuniversity.com/learn/article/what_is_the_c_rate) ("one hour charge/discharge") significantly reduces total cycles, and [BU-808](http://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries) says anything above 4.2V harmful for cycle count as well. [The ideal charging voltage is 3.92V, and cycle count is halved for every 0.1V above that.](https://accubattery.zendesk.com/hc/en-us/articles/210224725-Charging-research-and-methodology)
 1. People can totally downgrade your APK while preserving data with the 'adb -r -d' options.
 1. Some people are so sensitive to sounds that [they identify the AC current at 60Hz as B flat](https://www.reddit.com/r/askscience/comments/6wdnnw/why_does_electricity_always_hum_at_a_bflat_pitch/).
 1. A dye is ["light-fast"](https://en.wikipedia.org/wiki/Colour_fastness) if it fades quickly. [Turmeric](https://en.wikipedia.org/wiki/Turmeric) is a light-fast dye. So, instead of dyeing clothes, it is used as food colouring.
@@ -798,7 +815,7 @@
 1. To brief is to *give* a short verbal update on events. To debrief is to *receive* a short verbal update on events.
 1. It gets warmer when it snows, not because snow makes the air warmer, but because the warm air that arrives causes the (otherwise airborne) condensation to arrive as snow.
 1. [Don't type "let me know"][letsworkshop] -- it doesn't work
-1. Uses SQS to manage spikes in demand. Can't do something right now? Chuck the request to a queue. Take things off the queue at constant rate.
+1. Uses ~~SQS~~ queues to manage spikes in demand. Can't do something right now? Chuck the request to a queue. Take things off the queue at constant rate.
 1. [Drop all disk cache (Linux)][stackoverflow 4]: `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
     * You're `tee`ing here to pipe the 3 into a root command. [Neat][linuxinsight]!
 1. App engine admin: `--admin_port=8001`
@@ -1343,7 +1360,7 @@
 1. [The fact that smoke calms bees has been known since ancient times][wikipedia 142]; however, the scientific explanation was unknown until the 20th century and is still not fully understood.
 1. [The Nash Equilibrium][wikipedia 143]: in Game Theory, if all players have nothing to gain by changing their strategies. Bitcoin achieved such an equilibrium with its miners.
 1. Korea is named after [高麗][wikipedia 144], pronounced "GOlia".
-1. North Korea, on the other hand, calls itself [朝鮮][wikipedia 145], the dynasty after 高麗.
+1. North Korea, on the other hand, calls itself [朝鮮][wikipedia 145] ("JIUsan"), the dynasty after 高麗.
 1. To create a GIF with gimp, simply export the layers (as frames) to a file with a `.gif` extension.
 1. Once a jog exceeds [10km/h][wikipedia 146], it becomes a run.
 1. Level of language proficiency can [now][deutsch-als-fremdsprache] be split into A (understand), B (operate), C (communicate).
@@ -1736,7 +1753,7 @@
 1. *Tonne* is the metric one.
 1. [There's a law on the British Columbia books that states if you're a bankrupt drunk who got thrown into jail, the law requires the jailer to bring you a bottle of beer on demand.](http://weirdfascinatingstuff.blogspot.ca/2010/06/weird-laws-from-canada-part-2-always.html)
 1. [Grass grows in Whitehorse Yukon.](https://www.youtube.com/watch?v=qE8ca84UUJw) [It doesn't even look different from Ontario](http://imgur.com/pwNigfK). Guy born and raised in Yukon has no difference in accent. EH?!
-1. >If John Smith writes a cheque to Jane Doe, she can endorse the cheque on the back and give it to you in payment of a debt. You can then endorse the back of the cheque and deposit it into your account. This is called *counter-signing* a cheque.
+1. The recipient of a cheque can sign the back of the cheque and give the cheque to someone else. "If John Smith writes a cheque to Jane Doe, she can endorse the cheque on the back and give it to you in payment of a debt. You can then endorse the back of the cheque and deposit it into your account. This is called *counter-signing* a cheque."
 1. To describe a person as single in a politically correct way, use the phrase "Independently owned and operated".
 1. The man who killed Hitler died in the line of duty. The same man subsequently took his own life.
 1. [The best place to trade on Craigslist is in fact the bank rather than the police station.](http://www.reddit.com/r/apple/comments/57yge6/_/d8wno9u?context=1000) That allows you to request money to be withdrawn directly from the ATMs, avoiding fake cash as a payment.

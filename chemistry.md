@@ -1,3 +1,4 @@
+1. An [ampere](https://en.m.wikipedia.org/wiki/Ampere) is a coulomb per second. All of them are considered SI units.
 1. Methanoic acid is poured into rubber tree sap to make rubber. Drying rubber turns it yellow. That's why rubber bands are yellow.
 1. *c* is not the speed of light; *c* is ~3e8 m/s, and light happens to travel at that speed. So we call that the speed of light. But other things travel at *c*, too.
 1. Brushing teeth after breakfast does not work. [It just brushes the food and acid (in the case of orange juice) around.](https://www.quora.com/Should-you-brush-your-teeth-before-or-after-breakfast)

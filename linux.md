@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. apt installing `git` installs the same things as `git-core`.
 1. `git --amen` works!
 1. The command for displaying `ls` like a tree is literally [`tree`](http://stackoverflow.com/a/3455675/1558430), as an optional install for some distros.
 1. `yum` is managed by a list of repository configs in `/etc/yum.repos.d/`, each being an ini file.

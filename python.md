@@ -367,6 +367,9 @@ bar
 1. The `call` object is supposed to be used by [unpacking](https://stackoverflow.com/a/39669722/1558430): `args, kwargs = mock_func.call_args`
 1. `simplejson.loads()` has a `for_json=False` argument that can be turned True if you want any object with a `for_json(self)` method to return their own representation instead.
 1. You can have `exit(0)` anywhere, in globals, in a function or in a list comprehension, and the script will exit with 0. In a generator, `exit(0)` takes effect whenever that generator outputs its first item.
+1. Python3 has the `raise from` syntax, where given an exception (e.g. `except ValueError as e`), you can [re-raise a different exception](https://stackoverflow.com/questions/24752395/python-raise-from-usage) while noting what the original cause was, i.e. `raise TypeError(...) from e`. Default is to show the previous errors anyway. To supress it, `raise ... from None` (no context).
+1. [Sometimes `%.0f` rounds up. Sometimes `%.0f` rounds down.](https://stackoverflow.com/a/24121342/1558430) Try 10.5 (becomes 10) and 1.5 (becomes 2).
+1 The `set` literal happily accepts repeated items, like `{1,1,1}`. It just comes out as `{1}`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

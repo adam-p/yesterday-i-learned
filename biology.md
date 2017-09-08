@@ -1,3 +1,7 @@
+1. A dude from Wisconsin claims that [jogging for 3~5km a day helps regain leg strength after hardware removal](http://www.kneeguru.co.uk/KNEEtalk/index.php?topic=21956.0).
+1. [Something like 99.9% of the sperm dies before the uterus.](https://www.youtube.com/watch?v=kvAm99AGbrA) And you don't want to help your sperm get to the fallopian tubes, because that would give advantage to the sperm that is/are otherwise too weak to swim to the egg. You don't want to do that. You want a Hunger Games sort of thing and just get one winner.
+1. The heart beats "a hundred thousand times a day".
+1. The [whip spider](https://en.wikipedia.org/wiki/Amblypygi) was featured in the fourth Harry Potter movie, "Him and the Cup Thing." The movie lied. If she bites, it is *not* lethal. It also doesn't make squeaking noises when tortured.
 1. The queen of an [army] ant nest just makes babies; it has no authority, thus not a real queen, but can be understood as the ovaries of a single organism, where the ants are cells. The queen ant can live for <30 years. Army ant nests (called bivouacs) are [just ants clumped together](http://sites.psu.edu/haleydemartinrclblog/wp-content/uploads/sites/16429/2015/02/army-ant-bivouac.jpg), but with a highly organised internal structure. As the nest moves, (according to a nobody on the radio,) the queen goes on diet to make moving easier.
 1. Farmers noticed that [overspray of dicamba from dicamba-resistant GM soybean farms, onto non-dicamba-resistant non-GM soybean plants, will kill them](https://www.washingtonpost.com/business/economy/this-miracle-weed-killer-was-supposed-to-save-farms-instead-its-devastating-them/2017/08/29/33a21a56-88e3-11e7-961d-2f373b3977ee_story.html).
 1. In 2011, [Colistin](https://en.wikipedia.org/wiki/Colistin)-resistant genes were found in a plasmid, against the last-resort antibiotic for multidrug-resistant bacteria. Plasmids are strands of DNA that replicate themselves.
@@ -73,7 +77,7 @@
 1. [Fried egg jellyfish](https://en.wikipedia.org/wiki/Phacellophora_camtschatica), *Phacellophora camtschatica*, eats smaller jellyfish.
 1. All 1100 species of hermit crabs poop in their own shells.
 1. Snails hate copper; a copper band around the trunk of a tree will prevent snails from climbing up and reaching the leaves and fruit.
-1. Coelacanth flesh has high amounts of oil, urea, wax esters, and other compounds that are difficult to digest and can cause diarrhea.
+1. Coelacanth ("SEE-la-canth") flesh has high amounts of oil, urea, wax esters, and other compounds that are difficult to digest and can cause diarrhea.
 1. Tardigrades lay eggs inside the shed skin. "Tardigrades" is its own phylum, Tardigrada.
 1. Bursitis is the inflammation or irritation of the [bursa](https://www.arthritis-health.com/types/bursitis/what-bursa). The [bursa](https://en.wikipedia.org/wiki/Synovial_bursa) is a lubricated cushion between a bone and surrounding soft tissues. [It looks like this](http://images.medicinenet.com/images/appictures/shoulder-bursitis-s1-illustration.jpg).
 1. Children's bones apparently have [growth plates](http://kidshealth.org/en/parents/growth-plate-injuries.html). They are cartilage near the ends of bones, which lengthen the bone when they grow. On the child's 18th birthday, these plates turn into solid bone.

@@ -55,6 +55,7 @@
 * To change the meter display, quickly push and release the knob. 
 * To reset the trip meter A to zero, display the meter A reading, then push and hold the knob until the meter is set to zero. The same process can be applied for resetting the trip meter B.
 * An "E" next to your thermometer means "Error".
+* Every marker on the fuel gauge is around 100km worth of fuel (80, 100, 120, 300, 380).
 
 # AC
 * The AC takes air in from below the windshield. Make sure it is not blocked by snow.

@@ -370,6 +370,7 @@ bar
 1. Python3 has the `raise from` syntax, where given an exception (e.g. `except ValueError as e`), you can [re-raise a different exception](https://stackoverflow.com/questions/24752395/python-raise-from-usage) while noting what the original cause was, i.e. `raise TypeError(...) from e`. Default is to show the previous errors anyway. To supress it, `raise ... from None` (no context).
 1. [Sometimes `%.0f` rounds up. Sometimes `%.0f` rounds down.](https://stackoverflow.com/a/24121342/1558430) Try 10.5 (becomes 10) and 1.5 (becomes 2).
 1 The `set` literal happily accepts repeated items, like `{1,1,1}`. It just comes out as `{1}`.
+1. Given `[1,2,3,4,5,6,7]`, `bisect.bisect_left(that array, 4)` will give you the index of 4, to the left of `4`, and `bisect.bisect_right(that array, 4)` will give you the index of 5, to the right of `4`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

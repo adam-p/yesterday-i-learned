@@ -45,6 +45,10 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 
 # Dinner
 
+## Stir fry
+
+* Whatever it is you throw in, cook the meat first.
+
 ## Baked Salmon
 
 * Score **descaled salmon** 2cm apart.

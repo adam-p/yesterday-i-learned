@@ -1,3 +1,6 @@
+1. Samarium is element 62. Although classified as a rare earth element, there is more samarium in the Earth's crust than tin.
+1. Ethanol itself might not be carcinogenic, but ethanal is, so... [liver cancer is responsible for 750k deaths annually](https://en.m.wikipedia.org/wiki/Liver_cancer).
+1. Chemists are often good at cooking. Except you. You suck.
 1. An [ampere](https://en.m.wikipedia.org/wiki/Ampere) is a coulomb per second. All of them are considered SI units.
 1. Methanoic acid is poured into rubber tree sap to make rubber. Drying rubber turns it yellow. That's why rubber bands are yellow.
 1. *c* is not the speed of light; *c* is ~3e8 m/s, and light happens to travel at that speed. So we call that the speed of light. But other things travel at *c*, too.

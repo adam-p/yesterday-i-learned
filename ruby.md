@@ -1,3 +1,4 @@
+1. [Ruby has clearly lost the language war.](https://stackoverflow.blog/2017/09/06/incredible-growth-python/) "We’re not looking to contribute to any language war," David added.
 1. In Ruby, you put docstrings outside.
 1. Methods do not require `()` to call. WTF?
 1. Methods that end in `?` are boolean functions by [pure convention](http://stackoverflow.com/a/1345855).

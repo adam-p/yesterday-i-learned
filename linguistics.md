@@ -1,3 +1,5 @@
+1. If there exists an "L Ron Hubbard Science Library", then L Ron Hubbard is the [*eponym*](http://www.hubbelllibrary.org/eponym.mgi) of the library, and the library is the *namesake* of L Ron Hubbard. Aside: ["eponymous" means "gives many names to"](https://english.stackexchange.com/questions/49281/how-should-i-use-eponym-eponymous-and-namesake), and is almost never used in meaningful sentences.
+1. Réservoir means "storehouse".
 1. English and French share the same ambiguity for "going" in "I am going to the supermarket" and "I am going to die."
 1. [Weiße](https://en.wiktionary.org/wiki/Wei%C3%9Fe) is the female version of "Weißer", so it becomes to mean "white woman".
 1. "Erwin Schrödinger" [sounds](https://www.youtube.com/watch?v=QOCaacO8wus) more like AIR-vin SH-HER-din-er than whatever we have been saying.

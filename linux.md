@@ -1,5 +1,11 @@
 ![Dilbert][imgur]
 
+1. [`Ctrl+z` stops a job.](https://www.howtogeek.com/111417/how-to-multitask-in-the-linux-terminal-3-ways-to-use-multiple-shells-at-once/) `jobs` lets you see your jobs. `fg %1` brings back up whichever one is the first job. `kill %1` then kills it. This concludes linux job control.
+1. Use screen. While a little troublesome for ordinary things that tabs can do, `Ctrl+a, d` will detach a screen (and have its stuff run in the background, even after you exit ssh), and `screen -r` resumes that session.
+1. Want a progress bar for `cp`? *NO YOU CAN'T!* (:D) But you can replace the command with [`rsync -ah --process src dest`](https://askubuntu.com/questions/17275/progress-and-speed-with-cp), if you are okay with a slightly slower transfer.
+1. `ls -S` sorts files by size, *descending*.
+1. [`/` is hardcoded to be forbidden in file names.](https://stackoverflow.com/a/9847573/1558430) You can still use any unicode slashes though.
+1. `findmnt` is `mount` in tree form. See also: `lsblk`.
 1. apt installing `git` installs the same things as `git-core`.
 1. `git --amen` works!
 1. The command for displaying `ls` like a tree is literally [`tree`](http://stackoverflow.com/a/3455675/1558430), as an optional install for some distros.

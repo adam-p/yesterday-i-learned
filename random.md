@@ -1,5 +1,45 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [American mozzarella cheese can be sold in Canada duty-free, as long as it is a part of pizza kits.](http://www.betterfarming.com/online-news/pizza-cheese-eludes-canadian-tariff-11157)
+1. [The World Meteorological Organization comes up with hurricane names that loop every six years.](http://geology.com/hurricanes/hurricane-names.shtml) Names are alphabetical, alternate from male to female, and start with a different sex every year. Some names are banned due to the devastation they have previously caused: Ivan, Katrina, Matthew, Sandy, ...
+1. "Roast chicken breast with lemons," said Claybar. "It will make chicken breast juicier."
+1. China's version of ["Salt city"](https://goo.gl/maps/WE44fxjeRNJ2) is nowhere close to Salt lake city.
+1. The US, UK, and Puerto Rico all have [virgin islands](https://en.wikipedia.org/wiki/Virgin_Islands).
+1. Avoid cooking duck eggs the "creamy" style. They are already guaranteed creamy. Don't make them any richer.
+1. ["A modern samarium-cobalt magnet takes around 700 years to lose half its strength."](http://www.sciencefocus.com/qa/do-magnets-wear-out)
+1. [Desks are directional tables that are often only used by one person.](https://www.quora.com/What-is-the-difference-between-a-table-and-a-desk) "There is a wrong way to sit at a desk."
+1. In medicine, an [indication](https://en.wikipedia.org/wiki/Indication_%28medicine%29) is a valid reason to use a certain test, medication, procedure, or surgery.
+1. It is [(in 2016)](https://www.quora.com/Do-Coursera-courses-have-hard-deadlines) impossible to fail a Coursera course. You just get bumped to the next session and are asked to complete remaining material.
+1. Wolfram Alpha doesn't understand [how long it takes to travel around the world.](https://www.wolframalpha.com/input/?i=time+it+takes+to+travel+around+the+world+at+1km%2Fh)
+1. [3DS replaced NDS in 2011.](https://en.m.wikipedia.org/wiki/Nintendo_DS_family) [NDS cannot play 3DS games](https://www.nintendo.co.uk/Support/Nintendo-3DS-2DS/FAQ/Software/Can-I-play-Nintendo-3DS-games-on-my-Nintendo-DS-Nintendo-DSi-or-Nintendo-DSi-XL-/Can-I-play-Nintendo-3DS-games-on-my-Nintendo-DS-Nintendo-DSi-or-Nintendo-DSi-XL--242233.html). There is a [2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), which is a non-3D version of the 3DS, but can play 3DS games.
+1. The oldest joke still known was ["a young woman did not fart in her husband's lap"](http://www.wlv.ac.uk/about-us/news-and-events/latest-news/2008/august-2008/the-worlds-ten-oldest-jokes-revealed.php), some kind of Sumerian proverb slash fart joke.
+1. Phoenix Wright [goes on](http://aceattorney.wikia.com/wiki/Ace_Attorney_Wiki) to become a professional poker player because perhaps he thought his game series was [full of plot holes](https://www.gamefaqs.com/boards/925589-phoenix-wright-ace-attorney/57102046).
+1. You can have pasta for lunch if you either a) [pre-soak pasta for 90 minutes, and cook for just a minute](https://food-hacks.wonderhowto.com/how-to/one-minute-pasta-plus-more-revolutionary-pasta-cooking-hacks-you-need-know-0156659/); b) parboil the night before; or c) bring lunch, homie. See same article: cooking pasta with cold-water start saves water, but not time.
+1. [How to build a (gaming) PC](https://www.youtube.com/watch?v=3lrdDID3i7s). Remember, desktops have cables that connect the components.
+1. The alphabet song is the same as twinkle twinkle little star.
+1. When you're stressed, you smoke. (Second-person you)
+1. Latvia has plenty of potatoes. It was during the soviet times when they (reportedly) didn't have enough.
+1. "Riga Gold Sprats" is produced in Latvia. This gets more obvious when [Riga](https://en.wikipedia.org/wiki/Riga) is Latvia's capital.
+1. The Nexus 4 supported wireless charging. You never used it.
+1. People didn't move from the Bronze Age to the Iron Age because iron is better; rather, the [tin trade](https://en.wikipedia.org/wiki/Bronze) was disrupted, and that prevent production of bronze with copper.
+1. Bronze definitely existed during Jesus' times. Even Iron Age was over by 600 BC.
+1. [Glenn](https://en.wikipedia.org/wiki/Glenn_%28name%29) came from Gaelic "Gleann". Therefore, anyone named *Glen* (with one N) are savages.
+1. Incidentally, Brian (Celtic) and Patricia (Latin) mean the same thing in different languages: noble.
+1. [Bullion](https://en.wikipedia.org/wiki/Bullion) ("Boolean") are the gold bars. [Bouillon](https://en.wikipedia.org/wiki/Bouillon_%28broth%29) ("Bui-yung") are the beef cubes.
+1. [Discussing the Bosnian problem](https://www.youtube.com/watch?v=oCEyM8AJUoE) means [Trump having sex with Melania](http://www.mirror.co.uk/news/weird-news/secrets-white-house-you-probably-9660149), apparently.
+1. [Neil on Flat Earthers](https://www.youtube.com/watch?v=CuwjWZV8EA0&t=109): "This is a deep failure of our educational system. I've stopped chasing after people with those belief systems, because I don't see the point; that there's something deeper going on in our society, that, somehow, enables people to believe they're making cogent arguments, and they're not."
+1. None of the [vikings](https://en.wikipedia.org/wiki/Vikings) looked like [how they are depicted on television](https://www.howtotrainyourdragon.com/images/uploads/humans/_1095/Feat_main.jpg).
+1. [Alfred the Great](https://en.wikipedia.org/wiki/Alfred_the_Great) and [Cnut the Great](https://en.wikipedia.org/wiki/Cnut_the_Great) (actually Scandinavian) were the two English Monarchs that were given the title "the Great".
+1. "Other people's money" and "Other people's time" are proven ways to make yourself richer. That's why companies exist. That's why you shouldn't be working for others purely for the money.
+1. Calling the Note 6 the Note 7, and then having the Note 7 explode and quickly replaced with the Note 8, drastically decreases the resale value of the Note 5.
+1. A figurehead is a person who holds an important title or office, yet executes little actual power. The Queen is a figurehead. She rarely exercises her powers, and doesn't know if the Commonwealth would actually follow her orders.
+1. If your lens is large enough, taking pictures of the sun [does](https://www.lensrentals.com/blog/2017/09/rental-camera-gear-destroyed-by-the-solar-eclipse-of-2017/) melt/burn the components.
+1. [Surtax](https://en.wikipedia.org/wiki/Surtax): paying taxes? You need to pay a tax based on how much you paid. [In 1968, President Johnson enacted a 10% surtax on individual and corporate income to help pay for the cost of fighting the Vietnam War.](http://www.investopedia.com/terms/s/surtax.asp)
+1. [Coasters were originally made of felt, and were put over the glasses to keep flies out. Unfortunately they spread germs.](https://www.youtube.com/watch?v=IeBc_3S4gvk) Now they go under glasses. That's what "How it's made" said, anyway.
+1. The Apple A10X chip is the first TSMC 10nm chip to be used by a consumer device.
+1. Broccoli came from the Mediterranean, long before the Italians started using tomatoes (which is from Mexico).
+1. On cooking Mexican food ("appropriating Chickpea-American culture"): you shame them if you cook it better than they do. But if you cook it worse than they do, you are a disgrace to Chickpea-Americans. You can't win. Stick to baked potatoes.
+1. Oprah was named "Orpah" after the biblical figure in the Book of Ruth. She and [Whitney Houston](https://en.wikipedia.org/wiki/Whitney_Houston) are two completely different people.
 1. According to [your own math](http://imgur.com/xa11NdK) in wear and tear per charging cycle, you get the most bang for your buck from your personal 4.4V Li-pol battery if you charge from 20% to 50%. (You can charge from 40% to 50% and get like 100x the cell life, but if you charge just 10% every time, you need to charge 10x as often.) If you want to use your battery like a normal person, charging from 20% to 70% isn't that bad.
 1. You don't mine with wallets. You mine with [miners](https://www.reddit.com/r/dogemining/wiki/index/mining_guide).
 1. [There are no pure oil public companies (assumptions?).](https://www.uncommonwisdomdaily.com/the-best-time-to-own-energy-stocks-17766) Energy exploration/production companies usually have both natural gas and oil reserves.

@@ -28,6 +28,14 @@ From your broke ass-college student notes. May or may not work.
 * Add salt, pepper, garlic, whatever
 * Boil in pot until solid
 
+## Grilled cheese, [the proper way](http://www.seriouseats.com/2015/02/best-grilled-cheese-sandwich-recipe-variations.html)
+
+* Salt pan and add butter. Or just salted butter.
+* Set stove on low.
+* Construct sandwich using two slices of bread, with one slice of cheese in between.
+* Load sandwich into pan.
+* Grill until cheese melts.
+
 # Lunch
 
 ## [Spinach Pasta](http://m.allrecipes.com/recipe/16142/spinach-pasta-salad)

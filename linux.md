@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. `freshclam` is the [command for updating ClamAV](https://help.ubuntu.com/community/ClamAV), not the scanning command.
 1. [`Ctrl+z` stops a job.](https://www.howtogeek.com/111417/how-to-multitask-in-the-linux-terminal-3-ways-to-use-multiple-shells-at-once/) `jobs` lets you see your jobs. `fg %1` brings back up whichever one is the first job. `kill %1` then kills it. This concludes linux job control.
 1. Use screen. While a little troublesome for ordinary things that tabs can do, `Ctrl+a, d` will detach a screen (and have its stuff run in the background, even after you exit ssh), and `screen -r` resumes that session.
 1. Want a progress bar for `cp`? *NO YOU CAN'T!* (:D) But you can replace the command with [`rsync -ah --process src dest`](https://askubuntu.com/questions/17275/progress-and-speed-with-cp), if you are okay with a slightly slower transfer.

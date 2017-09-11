@@ -1,5 +1,38 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. The [revolving door](https://en.m.wikipedia.org/wiki/Revolving_door_%28politics%29): Governments hire industry professionals for their private sector experience. Industry, in turn, hires people out of government positions to gain personal access to government officials.
+1. For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
+1. [Credit monitoring a ripoff](https://www.youtube.com/watch?v=3DKnHgsyeS8): that's like hiring a guard that calls you whenever your house was broken into. What you want are credit freezes (assuming you don't want it to get higher, either.)
+1. "2007: home button always takes you home, no matter where you are (mentioned in keynote). 2017: home button takes you home most of the time if you press it once. Press it twice and you get an app switcher. Press it three times for accessibility. If your phone is locked, press it once to wake, twice to bring up passcode. If you’re in a notification, press once to get rid of notification, then again to go home. Rest finger to unlock without opening home. Double rest to bring reachability. Press and hold for Siri. Press and hold longer for Siri with stop on release." - /u/atalkingfish
+1. Tasker's `%DATE` format will change depending on the system locale.
+1. Restart apache2 with [`apachectl -k graceful`](https://httpd.apache.org/docs/2.2/stopping.html) rather than `service apache2 restart`. The former [gracefully reloads its configuration](https://askubuntu.com/a/6417), which has no downtime.
+1. Warner Bros' Looney Tunes was inspired by Disney's [Silly Symphony](https://en.wikipedia.org/wiki/Silly_Symphony) in the 1930s.
+1. Location, location, location. Restaurants that open at the same location where a restaurant once closed will probably (90%) also close within a year.
+1. When you leave a stealthy machine in a building to connect to the corporate network for later use, the machine is called a [drop box](https://theantisocialengineer.com/the-making-of-a-drop-box/).
+1. The "gray" in ["kiss from a rose on the gray"](https://www.lyricinterpretations.com/seal/kiss-from-a-rose) is the brain (grey matter).
+1. The single-bone part of the chicken wing is called the [drumette](http://www.thekitchn.com/the-small-but-mighty-chicken-wing-223119) (i.e. mini drumsticks).
+1. If you want to buy a house and want to check for water leaks, check in the closet. No one paints the closet [before a sale]. Check the circuit breaker to make sure there are free slots (so you can add more appliances without major work).
+1. Feridun Hamdullahpur has [that same face](https://i.imgur.com/INk6lmq.jpg) regardless of what he does, even when loading laundry detergent into his trunk.
+1. Motion disrupts sleep. Sleeping with the dog or wife in the same room will not lower sleep quality; [sleeping with them in the same bed will.](https://www.cnet.com/au/news/mayo-clinic-dog-study-sleep-bedroom-bed/)
+1. The *mullet* hairstyle is ["normal everywhere except leave the back alone"](https://i1.wp.com/mrvaudrey.com/wp-content/uploads/2012/05/mullet-ratio.jpg).
+1. That "I want people to see the sides of my scalp" hairstyle is called the [undercut](https://en.wikipedia.org/wiki/Undercut_%28hairstyle%29). It was popular in the 1920s and 1930s as well.
+1. For menu items with icons, the [icons should be lighter than text](https://twitter.com/i/moments/880688233641848832). Otherwise, people would read the icon with the text.
+1. Diesel was indeed named after Rudolf Diesel, the man who invented the [(combustion) engine](https://en.wikipedia.org/wiki/Diesel_engine).
+1. [Buy only the kind of car you can afford to lose.](http://i.imgur.com/BWv69aK.mp4)
+1. Taiwanese noses are generally [wider and shinier](https://ichef.bbci.co.uk/images/ic/720x405/p0516xdj.jpg) than the ones on mainland, but would still appear normal [unless compared side by side](https://www.reddit.com/r/asianamerican/comments/38lruw/my_classmate_kept_insisting_that_she_could_tell/crw0lmv/).
+1. Tesla 60kWh batteries [*are*](https://teslamotorsclub.com/tmc/threads/model-s-60d-upgraded-for-free-to-75.97765/) 75kWh batteries. They artificially lower the capacity on the batteries through software, and inflate the price on the ones actually sold as 75kWh. All 60D Teslas in Florida received a free unlock to 75kWh during hurricane Irma.
+1. The [紅白藍膠袋](https://en.wikipedia.org/wiki/Red-white-blue_bag) is actually not known outside China. The concept of nylon bags was invented in Japan.
+1. Re: burning to death, "it's fine the nerves die quickly anyway" is rubbish. By the time the nerves die you are already half dead.
+1. Until you know you can handle a gun, don't put in more than one cartridge. If you fail and the gun flies out of your hands, you can (and will) die from the second misfire.
+1. [51% attacks](http://www.investopedia.com/terms/1/51-attack.asp) on a blockchain involve having more than 50% of the network's hashrate, the technicality of which will allow the 51% to confirm or deny blocks onto the chain, which means they can either invalidate or double spend transactions at their will. "If a cryptocurrency can be 51%-attacked easily (...) then people shouldn't [bring money near it.](http://deadcoins.com/)"
+1. [Chrome 60 had a dip in performance when the JS engine was swapped out for a newer one.](http://benediktmeurer.de/2017/09/07/restoring-for-in-peak-performance/)
+1. "Forgive them father, for they know not what they do" came from Jesus. "Forgive me father, for I know not what I do" came from Eminem.
+1. Exponential growth === geometric growth. The one that grows linearly is just called linear growth.
+1. God sends good and evil to us without respect to our righteousness [in the book of Job], said a [chill dude](https://np.reddit.com/r/news/comments/6yi7n0/white_christians_are_now_a_minority_of_the_us/dmoap3c/?context=3).
+1. [**"We have the brightest minds of today trying to figure out how to get people to click ads on the Internet, not actually inventing anything."**](https://www.reddit.com/r/uwaterloo/comments/6yo7tc/some_perspective_from_elon_musk_we_have_the/) was attributed to Elon Musk, but if you Google that phrase, it only ever showed up in /r/uwaterloo.
+1. [Initial coin offerings](http://www.investopedia.com/terms/i/initial-coin-offering-ico.asp) involve making up a new cryptocurrency, selling some of them for Bitcoin or real money, and then never delivering on anything.
+1. Egg-laying chickens are usually killed by the 130th week, when they are done producing around 200g of cholesterol.
+1. [Telugu](https://en.wikipedia.org/wiki/Telugu_language) (probably sounds like "Telegoo") is the third most-spoken language in India, behind Hindi and English, which have official status. Telugu is spoken in what is considered [South Central](https://en.wikipedia.org/wiki/Dravidian_languages), whereas Tamil is the actual South, where the [Tamil boyes](https://en.wikipedia.org/wiki/Three_Crowned_Kings) lived.
 1. [American mozzarella cheese can be sold in Canada duty-free, as long as it is a part of pizza kits.](http://www.betterfarming.com/online-news/pizza-cheese-eludes-canadian-tariff-11157)
 1. [The World Meteorological Organization comes up with hurricane names that loop every six years.](http://geology.com/hurricanes/hurricane-names.shtml) Names are alphabetical, alternate from male to female, and start with a different sex every year. Some names are banned due to the devastation they have previously caused: Ivan, Katrina, Matthew, Sandy, ...
 1. "Roast chicken breast with lemons," said Claybar. "It will make chicken breast juicier."
@@ -324,7 +357,7 @@
 1. The "ghetto" is where minorities live in groups, typically as a result of some socioeconomic pressure. It has nothing to do with how bad a place is. A ghetto can be a beautiful little India if they do it properly.
 1. The [ISO 31-0 standard](https://en.wikipedia.org/wiki/ISO_31-0#Numbers) defines the [thin space](https://en.wikipedia.org/wiki/Thin_space), ` ` (looks like a normal space in monospace, obviously) as the digit grouping separator, i.e. '1 000 000', rather than '1,000,000'.
 1. 1.4142... is the square root of 2. You use it to estimate how much longer the Manhattan distance would be between two points.
-1. Beef goes up to AAA; chicken only goes up to A.
+1. Beef goes up to AAA; chicken only goes up to A. Chicken eggs go up to AA, though.
 1. [Life sentence](https://en.wikipedia.org/wiki/Life_imprisonment#World_view) that can be paroled is not, strictly speaking, "life behind bars". You are looking for "life without parole" for the worst kind.
 1. ["wyciwyg"](https://en.wikipedia.org/wiki/WYCIWYG): What You Cache Is What You Get
 1. The most famous current use of quantum computers is [Integer factorisation using Shor's algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm), where it is already faster than classical computers (in run-time complexity).

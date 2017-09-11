@@ -1,5 +1,7 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [(long, lat) maps to the x-y axis better.](https://stackoverflow.com/questions/18636564/lat-long-or-long-lat) However, [ISO-6709](https://en.wikipedia.org/wiki/ISO_6709#Items) "Standard representation of geographic point location by coordinates" wants (lat, long) instead, which has the first vertical coordinate at the front.
+1. The moon is 38% of a billion metres away.
 1. The [revolving door](https://en.m.wikipedia.org/wiki/Revolving_door_%28politics%29): Governments hire industry professionals for their private sector experience. Industry, in turn, hires people out of government positions to gain personal access to government officials.
 1. For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
 1. [Credit monitoring a ripoff](https://www.youtube.com/watch?v=3DKnHgsyeS8): that's like hiring a guard that calls you whenever your house was broken into. What you want are credit freezes (assuming you don't want it to get higher, either.)
@@ -1072,7 +1074,6 @@
 1. You have this sinking feeling in your stomach when you are stressed because [blood is leaving it][reddit 15].
 1. [All marriages end in death][reddit 16].
 1. > "Fear the man with only one gun. He probably knows how to use it."
-1. According to Crockford, Netscape called it LiveScript, originally. In their attempt to 'destroy Microsoft', they teamed up with Sun. One of Sun's original goals with Java was making it the client-side scripting language for the browser. However, Netscape had LiveScript. Apparently the negotiations almost broke down over this point. In an enlightened moment, (probably) Marc Andreessen proposed renaming LiveScript to JavaScript (despite the fact that the languages have very little in common), and joy was had. Sun got the JavaScript trademark (and passed it on to Oracle), and Netscape got a perpetual exclusive license to use it. When JavaScript was standardized to avoid Embrace, Extend, Extinguish, Netscape refused to share its license, and so the official language was renamed to ECMAScript, after the standards body. When Sun was bought by Oracle, it also got the trademark, and presumably, Mozilla inherited the exclusive license from Netscape.
 1. [IP over DNS][kryo]: when free Wi-Fi hotspots block you until you pay
 1. [Both Mrs and Ms stand for 'mistress'][newrepublic]; Miss used to mean prostitute, which is odd, considering Mistress currently means women having affairs.
 1. "Skeet shooting" refers to shooting plates that someone had thrown into the air, with a shotgun.
@@ -1284,7 +1285,6 @@
 1. 90% of credit card machines' passwords since 1990 is either 166816 or Z66816.
 1. "Move to management. Fluff the resume a bit and put yourself out there as someone who can manage a decent term project and get stuff done. Job interviews, much like everything in life, comes down to 10% what you say, and 90% how you say it. Come across as wise not old, confident not down on yourself, and have an air of "If you don't hire me you're a f'in moron" without actually saying that, and you might be surprised what you get."
 1. [Bogons][wikipedia 96] are bogus IPs. These IPs have never been assigned to anything by the Internet Assigned Numbers Authority (IANA).
-1. It used to be the case that [`finger`][wikipedia 97] could read a user's `.plan(s)` file, which reveals the user's current activities. It was a form of blogging.
 1. The [Roche (Rosh) Limit][wikipedia 98] is the radius at which a large body can tear a smaller body apart, due to the effect of tidal forces on the smaller body.
 1. Sun Day, Moon Day, Tyr's Day, Odin's Day, Thor's Day, Frig's Day, and Saturn's Day.
 1. The [Baskerville][aiga] font makes readers believe that which is written is true, much more often than other fonts, including Helvetica.
@@ -2613,7 +2613,6 @@
 [wikipedia 94]: http://en.wikipedia.org/wiki/Chinese_steamed_eggs
 [wikipedia 95]: https://en.wikipedia.org/wiki/Swan
 [wikipedia 96]: https://en.wikipedia.org/wiki/Bogon_filtering
-[wikipedia 97]: https://en.wikipedia.org/?title=Finger_protocol
 [wikipedia 98]: https://en.wikipedia.org/wiki/Roche_limit
 [wiktionary]: http://en.wiktionary.org/wiki/skeleton_crew
 [wiktionary 2]: http://en.wiktionary.org/wiki/bury_the_lead

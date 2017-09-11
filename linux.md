@@ -1,5 +1,9 @@
 ![Dilbert][imgur]
 
+1. `dig` is "domain information groper". Tool names were more colourful back then.
+1. The `rc` in `.foorc` meant [runcom](https://stackoverflow.com/a/11030607/1558430). It came from [CTSS](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System) (initial release 1961).
+1. [`beep`](https://unix.stackexchange.com/questions/1974/how-do-i-make-my-pc-speaker-beep) hardly ever works if you have a laptop, or if you are logged in via ssh.
+1. It used to be the case that [`finger`](https://en.wikipedia.org/?title=Finger_protocol) could read a user's `.plan(s)` file, which reveals the user's current activities. It was a form of blogging.
 1. `freshclam` is the [command for updating ClamAV](https://help.ubuntu.com/community/ClamAV), not the scanning command.
 1. [`Ctrl+z` stops a job.](https://www.howtogeek.com/111417/how-to-multitask-in-the-linux-terminal-3-ways-to-use-multiple-shells-at-once/) `jobs` lets you see your jobs. `fg %1` brings back up whichever one is the first job. `kill %1` then kills it. This concludes linux job control.
 1. Use screen. While a little troublesome for ordinary things that tabs can do, `Ctrl+a, d` will detach a screen (and have its stuff run in the background, even after you exit ssh), and `screen -r` resumes that session.
@@ -19,13 +23,11 @@
 1. Count instances of `foo`: `foo | grep -c .`
 1. Log in as someone else: `(sudo) su - username`
 1. `>` [redirects to (and overwrites) a file](http://linuxcommand.org/lts0060.php), while `<` redirects a file to a command. Both must appear after a command. So if you expect something like
-
-```
-input_file.txt > command > output_file.txt      # You'd be bitterly disappointed
-command < input_file.txt > output_file.txt      # Instead, you live with this garbage
-cat input_file.txt | command > output_file.txt  # or win the useless cat award
-```
-
+    ```
+    input_file.txt > command > output_file.txt      # You'd be bitterly disappointed
+    command < input_file.txt > output_file.txt      # Instead, you live with this garbage
+    cat input_file.txt | command > output_file.txt  # or win the useless cat award
+    ```
 1. `cat * > new_file` overwrites contents in `new_file` with everything else in the folder. However, [``cat anything``](http://porkmail.org/era/unix/award.html#backticks) (with the backticks) is dangerous.
 1. Unrelatedly, simply `< file` shows the file in zsh (adding a useless new line every time you run it), whereas in bash it does nothing.
 1. And then there's [this](http://stackoverflow.com/a/876242/1558430), for *appending* both stdout (1) and stderr (2) to the same file: `cmd >> file.txt 2> &1` (send output to file.txt, then also send errors to wherever the output is going)
@@ -176,8 +178,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. [Never use echo in a script, they said.](https://www.reddit.com/r/linux/comments/3fhvxy/echo_help/ctovplr) Use `printf '%s\n' -n` in a script, they said. Something about AT&T.
 1. `ssh whoami.filippo.io` forwards *all* your public keys to the server. The server will know your email, and because GitHub publishes your key under `github.com/{username}.keys`, the server also knows your github account.
 1. [Distro packages go in `/usr/bin`. Other package managers install to `/usr/local/bin`.](http://unix.stackexchange.com/questions/8656/usr-bin-vs-usr-local-bin-on-linux) `/sbin` is for programs that need to be available before "users" are available to the system.
-1. "FYI it is pronounced ma-tay not mait. as in Yerba **Mate** which it is named after. It is from South America so it doesn't matter where you are from. You should pronounce it as it's native word." - [Matt Nelson](https://www.youtube.com/channel/UCJpf7lnaGv5Ya-O-g5wpBqQ)
-1. "Who cares" - [CarMoves](https://www.youtube.com/user/CarMoves)
+1. "FYI it is pronounced ma-tay not mait. as in Yerba **Mate** which it is named after. It is from South America so it doesn't matter where you are from. You should pronounce it as it's native word." - [Matt Nelson](https://www.youtube.com/channel/UCJpf7lnaGv5Ya-O-g5wpBqQ). "Who cares" - [CarMoves](https://www.youtube.com/user/CarMoves)
 1. Solaris has a version of `killall` that does not take parameters. It kills all killable processes.
 1. `bash -v` means verbose, not version (`--version`).
 1. The ["where am I" one-liner](http://stackoverflow.com/a/246128/1558430), `DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"`, is well-documented.

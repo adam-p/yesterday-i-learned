@@ -371,6 +371,9 @@ bar
 1. [Sometimes `%.0f` rounds up. Sometimes `%.0f` rounds down.](https://stackoverflow.com/a/24121342/1558430) Try 10.5 (becomes 10) and 1.5 (becomes 2).
 1 The `set` literal happily accepts repeated items, like `{1,1,1}`. It just comes out as `{1}`.
 1. Given `[1,2,3,4,5,6,7]`, `bisect.bisect_left(that array, 4)` will give you the index of 4, to the left of `4`, and `bisect.bisect_right(that array, 4)` will give you the index of 5, to the right of `4`.
+1. Destructured additions cannot be done. That is, `(a, b) += 1` ("add 1 to each of a and b") and `(a, b) += (3, 4)` ("add 3 to a and add 4 to b") will not work. You can still do `a, b = a + 3, b + 4`, though.
+1. `inspect.getfile(obj)` works only on a class, so `inspect.getfile(obj.__class__)`.
+1. *Almost* everything in python has a `__module__` attribute that tells you which module it came from. Primitives don't have it. Literals don't have it (because only primitives have literals). If you make a function or class in a REPL, then the module is `__main__`. The module for `type` is `__builtin__`, as is the case for other builtins, like `min` and even `function`. The module for built-in exceptions are `exceptions`, though, because that is where they are located. And, of course, if you attempt to inspect the builtin stuff, like `inspect.getfile(type(None))`, then you get a big fat `TypeError: <module '__builtin__' (built-in)> is a built-in class`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

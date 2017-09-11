@@ -93,6 +93,7 @@ git push origin :refs/tags/12345
 #### Some idiot impersonated me
 
 Then [sign your commits][mikegerwitz] with `git commit -S` (yo)
+Or [sign your commits automatically](https://stackoverflow.com/a/30467819/1558430) with `git config --global commit.gpgsign true`
 
 And [verify them][stackoverflow 13] with `git log --show-signature`
 

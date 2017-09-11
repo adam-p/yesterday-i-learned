@@ -1,3 +1,4 @@
+1. The damage from ingesting a [button cell battery](https://en.wikipedia.org/wiki/Button_cell) is caused by the electric current it creates, which causes sodium hydroxide to build up and burn through the oesophagus and into major blood vessels, which can cause fatal bleeding.
 1. Samarium is element 62. Although classified as a rare earth element, there is more samarium in the Earth's crust than tin.
 1. Ethanol itself might not be carcinogenic, but ethanal is, so... [liver cancer is responsible for 750k deaths annually](https://en.m.wikipedia.org/wiki/Liver_cancer).
 1. Chemists are often good at cooking. Except you. You suck.

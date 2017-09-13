@@ -1,5 +1,12 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [Women are more likely to be caught baking.](https://flowingdata.com/2017/09/11/most-female-and-male-occupations-since-1950/) Men are more likely caught cooking.
+1. Waterloo region is one of the few regions named after a large part of town. [Other regions](http://www.swimontario.com/images/Ontario_Counties.jpg) aren't like that.
+1. "What do we eat" "Que-mangeons nous" is "What eats us?"?
+1. The ["eat"](http://pocketcultures.com/topicsoftheworld/files/2011/09/Copia-de-acomer2-425x318.jpg) gesture and the "fuck off" gesture differ only by whether the fingers point toward the mouth.
+1. [AM is in the 0.5~1.6MHz range. FM is in the 88.1~108.1MHz range.](http://hyperphysics.phy-astr.gsu.edu/hbase/Audio/radio.html) Short wave radio is in between the two bands.
+1. [Stephen Harper](https://en.wikipedia.org/wiki/Stephen_Harper) was the first prime minister to employ a personal stylist, [Michelle Muntean](http://www.ctvnews.ca/stephen-harper-s-stylist-no-longer-on-public-payroll-1.513467), whose duties range from coordinating his clothing to preparing his hair and makeup for speeches and television appearances.
+1. Google Translate pronounces your name "correctly" in both the US and UK accents.
 1. [(long, lat) maps to the x-y axis better.](https://stackoverflow.com/questions/18636564/lat-long-or-long-lat) However, [ISO-6709](https://en.wikipedia.org/wiki/ISO_6709#Items) "Standard representation of geographic point location by coordinates" wants (lat, long) instead, which has the first vertical coordinate at the front.
 1. The moon is 38% of a billion metres away.
 1. The [revolving door](https://en.m.wikipedia.org/wiki/Revolving_door_%28politics%29): Governments hire industry professionals for their private sector experience. Industry, in turn, hires people out of government positions to gain personal access to government officials.

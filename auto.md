@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. To check if a car is too big or too small [for you], adjust the seat and look at the B pillar (the middle one). If you can see the pillar next to you, the car is too small. If you cannot see the pillar next to you, it is big enough. (but maybe too big.)
+1. "Mercedes-Benz" Sounds more like "Mare-SEE-dus Bens" in German.
+1. When you replace two of the four tires, regardless of front wheel drive or rear wheel drive, however bald the remaining two are, [the new tires go to the rear](https://beta.theglobeandmail.com/globe-drive/culture/commuting/shouldnt-the-new-tires-go-on-the-front/article621608/?ref=http://www.theglobeandmail.com&). Oversteer is much worse than understeer.
 1. The 2016 civic was upgraded to be 100% hard touch plastic on the rear doors.
 1. The Camry shared the same temperature knobs with the corolla at around the same time the corolla shared the same temperature knobs with the matrix. Rav4 also had the same knobs at some point. These cars also shared the same power door buttons, inside door handles, and possibly even the steering wheels.
 1. To clean your engine bay, [vacuum away the dust before you wash it with water.](https://www.youtube.com/watch?v=PRSoRkM8GcM) Disconnect the battery. Don't get any water on the electricals. Actually, just scrap the whole idea of cleaning the engine bay.

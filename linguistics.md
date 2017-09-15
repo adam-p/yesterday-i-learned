@@ -1,3 +1,5 @@
+1. *Circadian* is actually *circa diem*, around the day.
+1. The noun/pronoun cannot be omitted immediately following "and thus".
 1. *ped* in pedometer is foot. *pedo* in pedophilia is child. So pedometer is technically [ped-o-meter](https://www.amazon.de/Nintendo-Pikachu-2-Pokemon-Ped-O-Meter/dp/B00004U1R8).
 1. If there exists an "L Ron Hubbard Science Library", then L Ron Hubbard is the [*eponym*](http://www.hubbelllibrary.org/eponym.mgi) of the library, and the library is the *namesake* of L Ron Hubbard. Aside: ["eponymous" means "gives many names to"](https://english.stackexchange.com/questions/49281/how-should-i-use-eponym-eponymous-and-namesake), and is almost never used in meaningful sentences.
 1. Réservoir means "storehouse".

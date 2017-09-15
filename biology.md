@@ -1,3 +1,4 @@
+1. [You can eat your own poop if it's clean](http://gawker.com/5985723/can-you-eat-your-own-poop), says scientist Lars. Of course, none of your poop is clean.
 1. A dude from Wisconsin claims that [jogging for 3~5km a day helps regain leg strength after hardware removal](http://www.kneeguru.co.uk/KNEEtalk/index.php?topic=21956.0).
 1. [Something like 99.9% of the sperm dies before the uterus.](https://www.youtube.com/watch?v=kvAm99AGbrA) And you don't want to help your sperm get to the fallopian tubes, because that would give advantage to the sperm that is/are otherwise too weak to swim to the egg. You don't want to do that. You want a Hunger Games sort of thing and just get one winner.
 1. The heart beats "a hundred thousand times a day".

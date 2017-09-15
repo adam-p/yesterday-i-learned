@@ -1,5 +1,13 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Both Stephen King and Robert Downey Jr had addiction problems. King took cocaine, wrote [The Tommyknockers](https://en.wikipedia.org/wiki/The_Tommyknockers), and couldn't remember writing it. Robert had multiple cocaine arrests.
+1. The American Football was called [Gridiron football](https://en.wikipedia.org/wiki/Gridiron_football), so named because the ball is "played on foot (like a dirty peasant) instead of on horseback (like a gentleman)". - /u/Cynykl
+1. If a colleague asks you "what's for lunch,'" reply with [So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’] (Matthew 6:31), best without context.
+1. [Double IPA *is* Imperial IPA](http://beergraphs.com/bg/182-whats-a-triple-ipa/). Triple IPA is something like that, with even more hops.
+1. The EU has strict definitions of ["free range"](https://en.wikipedia.org/wiki/Free_range#European_Union), particularly the density of poultry is essentially what is seen as free range. In the US, that term is useless.
+1. reCAPTCHA is [extremely accessible](https://news.ycombinator.com/item?id=15224199) for obvious reasons.
+1. People with a psychological disorder might not believe they have an illness.
+1. Sole has no texture, but at least it tastes okay (see "pollock")
 1. [Women are more likely to be caught baking.](https://flowingdata.com/2017/09/11/most-female-and-male-occupations-since-1950/) Men are more likely caught cooking.
 1. Waterloo region is one of the few regions named after a large part of town. [Other regions](http://www.swimontario.com/images/Ontario_Counties.jpg) aren't like that.
 1. "What do we eat" "Que-mangeons nous" is "What eats us?"?
@@ -78,7 +86,6 @@
 1. If your lens is large enough, taking pictures of the sun [does](https://www.lensrentals.com/blog/2017/09/rental-camera-gear-destroyed-by-the-solar-eclipse-of-2017/) melt/burn the components.
 1. [Surtax](https://en.wikipedia.org/wiki/Surtax): paying taxes? You need to pay a tax based on how much you paid. [In 1968, President Johnson enacted a 10% surtax on individual and corporate income to help pay for the cost of fighting the Vietnam War.](http://www.investopedia.com/terms/s/surtax.asp)
 1. [Coasters were originally made of felt, and were put over the glasses to keep flies out. Unfortunately they spread germs.](https://www.youtube.com/watch?v=IeBc_3S4gvk) Now they go under glasses. That's what "How it's made" said, anyway.
-1. The Apple A10X chip is the first TSMC 10nm chip to be used by a consumer device.
 1. Broccoli came from the Mediterranean, long before the Italians started using tomatoes (which is from Mexico).
 1. On cooking Mexican food ("appropriating Chickpea-American culture"): you shame them if you cook it better than they do. But if you cook it worse than they do, you are a disgrace to Chickpea-Americans. You can't win. Stick to baked potatoes.
 1. Oprah was named "Orpah" after the biblical figure in the Book of Ruth. She and [Whitney Houston](https://en.wikipedia.org/wiki/Whitney_Houston) are two completely different people.
@@ -108,7 +115,6 @@
 1. A cottage is where a [cotter](https://en.wikipedia.org/wiki/Cotter_%28farmer%29) (peasant farmer) lived. Cottages are horrible.
 1. Waiters/Waitresses ("waitists") first take food out of the kitchen with a tray, then take the tray to an empty table next to yours, then unload the food from that table to your table. They bring the tray to your table only if there are no free adjacent tables.
 1. $10 + tax a meal for a month is a thousand dollars a month.
-1. The iPhone 6s is 0.3mm thicker than the iPhone 6 (for the force touch rubbish). Their casings are not interchangeable.
 1. Hyderabad is at the middle of India. It is pronounced HIderabad.
 1. Factorials end up with lots of zeros at the end. That's because [every time the number reaches "10", an additional trailing zero is guaranteed.](http://www.purplemath.com/modules/factzero.htm) Every pair of 2 and 5 also add a zero.
 1. Encrypting your hard drive is useless if your backups are not encrypted the same way or stronger.
@@ -116,7 +122,6 @@
 1. Bolivia has the world's highest number of official languages, [at 38](https://en.wikipedia.org/wiki/Bolivia) (mostly indigenous). [Singapore is fifth at four.](https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_recognized_official_languages)
 1. If you want to learn two languages based on how official they are, [English and French](https://en.wikipedia.org/wiki/List_of_languages_by_the_number_of_countries_in_which_they_are_recognized_as_an_official_language) are probably your best bet. And then Arabic.
 1. The Essential phone model PH-1 just spells out "PHone".
-1. According to EverythingApplePro, [Apple releases things on Tuesdays and starts preorders on Fridays](https://www.youtube.com/watch?v=norgCJzrNb4).
 1. [Fake tears](https://en.wikipedia.org/wiki/Artificial_tears) typically contain some type of cellulose.
 1. The Nazis plotted to [print fake UK banknotes and throw them all over the island](https://en.m.wikipedia.org/wiki/Operation_Bernhard) to collapse the economy. It didn't work.
 1. Steve Ballmer (employee #30) was the first business manager hired by Gates. [Steve Ballmer announced Windows ME, breaking a promise made by Bill Gates in 1998 that Windows 98 would be the final consumer-oriented version of Windows to use the MS-DOS architecture.](https://en.wikipedia.org/wiki/Windows_XP)
@@ -441,7 +446,6 @@
 1. Osseous/Ossified (note e/i) means "bony / turned into bone".
 1. The whole thing about people eating spiders in their sleep was ["invented as an example of the absurd things people will believe simply because they come across them on the Internet."](http://www.snopes.com/science/stats/spiders.asp) Vibrations from a sleeping person's lungs alone would alert spiders of danger.
 1. Steve Choi is bald. He has a lovely voice, though, which more than makes up for it.
-1. Force touch is more basic; [3D touch](https://www.wired.com/2015/09/what-is-the-difference-between-apple-iphone-3d-touch-and-force-touch/) is more granular. [It](https://en.wikipedia.org/wiki/Force_Touch#3D_Touch) would appear that iPhones have 3D touch, and all other "trackpad devices" have force touch.
 1. [Suicide tourism](https://en.wikipedia.org/wiki/Suicide_tourism) is a thing. People travel to Zurich to legally end themselves all the time.
 1. ["Right to Hire"](http://emersongroupinc.com/employment-definitions/) in the States is hiring a temporary position that might be retained as permanent later on. This is in contrast with direct hire, which is your stereotypical full-time job.
 1. The first question from [plant phone charger](https://www.reddit.com/r/shittykickstarters/comments/4fceqw/bioo_charge_your_phone_from_a_living_plant_yet/) was along the lines of "why "
@@ -481,10 +485,8 @@
 1. ["I have a great idea" "What?" "A motorcycle that goes slower than a bicycle, and that won't work unless you charge it every time" "This will sell" "Hang on, we should also remove one wheel so you faceplant every time" "Hold my beer"](https://www.youtube.com/watch?v=VdmJMLNuECQ)
 1. [Any age over 18](https://www.organdonor.gov/about/donors/seniors.html) can be donors.
 1. [Empire Company](https://en.wikipedia.org/wiki/Empire_Company) (EMP.A) owns Sobeys.
-1. "A [provisioning profile](https://pewpewthespells.com/blog/migrating_code_signing.html#introduction-to-code-signing) is a plist file that is cryptographically signed by Apple's CA to ensure it cannot be modified after being created. This allows Apple to have complete control over the deployment mechanism that is used on iOS."
 1. When attempting to change a project's configuration, Gerrit will save a draft of the config for you.
 1. [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr)'s real name is Richard Starkey.
-1. [WKWebView](http://blog.initlabs.com/post/100113463211/wkwebview-vs-uiwebview) uses less CPU for WebGL-related tasks on iOS.
 1. [Honey nut cheerios don't contain almond anymore](https://consumerist.com/2014/06/09/heres-why-honey-nut-cheerios-dont-contain-nuts/). The flavour is now from peaches[' pits], which are a relative of almonds.
 1. When a helicopter or quadcopter descends vertically, (according to /u/eaterofdog) the vehicle may lose lift to the phenomenon called "prop wash". However, when researched online, prop wash seems to generate a leftward torque, rather than a downward force.
 1. Realtors don't do the lawyer stuff; lawyers do the lawyer stuff. You can (if you want) buy and sell houses without a realtor. "The real work in a real estate transaction is done by the lawyers... title searches, transfer of funds, lien registrations, signing of documents, and more... Real estate agents show the house, and very little more. They write the offer, but anyone can do that, the forms are pre-printed."
@@ -527,7 +529,6 @@
 1. At the height of fidget spinner madness, ["fidget spinner porn" got to top 10](http://www.menshealth.com/sex-women/fidget-spinner-porn-pornhub) among pornhub searches.
 1. To have deaths on your hands is the same as to have blood on your hands, i.e. to be responsible for the deaths.
 1. Samsung reports preventing OLED burn-in by ["avoid keeping a static picture on ... for more than two hours at a time"](http://www.samsung.com/ca/support/skp/faq/441670).
-1. [Why would you pay for a phone made by Google? "You paid for a phone so Google can sell you to advertisers."](https://www.forbes.com/sites/ianmorris/2017/02/10/how-google-blew-it-with-the-pixel-and-pixel-xl/#3a1ca730f3f6) This is not the case for Apple.
 1. E162 [Betanin](https://en.wikipedia.org/wiki/Betanin) aka Beetroot red is the name of the red food dye. Betanin degrades when subjected to light, heat, and oxygen.
 1. Midlife is when you are between the age of 40 and 55. Midwife is when you deal with someone else's pregnancy.
 1. Eggs can increase cardiovascular risk, not largely because of the cholesterol content, but largely because eggs contain a lot of lecithin, which is converted to ["TMAO"](https://en.wikipedia.org/wiki/Trimethylamine_N-oxide) by gut bacteria, which, in turn, alters cholesterol metabolism, increasing cholesterol deposition along blood vessel walls. Counter this with vegetarian food, which changes the gut flora composition slightly.
@@ -949,7 +950,6 @@
     * Age: the younger, the better (old people have less water content)
     * Exercise: the harder, the faster (lung expels alcohol), assuming you replenish your fluids
     * Tolerance: the more tolerated, the faster
-1. Chrome for iOS makes requests to `http://localhost:0` for [URL verification][newrelic].
 1. You once played poker with Lou (Louis J. Montulli II, The Netscape guy) in Sunnyvale. You did not win. Nor did he. Then again, you spent $20 and he went all-out.
 1. If you're the person talking to someone in a noisy club, speak at the person's shoulder and not their ear.
 1. Origins of [rekt][reddit 11]
@@ -1023,7 +1023,6 @@
 1. "SourceTree" is a git/hg GUI from Atlassian (making it legit for some reason).
 1. A [leaky abstraction][wikipedia 22] is bad... it means "[you need to be aware of the implementation details when using the abstraction][stackoverflow 8]", making the abstraction useless.
 1. `\b` represents a [word boundary][regular-expressions] in regex. With one, `test\b` will never match `testicles`.
-1. "Mercury" is the Firefox for iOS.
 1. You don't shear a sheep; a sheep gets shorn.
 1. *Impeachment* requires a cause.
 1. Drying clothes with a few ice cubes in the dryer can [remove wrinkles][lifehacker 3].
@@ -1664,7 +1663,6 @@
 1. [Bliss point](https://en.wikipedia.org/wiki/Bliss_point_%28food%29)... describes what it means to have "just the right amount of salt, sugar, and fat" to make something taste best.
 1. [Wild animals chew off the umbilical cord.](http://mentalfloss.com/article/64416/do-other-animals-have-belly-buttons) A question, then, is: why do mothers know to chew the cord off?
 1. [Wild animals eat the placenta](https://en.wikipedia.org/wiki/Placentophagy). So, how do herbivores digest the placenta?
-1. There is normally no way to [transfer a file using Bluetooth](http://stackoverflow.com/questions/18884705/transfer-data-between-ios-and-android-via-bluetooth) on iOS. Get a Mac.
 1. For a single ball-picking event involving 5 balls, 3 green and 2 blue, the *probability* of picking a green ball is 3/5 = 60%; [the *odds*](http://mathforum.org/library/drmath/view/56706.html) of picking a green ball is (3:2), which is not 60%. An odds of 150% [might make sense](http://www.miniwebtool.com/ratio-to-percentage-calculator/?numerator=3&denominator=2), [depending on who you ask](https://en.wikipedia.org/wiki/Odds#Mathematical_relations).
 1. According to [random people on the Internet working on an app](https://hbr.org/2016/03/why-your-late-twenties-is-the-worst-time-of-your-life), you won't be an actual adult until you get married and have kids; and, before then, you will live the worst time of your life.
 1. In a [citation-less wiki section about REST](https://en.wikipedia.org/wiki/Representational_state_transfer#Code_on_demand_.28optional.29), the spec includes transfer of code from the server to the client, allowing the server to manipulate what the client does.

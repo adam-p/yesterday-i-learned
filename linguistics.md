@@ -1,3 +1,4 @@
+1. ["Nobody calls (Irish) Gaelic in Ireland. Nobody!"](https://i.imgur.com/btl0LhW.png) - Horse
 1. *Circadian* is actually *circa diem*, around the day.
 1. The noun/pronoun cannot be omitted immediately following "and thus".
 1. *ped* in pedometer is foot. *pedo* in pedophilia is child. So pedometer is technically [ped-o-meter](https://www.amazon.de/Nintendo-Pikachu-2-Pokemon-Ped-O-Meter/dp/B00004U1R8).
@@ -30,7 +31,7 @@
 1. Jerusalem is pronounced "yuh Hoo sa LA yim".
 1. Jojoba is pronounced 'hoHOEba', because reasons.
 1. [*Monseigneur*][wikipedia 168] (my lord) is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy][wikipedia 169].
-1. [Ezekiel][wikipedia 171] is pronounced yuh-hez-KEL.
+1. [Ezekiel](https://en.wikipedia.org/wiki/Ezekiel) is pronounced yuh-hez-KEL.
 1. According to The Hangover, Baklava is pronounced bakLAva. However, everybody else on the Internet says BAKlava.
 1. Analgesic is pronounced an-alJEEsik, or an-alGEEsik if you are actually Greek.
 1. *Turbo* is from Greek *τύρβη*, "wake", or Latin *turbo*, "spinning top".

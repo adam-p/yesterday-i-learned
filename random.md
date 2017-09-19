@@ -1,5 +1,27 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. The Achilles' heel story involves his mother washing his entire body with magic water except for his heel. Then he got shot in the heel at war one day and died.
+1. Wind mobile's "unlimited" US voice is actually [just 40 hours](https://www.freedommobile.ca/docs/default-source/default-document-library/data-fair-usage-policy).
+1. [Vim and Emacs users are more likely to be hired than Eclipse users.](https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language) (Pycharm is fine.)
+1. "So bored I want to kill someone" has a name: [cabin fever](https://en.wikipedia.org/wiki/Cabin_fever). The Shining was based on a kind of cabin fever.
+1. Fake eyes (like glass eyes) still need eye drops for lubrication.
+1. A [dead man's switch](https://en.wikipedia.org/wiki/Dead_man%27s_switch) can be used not only as fail-safes ("stop the lawn mower if the user is dead / can't hold onto the handle"), but also [fail-deadly](https://en.wikipedia.org/wiki/Fail-deadly) ("if the suicide bomber is shot and killed, make sure the bomb goes off anyway", or "make sure all the documents are released into the public if Edward Snowden is killed")
+1. It is impossible to buy cheap quinoa because the import price is [10x](https://en.wikipedia.org/wiki/Quinoa) that of wheat.
+1. "Forthwith" means "immediately". ["I shall ejaculate with utmost force forthwith"](https://www.reddit.com/r/AskReddit/comments/70nau7/what_was_it_like_the_first_time_you_gave_a_blow/dn4skim/) means "I nuttin".
+1. The *schoen* in *Danke schoen* rhymes with *une*.
+1. 5% of the population are sworn into the RCMP. The RCMP, being famous for riding horses, [have a buffalo/bison in the badge](http://www.rcmp-grc.gc.ca/fs-fd/badge-insigne-eng.htm).
+1. Avoid sushi places on Monday mornings and afternoons. Food prepared at that time is usually made with leftovers from the week before.
+1. Your post-op stride is around two feet long, about [six inches shorter than average](http://www.livestrong.com/article/438170-the-average-walking-stride-length/).
+1. Easter Island belongs to Chile ("annexed in 1888"). It is at the middle of ~~nowhere~~ the Pacific ocean.
+1. La Croix in America suddenly becomes La Croy, much like Lingerie in American comes Lingeray.
+1. [Once it's on your social media, you can see other people seeing you see something wonderful, and that'll bring you real joy.](https://www.youtube.com/watch?v=S1zJPuow8ps)
+1. The [Georgian architectural style](https://en.wikipedia.org/wiki/Georgian_architecture) is marked by symmetry. Even the inside of a house may be symmetrical.
+1. There is a Japanese phrase 限定解除, "Gentei Kaijo", meaning "ripping off your badge and get 1/0. 2more power".
+1. Transvestism is just crossdressing. No dicks are cut off or sewn on by transvestism.
+1. A man named John Mayer dated Jennifer Aniston, Katy Perry, and Taylor Swift (not at the same time).
+1. [Documentation is like a hand job.](https://www.reddit.com/r/ProgrammerHumor/comments/70bral/one_of_my_cs_teachers_dropped_this_the_other_day/) You're better at it yourself, but you want someone else to do it.
+1. Sasquatch is literally Bigfoot.
+1. [Present your strengths and weaknesses via short stories](https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job), in the "job hunting is 60% networking" that you have to do.
 1. Both Stephen King and Robert Downey Jr had addiction problems. King took cocaine, wrote [The Tommyknockers](https://en.wikipedia.org/wiki/The_Tommyknockers), and couldn't remember writing it. Robert had multiple cocaine arrests.
 1. The American Football was called [Gridiron football](https://en.wikipedia.org/wiki/Gridiron_football), so named because the ball is "played on foot (like a dirty peasant) instead of on horseback (like a gentleman)". - /u/Cynykl
 1. If a colleague asks you "what's for lunch,'" reply with [So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’] (Matthew 6:31), best without context.
@@ -2509,7 +2531,6 @@
 [wikipedia 169]: https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise
 [wikipedia 17]: https://en.wikipedia.org/wiki/Sleeper_effect
 [wikipedia 170]: https://en.wikipedia.org/wiki/Pure_function
-[wikipedia 171]: https://en.wikipedia.org/wiki/Ezekiel
 [wikipedia 172]: https://en.wikipedia.org/wiki/Kwashiorkor
 [wikipedia 173]: https://en.wikipedia.org/wiki/Parrotfish#Mucus
 [wikipedia 174]: https://en.wikipedia.org/wiki/Equagesic

@@ -1,3 +1,11 @@
+1. [Calendula](https://en.wikipedia.org/wiki/Calendula) looks a lot like chrysanthemum. Calendula oil has anti-inflammatory effects, and is still prescribed by Germans as a first-line medication.
+1. The transitional epithelium in the bladder forms an impermeable layer that prevents water from getting sucked into the bladder from nearby cells (or urine back into the body).
+1. [You cannot kill fruit flies with microwave.](https://www.youtube.com/watch?v=C8ZDR-ealws) The wavelength is too long for fruit flies to absorb. (Also... fruit flies are the same size as the microwave holes.)
+1. White, pinto, kidney, and pea beans are all the same [common bean](https://en.wikipedia.org/wiki/Phaseolus_vulgaris) *Phaseolus vulgaris*.
+1. The [scarlet runner](https://en.wikipedia.org/wiki/Phaseolus_coccineus) bean plant gets its name from the flowers, which are bright red. The beans range from white to purple (in patches).
+1. [Ground cherries](https://en.wikipedia.org/wiki/Physalis) are encased in a thin leaf-like husk. The fruit tastes like orange.
+1. Hops are flowers of the hop plant. They are susceptible to fungal diseases.
+1. 20% of mammalian species are bats. Rats (Rodentia) and shrews (Soricomorpha) make up another 50%. ~5400 mammalian species have been identified.
 1. [You can eat your own poop if it's clean](http://gawker.com/5985723/can-you-eat-your-own-poop), says scientist Lars. Of course, none of your poop is clean.
 1. A dude from Wisconsin claims that [jogging for 3~5km a day helps regain leg strength after hardware removal](http://www.kneeguru.co.uk/KNEEtalk/index.php?topic=21956.0).
 1. [Something like 99.9% of the sperm dies before the uterus.](https://www.youtube.com/watch?v=kvAm99AGbrA) And you don't want to help your sperm get to the fallopian tubes, because that would give advantage to the sperm that is/are otherwise too weak to swim to the egg. You don't want to do that. You want a Hunger Games sort of thing and just get one winner.

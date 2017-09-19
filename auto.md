@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. [You can expect 7 cars to get into a collision every year.](http://toronto.citynews.ca/2015/11/26/car-accidents-on-the-rise-in-canada-toronto-study/) Most are non lethal, of course.
 1. To check if a car is too big or too small [for you], adjust the seat and look at the B pillar (the middle one). If you can see the pillar next to you, the car is too small. If you cannot see the pillar next to you, it is big enough. (but maybe too big.)
 1. "Mercedes-Benz" Sounds more like "Mare-SEE-dus Bens" in German.
 1. When you replace two of the four tires, regardless of front wheel drive or rear wheel drive, however bald the remaining two are, [the new tires go to the rear](https://beta.theglobeandmail.com/globe-drive/culture/commuting/shouldnt-the-new-tires-go-on-the-front/article621608/?ref=http://www.theglobeandmail.com&). Oversteer is much worse than understeer.

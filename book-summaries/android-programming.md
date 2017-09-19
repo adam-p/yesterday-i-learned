@@ -99,3 +99,10 @@
 1. You can cache some data using the `onRetainNonConfigurationInstance` (deprecated) method, called in between `onStop` and `onDestroy`, and get that data back with `getLastNonConfigurationInstance()` (deprecated) in `onCreate`. The **Fragment** class now handles this.
 1. `onConfigurationChanged` will be called when a configuration is manually changed. Specify the configurations you want to manually handle with [`android:configChanges`](https://developer.android.com/guide/topics/manifest/activity-element.html).
 1. Avoid handling configuration changes manually. "It is more error-prone," said dude.
+
+## The Intent Class - Part 1
+
+1. Intents are more or less data structures.
+1. **Explicit activation**: Intents name the Activity they want to start.
+1. **Implicit activation**: Intents don't name the Activity they want to start. Intents name the operation they want to perform; the system then selects the Activity to perform that operation.
+1. Intents can also be used to signal that an event has occurred (but not using BroadcastReceivers for some reason).

@@ -171,6 +171,7 @@ undefined
 * `new RegExp(/already a regexp literal/)` can still be useful if you want to [add a flag to it](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp), like `new RegExp(/already a regexp literal/, 'i')`.
 * `clobber: true` when using `fs.copy` or `copySync` would overwrite the destination file if it exists. The term [clobber](https://stackoverflow.com/a/9392784/1558430) might have come from `cp`, where `cp -n` has a man page saying "do not overwrite an existing file (overrides a previous -i option)".
 * "Node JS" pronunciations [include](https://groups.google.com/forum/#!msg/nodejs/-d5LcWlQrxI/CarozdtVP3MJ) Node Jay Ess (commonly), No der Jay Ess, and most importantly, Node Dot Jizz.
+* Use `Object.prototype.hasOwnProperty.call(obj, prop)` instead of `obj.hasOwnProperty`, [because](https://stackoverflow.com/a/12017703/1558430) anyone can define a `hasOwnProperty` on an object.
 
 ## Deferred API
 

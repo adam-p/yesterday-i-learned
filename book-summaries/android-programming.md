@@ -105,4 +105,43 @@
 1. Intents are more or less data structures.
 1. **Explicit activation**: Intents name the Activity they want to start.
 1. **Implicit activation**: Intents don't name the Activity they want to start. Intents name the operation they want to perform; the system then selects the Activity to perform that operation.
-1. Intents can also be used to signal that an event has occurred (but not using BroadcastReceivers for some reason).
+1. Intents provide a way to want some work to be done, like "take a photo" or "pick a contact".
+1. Intents can also be used to imply that an event has occurred, to represent the event (something like "user clicked share", but not using BroadcastReceivers for some reason).
+
+### Intent fields
+
+1. **Action**: a string that names the operation to be performed. `Intent.ACTION_DIAL` means you want to call a number. `ACTION_EDIT` means you want to edit something. `ACTION_SYNC` means you want to sync. `ACTION_MAIN` means you want to start an Activity as a main Activity of an app.
+    * You can either initialise an Intent with the Action, or `.setAction(THE_ACTION)`.
+1. **Data**: a URI.
+    * Example: `geo:`/`tel:` URIs.
+    * You may need to use `Uri.parse()` on these strings first.
+    * You can `.setData(THE_DATA)`.
+1. **Category**: additional information about the components that can or should handle this Intent.
+    * `CATEGORY_BROWSABLE`: can be invoked by a browser.
+    * `CATEGORY_LAUNCHER`: can be the initial activity of a task... is listed in the top-level app launcher. (???)
+1. **Type**: the MIME type of the Intent Data.
+    * Example: `image/png`
+    * Set with `.setType(THE_TYPE)` or `.setDataAndType(THE_DATA, THE_TYPE)`.
+    * If left unspecified, Android may guess it for you.
+1. **Component**: identifies the Intent's target Activity (if you know there is one and only one).
+    * This is a `Class`.
+    * Set the target Activity with `.setComponent()`, `.setClass()`, or `.setClassName()`.
+1. **Extras**: extra information as K-V pairs.
+    * The target Activity will have to know how to use it.
+    * Set each extra with `.putExtra(EXTRA_NAME, EXTRA_DATA)`.  (overloaded for various types)
+1. **Flags**: information about how the Intent should be handled.
+    * `FLAG_ACTIVITY_NO_HISTORY`: Once started, the Activity should not be put in the history stack.
+    * `FLAG_DEBUG_LOG_RESOLUTION`: Prints extra log information.
+
+## The Intent Class - Part 2
+
+1. Explicit Activation starts an Activity using an Intent with a specific Component. You may construct an Intent with `new Intent(context, class)`. Example: `new Intent(CurrentClass.this, TargetIntent.class)`.
+1. Implicit Activation relies on **Intent Resolution** based on the desired operation and **Intent Filters**, the operations that an Activity can handle.
+    * IntentFilters are (usually) stored in `AndroidManifest.xml`, in the form of `<activity ..> <intent-filter ..> <action ..><action ..><action ..>`.
+    * Each `data` specifies (if desired) the `android:mimeType`, `android:scheme`, `android:host`, `android:post`, ... for each `<intent-filter>`.
+    * An IntentFilter that handles maps would have `<data android:scheme="geo" />`.
+    * IntentFilters can also have `<action>` and `<category>` children.
+    * In order to receive Implicit Intents, an Activity must specify an IntentFilter with the Category `android.intent.category.DEFAULT`.
+    * Intent Resolution uses only `data`, `action` and `category` fields. `flags` and `extras` are not used.
+1. Intent **Priority**: `android:priority` (from -1000, lowest, to 1000, highest) can be used to specify how high of a priority your Activity should appear to the user by default. The user may override that by choosing something else.
+1. `adb dumpsys (package name)` shows all IntentFilters in a package (among other things).

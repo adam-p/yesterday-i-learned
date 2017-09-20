@@ -1,5 +1,12 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [🅰🆈🆈 🅻🅼🅰🅾](http://www.unicode.org/charts/beta/nameslist/n_1F100.html) has no Vietnamese characters in it.
+1. [Round trip time between two instances in the same datacenter](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html) is around 1ms.
+1. [The highest rate of unemployment in the US was 10.4% in 1983.](http://www.multpl.com/unemployment/table) Even in 2008~2010, unemployment did not break 10%. Therefore, 10% is serious business. [Greece is at 22%.](https://www.statista.com/statistics/268830/unemployment-rate-in-eu-countries/)
+1. "撈神" is a kind of thing you smear on your face to lock the moisture in.
+1. [NYC trash days](https://i.redd.it/doum09rg0wmz.jpg) look like hell.
+1. Samsung Pay can emulate a magnetic stripe using ["a tiny coil that shoots out the same magnetic code that those readers normally get from your credit card"](https://www.theverge.com/2015/8/13/9146965/samsung-pay-mobile-payment-credit-card-readers-date), called MST.
+1. Summer sausages are designed to last without refrigeration. They are usually cured, mostly made with scrap meats, and are wrapped in cloth/paper rather than intestines.
 1. The Achilles' heel story involves his mother washing his entire body with magic water except for his heel. Then he got shot in the heel at war one day and died.
 1. Wind mobile's "unlimited" US voice is actually [just 40 hours](https://www.freedommobile.ca/docs/default-source/default-document-library/data-fair-usage-policy).
 1. [Vim and Emacs users are more likely to be hired than Eclipse users.](https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language) (Pycharm is fine.)

@@ -1,3 +1,4 @@
+1. "Dead skin accounts for about a billion tons of dust in the world's atmosphere" is a widely-circulated factoid that might not be true.
 1. [Calendula](https://en.wikipedia.org/wiki/Calendula) looks a lot like chrysanthemum. Calendula oil has anti-inflammatory effects, and is still prescribed by Germans as a first-line medication.
 1. The transitional epithelium in the bladder forms an impermeable layer that prevents water from getting sucked into the bladder from nearby cells (or urine back into the body).
 1. [You cannot kill fruit flies with microwave.](https://www.youtube.com/watch?v=C8ZDR-ealws) The wavelength is too long for fruit flies to absorb. (Also... fruit flies are the same size as the microwave holes.)

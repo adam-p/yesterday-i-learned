@@ -1,3 +1,5 @@
+1. Rubbing your finger hard will start smelling like sulphur, presumably because your are burning off your cysteine [disulphide bridges](https://en.wikipedia.org/wiki/Disulfide).
+1. [Vinegar reportedly melts through nitrile gloves in less than one hour.](http://www.augusta.edu/services/ehs/chemsafe/PDF%20files/gloveselechart.pdf) How well other kinds of gloves handle other kinds of chemicals are nonspecific to functional group, so there is not really a trend.
 1. "2-Nonenal. It is what makes [old people smell](https://en.wikipedia.org/wiki/Old_person_smell)... well like old people." (Unfounded)
 1. "Spermine. Smells like...well, sperm. Pyrrolidine. Also smells like..well, sperm."
 1. The damage from ingesting a [button cell battery](https://en.wikipedia.org/wiki/Button_cell) is caused by the electric current it creates, which causes sodium hydroxide to build up and burn through the oesophagus and into major blood vessels, which can cause fatal bleeding.

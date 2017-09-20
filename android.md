@@ -40,3 +40,4 @@
 * Sometimes you might want to check if you can run code based on the SDK version with which your app is built (like `Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB_MR2`). Actually, I don't think you'll ever need to do that.
 * [try-with-resources is only supported if your minSdkVersion is set to 19 or higher.](https://stackoverflow.com/a/24290875/1558430) It looks like `try (foo = new SomeResourceLikeAFile()) { foo... }`. Multiple resources can be tried by separating with a `;`.
 * Use the ["debug GPU overdraw"](https://www.youtube.com/watch?v=I4MhEx-nck4) thing in developer options to check where your app is drawing over a pixel twice or more (which is wasteful), including re-computing the colour over transparent areas.
+* Google Play Services keeps track of your boot count in a `shared_prefs/bootCount.xml`.

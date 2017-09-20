@@ -15,3 +15,4 @@
 1. "A [provisioning profile](https://pewpewthespells.com/blog/migrating_code_signing.html#introduction-to-code-signing) is a plist file that is cryptographically signed by Apple's CA to ensure it cannot be modified after being created. This allows Apple to have complete control over the deployment mechanism that is used on iOS."
 1. [WKWebView](http://blog.initlabs.com/post/100113463211/wkwebview-vs-uiwebview) uses less CPU for WebGL-related tasks on iOS.
 1. The iPhone 6s is 0.3mm thicker than the iPhone 6 (for the force touch rubbish). Their casings are not interchangeable.
+1. Depending on your device, Tim decided it would be nice if you get totally different UI on it, depending on which one it is. Swiping up on the iPhone gets you the control center, and on the iPad, it is a dock instead.

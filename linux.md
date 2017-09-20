@@ -89,7 +89,7 @@
 1. [`cd -`][winterdrake] gets you back to the previous directory. To make a directory called `-`, `mkdir '-'`. To go to that directory, use `cd ./-`, because `cd '-'` will not work.
 1. Press `Shift+PgUp` and `Shift+PgDn` to scroll up and down.
 1. If you cannot run a program with sudo because "Could not open X display", even though DISPLAY is already something like `:0`, then try running `xhost +` first.
-1. To do a port scan on anything, run ` nc -z example.com 1-65535`
+1. To do a port scan on anything, run ` nc -vz example.com 1-65535 2>&1 | grep succeeded`
 1. "A double dash (--) is used in bash built-in commands and many other commands to signify the end of command options, after which only positional parameters are accepted."
 1. `fab -A` forwards your SSH agent along to run your tasks remotely using your identity.
 1. `:x` is the same as `:wq`. `ZZ` is also the same as `:x`.

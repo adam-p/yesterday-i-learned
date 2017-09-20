@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. "You see what they've done here, this is organic tofu (toffu), dressed up as a juicy steak." - Clarkson on a CR-V hybrid
+1. There is [a site](http://www.imcdb.org/vehicles.php?resultsStyle=asImages&sortBy=4&make=Toyota&model=Matrix&modelMatch=1&modelInclModel=on) for car appearances on the Internet, ranked by what the car did in the clip (part of the movie, used a lot, used by a character or in a car chase, background vehicle, ...)
 1. [You can expect 7 cars to get into a collision every year.](http://toronto.citynews.ca/2015/11/26/car-accidents-on-the-rise-in-canada-toronto-study/) Most are non lethal, of course.
 1. To check if a car is too big or too small [for you], adjust the seat and look at the B pillar (the middle one). If you can see the pillar next to you, the car is too small. If you cannot see the pillar next to you, it is big enough. (but maybe too big.)
 1. "Mercedes-Benz" Sounds more like "Mare-SEE-dus Bens" in German.

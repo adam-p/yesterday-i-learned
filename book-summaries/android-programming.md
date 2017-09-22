@@ -111,7 +111,9 @@
 ### Intent fields
 
 1. **Action**: a string that names the operation to be performed. `Intent.ACTION_DIAL` means you want to call a number. `ACTION_EDIT` means you want to edit something. `ACTION_SYNC` means you want to sync. `ACTION_MAIN` means you want to start an Activity as a main Activity of an app.
+    * The `intent-filter` tags for the **main Activity** are `<action android:name="android.intent.action.MAIN" />` and `<category android:name="android.intent.category.LAUNCHER" />` (if it should also show up in the launcher?).
     * You can either initialise an Intent with the Action, or `.setAction(THE_ACTION)`.
+    * `ACTION_PICK` gives you back the URI of the resource (like a contact).
 1. **Data**: a URI.
     * Example: `geo:`/`tel:` URIs.
     * You may need to use `Uri.parse()` on these strings first.
@@ -145,3 +147,84 @@
     * Intent Resolution uses only `data`, `action` and `category` fields. `flags` and `extras` are not used.
 1. Intent **Priority**: `android:priority` (from -1000, lowest, to 1000, highest) can be used to specify how high of a priority your Activity should appear to the user by default. The user may override that by choosing something else.
 1. `adb dumpsys (package name)` shows all IntentFilters in a package (among other things).
+
+## Permissions
+
+1. Android uses Permissions to protect resources (like the camera) and data (like contacts). Some costly operations like sending SMS are also protected.
+1. Permissions are declared in the form of `<uses-permission>` strings. Example: `<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION">`
+1. `uses-permission` tags can be custom strings.
+
+### Limiting Permissions
+
+1. If your Application does something risky, it is possible to require other Applications/Activities to have sets of permissions in order to launch your Application.
+1. Define permissions required to launch your app with the `<manifest ...> <permission ...>` tag. Example: `<permission android:name="foo.PERMISSION_BAR">`.
+1. Give your own app the permission to launch itself by having `android:permission="foo.PERMISSION_BAR"` in its `<application ...` tag.
+1. Apps started without the required permission (for example, started by some app without that permission) will get an error.
+
+### Component permissions **take precedence over application permissions**
+
+Throws `SecurityException`.
+
+1. **Activity Permissions** restrict which components can start an Activity.
+    * Enforced at `startActivity` and `startActivityForResult`.
+1. **Service Permissions** restrict which components can start or *bind to* a service.
+    * Enforced at `Context.startService`, `Context.stopService`, and `Context.bindService`.
+1. **BroadcastReceiver Permissions**
+1. **ContentProvider Permissions**
+
+## The Fragment Class - Part 1
+
+* **Fragments** are portions of an Activity.
+1. Tablet UIs are more complicated than phone UIs. Fragments can help make a more complicated interface in a single Activity (?).
+1. A single Fragment can be reused across multiple Activities.
+    * [`Fragment` is not a subclass of `Activity`.](https://developer.android.com/reference/android/app/Fragment.html)
+1. Fragments are hosted by Activities. Therefore, Fragment lifecycles are tied to their parent Activities (with a few extras).
+    * **Resumed**: Fragment is visible in the running Activity.
+    * **Paused**: Fragment is visible, but some other Activity has focus.
+    * **Stopped**: Fragment is invisible.
+1. When an Activity is about to be created, its Fragments will get special calls in this sequence:
+    * `onAttach`: Fragment is attached to the Activity.
+    * `onCreate`: Fragment (not the Activity) is created. You don't set up the interface with this. You do so in `onCreateView`.
+    * `onCreateView`: Sets up and returns a view containing the user interface. This UI can be installed into the hosting Activity. After this method, the Activity's `onCreate` will be called.
+    * `onActivityCreated`: the Activity's `onCreate` was called.
+1. When an Activity has its `onStart`, `onResume`, `onStop` called, the Fragment's respective methods will also be called.
+1. When an Activity is destroyed, its Fragments will get special calls in this sequence:
+    * `onDestroyView`: The opposite of `onCreateView`.
+    * `onDestroy`: The Fragment is no longer in use. You can clean up its resources here.
+    * `onDetach`: You null out references to the host Activity here.
+
+## The Fragment Class - Part 2
+
+1. Fragments can be added to Activities:
+    * Statically: adding one into the layout.
+    * Programmatically: adding one using the **`FragmentManager`**. **Layouts** can be inflated/implemented in `onCreateView`.
+    * **Inflating** means turning a Layout XML into a Java object.
+    * Fragments' `onCreateView` methods give an `LayoutInflater inflater`. You use the `inflater` to inflate your Fragment XML, attach it to another argument `ViewGroup container`, and then have `onCreateView` return it.
+1. Layouts (like `LinearLayout`) will host your Fragments.
+
+### Adding Fragments programmatically
+
+1. Get a reference to `FragmentManager`.
+    * `FragmentManager fragmentManager = getFragmentManager();  // oh boy are you going to love the syntax`
+1. Begin a `FragmentTransaction`.
+    * `FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();  // my pinky is starting to hurt`
+1. Add the Fragment [to the Activity].
+    * `fragmentTransaction.add(R.id.foo_frame, new SomeFragment();`
+    * You define sub-Layouts with these `R.id`s. Example: `FrameLayout`.
+1. Commit the `FragmentTransaction`.
+    * `fragmentTransaction.commit();`
+
+### Dynamic Layout
+
+1. Lets you decide what to do with screen space in run-time (like checking if it is a phone or a tablet).
+1. Also lets you change layout based on events, like a click. Again, you will be using the `FragmentManager`.
+    * `fragmentTransaction.addToBackStack(null)` will bring you back to the original layout if the user presses back.
+1. `fragmentManager.executePendingTransactions()` will layout immediately. Apparently this is not the default.
+
+### Configuration changes
+
+1. `onRetainNonConfigurationInstance` and `getLastNonConfigurationInstance` are deprecated, replaced by methods in the Fragment class.
+1. If you call `setRetainInstance(true)` on the Fragment (usually in the Fragment's `onCreate`), then when configuration changes occur, Android will kill the activity, but not destroy its fragments. Instead, it will save that fragment state and it will detach the fragment from the activity.
+    * `onDestroy` will not be called on the Fragment (because it is not destroyed).
+    * `onCreate` will not be called on the Fragment (not created because it was not destroyed).
+1. On configuration change, you still handle your own restore code.

@@ -218,6 +218,17 @@ You cannot have another branch called `a/b`.
 ### github asks me for the user name and password every time I pull and push
 Use the SSH URL instead of the HTTPS URL.
 
+### [Linus told me not to use github because it sucks or something†](https://github.com/torvalds/linux/pull/17#issuecomment-5654674)
+
+Putting `.patch` at the end of the pull url gives you a git-compatible patch file:
+
+```
+https://github.com/torvalds/linux/pull/467
+https://github.com/torvalds/linux/pull/467.patch
+```
+
+† He didn't actually tell anyone not to use Github. He just said he doesn't. And he didn't say "sucks". He said "inferior". Get your facts straight.
+
 ### Git keeps asking me for my SSH password
 [The agent][stackoverflow 12] must be run with `eval \`ssh-agent -s\``. And only after that can you run `ssh-add`.
 

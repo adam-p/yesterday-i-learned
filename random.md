@@ -1,5 +1,11 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. There are both songs with the lyrics ["I am your dirty-K"](https://genius.com/The-cliks-dirty-king-lyrics) and ["I am your tourniquet"](https://www.azlyrics.com/lyrics/marilynmanson/tourniquet.html).
+1. "Good night sweet prince" is from Hamlet.
+1. Texas and Chile have [similar flags](http://mediad.publicbroadcasting.net/p/kera/files/styles/x_large/public/201702/flagsweb_0.jpg).
+1. Fun fact: The dagger symbol (†) is also called the obelisk, and the double dagger (‡) is called the diesis. The [triple dagger](http://skaldic.abdn.ac.uk/m.php?p=muficharinfo&i=5144) does not have a funny name yet.
+1. ["Catfishing"](https://en.wikipedia.org/wiki/Catfishing), faking an identity online to get relationships, was from a 2010 film *Catfish*, that talked about the firmness of caught catfish increases if put in the same tank with cod. In the film, the fake identity is probably the cod.
+1. The smoke is said to be the essence of electronics. Letting the [magic smoke](https://en.wikipedia.org/wiki/Magic_smoke) out will make it not work. Thus it introduced the term "smoke testing", to ensure the magic smoke stays in the box.
 1. [Sikhs wrap their hair and never cut or shave: "My Sikh shall not use the razor. For him the use of razor or shaving the chin shall be as sinful as incest."](https://en.wikipedia.org/wiki/Kesh_%28Sikhism%29) Except, [it is hard to find Sikhs that doesn't shave their beards](https://www.quora.com/Why-are-so-many-Sikhs-now-trimming-their-beards). "In last 10 years or so, i have realised that Sikhism nosedived big time. Blame it on fashion or laziness of Sikhs who find it hard to squeeze out time to tie beard and turban."
 1. [Equity dilution is enormous when multiplied by rounds.](https://techcrunch.com/2011/10/13/understanding-how-dilution-affects-you-at-a-startup/) However, some of the time, this dilution is offset by the increase in valuation between rounds ("maybe you are worth more now")
 1. Wait, how did [Sarah McLachlan](https://www.youtube.com/watch?v=J5rhHZLdYxM) turn into [this](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sarah_McLachlan_29_July_2010.jpg/1200px-Sarah_McLachlan_29_July_2010.jpg)?

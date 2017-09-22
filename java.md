@@ -101,7 +101,7 @@ groovy:000> Boolean.valueOf('true')
 1. [`Map` is an interface](http://stackoverflow.com/a/1348246); `HashMap` is the implementation.
 1. Concatenating an `Integer` to a `String` to have it automatically become a string is apparently [bad form](http://stackoverflow.com/a/18648773).
 1. When instantiating a typed Map (`Map<String String> foo = new HashMap<String, String>();`), the second `String, String` can be omitted because it is obvious. Then again, most things are obvious in Java, but they cannot be omitted.
-1. It is impossible to write `(5).toString()`, because fuck you, and fuck literals. To get a `"5"`, you need `new Integer(5).toString()`, or `Integer.toString(5)`.
+1. It is impossible to write `(5).toString()`, because fuck you, and fuck literals. To get a `"5"`, you need `new Integer(5).toString()`, or `Integer.toString(5)`. Update: [there are actually a thousand ways to convert an int to a string](http://javadevnotes.com/java-integer-to-string-examples), but `.toString()` isn't one.
 1. It is always possible to `return null` in any function, even if the return type is specified not to be null.
 1. Rather than assigning `self = this` or something like that, the outer class can be referenced with [`OuterClass.this`](http://stackoverflow.com/questions/2808501/calling-outer-class-function-from-inner-class) instead.
 1. All interfaces are static. `static` is redundant.

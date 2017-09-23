@@ -1,3 +1,4 @@
+1. Willkommen becomes Welcome. But (you are) Welcome becomes [Bitte schön](https://en.wiktionary.org/wiki/bitte_sch%C3%B6n).
 1. ["Nobody calls (Irish) Gaelic in Ireland. Nobody!"](https://i.imgur.com/btl0LhW.png) - Horse
 1. *Circadian* is actually *circa diem*, around the day.
 1. The noun/pronoun cannot be omitted immediately following "and thus".

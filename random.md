@@ -1,5 +1,26 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. If you look up "most popular surgeries", then you will get the answers a) plastic, b) cataract, c) [caesarean section](https://www.youtube.com/watch?v=xyN48VnRYUY), d) joint replacement, e) circumcision, f) bone repair, g) heart surgery, h) [stent procedure](https://www.healthline.com/health/stent) aka 通波仔, i) uterus removal, j) gallbladder removal, and k) heart bypass.
+1. Building foundations must be built below the [frost line](https://en.wikipedia.org/wiki/Frost_line) "because ... frost heaving ... can damage ... their foundations." In Canada that is around 2.
+1. Coffee beans crack twice: once at 205°C (light roast), and once more at 225°C (medium-dark).
+1. Light coffee roasts might have a "toasted grain taste". [Darker roast beans have oil (a sheen) on the surface.](http://www.coffeecrossroads.com/coffee-101/coffee-roasts-from-light-to-dark)
+1. [Dogs ought not walk in front of the pack leader](https://www.cesarsway.com/dog-psychology/pack-leader/establishing-leadership-with-your-new-addition) (you).
+1. Sushi fish was originally [fermented in rice first](http://www.pbs.org/food/the-history-kitchen/history-of-sushi/). Then some time between 1600 and 1900, some dude in Edo decided it was faster to never preserve the fish at all. So, now, fresh fish.
+1. Maki sushi is just rice burritos you cut into slices.
+1. If you [post a random security question answer](https://news.ycombinator.com/item?id=15318440), anyone can call the support number as you, and when challenged, answer with "Oh I just mash the keyboard for those". You don't want a random security answer.
+1. [Bill Nye looks incredibly old.](https://en.wikipedia.org/wiki/Bill_Nye) [This](https://upload.wikimedia.org/wikipedia/commons/9/95/Bill-nye-department-of-energy.jpg) is a picture of him in his late thirties.
+1. "Trey" the name just means "third born". And Chris might not have made it up that [Three can be pronounced Tray when on a playing card](https://en.wikipedia.org/wiki/Trey).
+1. 百年好合 means "good together for 100 years", not "good match that can be found once every 100 years".
+1. [Eskimo](https://en.wikipedia.org/wiki/Eskimo#Nomenclature) ("a person who laces a snowshoe") includes both Yupik (Siberia and Alaska) and Iñupiat (Alaska, Greenland, Canada). Calling an Inuit an Eskimo is like calling a tortoise a turtle; yet, people in Canada and Greenland don't like the idea of that.
+1. Fort McMurray is known for being Fort Mac, despite [Fort Macleod](https://en.wikipedia.org/wiki/Fort_Macleod) being in the same province. Fort Macleod is known for [a farm that mistreats horses](https://en.wikipedia.org/wiki/Horse_meat#Canada).
+1. "Steak tartare" originally came from "à la tartare", steak to be served with tartar sauce. "Tartar" was named after [the Tatars](https://en.wikipedia.org/wiki/Tatars), living in what's now Russia and Uzbekistan. Off to another tangent: yes, [you can totally die from eating raw beef.](https://en.wikipedia.org/wiki/Yukhoe#Japan_2011_incident)
+1. It remains unclear whether teenages [bag up shit and sniff the gas](https://en.wikipedia.org/wiki/Jenkem).
+1. Small dogs behave like they do because [they are spoiled](https://www.dogbreedinfo.com/articles/smalltoydogs.htm).
+1. [Pomskies](https://animalso.com/breeds/pomsky/) are tiny huskies bred from normal huskies and tiny [Pomeranians](http://www.akc.org/dog-breeds/pomeranian/). According to the pomsky page, being cute is all it does.
+1. [Jack Daniels is distilled in Moore County, in the city of Lynchburg, Tennessee, which is a dry county.](http://www.flask.com/5-facts-about-jack-daniels-whiskey/)
+1. [Never use WeChat.](http://www.moneycontrol.com/news/business/companies/wechat-confirms-that-it-makes-all-private-user-data-available-to-the-chinese-government-2391847.html)
+1. Nancy said she learned in her technical writing course: a) write for your audience, and b) less is more.
+1. [Yonaguni](https://goo.gl/maps/1WWTYei8jBU2) is lower down in latitude than Taipei is.
 1. There are both songs with the lyrics ["I am your dirty-K"](https://genius.com/The-cliks-dirty-king-lyrics) and ["I am your tourniquet"](https://www.azlyrics.com/lyrics/marilynmanson/tourniquet.html).
 1. "Good night sweet prince" is from Hamlet.
 1. Texas and Chile have [similar flags](http://mediad.publicbroadcasting.net/p/kera/files/styles/x_large/public/201702/flagsweb_0.jpg).

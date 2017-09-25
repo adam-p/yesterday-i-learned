@@ -209,7 +209,7 @@ Throws `SecurityException`.
 1. Begin a `FragmentTransaction`.
     * `FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();  // my pinky is starting to hurt`
 1. Add the Fragment [to the Activity].
-    * `fragmentTransaction.add(R.id.foo_frame, new SomeFragment();`
+    * `fragmentTransaction.add(R.id.foo_frame, new SomeFragment());`
     * You define sub-Layouts with these `R.id`s. Example: `FrameLayout`.
 1. Commit the `FragmentTransaction`.
     * `fragmentTransaction.commit();`

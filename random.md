@@ -1,5 +1,17 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Chile tried to claim Antarctica as its territory and failed because it once signed a [treaty](https://en.wikipedia.org/wiki/Antarctic_Treaty_System) saying no one lives there.
+1. At an annual interest rate of 2%, it takes 350 years to turn a dollar into a thousand dollars (or a hundred dollars in two hundred and thirty four years).
+1. A man named Dmitri was first to coin the term "the holy septnity".
+1. Your laptop is 3.3cm thick.
+1. [AMD's top mobile CPU of 2017 uses lithography twice as large as Intel's](http://cpuboss.com/cpus/Intel-7500U-vs-AMD-FX-7th-Gen-%E2%84%A2-9800P) (28nm vs 14nm).
+1. [Wahl is choice. Sonntag is Sunday. Wahlsonntag becocmes "election day", and need not be on a Sunday.](https://translate.google.com/#de/en/Today%20I%20am%20going%20to%20a%20Supermarket)
+1. [People chronically on blood thinners might not be able to own cats.](http://pets.webmd.com/cats/guide/declawing-cats-positives-negatives-alternatives#2) Bacteria on claws.
+1. Some time between 2016 and 2017, Reddit swapped the `/r/foo` and `/u/foo` notation with `r/foo` and `u/foo`, without the prefixing slash.
+1. Replacing your hip can somehow lead to more heart attacks and strokes.
+1. ["You cannot get cartilage from food. It is only available in supplements."](http://www.umm.edu/health/medical/altmed/supplement/cartilage)
+1. Minimalists prefer calling "empty", ["spacious"](https://www.reddit.com/r/minimalism/comments/71d1dy/its_so_empty/).
+1. After getting the stomach cut open, the C-section recipient (male, female, or other combinations of kins) is encouraged to breastfeed.
 1. If you look up "most popular surgeries", then you will get the answers a) plastic, b) cataract, c) [caesarean section](https://www.youtube.com/watch?v=xyN48VnRYUY), d) joint replacement, e) circumcision, f) bone repair, g) heart surgery, h) [stent procedure](https://www.healthline.com/health/stent) aka 通波仔, i) uterus removal, j) gallbladder removal, and k) heart bypass.
 1. Building foundations must be built below the [frost line](https://en.wikipedia.org/wiki/Frost_line) "because ... frost heaving ... can damage ... their foundations." In Canada that is around 2.
 1. Coffee beans crack twice: once at 205°C (light roast), and once more at 225°C (medium-dark).

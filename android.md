@@ -2,6 +2,8 @@
 
 ![](http://i.imgur.com/2q7uebE.jpg)
 
+> "Imagine being a phone. At launch, everyone loves you and is in line to get you. You amaze every review website or youtube channel out there. You're beautiful, sturdy, incredibly fast and affordable. People flash new roms on you on the daily. Over thirty THOUSAND people discuss you on a dedicated subreddit. There's millions of apps promoting themselves using you for their screenshots. Your owner takes you everywhere. You're with your owner through the best and worst times, always ready to rock. Your owner promotes you to their friends often. Over time, your power button starts getting funky, new phones come out and then one day, your owner is ordering a new phone through your screen. You try stopping them by randomly rebooting one more time, but this only seems to encourage the owner more. One day, you hear the doorbell. Your owner takes their new phone out of the box, with the same excitement they felt back when you were unboxed 2 years ago. They pick you up one last time to post a photo of the new phone, turn you off, take out your SIM and put you in a drawer never to be picked up again. You wonder where you went wrong. Was it the battery life? The camera? The power button? You lay there, waiting for your battery to completely run out, and when it does, you know you've had a good life." - [/u/alectprasad](https://www.reddit.com/r/Android/comments/721w8x/you_just_got_a_new_smartphone_what_is_the_first/dnfmdp4/)
+
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
 * Download the SDK before attempting to compile anything.
@@ -41,3 +43,6 @@
 * [try-with-resources is only supported if your minSdkVersion is set to 19 or higher.](https://stackoverflow.com/a/24290875/1558430) It looks like `try (foo = new SomeResourceLikeAFile()) { foo... }`. Multiple resources can be tried by separating with a `;`.
 * Use the ["debug GPU overdraw"](https://www.youtube.com/watch?v=I4MhEx-nck4) thing in developer options to check where your app is drawing over a pixel twice or more (which is wasteful), including re-computing the colour over transparent areas.
 * Google Play Services keeps track of your boot count in a `shared_prefs/bootCount.xml`.
+* `startActivity` accepts an `Intent` rather than `Activity` because reasons.
+* If even one of your neurons fire up, you would have noticed that `new Intent(CurrentActivity.this, ...)` and `new Intent(this, ...)` are identical statements.
+* IDs are under_scored. Variables are camelCased, As always, because reasons.

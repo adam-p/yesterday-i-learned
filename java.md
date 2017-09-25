@@ -117,3 +117,4 @@ groovy:000> Boolean.valueOf('true')
 1. Remember static types: splitting a String (`foo.split(",")` or something) results in multiple Strings. That requires the type to be `String[]`.
 1. There is a [Java REPL online](http://www.javarepl.com/term.html). There isn't one locally, but you can download java-repl, [whatever that web version uses](https://github.com/albertlatacz/java-repl).
 1. There is no `someArray[-1]`. Do it with `someArray[someArray.length - 1]`.
+1. The [array literal](https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java) is done with curly brackets. C does the same thing. Blame C.

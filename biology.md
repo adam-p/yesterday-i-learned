@@ -1,3 +1,8 @@
+1. You can cough so much that your small intestines can come out of your belly button. This condition is called [umbilical hernia](https://en.wikipedia.org/wiki/Umbilical_hernia).
+1. The same [fungus](https://en.m.wikipedia.org/wiki/Monascus_purpureus) that [turns rice red](https://en.wikipedia.org/wiki/Red_yeast_rice) makes [some statins](https://en.wikipedia.org/wiki/Statin) that lower cholesterol.
+1. The [gray jay](https://www.canadiangeographic.ca/article/meet-our-national-bird-gray-jay) live basically everywhere except where humans congregate. "Gray" is in the offical name, no matter what dialect of English the bird speaks.
+1. Scrub jays are reportedly much worse than blue jays. Both are blue.
+1. 碌柚 is the [honey pomelo](https://en.wikipedia.org/wiki/Pomelo).
 1. "Dead skin accounts for about a billion tons of dust in the world's atmosphere" is a widely-circulated factoid that might not be true.
 1. [Calendula](https://en.wikipedia.org/wiki/Calendula) looks a lot like chrysanthemum. Calendula oil has anti-inflammatory effects, and is still prescribed by Germans as a first-line medication.
 1. The transitional epithelium in the bladder forms an impermeable layer that prevents water from getting sucked into the bladder from nearby cells (or urine back into the body).

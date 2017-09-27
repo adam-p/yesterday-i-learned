@@ -118,3 +118,4 @@ groovy:000> Boolean.valueOf('true')
 1. There is a [Java REPL online](http://www.javarepl.com/term.html). There isn't one locally, but you can download java-repl, [whatever that web version uses](https://github.com/albertlatacz/java-repl).
 1. There is no `someArray[-1]`. Do it with `someArray[someArray.length - 1]`.
 1. The [array literal](https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java) is done with curly brackets. C does the same thing. Blame C.
+1. There's an ["effectively final"](https://stackoverflow.com/questions/20938095/difference-between-final-and-effectively-final) state: A variable or parameter whose value is never changed after it is initialized is effectively final. References to objects are also effectively final, even if the objects themselves change. Effectively final variables do not give compiler errors if they were really declared with `final`.

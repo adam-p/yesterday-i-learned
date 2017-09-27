@@ -1,3 +1,5 @@
+1. Beer curdles milk [because](http://science.howstuffworks.com/innovation/edible-innovations/beer-milk-curdle.htm) the acidity neutralizes the negative charge on the casein grouped into micelles, which cause them to clump together in larger and larger quantities.
+1. Potassium (and/or hydrogen) carbonate are conjugate bases of carbonic acid. They are basic.
 1. [Ethyl ethanoate](https://en.wikipedia.org/wiki/Ethyl_acetate) is abberviated as EtOAc, because the IUPAC are a group of Commie Frenchists.
 1. Rubbing your finger hard will start smelling like sulphur, presumably because your are burning off your cysteine [disulphide bridges](https://en.wikipedia.org/wiki/Disulfide).
 1. [Vinegar reportedly melts through nitrile gloves in less than one hour.](http://www.augusta.edu/services/ehs/chemsafe/PDF%20files/gloveselechart.pdf) How well other kinds of gloves handle other kinds of chemicals are nonspecific to functional group, so there is not really a trend.
@@ -5,9 +7,9 @@
 1. "Spermine. Smells like...well, sperm. Pyrrolidine. Also smells like..well, sperm."
 1. The damage from ingesting a [button cell battery](https://en.wikipedia.org/wiki/Button_cell) is caused by the electric current it creates, which causes sodium hydroxide to build up and burn through the oesophagus and into major blood vessels, which can cause fatal bleeding.
 1. Samarium is element 62. Although classified as a rare earth element, there is more samarium in the Earth's crust than tin.
-1. Ethanol itself might not be carcinogenic, but ethanal is, so... [liver cancer is responsible for 750k deaths annually](https://en.m.wikipedia.org/wiki/Liver_cancer).
+1. Ethanol itself might not be carcinogenic, but ethanal is, so... [liver cancer is responsible for 750k deaths annually](https://en.wikipedia.org/wiki/Liver_cancer).
 1. Chemists are often good at cooking. Except you. You suck.
-1. An [ampere](https://en.m.wikipedia.org/wiki/Ampere) is a coulomb per second. All of them are considered SI units.
+1. An [ampere](https://en.wikipedia.org/wiki/Ampere) is a coulomb per second. All of them are considered SI units.
 1. Methanoic acid is poured into rubber tree sap to make rubber. Drying rubber turns it yellow. That's why rubber bands are yellow.
 1. *c* is not the speed of light; *c* is ~3e8 m/s, and light happens to travel at that speed. So we call that the speed of light. But other things travel at *c*, too.
 1. Brushing teeth after breakfast does not work. [It just brushes the food and acid (in the case of orange juice) around.](https://www.quora.com/Should-you-brush-your-teeth-before-or-after-breakfast)
@@ -35,7 +37,7 @@
 1. [The mint lifesaver glows in the dark when bitten into.](http://recipes.howstuffworks.com/question505.htm) "Actually, all hard sugar-based candies emit some degree of light when you bite them, but most of the time, that light is very faint." Crystalline sugar emits energy as UV light when crushed, and the methyl salicylate in that mint absorbs UV light and emits visible light.
 1. [TNT](https://en.wikipedia.org/wiki/Trinitrotoluene) is not [trinitroglycerin](https://en.wikipedia.org/wiki/Nitroglycerin), which can be made by slowly adding 1:1 HNO3/H2SO4 into cold glycerol. The HNO3/H2SO4 process is done twice for TNT, plus an extra nitration step using HNO3 and oleum (apparently).
 1. Whatever you used to call "precipitate out", apparently professional chemists just call "crash out". It involves making a soluble compound insoluble by, well, changing the solubility of the solvent.
-1. Only elements lighter than iron can be used for [nuclear fusion](https://en.m.wikipedia.org/wiki/Nuclear_binding_energy#/media/File%3ABinding_energy_curve_-_common_isotopes.svg) and still yield energy.
+1. Only elements lighter than iron can be used for [nuclear fusion](https://en.wikipedia.org/wiki/Nuclear_binding_energy#/media/File%3ABinding_energy_curve_-_common_isotopes.svg) and still yield energy.
 1. [Dishwasher detergents do not foam up inside the dishwasher.](https://www.reddit.com/r/askscience/comments/5j08ot/how_do_suds_bubbles_influence_a_soapdetergents/)
 1. "Cultured celery extract" is marketing's way of saying (sodium) nitrite, a cancerous food preservative.
 1. Opoids cause constipation.

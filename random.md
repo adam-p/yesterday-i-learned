@@ -1,5 +1,38 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Ultrasonic mosquito repellants [do not work](http://www.bbc.com/news/magazine-20669080).
+1. 壽眉 came from Fujian.
+1. [Tiny brownouts are called voltage sags.](https://en.wikipedia.org/wiki/Voltage_sag) Brownouts need to last at least a minute.
+1. [Couscous is just wheat.](https://en.wikipedia.org/wiki/Couscous) Tiny balls of wheat.
+1. Apart from "[prices] got really high", *through the roof* also means "to become very angry".
+1. Comtemporary Rap sounds like [speech impediment](https://www.youtube.com/watch?v=TgE3REf_5gY) when censored. [One man agrees.](https://www.youtube.com/watch?v=NCE9-0H5HRQ)
+1. AM570 considers people who earn between 60,000 and 70,000 units of currency a year to be the people at the middle.
+1. Ingvar Kamprad, billionaire IKEA man and inventor of flat-pack furniture, [steals salt from restaurants](http://www.swedishwire.com/business/17245-ingvar-kamprad-recycles-tea-bags-and-steals-salt).
+1. The triangle in a play button is not at the middle. [It is at the center of mass](https://medium.com/@erqiudao/the-play-button-is-not-optical-alignment-4cea11bda175) more or less.
+1. Barack Obama is left-handed.
+1. Red phone cases tend to become either pink (sunlight) or "old rose" (#c08081, from dirtying it).
+1. "So extra" was [now](http://www.urbandictionary.com/define.php?term=extra) found to mean "excessive, dramatic behaviour".
+1. UC Browser has [15% of the browser market share in Asia](http://gs.statcounter.com/browser-market-share/all/asia)???
+1. To turn text to path in Inkscape, there is Path > Object to Path, not Object > Object to Path.
+1. September 2017--a month which will live in infamy--both [BroadPwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) and [Blueborne](https://www.armis.com/blueBorne/) vulnerabilities were released into the wild. In the same month, Google released Android O[nion], rendering all N-based ROMs vulnerable to these attacks.
+1. The cock that made the Sriracha sauce the cock sauce was from the year the inventor was born.
+1. [Vanity stores](https://www.reddit.com/r/AskReddit/comments/72ccgh/what_hobby_screams_rich_people/dnhg50e/) are businesses that a person (in this case, a husband lets his wife) keeps, regardless of business potential, in order for that person to be called a business owner.
+1. In fantasy sports, you are the manager. You build your team. Hence the fantasy. Because you aren't a manager. You're a loser on GitHub.
+1. Amsterdam Brewing Company, which is actually in East York Ontario, is [next to a trampoline park](https://goo.gl/maps/MWyFAZaAP1p).
+1. Blackberry didn't buy desktops. Employees are required to take their laptops home for [business continuity](http://www.thebci.org/index.php/training-education/overview), aka keep working even if it snows and stuff.
+1. "If you're only allowed to drive one mile per hour, you're not going to drive on that road, even if it's not technically blocked," Mr. Tsui [said](https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html). "If that's the only road I can drive on, you dam well know I'm driving on that road,"  Mr. Chan said.
+1. AirBnB originally started helped people add their listings by offering professional photographers to take photos of their homes. "We suggest founders do things that don't scale ... Many startup advisors persuade startups to scale way too early, (... which takes time/effort/money... a waste if done prematurely ...). Rather, we tell startups to get their first customer by any means necessary, (... often manually ...). At this stage, founders are still trying to figure out what needs to be built and the best way to do that is talk directly to customers." - [Y Combinator](https://blog.ycombinator.com/ycs-essential-startup-advice/)
+1. [Removing dark spots is called opening. Removing white spots is called closing.](http://brandmark.io/logo-crunch/)
+1. Flying at night vs during the day has a difference in [incidence rate](https://aviation.stackexchange.com/questions/29310/is-flying-during-the-day-safer-than-flying-at-night) that is significant (i.e. "can be seen") but insignificant (i.e. "doesn't matter").
+1. Each one of "The boys" refers to a testicle, not a spermatozoon.
+1. [HERE Maps](https://www.techinasia.com/grab-here-maps-partnership) was Windows Phone's best maps app.
+1. Many people [agree](https://news.ycombinator.com/item?id=15326652) that, unless you are the CEO, managers at any level should put the team first, then the company next.
+1. The same guy who invented the theremin (that would be Léon Theremin) invented [The Thing](https://en.wikipedia.org/wiki/The_Thing_%28listening_device%29), a passive listening device.
+1. Business class laptops come with all sorts of ports that will not be found in comsumer ports. [They also come with removable component upgrade doors](https://www.amazon.ca/gp/aw/d/B06XJJG4PD/), while it is questionable whether consumers would upgrade anything, even if they know they could.
+1. The [Oxford Dictionary word of the year in 2015](https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2015) was 😂.
+1. The file `batterystats.bin` is used to display the battery graph, and [has no impact on battery capacity](https://androidcentral.com/wiping-battery-stats-doesnt-improve-battery-life-says-google-engineer) or battery life.
+1. None of [the big four accounting firms](https://en.wikipedia.org/wiki/Big_Four_accounting_firms) (Deloitte, PwC, EY, KPMG) are single firms. They are networks of firms that share accounting standards. So, technically, being hired by one of those means almost nothing. The big four hire one million accountants globally.
+1. "If you can't handle me at my worst, you don't deserve me at my best" is a moronic phrase. See [what happens when the roles swap.](https://imgur.com/vKCsxOO)
 1. Chile tried to claim Antarctica as its territory and failed because it once signed a [treaty](https://en.wikipedia.org/wiki/Antarctic_Treaty_System) saying no one lives there.
 1. At an annual interest rate of 2%, it takes 350 years to turn a dollar into a thousand dollars (or a hundred dollars in two hundred and thirty four years).
 1. A man named Dmitri was first to coin the term "the holy septnity".
@@ -74,7 +107,7 @@
 1. [Present your strengths and weaknesses via short stories](https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job), in the "job hunting is 60% networking" that you have to do.
 1. Both Stephen King and Robert Downey Jr had addiction problems. King took cocaine, wrote [The Tommyknockers](https://en.wikipedia.org/wiki/The_Tommyknockers), and couldn't remember writing it. Robert had multiple cocaine arrests.
 1. The American Football was called [Gridiron football](https://en.wikipedia.org/wiki/Gridiron_football), so named because the ball is "played on foot (like a dirty peasant) instead of on horseback (like a gentleman)". - /u/Cynykl
-1. If a colleague asks you "what's for lunch,'" reply with [So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’] (Matthew 6:31), best without context.
+1. If a colleague asks you "what's for lunch,'" reply with [So do not worry, saying, ‘What shall we eat?' or ‘What shall we drink?' or ‘What shall we wear?'] (Matthew 6:31), best without context.
 1. [Double IPA *is* Imperial IPA](http://beergraphs.com/bg/182-whats-a-triple-ipa/). Triple IPA is something like that, with even more hops.
 1. The EU has strict definitions of ["free range"](https://en.wikipedia.org/wiki/Free_range#European_Union), particularly the density of poultry is essentially what is seen as free range. In the US, that term is useless.
 1. reCAPTCHA is [extremely accessible](https://news.ycombinator.com/item?id=15224199) for obvious reasons.
@@ -89,10 +122,10 @@
 1. Google Translate pronounces your name "correctly" in both the US and UK accents.
 1. [(long, lat) maps to the x-y axis better.](https://stackoverflow.com/questions/18636564/lat-long-or-long-lat) However, [ISO-6709](https://en.wikipedia.org/wiki/ISO_6709#Items) "Standard representation of geographic point location by coordinates" wants (lat, long) instead, which has the first vertical coordinate at the front.
 1. The moon is 38% of a billion metres away.
-1. The [revolving door](https://en.m.wikipedia.org/wiki/Revolving_door_%28politics%29): Governments hire industry professionals for their private sector experience. Industry, in turn, hires people out of government positions to gain personal access to government officials.
+1. The [revolving door](https://en.wikipedia.org/wiki/Revolving_door_%28politics%29): Governments hire industry professionals for their private sector experience. Industry, in turn, hires people out of government positions to gain personal access to government officials.
 1. For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
 1. [Credit monitoring a ripoff](https://www.youtube.com/watch?v=3DKnHgsyeS8): that's like hiring a guard that calls you whenever your house was broken into. What you want are credit freezes (assuming you don't want it to get higher, either.)
-1. "2007: home button always takes you home, no matter where you are (mentioned in keynote). 2017: home button takes you home most of the time if you press it once. Press it twice and you get an app switcher. Press it three times for accessibility. If your phone is locked, press it once to wake, twice to bring up passcode. If you’re in a notification, press once to get rid of notification, then again to go home. Rest finger to unlock without opening home. Double rest to bring reachability. Press and hold for Siri. Press and hold longer for Siri with stop on release." - /u/atalkingfish
+1. "2007: home button always takes you home, no matter where you are (mentioned in keynote). 2017: home button takes you home most of the time if you press it once. Press it twice and you get an app switcher. Press it three times for accessibility. If your phone is locked, press it once to wake, twice to bring up passcode. If you're in a notification, press once to get rid of notification, then again to go home. Rest finger to unlock without opening home. Double rest to bring reachability. Press and hold for Siri. Press and hold longer for Siri with stop on release." - /u/atalkingfish
 1. Tasker's `%DATE` format will change depending on the system locale.
 1. Restart apache2 with [`apachectl -k graceful`](https://httpd.apache.org/docs/2.2/stopping.html) rather than `service apache2 restart`. The former [gracefully reloads its configuration](https://askubuntu.com/a/6417), which has no downtime.
 1. Warner Bros' Looney Tunes was inspired by Disney's [Silly Symphony](https://en.wikipedia.org/wiki/Silly_Symphony) in the 1930s.
@@ -133,7 +166,7 @@
 1. In medicine, an [indication](https://en.wikipedia.org/wiki/Indication_%28medicine%29) is a valid reason to use a certain test, medication, procedure, or surgery.
 1. It is [(in 2016)](https://www.quora.com/Do-Coursera-courses-have-hard-deadlines) impossible to fail a Coursera course. You just get bumped to the next session and are asked to complete remaining material.
 1. Wolfram Alpha doesn't understand [how long it takes to travel around the world.](https://www.wolframalpha.com/input/?i=time+it+takes+to+travel+around+the+world+at+1km%2Fh)
-1. [3DS replaced NDS in 2011.](https://en.m.wikipedia.org/wiki/Nintendo_DS_family) [NDS cannot play 3DS games](https://www.nintendo.co.uk/Support/Nintendo-3DS-2DS/FAQ/Software/Can-I-play-Nintendo-3DS-games-on-my-Nintendo-DS-Nintendo-DSi-or-Nintendo-DSi-XL-/Can-I-play-Nintendo-3DS-games-on-my-Nintendo-DS-Nintendo-DSi-or-Nintendo-DSi-XL--242233.html). There is a [2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), which is a non-3D version of the 3DS, but can play 3DS games.
+1. [3DS replaced NDS in 2011.](https://en.wikipedia.org/wiki/Nintendo_DS_family) [NDS cannot play 3DS games](https://www.nintendo.co.uk/Support/Nintendo-3DS-2DS/FAQ/Software/Can-I-play-Nintendo-3DS-games-on-my-Nintendo-DS-Nintendo-DSi-or-Nintendo-DSi-XL-/Can-I-play-Nintendo-3DS-games-on-my-Nintendo-DS-Nintendo-DSi-or-Nintendo-DSi-XL--242233.html). There is a [2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), which is a non-3D version of the 3DS, but can play 3DS games.
 1. The oldest joke still known was ["a young woman did not fart in her husband's lap"](http://www.wlv.ac.uk/about-us/news-and-events/latest-news/2008/august-2008/the-worlds-ten-oldest-jokes-revealed.php), some kind of Sumerian proverb slash fart joke.
 1. Phoenix Wright [goes on](http://aceattorney.wikia.com/wiki/Ace_Attorney_Wiki) to become a professional poker player because perhaps he thought his game series was [full of plot holes](https://www.gamefaqs.com/boards/925589-phoenix-wright-ace-attorney/57102046).
 1. You can have pasta for lunch if you either a) [pre-soak pasta for 90 minutes, and cook for just a minute](https://food-hacks.wonderhowto.com/how-to/one-minute-pasta-plus-more-revolutionary-pasta-cooking-hacks-you-need-know-0156659/); b) parboil the night before; or c) bring lunch, homie. See same article: cooking pasta with cold-water start saves water, but not time.
@@ -195,7 +228,7 @@
 1. If you want to learn two languages based on how official they are, [English and French](https://en.wikipedia.org/wiki/List_of_languages_by_the_number_of_countries_in_which_they_are_recognized_as_an_official_language) are probably your best bet. And then Arabic.
 1. The Essential phone model PH-1 just spells out "PHone".
 1. [Fake tears](https://en.wikipedia.org/wiki/Artificial_tears) typically contain some type of cellulose.
-1. The Nazis plotted to [print fake UK banknotes and throw them all over the island](https://en.m.wikipedia.org/wiki/Operation_Bernhard) to collapse the economy. It didn't work.
+1. The Nazis plotted to [print fake UK banknotes and throw them all over the island](https://en.wikipedia.org/wiki/Operation_Bernhard) to collapse the economy. It didn't work.
 1. Steve Ballmer (employee #30) was the first business manager hired by Gates. [Steve Ballmer announced Windows ME, breaking a promise made by Bill Gates in 1998 that Windows 98 would be the final consumer-oriented version of Windows to use the MS-DOS architecture.](https://en.wikipedia.org/wiki/Windows_XP)
 1. Hanoi has the same population as Hong Kong. [Shanghai is almost 7x more populous than Berlin](https://en.wikipedia.org/wiki/List_of_cities_proper_by_population), and almost 3x that of NYC.
 1. Despite being one of the two official languages, only 0.6% of the Macanese population speak Portuguese at home.
@@ -231,7 +264,7 @@
 1. Dead people don't see ads.
 1. Red scotch brite is coarser than green scotch brite is coarser than blue scotch brite.
 1. There is a German saying "I'm too poor to buy cheap" "Ich bin zu arm, um billig zu kaufen"
-1. "In general, a [swollen battery](https://www.tekrevue.com/swollen-battery/) occurs when the battery’s cells are overcharged." Overcharging oxidises the elctrolytes in the cells, turning them into gas.
+1. "In general, a [swollen battery](https://www.tekrevue.com/swollen-battery/) occurs when the battery's cells are overcharged." Overcharging oxidises the elctrolytes in the cells, turning them into gas.
 1. A US president [once implied](http://www.mirror.co.uk/news/politics/donald-trump-just-suggested-fighting-11007233) wanting to kill muslims with pig blood dipped bullets.
 1. Solar eclipses occur [pretty much anywhere](http://nationaleclipse.com/maps/images/map_usa_21stcentury.png) on the map. Any curvature. Any direction. Toronto might see one in 2024.
 1. At some point, Michelangelo had to make out [David](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)'s peehole.
@@ -244,11 +277,11 @@
 1. There is nothing courageous about [eating a hot dog](https://d12qk6n9ersps4.cloudfront.net/3970357/medium-clean.jpg).
 1. REIT stands for real estate investment trust. It is a way to [invest in real estate](https://www.google.com/finance?q=TSE%3ACAR.UN) without buying houses.
 1. [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) is caused by a late bus spending even more time picking up more passengers that have been waiting, making it more late. Then the next bus catches up, hence the bunch.
-1. [Small functions considered harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29): "My main problem with DRY is that it forces us into abstractions — nested and premature ones at that. Inasmuch as it’s impossible to abstract perfectly, the best we can do abstract well enough insofar as we can."
+1. [Small functions considered harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29): "My main problem with DRY is that it forces us into abstractions — nested and premature ones at that. Inasmuch as it's impossible to abstract perfectly, the best we can do abstract well enough insofar as we can."
 1. Chinese men originally get a [new name at the age of 20](https://zh.m.wikipedia.org/wiki/%E8%A1%A8%E5%AD%97). Women, either at the age of 15, or whenever they get married. No longer the case possibly because passports.
 1. The [spur](https://en.wikipedia.org/wiki/Spur) is the spike behind cowboy boots. It annoys the horse and makes it go forward.
 1. Sunni Islam is the world's largest religious denomination, followed by Catholicism. According to Sunni tradition, Muhammad did not clearly designate a successor/caliph ("caliph" being the dude who leads the "caliphate", which is the Muslim world/community.)
-1. [Nejd](https://en.m.wikipedia.org/wiki/Najd) ("the middle of Saudi Arabia") is the birthplace of wahhabism, the fundamentalist branch of beliefs.
+1. [Nejd](https://en.wikipedia.org/wiki/Najd) ("the middle of Saudi Arabia") is the birthplace of wahhabism, the fundamentalist branch of beliefs.
 1. A man named Tom [recommends](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439) having integers as primary keys, and another UUID column for whenever these resources/objects are accessed externally. "Primary keys should never be exposed, even UUIDs"
 1. You are supposed to store **UUIDs** as [four bytes](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439), rather than a 36-character string. Smaller, faster for sorting, creating, pretty much everything is better. ORMs already do this for you.
 1. [Nest Egg](http://www.investopedia.com/terms/n/nestegg.asp) means savings (for a purpose).
@@ -272,7 +305,7 @@
 1. A [gramophone](https://en.wikipedia.org/wiki/Gramophone) is a phonograph. A [grandmaphone](http://www.urbandictionary.com/define.php?term=grandma%20phone) is a phone with huge buttons and no screen.
 1. [The son also became the prime minister](https://en.wikipedia.org/wiki/Lee_Hsien_Loong) and his children probably will, too.
 1. ["Singapore"](https://en.wikipedia.org/wiki/Singapore) from Sanskrit सिंहपुर is literally Lion City, hence the lions. The Brits colonised it, made it drive on the left, but lost control in 1959, when [Lee Kuan Yew](https://en.wikipedia.org/wiki/Lee_Kuan_Yew) the god won [the election](https://en.wikipedia.org/wiki/Singaporean_general_election,_1959). Lee died in 2015.
-1. "[The best age to die](https://www.quora.com/What-is-the-best-age-to-die-1) is when your body says you have to die. ... Approaching death robs a bodies strength. Any movement becomes difficult. Your body is telling you it soon must shut down. You sleep all the time and reality hurts. ... Many people know death will soon take them. They say goodbye to their friends, hug their children and then close their eyes forever," says Michael Fitzjohn, member of "the terminal illness club". Before his death, he added, **"Live your life in such a way that you’re smiling as you fade away into eternity."**
+1. "[The best age to die](https://www.quora.com/What-is-the-best-age-to-die-1) is when your body says you have to die. ... Approaching death robs a bodies strength. Any movement becomes difficult. Your body is telling you it soon must shut down. You sleep all the time and reality hurts. ... Many people know death will soon take them. They say goodbye to their friends, hug their children and then close their eyes forever," says Michael Fitzjohn, member of "the terminal illness club". Before his death, he added, **"Live your life in such a way that you're smiling as you fade away into eternity."**
 1. Baltimore is on the east coast, roughly where Washington DC is.
 1. In Michigan, [taking in orphaned animals that turn out not to be orphaned count as capturing](https://www.reddit.com/r/pics/comments/6sec8r/deer_find_their_way_into_a_home_to_escape_a_storm/dlcf6jk/).
 1. The wild saying about Lebanon's animal sex law "In Lebanon, men are legally allowed to have sex with animals, but the animals must be female. Having sexual relations with a male animal is punishable by death." might be false. [Sex with animals was outlawed in 1943.](https://en.wikipedia.org/wiki/Legality_of_bestiality_by_country_or_territory)
@@ -479,7 +512,7 @@
 1. The Australians tried to fight the emus. They lost. It was called the [emu war](https://en.wikipedia.org/wiki/Emu_War).
 1. If you can't [draw a clock](https://www.littlethings.com/brain-on-fire/?utm_source=iqx6&utm_medium=Facebook), you might [have](http://neuro.psychiatryonline.org/doi/10.1176/appi.neuropsych.12070180) [issues](http://www.alzheimersreadingroom.com/2009/12/alzheimers-clock-draw-test-detect-signs.html).
 1. Bethlehem is in West Bank now. The [Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip) is the tiny thing that is neither Israel nor the West Bank. Together, West Bank and Gaza Strip make up [Palestine](https://en.wikipedia.org/wiki/State_of_Palestine).
-1. Michael J. Fox's middle name is Andrew. He changed from A to J [because his middle initial sounded too much like the Canadian "eh?"](https://en.m.wikipedia.org/wiki/Michael_J._Fox)
+1. Michael J. Fox's middle name is Andrew. He changed from A to J [because his middle initial sounded too much like the Canadian "eh?"](https://en.wikipedia.org/wiki/Michael_J._Fox)
 1. At its height, Brunei, as the [Bruneian Empire](https://en.wikipedia.org/wiki/Bruneian_Empire), controlled the whole of [Borneo](https://en.wikipedia.org/wiki/Borneo), the world's third largest island that is now part of Malaysia and Indonesia.
 1. The basement is cooler in the summer, and colder in the winter.
 1. Canada went from [most ATMs per capita in the world](https://en.wikipedia.org/wiki/Banking_in_Canada) to [third most ATMs per capita in the world](http://data.worldbank.org/indicator/FB.ATM.TOTL.P5?year_high_desc=true). [SAD!](http://knowyourmeme.com/memes/donald-trump-s-sad-tweets)
@@ -546,7 +579,7 @@
 1. Dale Carnegie said, “Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.”
 1. "À la carte" are menu items they are sold separately, rather than as part of a combo.
 1. There are [*a lot*](http://www.npr.org/sections/krulwich/2011/06/01/128389587/look-up-the-billion-bug-highway-you-cant-see) of bugs in the sky. Like billions in a square kilometre of sky.
-1. [Texas was its own country in the 1800s.](https://en.m.wikipedia.org/wiki/Republic_of_Texas)
+1. [Texas was its own country in the 1800s.](https://en.wikipedia.org/wiki/Republic_of_Texas)
 1. [Hard phone cases are worse than soft cases in transferring the energy anywhere.](http://androidandme.com/2014/08/opinions/what-you-need-to-know-about-phone-cases-and-drop-protection-warning-science-content/)
 1. The [far side of the moon](https://en.wikipedia.org/wiki/Far_side_of_the_Moon) actually isn't always dark. It experiences two weeks of sunlight followed by two weeks of night.
 1. [Someone](https://www.reddit.com/r/explainlikeimfive/comments/6hmt3d/eli5_how_casinos_can_refuse_to_pay_a_jackpot/dizl5bn/) claims that slot machine winnings are decided by law. Slot machines mean that you always lose at a predetermined rate. If you win, go away.
@@ -574,7 +607,7 @@
 1. Louis XIV (or was it XIII?) was rumoured to have taken only three baths in his life.
 1. [Gunpowder tea](https://en.wikipedia.org/wiki/Gunpowder_tea) is a form of Chinese tea in which each leaf has been rolled into a small round pellet. The shinier, the fresher. "Rolling renders the leaves less susceptible to physical damage and breakage and allows them to retain more of their flavor and aroma."
 1. Magikarp can learn [tackle at level 15](https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)/Generation_I_learnset#By_leveling_up), and [flail at level 30](https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)/Generation_III_learnset#By_leveling_up). It is not entirely useless.
-1. [*Any time you use the new keyword, you are (...) permanently (...) hard-coding your application to work with a particular class’s implementation. That’s huge.*](http://ardalis.com/new-is-glue) *Use (new) when you don’t expect you’ll need flexibility in the future.*
+1. [*Any time you use the new keyword, you are (...) permanently (...) hard-coding your application to work with a particular class's implementation. That's huge.*](http://ardalis.com/new-is-glue) *Use (new) when you don't expect you'll need flexibility in the future.*
 1. [What you know doesn't matter to a company; what you can do for the company, does.](https://news.ycombinator.com/item?id=14271819)
 1. "Your emotions are a good guide for the fears of others. Your analysis, whether technical, fundamental, etc. is a good guide on where to place your greed. When the two don't match, that's where you profit." - /u/EHC11375
 1. [A, 2, and D](https://www.youtube.com/watch?v=gVGbDEAnDyo&app=desktop) was a numbering system used by Buzz in Home Alone.
@@ -585,7 +618,7 @@
 1. The only answer to [the "shabooya roll call" nonsense](https://www.reddit.com/r/videos/comments/6evkks/workplace_of_my_nightmares/) is [My name is Kevin, that is my name. They call me Kevin, cuz that's my name](https://www.youtube.com/watch?v=kAdVAbOtVK4).
 1. To find the core value of housing in a market while in a bubble, just take the prices before the bubble, extrapolate using the inflation rate, and you'll know.
 1. 豊田 is Toyoda with a D, but they changed to [トヨタ](https://en.wikipedia.org/wiki/History_of_Toyota) (Toyota) anyway, because トヨタ has 8 strokes in it, and apparently that's good luck.
-1. DON’T PUT GROUND WASP NEST ON YOUR VAGINA TO TIGHTEN MUSCLES, WARNS GYNAECOLOGIST: [“Here's a pro-tip, if something burns when you apply it to the vagina it is generally bad for the vagina” - Dr Gunter](http://www.independent.co.uk/life-style/ground-wasp-nest-vagina-tighten-warn-gynaecologist-painful-sex-bacteria-hiv-a7766376.html)
+1. DON'T PUT GROUND WASP NEST ON YOUR VAGINA TO TIGHTEN MUSCLES, WARNS GYNAECOLOGIST: [“Here's a pro-tip, if something burns when you apply it to the vagina it is generally bad for the vagina” - Dr Gunter](http://www.independent.co.uk/life-style/ground-wasp-nest-vagina-tighten-warn-gynaecologist-painful-sex-bacteria-hiv-a7766376.html)
 1. [Fishwives](https://en.wikipedia.org/wiki/Fishwife), also known as fish fags, are women who sell, rather than marry, fish.
 1. "Back in the 80ies and early 90ies disks were already shipped with bad sectors from the factory and had the bad sectors lists on their drive label. You would have to enter them when low-level formatting a drive." - /u/cbmuser
 1. When going to Hawaii, worry about getting hit in the head by a coconut, rather than getting bitten by a shark.
@@ -595,7 +628,7 @@
 1. As of [the article](http://www.anandtech.com/show/9394/analysing-amoled-power-efficiency)'s time of writing, AMOLED can beat IPS in efficiency (with a sample size of 2) if the screen contents are less than 60% white.
 1. ["Rendering"](https://en.wikipedia.org/wiki/Rendering_%28animal_products%29) can also mean the separation of animal fat from other tissues.
 1. [John Nolte is a divwad.](http://www.dailywire.com/news/12572/proof-cnn-knows-climate-change-big-fat-hoax-john-nolte#)
-1. OnePlus and Vivo were owned by Oppo. Oppo is owned by [BBK](https://en.m.wikipedia.org/wiki/BBK_Electronics). Then BBK buys OnePlus from Oppo. It's conglomerates all the way up.
+1. OnePlus and Vivo were owned by Oppo. Oppo is owned by [BBK](https://en.wikipedia.org/wiki/BBK_Electronics). Then BBK buys OnePlus from Oppo. It's conglomerates all the way up.
 1. [Mites can grow in eyes?](http://www.wikihow.com/Know-if-You-Have-Eye-Mites?amp=1)
 1. ["More than 167,000 young people age 17 and under married in 38 states between 2000 and 2010, according to a search of available marriage license data by a group called Unchained at Last, which aims to ban child marriage."](https://mobile.nytimes.com/2017/05/26/opinion/sunday/it-was-forced-on-me-child-marriage-in-the-us.html?_r=0&referer=https://news.ycombinator.com/)
 1. At the height of fidget spinner madness, ["fidget spinner porn" got to top 10](http://www.menshealth.com/sex-women/fidget-spinner-porn-pornhub) among pornhub searches.

@@ -373,6 +373,9 @@ In vim, type [`:cq`](http://stackoverflow.com/a/28134068/1558430) to make the ed
 
 `git commit --allow-empty --allow-empty-message`
 
+### My fingers are YUUUGE
+
+`git config --global help.autocorrect 1`
 
 
 ## Gerrit: using git like subversion

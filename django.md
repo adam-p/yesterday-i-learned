@@ -40,6 +40,7 @@
 * Django 1.7 got rid of the `--dry-run` option formerly available in South.
 * Queries can accept [`Variable` instances](https://lincolnloop.com/blog/faster-django-sites-pypy/) where values normally go, so that these queries can be precompiled (and later inserted using `.bind()`). You know, for rare cases when a query takes longer to generate than it takes to run.
 * "Repeatedly getting a certain index in a queryset" is not cached. Unless you evaluate the entire queryset, in which case, it is.
+* If a class A has a `ForeignKey` to class B with `on_delete=CASCADE`, B does not get deleted when A is deleted.
 
 ## WSGI
 

@@ -46,3 +46,4 @@
 * `startActivity` accepts an `Intent` rather than `Activity` because reasons.
 * If even one of your neurons fire up, you would have noticed that `new Intent(CurrentActivity.this, ...)` and `new Intent(this, ...)` are identical statements.
 * IDs are under_scored. Variables are camelCased, As always, because reasons.
+* It is possible to name your package using someone else's domain, like `com.microsoft.lol`.

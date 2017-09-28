@@ -236,6 +236,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. ext2 was [a lot crappier than other solutions at the time](http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html), [say Ted](http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html). ext2 always fails a power outage. What makes it better ("worse is better"), was that e2fsck is so well-tested that file recovery is almost always automatic, whereas other filesystems are well-designed, do not run on good hardware, and then tend to fail in irrecoverable ways.
 1. *Bashism* describes [the syntaxes in bash that are not supported elsewhere](http://mywiki.wooledge.org/Bashism), not just how quirky the syntax already is in bash or any other shell.
 1. Ubuntu has/had [three](https://wiki.ubuntu.com/DevelopmentCodeNames) mythical creatures as code names: the jackalope (9.04), unicorn (14.10), and werewolf (15.10).
+1. Having trouble running a GUI as root? `xauth merge /home/darren/.Xauthority` (use that exact user name).
 
 ## Tmux
 

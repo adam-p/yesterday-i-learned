@@ -17,3 +17,4 @@
 1. The iPhone 6s is 0.3mm thicker than the iPhone 6 (for the force touch rubbish). Their casings are not interchangeable.
 1. Depending on your device, Tim decided it would be nice if you get totally different UI on it, depending on which one it is. Swiping up on the iPhone gets you the control center, and on the iPad, it is a dock instead.
 1. "iPhone X is top notch lol"
+1. The new Siri knows its birthday (around 2011) but won't answer how old it is. Therefore, Siri is a woman.

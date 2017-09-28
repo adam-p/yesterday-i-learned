@@ -1,5 +1,12 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. For any UI popup confirming if ["Are you sure you want to foo bar?"](https://ux.stackexchange.com/questions/756/what-are-some-alternatives-to-the-phrase-are-you-sure-you-want-to-xyz-in-confi), you can remove the "Are you sure you want to" and still have a popup that makes sense.
+1. A successful person sees its own weaknesses *and then improves them.*
+1. Tan is more commonly [陳](https://www.quora.com/Where-is-the-origins-of-Tan-%E9%99%B3-surname) rather than 譚 in Singapore.
+1. Legend has it that OK came from "Oll Korrect."
+1. Corked wine tastes better than bottled wine because people enjoy the sound it makes when opened.
+1. [Even professors can be homeless too](https://www.theguardian.com/us-news/2017/sep/28/adjunct-professors-homeless-sex-work-academia-poverty), if you study English/Literature, an oversupplied field...
+1. [HP employs the industry's oldest IT workers on average.](http://www.businessinsider.com/stressful-lives-of-older-tech-workers-2015-11?_lrsc=e525de47-81f1-48b4-bc62-2a1e336af828) None of the listed companies had an average tech worker age higher than 40. This means: **kill yourself when you reach 40 years old.**
 1. Ultrasonic mosquito repellants [do not work](http://www.bbc.com/news/magazine-20669080).
 1. 壽眉 came from Fujian.
 1. [Tiny brownouts are called voltage sags.](https://en.wikipedia.org/wiki/Voltage_sag) Brownouts need to last at least a minute.
@@ -14,7 +21,6 @@
 1. "So extra" was [now](http://www.urbandictionary.com/define.php?term=extra) found to mean "excessive, dramatic behaviour".
 1. UC Browser has [15% of the browser market share in Asia](http://gs.statcounter.com/browser-market-share/all/asia)???
 1. To turn text to path in Inkscape, there is Path > Object to Path, not Object > Object to Path.
-1. September 2017--a month which will live in infamy--both [BroadPwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) and [Blueborne](https://www.armis.com/blueBorne/) vulnerabilities were released into the wild. In the same month, Google released Android O[nion], rendering all N-based ROMs vulnerable to these attacks.
 1. The cock that made the Sriracha sauce the cock sauce was from the year the inventor was born.
 1. [Vanity stores](https://www.reddit.com/r/AskReddit/comments/72ccgh/what_hobby_screams_rich_people/dnhg50e/) are businesses that a person (in this case, a husband lets his wife) keeps, regardless of business potential, in order for that person to be called a business owner.
 1. In fantasy sports, you are the manager. You build your team. Hence the fantasy. Because you aren't a manager. You're a loser on GitHub.
@@ -30,7 +36,6 @@
 1. The same guy who invented the theremin (that would be Léon Theremin) invented [The Thing](https://en.wikipedia.org/wiki/The_Thing_%28listening_device%29), a passive listening device.
 1. Business class laptops come with all sorts of ports that will not be found in comsumer ports. [They also come with removable component upgrade doors](https://www.amazon.ca/gp/aw/d/B06XJJG4PD/), while it is questionable whether consumers would upgrade anything, even if they know they could.
 1. The [Oxford Dictionary word of the year in 2015](https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2015) was 😂.
-1. The file `batterystats.bin` is used to display the battery graph, and [has no impact on battery capacity](https://androidcentral.com/wiping-battery-stats-doesnt-improve-battery-life-says-google-engineer) or battery life.
 1. None of [the big four accounting firms](https://en.wikipedia.org/wiki/Big_Four_accounting_firms) (Deloitte, PwC, EY, KPMG) are single firms. They are networks of firms that share accounting standards. So, technically, being hired by one of those means almost nothing. The big four hire one million accountants globally.
 1. "If you can't handle me at my worst, you don't deserve me at my best" is a moronic phrase. See [what happens when the roles swap.](https://imgur.com/vKCsxOO)
 1. Chile tried to claim Antarctica as its territory and failed because it once signed a [treaty](https://en.wikipedia.org/wiki/Antarctic_Treaty_System) saying no one lives there.
@@ -236,7 +241,6 @@
 1. Apparently, the sex of [an afternoon](https://www.lalanguefrancaise.com/un-ou-une-apres-midi-orthographe) changes depending on what happens during the afternoon, but the academy says afternoons should stay male regardless of activity, because mornings are males, and there's no reason for males to change into females in the afternoon. *Hon hon hon.*
 1. Your watch has a timer. You don't need a phone to boil an egg.
 1. Raymond, your role model, got burned [at least once](https://lwn.net/Articles/730962/) by a Dropbox employee.
-1. CAF (Code Aurora Forums) is not the project; "Android for MSM" is the project. When dudes say they are based on CAF, they actually mean they are based on Android for MSM by CAF.
 1. [Out of sight, out of mind](https://www.lukew.com/ff/entry.asp?1945): people don't click on things if they are hidden behind a menu or a dropdown. Important things ought to be visible, and ought to be [near the bottom](https://www.lukew.com/ff/entry.asp?1927) (if designing for mobile).
 1. [Infanticide became a capital offense in Roman law in 374 AD](https://en.wikipedia.org/wiki/Infanticide), before which the babies were left in clay pots to die, which "took the responsibility away from the parents because the child would die of natural causes (...)"
 1. [Sparta](https://en.wikipedia.org/wiki/Sparta_%28modern%29) is now the capital of the region of [Laconia](https://en.wikipedia.org/wiki/Laconia), an [unremarkable](https://goo.gl/maps/nXTVeBTRVN52) part of Greece.
@@ -271,7 +275,6 @@
 1. [Tile's batteries are not user-replaceable.](https://www.amazon.ca/Tile-Combo-Wallet-Finder-4-Pack/dp/B01MF9VQOP/ref=pd_sbs_107_1?_encoding=UTF8&psc=1&refRID=2FA6KEAHKFDTCX7H1ZDK) But [it's just a CR-2032.](https://www.youtube.com/watch?v=k-BTStjaxgw) So why don't they let you replace it yourself? Because it would break the waterproofing? No! Because fuck you, that's why.
 1. [At least two solar and two lunar eclipses happen every year](https://www.android.com/eclipse/), but most of them are not spectacular enough to be called eclipses.
 1. [Donald Trump is the first president since Polk (1845 ~ 1849) to not have a white house pet.](https://www.thoughtco.com/white-house-pets-4144590)
-1. In a very glitchy way, one-handed mode is shipped with Android 6.0 using the [`wm overscan`](https://forum.xda-developers.com/u/tasker-tips-tricks/guide-hold-swipe-home-button-to-enable-t3330353) command.
 1. "Tommy and Gina" were referenced in both Bon Jovi's [Livin' on a Prayer](https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer) in 1986, and [It's my life](https://en.wikipedia.org/wiki/It%27s_My_Life_%28Bon_Jovi_song%29) in 2000.
 1. Weevils can be killed by either frying your rice at 60 degrees Celcius for 15 minutes, or freezing at -18 degrees for 3 days.
 1. There is nothing courageous about [eating a hot dog](https://d12qk6n9ersps4.cloudfront.net/3970357/medium-clean.jpg).
@@ -293,7 +296,6 @@
 1. Uber drivers don't give a flying floop where you sit, as long as you aren't right behind them for a one-passenger booking.
 1. ["I'm in Ontario and everyone I know who died in winter wasn't buried until the spring."](https://www.reddit.com/r/WTF/comments/6t4pwt/corpse_foot_from_neighboring_grave_falls_out_to/dli9orb/) - /u/Keets
 1. The [Chaoui people](https://en.wikipedia.org/wiki/Chaoui_people) of Algeria like to play a flute-like instrument called the [Gasba](https://en.wikipedia.org/wiki/Gasba_music) (gasba literally means "reed" in the [Berber language](https://en.wikipedia.org/wiki/Berber_languages).)
-1. Android devices can be rooted with the [row hammer effect](https://en.wikipedia.org/wiki/Row_hammer). "Repeatedly accessing data stored in memory chips could flip certain bits," say [Arstechnica](https://arstechnica.com/information-technology/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/).
 1. "/r/theydidthemath" "/r/theydidthemonstermath" is not an original joke. ["They did the mash, they did the monster mash"](https://www.youtube.com/watch?v=-z5rIaxycMQ) is actually a song by Bobby Pickett.
 1. [DMZs](https://en.wikipedia.org/wiki/Demilitarized_zone) often become wildlife preserves because no one lives there.
 1. "[Need onion salt for a recipe?](https://www.thebalance.com/how-to-make-onion-salt-1387993) Ingredients: Onion powder, Salt." "[Need garlic salt for a recipe?](https://www.thebalance.com/how-to-make-garlic-salt-1387987) Ingredients: Garlic powder, Salt." "Need celery salt for a recipe? Ingredients: [Celery **seeds**](https://wholenewmom.com/recipes/homemade-celery-salt-and-how-to-use-it/), Salt."
@@ -331,7 +333,6 @@
 1. [Dude](https://www.youtube.com/watch?v=sdYiUw-lZrk) says it matters to differentiate "GPU" from "graphics card", the card on which the GPU is soldered.
 1. All natural numbers (N) are... integers (Z), which are all rational numbers (Q), which are all real numbers (R)
 1. You can't just add an aftermarket USB to wireless charging pad without needing wireless charging everywhere.
-1. Stop (my particular android) device from charging using `echo 0 > /sys/class/power_supply/battery/charging_enabled`. (Use 1 to re-enable, or 2 to blow the phone up.)
 1. [Adjectives](https://www.infoplease.com/language-arts/grammar-and-spelling/adjectives-versus-adverbs-introduction) are equivalent to "Adnouns".
 1. In the cryptocurrency world, you can just [clone a bunch of coins](https://techcrunch.com/2017/08/02/wtf-is-bitcoin-cash-and-is-it-worth-anything/) and end up having twice the amount of money (assuming people want to trade the cloned version).
 1. Apart from the literal meaning, ["per diem"](https://en.wikipedia.org/wiki/Per_diem) appears to mean "daily expense allowance" as well.
@@ -371,7 +372,6 @@
 1. "The ironic thing is this: If you decide that you can live with downtime, and therefor with a much less complex system - your uptime will increase. Of course." - [Moans Nogood](http://wedonotuse.blogspot.ca/2007/04/so-few-really-need-uptime.html) (really? that's the real name?)
 1. [Jewish people don't really know who they are.](https://en.wikipedia.org/wiki/Who_is_a_Jew%3F#Legal_structure_in_Israel) They can define "Jew" not as a race, not as skin tone (there are Ethiopian Jews), not by religion (you can make that stuff up), not even by Israel (what, before or after it was recreated?)
 1. Painting your bathroom light blue [suddenly](http://www.marketwatch.com/story/paint-your-bathroom-this-color-and-boost-your-homes-selling-price-by-5400-2017-06-04?siteid=rss&rss=1) raises your house price by $5400 on average.
-1. MediaTek is "not that much worse" than Qualcomm *iff* [you don't use custom ROMs](https://www.reddit.com/r/Android/comments/6p8nio/is_mediatek_really_that_worse/).
 1. Two mochis stacked on top of each other become [鏡餅](https://en.wikipedia.org/wiki/Kagami_mochi), some sort of Japanese new year cake.
 1. Although fencing is not done with real [rapiers](https://en.wikipedia.org/wiki/Rapier), Spanish people did really stab others with them.
 1. Campus democrats are [found](https://pjmedia.com/trending/2017/04/28/study-finds-democrats-least-tolerant-of-opposing-views/) to be less tolerant than republicans, when it comes to opposing views.
@@ -532,7 +532,6 @@
 1. 3.5 ounces is around a 100g. Unfortunately, it is 3.3 yards that is roughly 1 metre, rather than 3.5.
 1. Making a battery pack that can both charge and discharge at the same time [apparently](https://www.anker.com/products/A1272011) has detrimental effects on the lifespan of the battery.
 1. A 1080p PenTile display has an actual resolution of [1564 x 880](https://medium.com/@suyashsrijan/1080p-pentile-is-not-true-1080p-9951b9e5c2ee) (66% of pixels, 81% on each side). They get away with this because VESA uses "50% Michelson contrast" to define boundaries of a pixel, rather than rows and lines.
-1. Do not give internet access to Android System WebView. Granting network to this component gives all apps that use this component internet access, even if they aren't themselves whitelisted.
 1. Kidney donors cannot use ibuprofen or ASA, [or so some of them say](http://www.transplantbuddies.org/tbx/messages/5/523549.html?1320947089).
 1. BPA in cup noodles containers ("cups") is [already](https://www.ncbi.nlm.nih.gov/pubmed/24966409) known to cause cardiometabolic problems. [TBHQ](https://en.wikipedia.org/wiki/Tert-Butylhydroquinone) in the noodles is also known to be carcinogenic.
 1. The source of the fire is usually well-burned, because there was a lot of oxygen at the time. All other places are poorly burned. This is how firemen ("[fire people](https://github.com/WCF/black-to-african-american)") deduce where a fire started.
@@ -595,7 +594,6 @@
 1. [Honey nut cheerios don't contain almond anymore](https://consumerist.com/2014/06/09/heres-why-honey-nut-cheerios-dont-contain-nuts/). The flavour is now from peaches[' pits], which are a relative of almonds.
 1. When a helicopter or quadcopter descends vertically, (according to /u/eaterofdog) the vehicle may lose lift to the phenomenon called "prop wash". However, when researched online, prop wash seems to generate a leftward torque, rather than a downward force.
 1. Realtors don't do the lawyer stuff; lawyers do the lawyer stuff. You can (if you want) buy and sell houses without a realtor. "The real work in a real estate transaction is done by the lawyers... title searches, transfer of funds, lien registrations, signing of documents, and more... Real estate agents show the house, and very little more. They write the offer, but anyone can do that, the forms are pre-printed."
-1. Samsung is not an Android manufacturer for Google; [Samsung is a conglomerate that wants to take Android off Google](https://www.youtube.com/watch?v=2_L9j6mDJBg). No other series of devices have both Samsung and Google Apps suites.
 1. [Bruce Wayne talked to Batman once.](https://www.youtube.com/watch?v=tgCkmUS1IYI)
 1. "Having read the Dynamo paper, and knowing Cassandra to be a close derivative, I understood that these distributed databases prioritize write availability (Amazon wanted the “add to cart” action to never fail)."
 1. [Socialites have their own tier on Tinder.](https://www.theverge.com/2017/3/7/14848286/tinder-select-exclusive-dating-app)
@@ -1106,7 +1104,6 @@
 1. One day your mother put you down and never picked you up again.
 1. "Anyway" is correct, while "Anyways" is not, because of the term *adverbial genitive*. "Always" beat out "Alway" in the same timeline.
 1. Every girl loves to eat and travel. Every girl loves family and friends and, sometimes "loves" good scotch or whiskey.
-1. Tapping "Cached data" in System>Storage on Android clears caches for all apps. Beware, it also clears Google offline maps and gReader article data.
 1. [POST/Redirect/GET][wikipedia 16]: by returning a 30x response in your POST, the user will be forced to GET a different page, which means the user will not be able to POST to the same page again.
 1. Caps at the ends of bike handles are supposed to prevent them from making a human sausages when it hits any part of the body.
 1. The [Sleeper Effect][wikipedia 17] refers to the observation that people who badmouth others are less trusted. (Specifically, candidates who tell others not to vote for another candidate will receive fewer votes than if he/she had otherwise said nothing)
@@ -1195,7 +1192,6 @@
 1. *Pub* is short for Public House.
 1. UDP, despite having no packet delivery guarantee, is [actually 98~100% reliable][openmymind].
 1. Printers embed [yellow dots][seeingyellow] in the pages that you print to track your location, in the case that you are printing money.
-1. If a Oneplus One boot loops because of a [corrupt `persist` partition][androidpolice], run `make_ext4fs /dev/block/mmcblk0p15`
 1. A fake access point that captures your passwords is not called a honeypot, but a [rogue AP][wifipineapple].
 1. "Improvisation" can be promounced "improvise-A-tion" - but only in British English it seems. Otherwise it is "im-PROV-VI-SA-tion".
 1. `sudo` is [required][askubuntu] for openvpn.
@@ -1383,7 +1379,6 @@
 1. To take a screenshot in Firefox, type Shift+F2, then `screenshot --fullpage filename.png`
 1. "Anne Frank was very curious about her lady region and discussed masturbation and menstruation quite a bit in her original writings. The version of her diary thats published and read in schools today is highly edited, leaving out about 99% of her self exploration submissions." [source][reddit 36]
 1. [Confessional booths][uca] were built by the church not to give the person some privacy, but to prevent the priests from having sex with young women who came to confession.
-1. As of ~~Android L~~CyanogenMod 12, the shell now comes with [htop](http://en.wikipedia.org/wiki/Htop) (or its busybox).
 1. "Compound" is more abrasive than "polish", which is more abrasive than wax. Always wax after doing either one.
 1. [Pescetarians][wikipedia 93] eat... no meat, except for fish and seafood, which are obviously not meat (because fish don't have feelings).
 1. For steaming eggs, [a good ratio of water to eggs would be 1.5:1][wikipedia 94]
@@ -1404,7 +1399,6 @@
 1. Japanese girls have not been [licking doorknobs][tumblr] for more than three years.
 1. "[Dude][reddit 37]" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
 1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.][reddit 38] This makes electroshocking impossible in salt water.
-1. However much Google results decide to decay, the way to check (your particular android) device's battery percentage is `cat /sys/class/power_supply/battery/capacity`.
 1. Carbines are shorter versions of rifles.
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
 1. [Tap codes][wikipedia 100] go through walls, which morse code does not (because it is not possible to have 'long knocks')
@@ -1465,7 +1459,6 @@
 1. Perfectly clean metal surfaces [will automatically weld together][youtube 14] in a vacuum. Metallic atoms don't know about "surfaces" and bond together.
 1. "Covariance" is just a fancy way of saying "if parent method returns `Number` then surely a subclass method can return `float`"
 1. "Contravariance" is just a fancy way of saying "if parent method expects `float` then surely I can write a subclass method that handles both `float` and `int`"
-1. [The last three digits of a Google Play Services package][reddit 42] defines the compatible android version, CPU architecture, and PPI, respectively. The most common combination is "030", package for Pre-5 devices.
 1. Subways are powered by [a third, electrical track][wordpress].
 1. [Causation][harvard]: not (having prostate cancer|wanting to kill yourself|getting type 2 diabetes) makes you want to fewer than two cups of coffee.
 1. In Tasker, "top priority" is 50, not 1.
@@ -1668,7 +1661,6 @@
 1. The Japanese believe that [three things: a sword, a bronze mirror, and a cashew][wikipedia 188] came from [瓊瓊杵尊][wikipedia 189], the Japanese Jesus.
 1. [*Immaculate conception*][wikipedia 190] refers to Mary being born sin-free, not the virgin birth of Jesus.
 1. Acai (Açaí) rhymes with Asahi.
-1. "userdebug" seen in Android's build string apparently means something. ["No root because it's a 'user' build, which is what manufacturers ship. 'userdebug' builds which contain root also contain debugging tools and other things that some users might consider to be bugs."][reddit 55]
 1. [Hanlon's_razor][wikipedia 191]: if an act can happen because someone is stupid, then it is okay to just assume it was that (stupidity).
 1. Ri Sol-ju, the wife of Kim Jong Un, looks a lot better than Kim Jong Un.
 1. It is not uncommon for people to [hear explosions just as they fall asleep][wikipedia 192].
@@ -1790,7 +1782,6 @@
 1. [Meconium](https://en.wikipedia.org/wiki/Meconium) is the baby's first poop. It is dark green. It is odourless, and is made of intestinal epithelial cells, lanugo, mucus, amniotic fluid, bile, and water.
 1. It is worth buying peppercorns whole: pepper loses flavour and aroma through evaporation, so airtight storage helps preserve its spiciness longer. Pepper can also lose flavour when exposed to light, which can transform piperine into nearly tasteless isochavicine.
 1. [Government-approved level P7 paper shredders](https://www.semshred.com/level_6_shredders) produce fragments 1mm x 1mm in size.
-1. ["You may already know that every app/process in Android is assigned an oom_adj value, which indicates the likelihood of it being killed when an out of memory (OOM) situation occurs. More higher it's value, the higher likelihood of it getting killed. Valid range is -17 to +15. (if in the -17 range means it won't get killed)."](http://forum.xda-developers.com/showthread.php?t=2751559)
 1. According to the [Nazi National Anthem](https://www.youtube.com/watch?v=-7MJdeIZb3w), "Geist" means spirit.
 1. For 90% of the tools, [learn to use the tool](http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room), unless it is PHP, in which case learn to use a torch.
 1. "Cut out all these exclamation points. An exclamation point is like laughing at your own joke." -F. Scott Fitzgerald
@@ -1837,7 +1828,6 @@
 1. Titanium is biocompatible, and is used extensively in implants. With that said, a titanium knee joint only lasts 10-15 years.
 1. [Men walk faster than they all would like when in a group](https://newrepublic.com/article/117956/walking-through-revolving-doors-friends-what-it-reveals/?), but slower than all would like when with any positive number of women. Women all walk slowly.
 1. The [Gamma function](https://en.wikipedia.org/wiki/Factorial#Extension_of_factorial_to_non-integer_values_of_argument) (a definite integral) defines factorials for non-integer numbers, except negative integers. Gamma(n) still equals to the usual values when n is an integer, but the graph shows that negative integers resolve to either positive or negative infinity (undefined).
-1. [Android N will have *two* system partitions](https://en.wikipedia.org/wiki/Android_Nougat#Development_platform), one online and one offline. The online one will push updates to the offline one, and they switch once the offline one is updated.
 1. The typical Nobel Prize winner has a vastly (2.8x) [higher interest in activities such as arts and crafts](http://priceonomics.com/the-correlation-between-arts-and-crafts-and-a/) than the average person.
 1. The only reliable way to show a numeric keypad from cordova is to [set the input type to `tel`](https://github.com/bendrucker/angular-credit-cards/issues/74).
 1. [OLED was, and is, a Samsung product](http://www.androidheadlines.com/2016/08/samsung-controls-99-of-the-smartphone-oled-panel-market.html).
@@ -2067,8 +2057,6 @@
 1. There is [a woman out there](https://youtu.be/1hN89U_XD9E) who is a real hand model.
 1. [People who live in trucks and vans](https://www.reddit.com/r/vandwellers/comments/5mk4vb/consuming_alcohol/) and drink may be charged with DUI, even if they have no intention of going anywhere.
 1. HSPA (HSDPA and HSUPA, for download/upload) is often called 3.5G.
-1. Mounting android's system as rw: `mount -o rw,remount,rw /system`
-1. Mounting android's system as ro: `mount -o ro,remount,rw /system` (I know right)
 1. "Genuine leather" is rubbish. Get "Full-Grain Leather" instead.
 1. Carrie Fisher put her own ashes ("had her ashes put") in [an urn shaped like] a [giant prozac pill](http://www.tri-cityherald.com/news/nation-world/national/article125081249.html). The pill was Carrie's prized posessions.
 1. Saint John is in New Brunswick (west). St. John's is in Newfoundland (east). Cape Spear happens to be at St. Johns, the easternmost of Canada. And then there's [Saint Pierre and Miquelon](https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon), just south of NL, that belongs to the French.
@@ -2287,7 +2275,6 @@
 [aiga]: http://eyeondesign.aiga.org/can-a-font-make-us-believe-something-is-true/
 [aljazeera]: http://america.aljazeera.com/articles/2015/4/20/release-cards-turn-inmates-and-their-families-into-profit-stream.html
 [amputee-life]: http://www.amputee-life.org/2012/10/28/amputee-k-levels/
-[androidpolice]: http://www.androidpolice.com/2014/10/13/heres-easy-fix-oneplus-one-sudden-death-bug-results-neverending-boot-loops/
 [androidpolice 2]: http://www.androidpolice.com/2015/08/14/plus-codes-are-an-easier-and-more-accurate-way-of-locating-people-and-businesses-in-places-with-no-specific-street-address/
 [ansible]: https://galaxy.ansible.com/intro
 [answers]: https://au.answers.yahoo.com/question/index?qid=20080214204415AAAYoox
@@ -2457,7 +2444,6 @@
 [reddit 4]: http://www.reddit.com/r/AskReddit/comments/258w8s/what_is_a_story_you_have_been_dying_to_tell/chex9eq
 [reddit 40]: https://www.reddit.com/r/economy/comments/3i7c3s/oil_sinks_more_than_4_amid_market_turmoil_now/cue5fyh
 [reddit 41]: https://www.reddit.com/r/AskReddit/comments/3iyf84/reddit_what_is_the_most_quintessential_middle/cukwd8p
-[reddit 42]: https://www.reddit.com/r/Android/comments/3mh7vt/new_google_play_services_8118_438/cvf1ni5
 [reddit 43]: https://www.reddit.com/r/Justrolledintotheshop/comments/3ovdzr/just_got_my_internetordered_mounted_wheels_and/cw148dj
 [reddit 44]: https://www.reddit.com/r/askscience/comments/3q6vjf/if_nylon_stockings_rip_all_the_time_why_dont_we/
 [reddit 45]: https://www.reddit.com/r/worldnews/comments/3q744o/saudi_arabia_to_run_out_of_cash_in_fewer_than_5/cwcuknu
@@ -2471,7 +2457,6 @@
 [reddit 52]: https://www.reddit.com/r/EatCheapAndHealthy/comments/42ykrn/friendly_reminder_that_you_can_microwave_quinoa/
 [reddit 53]: https://www.reddit.com/r/AskReddit/comments/3y6hbd/what_is_totally_worth_its_risk/cyb3z33
 [reddit 54]: https://www.reddit.com/r/todayilearned/comments/47j3el/til_during_the_ww1_germans_protested_against_the/d0ea25i
-[reddit 55]: https://www.reddit.com/r/oneplus/comments/3sre4p/exodus_511_nightlies_vs_60_sultans_rom/cx07d0u
 [reddit 56]: https://www.reddit.com/r/videos/comments/49p218/a_brilliant_way_to_remove_popcorn_ceilings/
 [reddit 57]: https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9
 [reddit 58]: https://m.reddit.com/r/askscience/comments/14dkm7/is_new_zealand_a_part_of_the_australian_continent/

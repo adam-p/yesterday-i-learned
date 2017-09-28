@@ -1,5 +1,6 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Trevor Noah's [imitation of the Zambian accent](https://www.youtube.com/watch?v=n7GxnhQjBaw) sounds a bit like the Singaporean one.
 1. For any UI popup confirming if ["Are you sure you want to foo bar?"](https://ux.stackexchange.com/questions/756/what-are-some-alternatives-to-the-phrase-are-you-sure-you-want-to-xyz-in-confi), you can remove the "Are you sure you want to" and still have a popup that makes sense.
 1. A successful person sees its own weaknesses *and then improves them.*
 1. Tan is more commonly [陳](https://www.quora.com/Where-is-the-origins-of-Tan-%E9%99%B3-surname) rather than 譚 in Singapore.

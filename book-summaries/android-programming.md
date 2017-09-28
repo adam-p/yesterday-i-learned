@@ -228,3 +228,22 @@ Throws `SecurityException`.
     * `onDestroy` will not be called on the Fragment (because it is not destroyed).
     * `onCreate` will not be called on the Fragment (not created because it was not destroyed).
 1. On configuration change, you still handle your own restore code.
+
+## User Interface Classes - Part 1
+
+1. UIs include a screen, peripherals, and sensors. Activities usually display a user interface on the screen.
+1. **View** classes have events.
+    * Key building block for building UIs.
+    * Occupy a rectangular space.
+    * Draw themselves.
+    * Handle their own events.
+    * Examples: buttons, checkboxes, rating bars
+    * **ToggleButton** has two states: checked and unchecked. It has a checked state indicator. *It can be long pressed.*
+    * **CheckBox** ~~(might be called UICheckBox)~~ also has two states: checked and unchecked.
+    * **RatingBar** can be dragged.
+    * **AutoCompleteTextView** is a subclass of **TextView**. It is editable.
+1. **ViewGroup** classes group views.
+1. **AdapterViews**: ???
+1. **Layouts**: ???
+1. **Menus, ActionBar, Dialog**: ???
+

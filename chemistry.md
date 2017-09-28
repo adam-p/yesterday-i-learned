@@ -64,3 +64,4 @@
 1. [Oxalic acid](https://www.livescience.com/56237-why-spinach-makes-teeth-feel-weird.html) is the cause of spinach making your teeth feel funny. Too much (now calcium oxalate) in your kidneys become kidney stones.
 1. Henna is light brown. There is no such thing as black henna. [Black henna is P-Phenylenediamine](https://en.wikipedia.org/wiki/P-Phenylenediamine), which is a banned skin irritant (for henna).
 1. Microscopic glass cracks get bigger as you drop the phone more often.
+1. [Hands rely on keratin softening from moisture from sweat to improve grip.](http://www.pnas.org/content/early/2017/09/19/1706233114.full)

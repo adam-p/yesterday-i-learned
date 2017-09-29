@@ -231,19 +231,39 @@ Throws `SecurityException`.
 
 ## User Interface Classes - Part 1
 
-1. UIs include a screen, peripherals, and sensors. Activities usually display a user interface on the screen.
-1. **View** classes have events.
-    * Key building block for building UIs.
-    * Occupy a rectangular space.
-    * Draw themselves.
-    * Handle their own events.
-    * Examples: buttons, checkboxes, rating bars
+UIs include a screen, peripherals, and sensors. Activities usually display a user interface on the screen using **Views**.
+1. Key building block for building UIs.
+1. Occupy a rectangular space.
+1. Draw themselves.
+1. Handle their own events.
+1. Examples: buttons, checkboxes, rating bars
     * **ToggleButton** has two states: checked and unchecked. It has a checked state indicator. *It can be long pressed.*
     * **CheckBox** ~~(might be called UICheckBox)~~ also has two states: checked and unchecked.
     * **RatingBar** can be dragged.
     * **AutoCompleteTextView** is a subclass of **TextView**. It is editable.
-1. **ViewGroup** classes group views.
-1. **AdapterViews**: ???
+1. Common **view operations** include changing of visibility, background, opacity, orientation, checked state, and adding/removing of event listeners. Views may also request keyboard focus.
+1. [Visibility](https://developer.android.com/reference/android/view/View.html#setVisibility%28int%29) can be visible (0), invisible (4), or gone (8).
+1. `OnClickListener.onClick` is called when something is clicked. `OnLongClickListener.onLongClick` is called when something is long clicked. Looks like every single event has its own tautological class method name. [`onKeyListener.onKey`](https://developer.android.com/reference/android/view/View.OnKeyListener.html) is fired only if a hardware key is pressed.
+1. Views are organised as a tree. It first walks through the tree and measures the dimensions of each view. It then positions the views. It then draws the views.
+    * `onMeasure` is called when system determines the size of the view and its children.
+    * `onLayout` assigns a size and position to the children.
+    * `onDraw`: views should render its content. Every view calls these events on their parents.
+
+## User Interface Classes - Part 2
+
+1. **ViewGroups** are invisible views that contain other views, and is a base class for Containers and Layouts.
+1. Examples of ViewGroups: **RadioGroup, TimePicker, DatePicker, WebView, MapView, Gallery, Spinner**
+    * RadioGroup contains a set of mutually exclusive "checkboxes".
+    * ~~Not sure why Spinner is a ViewGroup.~~ Spinners are dropdown boxes.
+1. **AdapterViews** are ViewGroup subclasses.
+1. AdapterViews are views whose children and data and managed by an adapter.
+    * The adapter manages the data and provides data views to AdapterViews. **Adapters provide Views to the AdapterView.**
+    * The AdapterViews then display the data.
+    * Example: **ListView** and **ListAdapter**. Each item can be a TextView or anything you like.
+1. The [Spinner](https://developer.android.com/guide/topics/ui/controls/spinner.html) ("dropdown box") is an AdapterView. Items are managed by a SpinnerAdapter/ArrayAdapter.
+1. The Gallery ViewGroup... the data is managed by a SpinnerAdapter. It has an event that provides the selected index.
+
+
 1. **Layouts**: ???
 1. **Menus, ActionBar, Dialog**: ???
 

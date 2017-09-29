@@ -1,5 +1,9 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. An ISO 8601 date without the year has the format `--MM-DD`. Standard also allows a year followed by the day number as `YYYY-DDD`. Therefore, it is not possible to have an ISO date displayed with just the year and month.
+1. Do not buy a (pair of) VR goggle(s). Their size do not justify the gimmicks that they provide.
+1. George Orwell believes tea from China is inferior to tea from India.
+1. That idiotic 16-lens camera is [not a joke](https://techcrunch.com/2017/07/14/light-starts-shipping-the-l16-its-16-camera-pocket-dslr-challenger/)?!
 1. Trevor Noah's [imitation of the Zambian accent](https://www.youtube.com/watch?v=n7GxnhQjBaw) sounds a bit like the Singaporean one.
 1. For any UI popup confirming if ["Are you sure you want to foo bar?"](https://ux.stackexchange.com/questions/756/what-are-some-alternatives-to-the-phrase-are-you-sure-you-want-to-xyz-in-confi), you can remove the "Are you sure you want to" and still have a popup that makes sense.
 1. A successful person sees its own weaknesses *and then improves them.*

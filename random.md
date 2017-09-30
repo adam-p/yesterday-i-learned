@@ -1,5 +1,13 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Your amazon email is not a unique column. You can have multiple accounts registered using brian@gmail.com.
+1. "Don't tattoo your eyeball, you might lose your eye" - [A woman described as "retarded"](https://i.imgur.com/ZJKCY3k.jpg)
+1. Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.
+1. The Lichtenstein Castle is located in Germany, not Lichtenstein.
+1. People spend more when their money isn't real, so [children should be taught what money is in a concrete way](https://www.youtube.com/watch?v=_VB39Jo8mAQ), like using real tokens.
+1. News agencies like the New York Times have [anonymous drops on Tor](https://www.youtube.com/watch?v=HfuZJVpNWR4) so people can submit news ("leak") anonymously.
+1. Indigo's downfall comes to that they are still trying to sell books, while Amazon moves on to sell grains.
+1. [Interest in the Zika virus](https://trends.google.com/trends/explore?date=today%205-y&q=zika) topped in the second month of 2016, and then wasn't interesting again. US presidential campaigns probably started around that time. [Zika is getting worse.](https://www.nytimes.com/2017/09/28/health/zika-mutation-microcephaly.html) No one cares.
 1. An ISO 8601 date without the year has the format `--MM-DD`. Standard also allows a year followed by the day number as `YYYY-DDD`. Therefore, it is not possible to have an ISO date displayed with just the year and month.
 1. Do not buy a (pair of) VR goggle(s). Their size do not justify the gimmicks that they provide.
 1. George Orwell believes tea from China is inferior to tea from India.

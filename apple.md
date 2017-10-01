@@ -18,3 +18,5 @@
 1. Depending on your device, Tim decided it would be nice if you get totally different UI on it, depending on which one it is. Swiping up on the iPhone gets you the control center, and on the iPad, it is a dock instead.
 1. "iPhone X is top notch lol"
 1. The new Siri knows its birthday (around 2011) but won't answer how old it is. Therefore, Siri is a woman.
+1. The iOS source code contained "vim turds" [at some point](https://github.com/apple/darwin-xnu/commit/0a798f6738bc1db01281fc08ae024145e84df927#diff-a084b794bc0759e7a6b77810e01874f2L6).
+1. "2007: home button always takes you home, no matter where you are (mentioned in keynote). 2017: home button takes you home most of the time if you press it once. Press it twice and you get an app switcher. Press it three times for accessibility. If your phone is locked, press it once to wake, twice to bring up passcode. If you're in a notification, press once to get rid of notification, then again to go home. Rest finger to unlock without opening home. Double rest to bring reachability. Press and hold for Siri. Press and hold longer for Siri with stop on release." - /u/atalkingfish

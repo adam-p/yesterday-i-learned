@@ -1,3 +1,5 @@
+1. High concentrations of fluoride can yellow teeth.
+1. The same dude who invented the Haber process for making fertilisers (that would be Mr. Haber), saving millions, ended up inventing chemical warfare, killing millions.
 1. Beer curdles milk [because](http://science.howstuffworks.com/innovation/edible-innovations/beer-milk-curdle.htm) the acidity neutralizes the negative charge on the casein grouped into micelles, which cause them to clump together in larger and larger quantities.
 1. Potassium (and/or hydrogen) carbonate are conjugate bases of carbonic acid. They are basic.
 1. [Ethyl ethanoate](https://en.wikipedia.org/wiki/Ethyl_acetate) is abberviated as EtOAc, because the IUPAC are a group of Commie Frenchists.

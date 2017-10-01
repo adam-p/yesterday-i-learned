@@ -67,3 +67,4 @@
 1. Mounting android's system as rw: `mount -o rw,remount,rw /system`
 1. Mounting android's system as ro: `mount -o ro,remount,rw /system` (I know right)
 1. The file `batterystats.bin` is used to display the battery graph, and [has no impact on battery capacity](https://androidcentral.com/wiping-battery-stats-doesnt-improve-battery-life-says-google-engineer) or battery life.
+1. CyanogenMod supports [9 out of however many](https://wiki.lineageos.org/devices/athene/#special-boot-modes) Moto G4s out there.

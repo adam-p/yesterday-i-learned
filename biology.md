@@ -1,3 +1,5 @@
+1. Axolotls can [contract their external gills](http://gifsstore.com/public/upload/gifs/15063735221506373510.gif) on demand. The Axolotl is found only near Mexico City, and is endangered because Mexico City.
+1. The [mako shark](https://en.wikipedia.org/wiki/Shortfin_mako_shark) is warm-blooded. Similar to the mako shark is the Nexus 4 ("mako"), which runs blazingly hot.
 1. You can cough so much that your small intestines can come out of your belly button. This condition is called [umbilical hernia](https://en.wikipedia.org/wiki/Umbilical_hernia).
 1. The same [fungus](https://en.m.wikipedia.org/wiki/Monascus_purpureus) that [turns rice red](https://en.wikipedia.org/wiki/Red_yeast_rice) makes [some statins](https://en.wikipedia.org/wiki/Statin) that lower cholesterol.
 1. The [gray jay](https://www.canadiangeographic.ca/article/meet-our-national-bird-gray-jay) live basically everywhere except where humans congregate. "Gray" is in the offical name, no matter what dialect of English the bird speaks.

@@ -1,5 +1,16 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. South Korea is `.kr`. North Korea is `.kp`.
+1. The Great Dane is called "German Dog" in both German and French. The breed came from Greece.
+1. The Cuckoo clock is a German thing. More specifically, a Southwestern Germany thing.
+1. During the Cold War, the Russians spotted fake passports made by USA by the [staples](http://news.bbc.co.uk/2/hi/europe/2065020.stm). "(Staples in) fake Soviet passports were made of good US, non-corrosive, stainless steel. Genuine Russian passports had staples made of metal that began to rust as soon as the passports were issued."
+1. [Evil Rick](http://rickandmorty.wikia.com/wiki/Evil_Rick) might be the one from [dimension 0716-A](https://i.redd.it/jj3xbua9tqlz.jpg).
+1. A man named Ben [replaces Christian Bale](http://screenrant.com/batman-v-superman-christian-bale/) in Batman vs Superman.
+1. In the Victorian times, if a dressed woman had to defecate, [the whole dress is coming off.](http://www.huffingtonpost.com/quora/how-did-victorian-women-u_b_12969780.html) The "pantalette" part of the thing is crotchless, so a woman can air out the bacteria-infested portions all day long, and urinate [relatively easily](https://www.youtube.com/watch?v=NUHeSTDv_24).
+1. Spain almost touches Morocco.
+1. Both Superman and Batman came from DC comics, but the people inside it believe in a higher power other than the two. And Batman vs Superman is poorly received because Christian Bale wasn't in it.
+1. [The Nintendo Switch uses a plastic screen](https://www.youtube.com/watch?v=XJP6gERPmMk) on purpose: so kids can't crack it. The whole exterior is plastic; the device is designed for abuse. Which smartphones aren't. This is why these console things still have an enormous market.
+1. [Banks are removing coin counters](https://forums.redflagdeals.com/any-free-coin-counters-left-2054344/) so you will do everything you can do avoid getting coins. In such a move, banks save virtual money by no longer dealing with cash.
 1. Your amazon email is not a unique column. You can have multiple accounts registered using brian@gmail.com.
 1. "Don't tattoo your eyeball, you might lose your eye" - [A woman described as "retarded"](https://i.imgur.com/ZJKCY3k.jpg)
 1. Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.
@@ -143,7 +154,6 @@
 1. The [revolving door](https://en.wikipedia.org/wiki/Revolving_door_%28politics%29): Governments hire industry professionals for their private sector experience. Industry, in turn, hires people out of government positions to gain personal access to government officials.
 1. For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
 1. [Credit monitoring a ripoff](https://www.youtube.com/watch?v=3DKnHgsyeS8): that's like hiring a guard that calls you whenever your house was broken into. What you want are credit freezes (assuming you don't want it to get higher, either.)
-1. "2007: home button always takes you home, no matter where you are (mentioned in keynote). 2017: home button takes you home most of the time if you press it once. Press it twice and you get an app switcher. Press it three times for accessibility. If your phone is locked, press it once to wake, twice to bring up passcode. If you're in a notification, press once to get rid of notification, then again to go home. Rest finger to unlock without opening home. Double rest to bring reachability. Press and hold for Siri. Press and hold longer for Siri with stop on release." - /u/atalkingfish
 1. Tasker's `%DATE` format will change depending on the system locale.
 1. Restart apache2 with [`apachectl -k graceful`](https://httpd.apache.org/docs/2.2/stopping.html) rather than `service apache2 restart`. The former [gracefully reloads its configuration](https://askubuntu.com/a/6417), which has no downtime.
 1. Warner Bros' Looney Tunes was inspired by Disney's [Silly Symphony](https://en.wikipedia.org/wiki/Silly_Symphony) in the 1930s.

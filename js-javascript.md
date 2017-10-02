@@ -1,5 +1,6 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+* [JSX in excruciating depth](http://blog.klipse.tech/javascript/2016/12/14/jsx.html)
 * If some npm package keeps complaining about unmet peer dependencies, even though you installed the dependencies first, [it might just need to be installed together, at the same time](https://github.com/palantir/tslint/issues/2647#issuecomment-298005316), like `npm install -g typescript tslint`.
 * [HEIF](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format) uses HEVC (patented) for encoding by default.
 * Both [nodejs/node](https://github.com/nodejs/node) and [ayojs/ayo](https://github.com/ayojs/ayo#core-team) have custom "pronouns" for every team member, and not ironically.

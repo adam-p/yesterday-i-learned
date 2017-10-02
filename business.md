@@ -1,3 +1,5 @@
+![Pls deliver](https://files.slack.com/files-pri/T1XG1MST1-F7C2G6X60/iznqp1y5vs4z.jpg)
+
 * [Responsibilities of a CEO (among other things)](http://blog.staply.co/startup-legal-do-it-by-yourself)
 * Acquisition is one of the things most CEOs delay until it is too late.
 * Your options (if any) is worth nothing until exercised, making them tax-free.

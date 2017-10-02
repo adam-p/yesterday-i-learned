@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. The "double" part of double-declutch involves *you* rev-matching while in neutral: clutch pressed, neutral position on stick, clutch released, clutch pressed, shift to gear, clutch released (now you're in gear). "rev matching is something you should do regardless when dropping gears low enough."
+1. Hold your steering wheel at 10 and 2 [only if you don't have power steering.](https://www.youtube.com/watch?v=q9fu3SBm-PU)
 1. "You see what they've done here, this is organic tofu (toffu), dressed up as a juicy steak." - Clarkson on a CR-V hybrid
 1. There is [a site](http://www.imcdb.org/vehicles.php?resultsStyle=asImages&sortBy=4&make=Toyota&model=Matrix&modelMatch=1&modelInclModel=on) for car appearances on the Internet, ranked by what the car did in the clip (part of the movie, used a lot, used by a character or in a car chase, background vehicle, ...)
 1. [You can expect 7 cars to get into a collision every year.](http://toronto.citynews.ca/2015/11/26/car-accidents-on-the-rise-in-canada-toronto-study/) Most are non lethal, of course.

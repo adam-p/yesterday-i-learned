@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Face Unlock is less popular in countries like Saudi Arabia and UAE.
 1. Download the SDK before attempting to compile anything.
 1. Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
 1. Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)

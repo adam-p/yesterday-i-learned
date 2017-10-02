@@ -1,5 +1,21 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. According to Mozilla, [i18n differs from l10n](https://blog.mozilla.org/l10n/2011/12/14/i18n-vs-l10n-whats-the-diff/) in that i18n enables l10n.
+1. "Petit a petit" translates to "little by little" rather than "small by small".
+1. Single quotes don't work in `COUNTIFS` conditions. Well, in general, strings in Excel should/must be written in double quotes.
+1. The juicero "bag squeezer" is useless, but [very well made.](https://blog.bolt.io/heres-why-juicero-s-press-is-so-expensive-6add74594e50)
+1. Wyoming is the least populous state. It's capital has around 50000 people.
+1. UV light doesn't kill anything unless the light is applied for at least 10 seconds. The light also needs to be [UV-C](https://ultraviolet.com/what-is-germicidal-ultraviolet/), the wavelengths that kill germs.
+1. If you are interested in the [baby mop](https://www.amazon.ca/BABYMOP-Great-Cleaning-Rompers-Original/dp/B00F99WO2Y), unfortunately the baby should be taken away from you.
+1. You wasted around three years of your life on [Battle City](https://en.wikipedia.org/wiki/Battle_City_%28video_game%29), some tank game.
+1. The Romans cooked lettuce. They rarely ate it raw.
+1. At least [one man](https://www.reddit.com/r/sadcringe/comments/73j53h/) in the universe has the face of a porn star tattooed on his leg.
+1. Quite a few [state flags](https://i.pinimg.com/originals/2c/69/93/2c69933a9c10f32c9a09a91ad09f61d0.gif) have years on them.
+1. When Jagmeet Singh won the NDP leadership race, Justin Trudeau became the oldest major party leader at 45 years old.
+1. Cod also has a great fibrous texture. It shrinks a lot when cooking though (usually only a sign for overcooking, but not this fish), so it is very expensive by dry weight.
+1. Amos, Isaiah (parts), Hosea, and Micah (parts) are the [first books written](https://en.wikipedia.org/wiki/Dating_the_Bible). Genesis wasn't written for another 300 years. See link for other dates.
+1. ["The language of Job stands out for its conservative spelling and for its exceptionally large number of words and forms not found elsewhere in the Bible."](https://en.wikipedia.org/wiki/Book_of_Job)
+1. Not entirely sure what "colour space" means, but it would seem that [it doesn't really matter which one you pick, as long as the display is showing your content in the same colour space that you originally used to capture/create the content](https://www.anandtech.com/show/10836/the-oneplus-3t-mini-review/2). If you do that, then "the display is accurate".
 1. South Korea is `.kr`. North Korea is `.kp`.
 1. The Great Dane is called "German Dog" in both German and French. The breed came from Greece.
 1. The Cuckoo clock is a German thing. More specifically, a Southwestern Germany thing.
@@ -222,7 +238,7 @@
 1. Broccoli came from the Mediterranean, long before the Italians started using tomatoes (which is from Mexico).
 1. On cooking Mexican food ("appropriating Chickpea-American culture"): you shame them if you cook it better than they do. But if you cook it worse than they do, you are a disgrace to Chickpea-Americans. You can't win. Stick to baked potatoes.
 1. Oprah was named "Orpah" after the biblical figure in the Book of Ruth. She and [Whitney Houston](https://en.wikipedia.org/wiki/Whitney_Houston) are two completely different people.
-1. According to [your own math](http://imgur.com/xa11NdK) in wear and tear per charging cycle, you get the most bang for your buck from your personal 4.4V Li-pol battery if you charge from 20% to 50%. (You can charge from 40% to 50% and get like 100x the cell life, but if you charge just 10% every time, you need to charge 10x as often.) If you want to use your battery like a normal person, charging from 20% to 70% isn't that bad.
+1. According to [your own math](http://imgur.com/xa11NdK) in wear and tear per charging cycle, you get the most bang for your buck from your personal (3.85V nominal, 4.4V charging) Li-pol battery if you charge from 20% to 50%. (You can charge from 40% to 50% and get like 100x the cell life, but if you charge just 10% every time, you need to charge 10x as often.) If you want to use your battery like a normal person, charging from 20% to 70% isn't that bad.
 1. You don't mine with wallets. You mine with [miners](https://www.reddit.com/r/dogemining/wiki/index/mining_guide).
 1. [There are no pure oil public companies (assumptions?).](https://www.uncommonwisdomdaily.com/the-best-time-to-own-energy-stocks-17766) Energy exploration/production companies usually have both natural gas and oil reserves.
 1. Pollock is the sux.
@@ -324,7 +340,7 @@
 1. "[Need onion salt for a recipe?](https://www.thebalance.com/how-to-make-onion-salt-1387993) Ingredients: Onion powder, Salt." "[Need garlic salt for a recipe?](https://www.thebalance.com/how-to-make-garlic-salt-1387987) Ingredients: Garlic powder, Salt." "Need celery salt for a recipe? Ingredients: [Celery **seeds**](https://wholenewmom.com/recipes/homemade-celery-salt-and-how-to-use-it/), Salt."
 1. Batarang is a portmanteau of bat and boomerang, and was originally spelled baterang. Batarangs are more throwing stars than boomerangs.
 1. Companise are bailed out if they employ a large number of people, leading some people to believe that the economy would be unable to sustain such a huge jump in unemployment if the business folded.
-1. The soverign state of Hong Kong coins the term [爛gag](http://evchk.wikia.com/wiki/Gag) to describe what are effectively dad jokes.
+1. The sovereign state of Hong Kong coins the term [爛gag](http://evchk.wikia.com/wiki/Gag) to describe what are effectively dad jokes.
 1. [You will have to be fairly messed up to be exempt from Singapore national service.](https://www.quora.com/How-hard-is-it-to-be-exempt-from-National-Service-in-Singapore-What-do-they-do-with-conscripts-who-have-limited-physical-abilities)
 1. Arnold actively trains to retain his accent, evident by the fact that he [can](https://youtube.com/watch?v=kayFrIR-Qfw) imitate the American accent.
 1. A [gramophone](https://en.wikipedia.org/wiki/Gramophone) is a phonograph. A [grandmaphone](http://www.urbandictionary.com/define.php?term=grandma%20phone) is a phone with huge buttons and no screen.

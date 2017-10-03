@@ -1,5 +1,15 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. "I before E except after C" works around 85% of the time. (done with `english-dictionary.json`)
+1. Once you had to move a blue suitcase from place to place. Someone asked what was in it. You said `(redacted)`. They didn't believe you.
+1. Coyotes (43mph) have no problem chasing roadrunners (20mph).
+1. Waffle shirts have a waffle-like texture. [These](http://wafflemagazine.com/wp-content/uploads/2015/09/waffleshirt.jpg) are not waffle shirts.
+1. The week came about because the week is a quarter of a lunar cycle.
+1. ["Hello Kitty is not a cat. She’s a cartoon character,"](http://people.com/celebrity/hello-kitty-is-not-a-cat/) said creator of Hello Kitty.
+1. Double-stuffed Oreos are [only 1.86x stuffed](http://www.cnn.com/2013/08/21/us/oreo-high-school-experiment/index.html). *How dare they.*
+1. In the autotuned degeneracy that is "I'm The One", DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, *and* Lil Wayne all claim to be the one.
+1. Cap'n Crunch is a commander-class officer. Luckily, [since the commanding officer of any vessel is always called the captain](https://www.reddit.com/r/funny/comments/4ulaeh/commander_crunch/d5qs3wy/), calling it Captain Crunch is still correct.
+1. [Toad from Nintendo](https://www.youtube.com/watch?v=4FaRP12ck7k) has three strands of hair. [That mushroom top is *not* its head.](https://www.mariowiki.com/Toad_%28species%29#Mushroom_caps) Also, in the same video, cereals in photoshoots are often placed in white glue or [wildroot hair tonic](http://www.peachpit.com/articles/article.aspx?p=1964563&seqNum=2) instead of real milk.
 1. According to Mozilla, [i18n differs from l10n](https://blog.mozilla.org/l10n/2011/12/14/i18n-vs-l10n-whats-the-diff/) in that i18n enables l10n.
 1. "Petit a petit" translates to "little by little" rather than "small by small".
 1. Single quotes don't work in `COUNTIFS` conditions. Well, in general, strings in Excel should/must be written in double quotes.

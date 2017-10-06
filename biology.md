@@ -1,3 +1,5 @@
+1. Dietary calcium lowers risk of kidney stones. [Calcium supplements increase the risk of kidney stones.](https://www.webmd.com/kidney-stones/news/20151013/calcium-supplements-tied-to-kidney-stone-risk-in-study#1)
+1. Fatty foods shrink the hippocampus, says a guy with a Youtube channel.
 1. [Cookiecutter sharks](https://en.wikipedia.org/wiki/Cookiecutter_shark) bore holes through other bigger fish, eating the contents. The IUCN says this fish has "no commercial value".
 1. Axolotls can [contract their external gills](http://gifsstore.com/public/upload/gifs/15063735221506373510.gif) on demand. The Axolotl is found only near Mexico City, and is endangered because Mexico City.
 1. The [mako shark](https://en.wikipedia.org/wiki/Shortfin_mako_shark) is warm-blooded. Similar to the mako shark is the Nexus 4 ("mako"), which runs blazingly hot.

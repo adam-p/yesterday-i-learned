@@ -1,5 +1,25 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. `.otf` fonts can either be opentype or truetype. "TrueType fonts are drawn using Quadratic Outlines (???), which is a very formal way of drawing letters. OpenType fonts use Postscript Outlines which is a much easier way for designers to draw fonts." - taco taco
+1. There are machines out there that cut meat into [perfectly weighted portions](https://imgur.com/CjOddLj) using lasers.
+1. [Trump appeared in Home Alone 2.](https://www.youtube.com/watch?v=YXE3Ku-mGrk) He requests to be in any film using Trump's properties as a scene.
+1. The arm of a vinyl player should exert 1.5~3g of tracking force (on Earth? as Newtons?). Anything higher is bad for the record.
+1. Zeppelin is an Australian cattle dog.
+1. "Home ec" aka [home economics](https://en.wikipedia.org/wiki/Home_economics) aka "how to live at home" is taught in American schools.
+1. [Chiclets](https://en.wikipedia.org/wiki/Chiclets) are a brand of gum. There is no such thing as a chicklet keyboard.
+1. 300k appendices are removed from Americans each year. There is [no statistical evidence](https://articles.mercola.com/appendicitis/prevention.aspx) that doing anything other than eating lots of meat will increase your chances of getting appendicitis.
+1. If you ask the Internet, ["How do I knock myself out for a long time?"](https://www.quora.com/How-can-you-knock-yourself-out-for-a-long-period-of-time?share=1), the Internet replies with "Don't."
+1. The Exeggutor has no arms. Its Alolan form has a totally unrelated fruit on its tail.
+1. It doesn't hurt to buy stocks *after* it is done dropping.
+1. [A Macbook from your laptop's model year](https://www.kijiji.ca/b-ontario/macbook-2012/k0l9004?dc=true) holds the same value as your laptop's original price after however many years.
+1. There is only one "gimp boy" in the world: [Jason Coakley](http://www.dailymail.co.uk/news/article-3699007/).
+1. "See see no touch" unfortunately has only 1500 results on Google.
+1. [Slack](https://en.wikipedia.org/wiki/Slack_Technologies) is the fastest company to receive a billion dollar valuation. Its chat room thing uses `<div contenteditable="true">` as the message container.
+1. [Five-year survival rate](https://en.wikipedia.org/wiki/Five-year_survival_rate) can be absolute or relative. Absolute, if you just look at the percentage of patients that survive after five years. Relative, if you compare those people with the absolute survival rate of similar but uninfected population. If you get something cool like [sickle cell anemia](https://en.wikipedia.org/wiki/Sickle-cell_disease), your relative survival rate might be higher than 100%.
+1. According to Reddit, all your bones are wet.
+1. "Static typing vs dynamic typing" isn't a useful topic to argue about because [each language has its optimal point of productivity for the percentage of code that is statically typed.](https://blog.merovius.de/2017/09/12/diminishing-returns-of-static-typing.html) The Python sweet spot is much lower than the Java sweet spot, startups may have different requirements than NASA, and it matters also how many lines of code you have.
+1. There is [a line in China](http://www.didichuxing.com/en/press-blog/suvzicxv.html) at which the population suddenly drops. Reproduce this in Google Maps by drawing a line from 怒江 to 北京.
+1. BFRocket = Big Fucking Rocket. Elon Musk is planning to launch a few of those to Mars.
 1. "I before E except after C" works around 85% of the time. (done with `english-dictionary.json`)
 1. Once you had to move a blue suitcase from place to place. Someone asked what was in it. You said `(redacted)`. They didn't believe you.
 1. Coyotes (43mph) have no problem chasing roadrunners (20mph).

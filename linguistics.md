@@ -1,3 +1,4 @@
+1. The [Great Vowel Shift](https://www.youtube.com/watch?v=UOfYck3J3e0) turns *Multi-* from "multee" from "multai". *House* would really be "hoos" before the GVS. Fun fact: [old and middle English are incomprehensible.](https://www.youtube.com/watch?v=5NB2Z6pZBNA)
 1. Y is "I grec" in French.
 1. Willkommen becomes Welcome. But (you are) Welcome becomes [Bitte schön](https://en.wiktionary.org/wiki/bitte_sch%C3%B6n).
 1. ["Nobody calls (Irish) Gaelic in Ireland. Nobody!"](https://i.imgur.com/btl0LhW.png) - Horse

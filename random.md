@@ -1,5 +1,12 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. In The Matrix, Neo wears a pair of Panosonic headphones. The second movie makes no sense because programs don't "hack programs when they risk deletion" or "go back to the mainframe". This is Visual Basic GUI level nonsense.
+1. The Twitter bird is called Larry, named after [Larry Bird](https://en.wikipedia.org/wiki/Larry_Bird) from Boston Celtics.
+1. In October 2017, [Tim bought a fidget spinner](https://www.youtube.com/watch?v=IzLvEdA0RX8) without knowing what it is.
+1. [Americans don't find soaking your shoes and socks a big deal?!](https://www.youtube.com/watch?v=XpoYWROw5BY)
+1. [North Korea and USA have the same number of submarines.](https://en.wikipedia.org/wiki/List_of_countries_by_level_of_military_equipment) The USA fleet is nuclear, and the North Korean ones are non-nuclear. At 72 for each country, they have the world's most submarines.
+1. (Normal) North Koreans can't buy jeans. Owning a bible is grounds for execution. But they do have the [Moranbong band](https://www.youtube.com/watch?v=fL7-7shibkw), which is nice.
+1. [Grand slams](https://en.wikipedia.org/wiki/Grand_slam_%28baseball%29) involve every single base loaded with baserunners, and then scoring all four runs. It is rare enough that they wiki page has a list of grand slams.
 1. `.otf` fonts can either be opentype or truetype. "TrueType fonts are drawn using Quadratic Outlines (???), which is a very formal way of drawing letters. OpenType fonts use Postscript Outlines which is a much easier way for designers to draw fonts." - taco taco
 1. There are machines out there that cut meat into [perfectly weighted portions](https://imgur.com/CjOddLj) using lasers.
 1. [Trump appeared in Home Alone 2.](https://www.youtube.com/watch?v=YXE3Ku-mGrk) He requests to be in any film using Trump's properties as a scene.

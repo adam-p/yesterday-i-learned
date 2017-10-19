@@ -1,5 +1,59 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [The government has a surplus store.](https://www.gcsurplus.ca/mn-eng.cfm) Good stuff is occasionally sold there.
+1. CDMA is owned by Qualcomm. It is a piece of turd because phones can lock you to a carrier without even a SIM. GSM is a global (in particular, legally required in EU) standard.
+1. One CPU branching misprediction costs 5ns.
+1. If you keep sending emails to addresses that don't exist, that web server flags you down as spam.
+1. If you don't set up some default mailboxes (like webmaster@, abuse@) required by [RFC 2142](https://www.ietf.org/rfc/rfc2142.txt), then [RFC-Clueless](http://rfc-clueless.org/) will add you to their blacklist, and you will no longer send/receive mail.
+1. Version 1 of some scams go as far as "One day a guy rang me up saying I got a parcel but needed to verify my name". Version 2 involve the scammer looking up your phone number *and then* your name online, so they can sound more legitimate. This is why **you should not put your phone number and your name in the same document**.
+1. Emma Watson was born in Paris. She's English because both her parents are.
+1. Uncle from Jackie Chan Adventures says "妖魔鬼怪快啲走" all the time.
+1. The Frito Company merged with H.W. Lay & Co. in 1961. They kept making Lays chips all while being owned by PepsiCo. Fun Fact: Lays chips are PepsiCo's third largest brand, after Pepsi and Mountain Dew.
+1. Just like setting a price target for when to sell if a stock goes up, you are also supposed to set a target for when to sell if a stock goes down.
+1. You can't say [certain things](http://gawker.com/the-words-that-will-get-you-in-trouble-on-venmo-1738331672) when you transfer money with Venmo. If you say "North Korea" the money is held automatically.
+1. For some reason, ["Made in Canada" is more respected than "Made in Japan"](https://www.statista.com/chart/8654/mici-the-worlds-most-respected-made-in-labels/). Did you know that [Winnipeg makes the world's scratch cards *and* the coins we use to scratch them](http://www.readersdigest.ca/travel/canada/surprising-products-made-in-canada/view-all/)?
+1. Foam rings around the [beer] glass are a sign that the glass was cleaned properly.
+1. To ["curve someone"](https://i.redd.it/xdu6i6ypy9sz.jpg) is to reject someone.
+1. "Having your screen on 40% of the time", for three years, is roughly 10000 hours. I say roughly because of leap years, daylight savings, and that I omitted 500 hours.
+1. [Upper-class Brit couples in the 18th century used to exchange pubes so they can put that stuff on their hats as a trophy.](https://en.wikipedia.org/wiki/Pubic_hair)
+1. On Uber/Lyft decreasing public transit use: ["While ridesharing supports pooling, it also wastes "deadhead" passengerless miles between fares. As a result, ridesharing actually increases total vehicle miles traveled."](https://news.ycombinator.com/item?id=15478078)
+1. [Hockey rink ice is painted white.](https://youtu.be/7hT3yfuLPIU)
+1. /r/trees is about marijuana. /r/marijuanaenthusiasts is about trees.
+1. The [Scotland Yard](https://en.wikipedia.org/wiki/Scotland_Yard) is (basically) the Scottish police HQ.
+1. "If a team brings Jeff (the Amazon man) an idea that he disagrees with, he can continue to disagree, but immediately commit to supporting the team. The project gets green-lit and the team is moving forward. If they had to actually convince Jeff of the idea, it would have taken much much longer."
+1. Weighted blankets are for autistic kids.
+1. Australian mates made vegan leather from [SCOBY](https://en.wikipedia.org/wiki/SCOBY) (symbiotic culture of bacteria and yeast), sometimes found in kombucha.
+1. Condo fees are a static payment that limits the compounding potential of such an investment.
+1. Doctor Whos regenerate to look like different actors, [say BBC](http://www.bbc.co.uk/news/blogs-magazine-monitor-23573730).
+1. Bob Ross died in 1995. He was a (clinical) master sergeant at one point.
+1. [Dick Cheney was President for a few hours when Bush got his colonoscopy done.](http://www.cnn.com/2007/POLITICS/07/20/bush.colonoscopy/)
+1. Siri's voice actress is [Susan Bennett](https://www.youtube.com/watch?v=z2bTymnb1uE), and she's lovely.
+1. Kia calls its grille design the "tiger nose". [Peter Schreyer](https://www.autocar.co.uk/car-news/industry/meeting-peter-schreyer-man-behind-kias-tiger-nose-grille) said he designed it.
+1. A [5-gram black hole](https://www.youtube.com/watch?v=8nHBGFKLHZQ&list=UUsXVk37bltHxD1rDPwtNM8Q&index=38) will emit enough hawking radiation to kill everyone around you (450TJ, like a nuclear bomb).
+1. Angelina Jolie voiced [the tiger](http://kungfupanda.wikia.com/wiki/Tigress) in Kung Fu Panda, and [the panda's dad](https://en.wikipedia.org/wiki/Bryan_Cranston) made drugs in Breaking Bad for five seasons.
+1. DXOMark scores are not out of 100. The overall score is also not the average of all subscores, but rather a[n arbitrarily weighted] average of the subscores.
+1. ["How about"](https://english.stackexchange.com/questions/13659/how-about-vs-what-about) is when you have a suggestion. "What about" is when you have a concern.
+1. The dead skin and stuff you may accumulate between your toes, they call it "toe jam".
+1. If you get two tens at blackjack, [don't split them into two separate bets.](https://www.youtube.com/watch?v=vdbhpDkhh9E)
+1. Planes are very dry places. [Drink 250mL of water every single hour.](https://www.cntraveler.com/story/this-is-how-much-water-you-should-drink-on-a-plane)
+1. To be fair, "49,95€" sounds like "forty-nine, ninety-five euro" when you say it out loud. "$49.95" would be "dollar forty-nine point nine five", which is less similar to "forty-nine ninety-five". The [Euro](https://en.wikipedia.org/wiki/Currency_symbol#Usage) is one of the currencies that have the symbol either before or after.
+1. "that's not good lol" is not as popular a sentence as you would expect.
+1. If you find soda cans in an airport, congrats! [You can make weapons with them!](https://vimeo.com/channels/terminalcornucopia)
+1. Chopping a tree without removing its roots is called [coppicing](https://en.wikipedia.org/wiki/Coppicing). This woodland management technique works on trees that don't die when you cut off most of it.
+1. No such thing as [corinthian leather](https://en.wikipedia.org/wiki/Corinthian_leather). Just a term made up by Chrysler advertising.
+1. "Hick town" means "redneck town". Rednecks themselves all their towns hick towns. Example: *"Are y'all gay looking to see how long it takes to get beat up in a hick town? NASCAR sucks?' 'Country and Western is rubbish?' Guess what, you're in a hick town man."*
+1. "Fear of losing something" is why free trials work (on normal people). You give them something for free. They are so scared of having it taken away from them that they will pay to keep it.
+1. Robusta beans have twice as much caffeine per unit weight than arabica beans.
+1. [If you don't die during a term life insurance policy, then you lose all the money you put into it.](https://www.quotacy.com/what-happens-if-i-dont-die-while-my-policy-is-inforce/) The money then goes to the people who do die.
+1. Coin collectors collect atoms. They don't want you to restore a coin. They just want the exact atoms to remain.
+1. Among Ottawa and Hamilton, Toronto actually has the fewest monumental road design fuckups per capita.
+1. "All rights reserved" is by default. You don't need to mention it.
+1. Normal smartphones give you a "cardboard VR vision" of 8:9 at best. Therefore, no matter how good VR goggles are, they are essentially useless at this point.
+1. [Wikipedia doesn't *need* your donations.](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2017-02-27/Op-ed) They want your donations because their team is growing exponentially in size, for no real good reason to hire. Jimmy also wanted a private jet (possibly unrelated).
+1. When it comes to longevity, lithium batteries are perfectly fine with the cold (0°C).
+1. If you hire a co-op student and get "up to $3000" of your "up to 30%" back, then you would be paying such a student $2250 per month to get that amount of tax credit back.
+1. Multi-level marketing firm Herbalife has the balls to be on NYSE.
+1. A bit [less](https://techcrunch.com/2017/09/05/whatsapp-business-app/) than half of the world has WhatsApp installed.
 1. In The Matrix, Neo wears a pair of Panosonic headphones. The second movie makes no sense because programs don't "hack programs when they risk deletion" or "go back to the mainframe". This is Visual Basic GUI level nonsense.
 1. The Twitter bird is called Larry, named after [Larry Bird](https://en.wikipedia.org/wiki/Larry_Bird) from Boston Celtics.
 1. In October 2017, [Tim bought a fidget spinner](https://www.youtube.com/watch?v=IzLvEdA0RX8) without knowing what it is.
@@ -1763,7 +1817,7 @@
 1. Winning is only half the battle.
 1. Washroom hand dryers spread around 60~1300 times more germs than paper towels, [according to a flawed study][telegraph].
 1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.
-1. [Refried beans][wikipedia 198] is cooked and mashed, not fried.
+1. [Refried beans](https://en.wikipedia.org/wiki/Refried_beans) is cooked and mashed, not fried. *In this dish, after being boiled and then mashed into a paste, the beans are sometimes then fried or baked, though usually neither, thus making the term "refried" even more misleading.*
 1. Alec Guinness (Ben Kenobi) died ages ago (2000). He was old enough to experience the Jedi purge and two other world wars.
 1. There are more binary stars (orbits around another star) than unary stars.
 1. [Common sense][reddit 61] is ordering things from a fast food restaurant only if the ingredients appear in more than one item, which makes sure they are fresh.
@@ -2703,7 +2757,6 @@
 [wikipedia 195]: https://en.wikipedia.org/wiki/Grouper
 [wikipedia 196]: https://en.wikipedia.org/wiki/Coriander
 [wikipedia 197]: https://en.wikipedia.org/wiki/USB#Durability
-[wikipedia 198]: https://en.wikipedia.org/wiki/Refried_beans
 [wikipedia 199]: https://en.wikipedia.org/wiki/Perennial_plant
 [wikipedia 2]: http://en.wikipedia.org/wiki/Albino
 [wikipedia 20]: http://en.wikipedia.org/wiki/Kerisik

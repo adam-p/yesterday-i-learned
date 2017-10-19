@@ -88,7 +88,7 @@ Further reading: [0001.md](sources/0001.md)
 * "The best way to use RSI is to watch and wait for it to enter a zone and then for the %K to cross the %D in the opposite direction. That tends to be a signal that the stock is going to reverse its trend and is a great time to buy or sell."
 * The stock's [beta](http://www.investopedia.com/terms/b/beta.asp) should be less than 1 (i.e. less volatile than the market). a Beta of 0.6 means the thing is 40% less volatile than the market. "Many utilities stocks have a beta of less than 1." "Negative betas are possible for investments that tend to go down when the market goes up."
 * "Buy low sell high" is great, but [do not let world events affect your investing decisions](http://www.cnbc.com/2014/03/03/warren-buffetts-5-key-investing-donts.html). During e.g. a war, stocks continue to go up. It is more worthwhile to hold onto securities (assets) than cash.
-* In August. "October is known for bringing the highest shifts in volatility for a couple of reasons: third-quarter earnings season kicks off early October, and trading volume is significantly higher after the calm summer months."
+* In August. "October is known for bringing the highest shifts in volatility for a couple of reasons: third-quarter earnings season kicks off early October, and trading volume is significantly higher after the calm summer months." [Coca-cola](https://finance.yahoo.com/quote/KO/) is almost cyclical in that you would have never lost money if you buy in August and sell in January.
 * A "buy" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a buy when a stock dips below a certain price.
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
@@ -136,10 +136,12 @@ Further reading: [0001.md](sources/0001.md)
 
 * AUR: average user retention
 * Board Lot: a unit for "number of shares" in your stock exchange. Typically, A lot is 100 shares. Because trading 100 shares is easier than trading 17 shares, trading is often done in lots.
+* Book value: the "net asset value" of the company. A company's stock can (intrinsically) cost $5, but be traded at $300 because people love to speculate.
 * Buy on Stop: buy, when the price hits the value you specified.
 * Div yield (%): total dividend per year per share
 * EPS: earnings per share
 * MACD (Moving Average Convergence/Divergence): The MACD is calculated by simply subtracting a 26-period exponential moving average (EMA) of the closing prices from a 12-period EMA. The signal line is a nine-period exponential moving average of the MACD.
 * ROI (Return on investment): (Income - taxes) last year, divided by the debts. Higher is better.
 * S&P500 (Standard & Poor's 500): stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ"
-*
+* [Underwriters](http://www.investopedia.com/terms/u/underwriter.asp): they determine the offering price of a stock (whether initial aka IPO or when the company is bought out), and then get some underwriting fee for doing it. That price determined affect how the rest of the market prices the remaining stock. Say if you trade at $8 but the [bought deal](http://www.investopedia.com/terms/b/boughtdeal.asp) offers each share at $7, then the market might adjust to $7.
+* p.s. "bought deal" means someone buys all available shares.

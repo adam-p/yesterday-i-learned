@@ -1,3 +1,11 @@
+1. Muscles atrophy quicker with age.
+1. The side effects of going to space for an extended amount of time includes [not having any doctors to treat your weird symptoms](http://www.theage.com.au/good-weekend/astronaut-scott-kelly-on-the-devastating-effects-of-a-year-in-space-20170922-gyn9iw.html).
+1. Plantar warts can be nasty and can take months to disengage. [See here.](https://www.youtube.com/watch?v=_qWNJOc2wIM)
+1. Spinach and coffee are high in oxalates. But did you know soy beans also are? [Once you’ve had one kidney stone, you’re 50 percent more likely to get another within the next 10 years.](https://www.healthline.com/health/kidney-health/how-to-prevent-kidney-stones)
+1. Antibodies against S. cerevisiae are found in 60–70% of patients with Crohn's disease.
+1. [Ketogenic folks live 10 years longer.](http://www.cell.com/cell-metabolism/fulltext/S1550-4131%2817%2930562-4#.WeA77GhVXhk.reddit)
+1. Hair, skin, nails... all keratin.
+1. [If whale lice cover the whale, the whale dies :(](https://www.youtube.com/watch?v=MoT_FwIa62I)
 1. Dietary calcium lowers risk of kidney stones. [Calcium supplements increase the risk of kidney stones.](https://www.webmd.com/kidney-stones/news/20151013/calcium-supplements-tied-to-kidney-stone-risk-in-study#1)
 1. Fatty foods shrink the hippocampus, says a guy with a Youtube channel.
 1. [Cookiecutter sharks](https://en.wikipedia.org/wiki/Cookiecutter_shark) bore holes through other bigger fish, eating the contents. The IUCN says this fish has "no commercial value".

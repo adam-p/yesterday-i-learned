@@ -1,3 +1,5 @@
+1. Cement (the Ca(OH)2 kind) is caustic, and can cause chemical burns.
+1. [BU-808b](http://batteryuniversity.com/learn/article/bu_808b_what_causes_li_ion_to_die): During charge, a film called solid electrolyte interface (SEI) consisting of (lithium oxide and lithium carbonate) forms on the surface of the (graphite) anode. The film gets thicker and forms a barrier that obstructs interaction with graphite. The cathode develops a similar restrictive layer known as electrolyte oxidation, formed at higher voltages or temperatures.
 1. On 2017-10-04, [three old blokes](https://www.quantamagazine.org/supercool-protein-imaging-gets-the-nobel-prize-20171004/) were awarded Nobel prizes in Chemistry for [cryo-electron microscopy](https://www.nobelprize.org/nobel_prizes/chemistry/laureates/2017/press.html), which allows proteins to be imaged as atoms rather than blobs.
 1. High concentrations of fluoride can yellow teeth.
 1. The same dude who invented the Haber process for making fertilisers (that would be Mr. Haber), saving millions, ended up inventing chemical warfare, killing millions.

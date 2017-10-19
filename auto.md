@@ -1,5 +1,9 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. By the time you are done using your car by driving 200Mm on it, you will have spent at least $20k in fuel alone. Driving is not cheap. At least, in that scale, the L/100km figure will correspond to actual cash saved, i.e. 6L/100km saves you $8000 compared to 10L/100km over the vehicle's lifetime.
+1. Turbocharged cars have different gearings. You don't just turbocharge a car without changing other parts.
+1. Alex Lowell Dykes operates a car reviews youtube channel, *and* [a ceramic microscopy lab](http://dyklaine.com/).
+1. You want an engine that delivers the max horsepower at the lowest torque. That's how an engine can be useful for propelling you forward.
 1. The "double" part of double-declutch involves *you* rev-matching while in neutral: clutch pressed, neutral position on stick, clutch released, clutch pressed, shift to gear, clutch released (now you're in gear). "rev matching is something you should do regardless when dropping gears low enough."
 1. Hold your steering wheel at 10 and 2 [only if you don't have power steering.](https://www.youtube.com/watch?v=q9fu3SBm-PU)
 1. "You see what they've done here, this is organic tofu (toffu), dressed up as a juicy steak." - Clarkson on a CR-V hybrid

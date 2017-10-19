@@ -1,3 +1,8 @@
+1. [Salad](http://www.foodtimeline.org/foodsalads.html) was dressed with salt (and vinegar and oil). Word root was *salade*, something involving salt.
+1. ["Je suis là"](https://www.duolingo.com/comment/578722/Je-suis-l%C3%A0) can mean either "I am there" or "I am here". But "Je suis ici" always means "I am here".
+1. Therefore, "Voilà" means "look here" or "look there", and "Voici" means "look here".
+1. "Bokeh" from Japanese 暈け **is** pronounced boke (or ボケ味 boke-aji)..
+1. In the UK, "Idem"[potence] is pronounced as in Latin, *E-dem*.
 1. The [Great Vowel Shift](https://www.youtube.com/watch?v=UOfYck3J3e0) turns *Multi-* from "multee" from "multai". *House* would really be "hoos" before the GVS. Fun fact: [old and middle English are incomprehensible.](https://www.youtube.com/watch?v=5NB2Z6pZBNA)
 1. Y is "I grec" in French.
 1. Willkommen becomes Welcome. But (you are) Welcome becomes [Bitte schön](https://en.wiktionary.org/wiki/bitte_sch%C3%B6n).

@@ -1,1 +1,2 @@
 1. [Kotlin has longer compilation times compared to Java](https://medium.com/keepsafe-engineering/kotlin-vs-java-compilation-speed-e6c174b39b5d), with the exception of incremental builds, which may match Java's compile time. So, while developer efficiency goes up (with less boilerplate code), machine efficiency goes down. A fair tradeoff.
+1. [`f() ?: g()`](https://en.wikipedia.org/wiki/Elvis_operator) is `f() ? f() : g()`, except `f` doesn't get called twice.

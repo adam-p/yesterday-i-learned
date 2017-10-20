@@ -1,5 +1,7 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Corn husks (the skins) were once used as shipping padding.
+1. ["Optical bonding"](http://slideplayer.com/slide/3399128/), à la filling the air gap(s) with special glue, makes your screens reflect less.
 1. [The government has a surplus store.](https://www.gcsurplus.ca/mn-eng.cfm) Good stuff is occasionally sold there.
 1. CDMA is owned by Qualcomm. It is a piece of turd because phones can lock you to a carrier without even a SIM. GSM is a global (in particular, legally required in EU) standard.
 1. One CPU branching misprediction costs 5ns.

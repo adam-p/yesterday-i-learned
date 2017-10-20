@@ -1,5 +1,6 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. "Cancer is by far the worst irony the universe has shown us thus far. Death at the hands of immortality." - fhayde
 1. Corn husks (the skins) were once used as shipping padding.
 1. ["Optical bonding"](http://slideplayer.com/slide/3399128/), à la filling the air gap(s) with special glue, makes your screens reflect less.
 1. [The government has a surplus store.](https://www.gcsurplus.ca/mn-eng.cfm) Good stuff is occasionally sold there.

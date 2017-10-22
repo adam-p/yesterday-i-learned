@@ -1,3 +1,5 @@
+1. Sea lions can walk on land. Seals, on the other hand, have their tailbones fused, so they must bounce like a balloon.
+1. The Peregrine falcon can dive at 312km/h. It is also called the duck hawk because it hunts ducks.
 1. Muscles atrophy quicker with age.
 1. The side effects of going to space for an extended amount of time includes [not having any doctors to treat your weird symptoms](http://www.theage.com.au/good-weekend/astronaut-scott-kelly-on-the-devastating-effects-of-a-year-in-space-20170922-gyn9iw.html).
 1. Plantar warts can be nasty and can take months to disengage. [See here.](https://www.youtube.com/watch?v=_qWNJOc2wIM)

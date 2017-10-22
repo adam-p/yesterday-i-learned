@@ -1,5 +1,15 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. MKBHD's ultimate frisbee jersey number is 82.
+1. To [determine the week day of any date](http://gmmentalgym.blogspot.ca/2011/03/day-of-week-for-any-date-revised.html#ndatebasics): (Sunday=0 ~ Saturday=6) + (Map your months to 6 or 5,2 or 1,2,5,0,3,5,1,4,6,2,4) + (Some really, really weird rules regarding years).
+1. Fibonacci numbers are named after Leonardo of Pisa, who was then [Filius Bonacci](https://en.wikipedia.org/wiki/Fibonacci), "Son of Bonacci". `(A fib number) / (the fib number before it)` converges to 1.618..,. the golden ratio.
+1. [Drones are rubbish](https://www.youtube.com/watch?v=ZPY7dIz0GBI) because they stay in the air for like 15 minutes.
+1. Main issue with Google gadgets is that they are useless. [Clips](https://www.youtube.com/watch?v=w05jWoaIHUs), a camera with a clip that sucks when clipped to a shirt. [Translation earphones](https://www.youtube.com/watch?v=AwDw7j7dEEw) that [require your phone to be whipped out anyway](https://youtu.be/B_BQjRs94ec?t=32s). [Home](https://www.youtube.com/watch?v=wd9-VP2LzM8), a thing that tells you what *it* can do, but never tells you what *you* can do. All of these gadgets require bluetooth connection to a phone.
+1. Japanese for "pink" is really "pinku".
+1. Microwaved eggs can explode [after](https://www.youtube.com/watch?v=x4D7yE_x_Lg) they leave the bloody microwave, get peeled, and *then* bitten into.
+1. Damned Daniel Craig [did](https://www.vanityfair.com/hollywood/photos/2015/12/star-wars-force-awakens-cameos-daniel-craig-ewan-mcgregor-kevin-smith) play a Stormtrooper in The Force Awakens.
+1. If you don't like watching half an hour worth of ads before your movie, then either a) pirate it, or b) reverse engineer the start time by looking at the movie's end time, less the movie duration.
+1. [The HyperLoop doesn't work](https://www.youtube.com/watch?v=RNFesa01llk) because the vacuum required is never going to be happen with all the stupid people around. (Imagine a loser poking a hole in the loop and everyone is screwed, or a dude throwing a stone into a turbine or something)
 1. "Cancer is by far the worst irony the universe has shown us thus far. Death at the hands of immortality." - fhayde
 1. Corn husks (the skins) were once used as shipping padding.
 1. ["Optical bonding"](http://slideplayer.com/slide/3399128/), à la filling the air gap(s) with special glue, makes your screens reflect less.
@@ -53,7 +63,7 @@
 1. "All rights reserved" is by default. You don't need to mention it.
 1. Normal smartphones give you a "cardboard VR vision" of 8:9 at best. Therefore, no matter how good VR goggles are, they are essentially useless at this point.
 1. [Wikipedia doesn't *need* your donations.](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2017-02-27/Op-ed) They want your donations because their team is growing exponentially in size, for no real good reason to hire. Jimmy also wanted a private jet (possibly unrelated).
-1. When it comes to longevity, lithium batteries are perfectly fine with the cold (0°C).
+1. When it comes to longevity, [lithium batteries are perfectly fine with the cold](http://batteryuniversity.com/learn/article/charging_at_high_and_low_temperatures) (0°C), and should charge under 45°C (ideally under 30°C, but who does that), and strictly prohibited above 50°C.
 1. If you hire a co-op student and get "up to $3000" of your "up to 30%" back, then you would be paying such a student $2250 per month to get that amount of tax credit back.
 1. Multi-level marketing firm Herbalife has the balls to be on NYSE.
 1. A bit [less](https://techcrunch.com/2017/09/05/whatsapp-business-app/) than half of the world has WhatsApp installed.

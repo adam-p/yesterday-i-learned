@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. The Pixel has [Snapdragon 821-AB](https://www.xda-developers.com/dissecting-speed-how-oneplus-leveraged-excellent-real-world-performance/), whereas the Oneplus 3T has Snapdragon 821-AC, with a slightly higher boost frequency.
 1. Face Unlock is less popular in countries like Saudi Arabia and UAE.
 1. Download the SDK before attempting to compile anything.
 1. Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).

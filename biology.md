@@ -1,3 +1,6 @@
+1. Fish oil goes bad when exposed to air and light because it is an oil, and [oils go rancid](http://www.cbc.ca/beta/news/health/marketplace-fish-oil-omega-3-benefits-safety-1.3326587).
+1. [Apple snail eggs](https://en.wikipedia.org/wiki/Ampullariidae) are **not** palatable.
+1. [People who drank about three or more alcoholic drinks per day also had the strokes almost a decade and a half before those who didn’t drink quite as much.](https://www.webmd.com/stroke/news/20120910/heavy-drinkers-greater-risk-stroke)
 1. Sea lions can walk on land. Seals, on the other hand, have their tailbones fused, so they must bounce like a balloon.
 1. The Peregrine falcon can dive at 312km/h. It is also called the duck hawk because it hunts ducks.
 1. Muscles atrophy quicker with age.

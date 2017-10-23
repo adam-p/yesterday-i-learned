@@ -1,5 +1,18 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. UMTS is based on GSM, but HSDPA is based on WCDMA. The "band 4" that wind mobile always talks about is [UMTS band 4, 1700/2100MHz](https://www.frequencycheck.com/carriers/wind-canada). Somehow, "Supported UMTS protocols" *includes* HSPA+, which is WCDMA. Not confusing enough? They will be using band 66 for LTE (GSM), except East Ontario, which will use the same AWS band 4 (WCDMA) for LTE (GSM). Both LTE [band 4](https://www.frequencycheck.com/bands/lte-band-4-aws-1) and [band 66](https://www.frequencycheck.com/bands/lte-band-66-1700-2100) use 1700/2100MHz.
+1. Even the strongest "maximum strength" "repairing" Vaseline lotion "for men" is less strong than just Vaseline, the petroleum jelly.
+1. Meditation appears to mean [sitting somewhere, closing your eyes, and focus your attention on your breathing without controlling it](https://www.gaiam.com/blogs/discover/meditation-101-techniques-benefits-and-a-beginner-s-how-to).
+1. People walked in a different fashion during the medieval times, [due to different footwear](https://www.youtube.com/watch?v=EszwYNvvCjQ). Because shoes back then tend to be leather socks, the ball of the feet land first. Now, the heels land first (which saves energy, but is detrimental to the joints). So, unless you have a reason, "try to walk on your balls".
+1. An implicit acceptance criterion for everything you do ought to be: "do/make something people want."
+1. [Austin Evans had his house burn down once.](https://www.youtube.com/watch?v=PGqZkOveLb8) [It was not his heater.](https://twitter.com/austinnotduncan/status/428747620354236416?lang=en)
+1. If someone is watching you, then if you yawn, they might as well.
+1. If you suspect you will be criticised in a meeting, sit next to the person in the meeting. It is much harder to be criticised when the person needs to turn the body to you.
+1. Cigarette filters are made of fiberglass.
+1. Quinoa ("kinwa") floats, needs to be rinsed, and sticks to every cooking surface (because it floats). Cooking time is longer. Unpleasant cooking experience.
+1. Cooked rice has only 2g of protein per 100g. Quinoa 4g. Your everyday pasta, 6g. Carbs are similar (30g), except for quinoa, at 20g.
+1. Typical chip repair kits work by first creating a vacuum in the presence of a resin, then applying air pressure once the resin fills the space where the air once was.
+1. Zack says the name "BlackBerry" was coined by marketing company Lexicon Branding, due to the resemblance of the keyboard's buttons to that of the [drupelets](https://en.wikipedia.org/wiki/Drupe) that compose the blackberry fruit.
 1. MKBHD's ultimate frisbee jersey number is 82.
 1. To [determine the week day of any date](http://gmmentalgym.blogspot.ca/2011/03/day-of-week-for-any-date-revised.html#ndatebasics): (Sunday=0 ~ Saturday=6) + (Map your months to 6 or 5,2 or 1,2,5,0,3,5,1,4,6,2,4) + (Some really, really weird rules regarding years).
 1. Fibonacci numbers are named after Leonardo of Pisa, who was then [Filius Bonacci](https://en.wikipedia.org/wiki/Fibonacci), "Son of Bonacci". `(A fib number) / (the fib number before it)` converges to 1.618..,. the golden ratio.
@@ -63,7 +76,7 @@
 1. "All rights reserved" is by default. You don't need to mention it.
 1. Normal smartphones give you a "cardboard VR vision" of 8:9 at best. Therefore, no matter how good VR goggles are, they are essentially useless at this point.
 1. [Wikipedia doesn't *need* your donations.](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2017-02-27/Op-ed) They want your donations because their team is growing exponentially in size, for no real good reason to hire. Jimmy also wanted a private jet (possibly unrelated).
-1. When it comes to longevity, [lithium batteries are perfectly fine with the cold](http://batteryuniversity.com/learn/article/charging_at_high_and_low_temperatures) (0°C), and should charge under 45°C (ideally under 30°C, but who does that), and strictly prohibited above 50°C.
+1. When it comes to longevity, [lithium batteries are perfectly fine with the cold](http://batteryuniversity.com/learn/article/charging_at_high_and_low_temperatures) (0°C), and [should](https://www.xda-developers.com/charging-comparison-oneplus-huawei/) charge under 45°C (ideally under 30°C, but who does that), and strictly prohibited above 50°C.
 1. If you hire a co-op student and get "up to $3000" of your "up to 30%" back, then you would be paying such a student $2250 per month to get that amount of tax credit back.
 1. Multi-level marketing firm Herbalife has the balls to be on NYSE.
 1. A bit [less](https://techcrunch.com/2017/09/05/whatsapp-business-app/) than half of the world has WhatsApp installed.

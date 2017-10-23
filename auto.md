@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Backup cameras don't clean themselves.
 1. By the time you are done using your car by driving 200Mm on it, you will have spent at least $20k in fuel alone. Driving is not cheap. At least, in that scale, the L/100km figure will correspond to actual cash saved, i.e. 6L/100km saves you $8000 compared to 10L/100km over the vehicle's lifetime.
 1. Turbocharged cars have different gearings. You don't just turbocharge a car without changing other parts.
 1. Alex Lowell Dykes operates a car reviews youtube channel, *and* [a ceramic microscopy lab](http://dyklaine.com/).

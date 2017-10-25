@@ -1,3 +1,4 @@
+1. In the first half of your Duolingo French course, you will encounter at least four verbs that start with V: *veux* (want), *voi* (see), *vis* (live), *vais* (go), and close enough, *sais* (know).
 1. [Salad](http://www.foodtimeline.org/foodsalads.html) was dressed with salt (and vinegar and oil). Word root was *salade*, something involving salt.
 1. ["Je suis là"](https://www.duolingo.com/comment/578722/Je-suis-l%C3%A0) can mean either "I am there" or "I am here". But "Je suis ici" always means "I am here".
 1. Therefore, "Voilà" means "look here" or "look there", and "Voici" means "look here".

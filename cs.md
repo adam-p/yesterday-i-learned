@@ -77,6 +77,9 @@ for data in datas:
 ```
 
 # Patterns
+
+The [SOLID pattern](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29): "one class does one simple thing, and the subclasses of this class also does the same thing."
+
 ## Creational patterns
 ### Builder
 ### Abstract Factory

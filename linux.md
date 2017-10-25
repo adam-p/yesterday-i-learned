@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. `if which git > /dev/null; then echo "lol"; fi  # checks if git exists` is [not recommended](https://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script); use `if command -v foo >/dev/null 2>&1; then echo "lol"; fi` instead.
 1. In `gpg` (gnupg), `usage: S` means Signing, and `usage: E` means Encryption. [`C` is CERT and `A` is AUTH.](https://unix.stackexchange.com/a/32031) [The master key can never be used for encryption.](https://wiki.debian.org/Subkeys)
 1. `dig` is "domain information groper". Tool names were more colourful back then.
 1. The `rc` in `.foorc` meant [runcom](https://stackoverflow.com/a/11030607/1558430). It came from [CTSS](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System) (initial release 1961).

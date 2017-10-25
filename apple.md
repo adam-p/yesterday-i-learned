@@ -1,3 +1,4 @@
+1. The iPhone 8's resolution is around 720p.
 1. iOS apps are [`.ipa`](http://en.wikipedia.org/wiki/.ipa) compressed (payload), and `.app` uncompressed.
 1. `xcode-select --print-path` gives you where Xcode is installed.
 1. `xcodebuild -list -project ???.xcodeproj` tells you what the Xcode project is configured to build, and information like targets and schemes.

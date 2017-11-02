@@ -1,3 +1,4 @@
+1. [Bathyscaphe Trieste](https://en.wikipedia.org/wiki/Bathyscaphe_Trieste), the mariana trench sub, uses gasoline for buoyancy because it is less dense than water, and incompressible even at extreme pressure.
 1. [Dielectric grease](https://en.wikipedia.org/wiki/Silicone_grease#Dielectric_grease) is a gel-like insulation used on electrical components so the electricity does not arc across it.
 1. Calcium in [milk](https://en.wikipedia.org/wiki/Milk) comes in the form of calcium phosphate.
 1. Cement (the Ca(OH)2 kind) is caustic, and can cause chemical burns.

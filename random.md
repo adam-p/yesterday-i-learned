@@ -1,5 +1,32 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. In [this video](https://www.youtube.com/watch?v=qvkZ8sCd5EI), Cinema Sins gives Cinema Sins infinite sins.
+1. Aunt Irma can also be Aunt Flo.
+1. "Stacked" was used to describe men's pecs and abs, "stacking" one over another. Then the same "stacked" was modified to describe women with large breasts as well. The problem here is that breasts don't stack unless you have multiple pairs of them.
+1. 出世 ("exit life") means literally the opposite of it: entering life.
+1. "Of course [I'd hire a programmer who doesn't code in his spare time], same as I'd hire a carpenter that doesn't spend his evenings building houses or an accountant that doesn't do accounts for recreation." - dimnakorr
+1. American Chinese takeout boxes are [oyster pails](http://www.nytimes.com/2012/01/15/magazine/the-chinese-takeout-container-is-uniquely-american.html).
+1. OJ Simpson killed two people, then got into a high speed police chase in a white Ford Bronco. Ford stopped making the Bronco for ~20 years for unrelated reasons.
+1. Gesture typing for "github" also gives you "virgin".
+1. Doctors need malpractice insurance.
+1. Dave the minion has two eyes. Stuart the minion has one. There are also Kevin (tall), Bob (short), Tim (???) and Jerry (bald?)
+1. In The Shining, that kid [Danny](http://www.idyllopuspress.com/meanwhile/30410/the-shining-how-the-kubrick-carpet-trick-works/) is actually called Danny in real life. His dad, Jack (a dull boy), is actually called Jack in real life. [whenever Jack is in the writing room, there's probably a bear rug](https://youtube.com/watch?v=_NxHrbfxaLI), and whenever he sees a ghost, it is usually through a mirror. [The wife](http://www.indiewire.com/2013/09/stephen-king-says-wendy-in-kubricks-the-shining-is-one-of-the-most-misogynistic-characters-ever-put-on-film-93450/) Wendy unfortunately isn't called Wendy in real life, but Stephen King said he didn't write her as that useless in his original book.
+1. Apart from making Markdown, John Gruber the Daring Fireball man is apparently famous for some other things. Like Daring Fireball.
+1. [Daydream VR 2 has 10 more degrees of FOV compared to the VR 1.](https://www.digitaltrends.com/virtual-reality/google-daydream-view-2016-vs-google-daydream-view-2017/) For that you pay an extra 25%.
+1. Sergei Korolev was the Soviet space man. He was the reason the soviets got as far as space. Unfortunately he was underfunded (and died), so USA went to the moon first.
+1. The sun's diameter is actually pretty close to 400 times that of the moon's (400.5).
+1. The bee movie was produced and voiced by Jerry Seinfeld.
+1. It is illegal to display a noose in a threatening manner in Virginia, New York, and Connecticut.
+1. In the movie, Ares seeks the Amazon island, where the women lived. In the cartoon, Ares is already in the bloody island, sitting a jail. In both cases, the woman is called Diana, and a plane pilot crashes into the Amazon. You learned this the hard way when you searched for "Wonder Woman". Fun fact... in the movie, the Germans have a reverse D-Day (they land).
+1. "25519" in ed25519 is 2^(255) - 19. A 256-bit elliptic curve key (which is what Curve 25519 is) is [weaker](https://wiki.openssl.org/index.php/Elliptic_Curve_Cryptography) than a 4096-bit asymmetric key, like RSA.
+1. The [capital one mastercard](https://www.capitalone.ca/credit-cards/costco/#footnote2) that "doubles as your costco membership card" is literally just that. You use it to go through the door. You still need to pay the membership fee.
+1. "In a traditional push-up the number is about 69% in the up position" "and 75% in the down position". For the half push-up it is "54% in the up position and 62% in the down position".
+1. [Lottery winnings are not taxed in canada?](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/amounts-that-taxed.html)
+1. If your daycare costs more than (or even a little less than) your hourly wage, stay home.
+1. Canes are $15 each at sobeys.
+1. *Nous baiserons vos femmes et vous serez cocus* - Le tombeau des aristocrates, 1791; "We will fuck your wives and you will become cuckolds." [*Baiser*](http://www.alternative-dictionaries.net/dictionary/French/entry/baiser) also means to kiss.
+1. [The throw-a-hoop-around-a-bottle carnival game is a scam.](https://www.youtube.com/watch?v=tk_ZlWJ3qJI)
+1. Prepackaged meals are also called TV dinners, which used to be a trademark.
 1. "Ursa major" can be part of a conversation about college degrees.
 1. A soup strainer is a bad long moustache, straining the soup.
 1. "Nazi" came from "**Na**tionalso**zi**alistische Deutsche Arbeiterpartei", *nat-shon-AL-so-seul-list-uh-cher-DOY-cher-ar-BAI-te-pa-tai*. [Multiple global economic crashes](https://www.youtube.com/watch?v=Dd1JUTA7Ijc) were responsible for his uprising.
@@ -646,7 +673,7 @@
 1. The "ghetto" is where minorities live in groups, typically as a result of some socioeconomic pressure. It has nothing to do with how bad a place is. A ghetto can be a beautiful little India if they do it properly.
 1. The [ISO 31-0 standard](https://en.wikipedia.org/wiki/ISO_31-0#Numbers) defines the [thin space](https://en.wikipedia.org/wiki/Thin_space), ` ` (looks like a normal space in monospace, obviously) as the digit grouping separator, i.e. '1 000 000', rather than '1,000,000'.
 1. 1.4142... is the square root of 2. You use it to estimate how much longer the Manhattan distance would be between two points.
-1. Beef goes up to AAA; chicken only goes up to A. Chicken eggs go up to AA, though.
+1. Chicken goes up to A. Chicken eggs go up to AA. Beef goes up to AAA.
 1. [Life sentence](https://en.wikipedia.org/wiki/Life_imprisonment#World_view) that can be paroled is not, strictly speaking, "life behind bars". You are looking for "life without parole" for the worst kind.
 1. ["wyciwyg"](https://en.wikipedia.org/wiki/WYCIWYG): What You Cache Is What You Get
 1. The most famous current use of quantum computers is [Integer factorisation using Shor's algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm), where it is already faster than classical computers (in run-time complexity).
@@ -875,7 +902,7 @@
 1. A [*charlotte*](http://imgur.com/nljKA2I) is "a large soft hat covering all of the hair and typically having a decorative frill, worn indoors by women in the 18th and early 19th centuries."
 1. Bud light is [so bad on ratebeer](https://www.ratebeer.com/beer/bud-light/474/), its overall rating of 0 turned into n/a.
 1. *Emaciated* means thin and weak.
-1. *[That](https://en.wikipedia.org/wiki/Eat,_Pray,_Love)'s that girl who wrote that book based on that movie.*
+1. *[That](https://en.wikipedia.org/wiki/Eat,_Pray,_Love)'s that girl who [wrote that book based on that movie](https://youtu.be/_waBFUg_oT8?t=31s).*
 1. [Nastapoka arc](https://en.wikipedia.org/wiki/Nastapoka_arc), the near-perfect-circular crater-like thing in Hudson Bay, does not have properties commonly found in craters, such as [shatter cones](https://en.wikipedia.org/wiki/Shatter_cone) in the bedrock.
 1. People who like doing presentations often strategically choose awkward people to do group projects, do they don't need to do the projects themselves, just doing the presentation.
 1. In the first two years of your adventures, you averaged 137 per day.
@@ -958,7 +985,7 @@
 1. Since debloating a ROM doesn't resize the system partition, it is important to choose a phone (and carrier combo) that does not ship with useless junk in the first place.
 1. Hitler was born and died in an April.
 1. [The technologies used predominantly during the workday (are mostly enterprise software).](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/)
-1. Buy fish oil from the states. It is much cheaper there.
+1. Buy fish oil from the states. It is much cheaper there. (Same for gelatin)
 1. [Nick Freeman](https://en.wikipedia.org/wiki/Nick_Freeman), otherwise known as Mr. Loophole, defended David, Jimmy, Ian, Tiff, AND Jeremy from their respective speeding tickets.
 1. *Dykstra* is a dutch word for someone who lives by a dyke.
 1. [Java was found to be the primary Cause of 91 percent of (cyber)attacks](http://www.eweek.com/security/java-primary-cause-of-91-percent-of-attacks-cisco).
@@ -1327,7 +1354,7 @@
 1. A [trie][wikipedia 27] is a prefix tree (A -> B -> C = ABC), where the end nodes are the requested node (i.e. A -> B -> ABC = ABC).
 1. [Compact prefix trees][wikipedia 28] are trees that don't branch out until there are multiple entries of the same prefix. For example, if the tree contains Foo, Bar, and Baz, then Foo would be in its own node, and Bar/Baz would share a common "Ba" node, followed by their own "r" and "z".
 1. According to Alex, "schnitzel" is usually made with beef.
-1. [*Wiener Schnitzel*][wikipedia 31] is a protected term for Viennese schnitzel made with veal (calves).
+1. [*Wiener Schnitzel*][wikipedia 31] is a protected term for Viennese schnitzel made with veal (calves). *Vienna Schnitzel* can be made from anything.
 1. Do not buy Honda Fits made before [2014-06-06][mfit 23].
 1. People are "in cahoots" means that they are conspiring on something.
 1. Authentic *chili con carne* does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
@@ -1371,7 +1398,7 @@
 1. [BEST rolls you can buy: Charmin. BEST rolls at low cost: Great Value at Wal-Mart or Kirkland at CostCo.][reddit 18]
 1. [Alba, or Albion][wikipedia 36], used to stand for the island of Britain.
 1. Saudi Arabia has the [fourth highest military expenditure in the world][wikipedia 38], but still just 10% of the US'.
-1. [Kingdom of] Saudi Arabia happens to mean the kingdom of Muhammad ibn Saud, well, a king from... wait for it... [the house of Saud][wikipedia 39].
+1. [Kingdom of] Saudi Arabia happens to mean the kingdom of Muhammad bin Saud, well, a king from... wait for it... [the house of Saud][wikipedia 39].
 1. [The state of Virginia][wikipedia 40] was the most populous state during the 1800s, and was the state with the most presidents (7).
 1. The [USS Monitor][wikipedia 41], the ugliest warship at the time, had 47 patentable inventions that made it the best warship at the time. Then, because of how good it was, it was lost at sea just a year after it was laid down.
 1. Ulysses is derived from *Ulixes*, the Latin name for Odysseus, a character in ancient Greek literature.
@@ -1389,7 +1416,7 @@
 1. The reasoning behind [colors for traffic lights] is because Green represents life flourishing and going. Red was a sign of life stopped and yellow was a caution that would mean red is coming.
 1. When your married relationship turns sour, quit your job. When a divorce takes place, you get half. This does not work if the other person is also unemployed.
 1. You don't smell the odor compounds when they are dissolved in the saliva. It is only when the saliva dries up, like when you lick the back of your hand, that you can smell them. That's why you tend to smell bad breathe when someone talks; the moving air dries up the mouth and caries the compounds toward you
-1. [Tabarnak][urbandictionary 2] (QC French for "Fuck")
+1. [Tabarnak][urbandictionary 2] (QC French for "Fuck"); Baiser (FR French for "Fuck")
 1. [JSONX][ibm] is a format that allows lossless XML conversion to a JSON-like string.
 1. Season cast iron cookware with [flaxseed oil][sherylcanter], apparently.
 1. Hindus don't eat meat. > *But, India has a sizeable Christian and Muslim population who do eat beef. There even some hindus whom you'll find eating beef on occasion. Cow slaughter is illegal in most states, so the beef is ox or water buffalo meat.*
@@ -1406,7 +1433,7 @@
 1. [The 'speed of gravity' is the same as the speed of light.][reddit 20] If the sun goes away, we also have 8 minutes (ish) of time before we are affected gravitationally.
 1. The Latin *Kyrie*, KEAR-ee-ay, came from Greek Κύριε, or "Lord".
 1. 24 hours after recording the last episode of Father Ted, [Dermot Morgan][wikipedia 53] had a heart attack while hosting a dinner party at his home in south-west London. He was rushed to hospital but died soon afterwards.
-1. "[Dollar][wikipedia 54]" came from [Bohamian][wikipedia 55] Joachims[*thaler*][wikipedia 56], which translates to Joachim's Valleys
+1. "[Dollar][wikipedia 54]" came from [Bohamian][wikipedia 55] Joachims[*thaler*][wikipedia 56], which translates to Joachim's Valleys. Therefore, you're earning valleys.
 1. "Swamp ass" refers to the stench arising from not having wiped thoroughly. Bidets eliminate swamp ass.
 1. *Coprinopsis atramentaria*, a kind of mushroom, is toxic only when alcohol is ingested at the same time.
 1. [Oyster farming is so low in ecological impact][slate 2] that even vegans can eat oysters, because they don't have pain receptors either.

@@ -1,5 +1,16 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. You can calculate how much you need to invest into your retirement by reverse calculating from how much you want every month (no taxes for simplicity). Say you want $10k in passive income every month in whichever currency. A year of that is $120k, and if you say you get that much from a 5% capital growth per year, then your actual investment is 120k / 5% = 2.4M. So you will have to figure out how to get this 2.4M in 20 years. 2.4M in 20 years is (interestingly enough) back to 120k per year. So unless you save 10k every month now, you aren't retiring.
+1. People with kids naturally have less time furthering their professional development. A natural cause for why young people fresh out of college are often, despite the lack of experience, better hires.
+1. "The golden rule No.1 is never buy [a] new flat for investment ... Investment on used flats do not have problem of sharp depreciation because they have been depreciated when investors bought them ... However, [buying new flats] is consumption but not investment."
+1. Beating your earnings estimates will still cause your stock price to drop if the data shows your market value is actually lower than the current price.
+1. [A volcano](http://www.npr.org/sections/krulwich/2012/10/22/163397584/how-human-beings-almost-vanished-from-earth-in-70-000-b-c) ("Toba") wiped out almost everyone 70000 years ago.
+1. The fastest red card in football went to [a man named Lee Todd](https://www.theguardian.com/football/2009/jan/07/1), who said "FUCK me that was loud" to a referee.
+1. /r/sleepyasians is a thing.
+1. A canton is any quarter of a flag. British colonial flags have the union jack at the upper left canton, for example.
+1. [A young (underage) man had nudes of himself and was charged for being gay and a child sex offender.](https://www.reddit.com/r/news/comments/7abp34/child_sex_offenders_to_be_named_as_such_in_us/dp8pkix/) Kids, don't touch yourself. That's gay, pedophilic, and having sex with a minor. You die for that sort of thing. Jesus was right. Don't touch yourself. Big brother (he's over 18) is always watching.
+1. There was a computer that [recorded files onto casette tapes.](https://en.wikipedia.org/wiki/Texas_Instruments_TI-99/4A) A 3MHz CPU proved enough for everything.
+1. Mutual [Funds of funds](https://en.wikipedia.org/wiki/Fund_of_funds) do exist. They are figuratively inflation funds. They also have higher MERs.
 1. In [this video](https://www.youtube.com/watch?v=qvkZ8sCd5EI), Cinema Sins gives Cinema Sins infinite sins.
 1. Aunt Irma can also be Aunt Flo.
 1. "Stacked" was used to describe men's pecs and abs, "stacking" one over another. Then the same "stacked" was modified to describe women with large breasts as well. The problem here is that breasts don't stack unless you have multiple pairs of them.
@@ -68,7 +79,7 @@
 1. Corn husks (the skins) were once used as shipping padding.
 1. ["Optical bonding"](http://slideplayer.com/slide/3399128/), à la filling the air gap(s) with special glue, makes your screens reflect less.
 1. [The government has a surplus store.](https://www.gcsurplus.ca/mn-eng.cfm) Good stuff is occasionally sold there.
-1. CDMA is owned by Qualcomm. It is a piece of turd because phones can lock you to a carrier without even a SIM. GSM is a global (in particular, legally required in EU) standard.
+1. CDMA is owned by Qualcomm. It is a piece of turd because phones can lock you to a carrier ("whitelisting") without even a SIM. GSM is a global (in particular, legally required in EU) standard.
 1. One CPU branching misprediction costs 5ns.
 1. If you keep sending emails to addresses that don't exist, that web server flags you down as spam.
 1. If you don't set up some default mailboxes (like webmaster@, abuse@) required by [RFC 2142](https://www.ietf.org/rfc/rfc2142.txt), then [RFC-Clueless](http://rfc-clueless.org/) will add you to their blacklist, and you will no longer send/receive mail.

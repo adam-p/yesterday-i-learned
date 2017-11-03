@@ -1,3 +1,6 @@
+1. [Procyonidae](https://en.wikipedia.org/wiki/Procyonidae) is the family for "weird ass-tiny bears", the largest species of which being the wash bear.
+1. Most animals look healthier than you because they don't live nearly as long as you do. Make a dog live 100 years and it'll probably metabolise its own skin.
+1. The kneecap tendon can [tear off](https://en.wikipedia.org/wiki/Patellar_tendon_rupture) "The tell-tale sign of a ruptured patella tendon is [the bloody kneecap is all the way up the femur's butthole]," says wikipedia.
 1. There are no known wild alpacas. Its closest living relative is the vicuña. Both are [camelids](https://en.wikipedia.org/wiki/Camelid), camel-like things.
 1. [A woman pretending to be a man](https://www.theguardian.com/books/2016/nov/10/dr-james-barry-a-woman-ahead-of-her-time-review) invented C-section.
 1. [Blackheads are a lot blacker than what the cosmetic industry calls blackheads.](https://www.youtube.com/watch?v=kjX9HKWev4E)

@@ -1,3 +1,6 @@
+1. You have a ~0.3% chance of [getting cancer](http://www.wcrf.org/int/cancer-facts-figures/data-cancer-frequency-country).
+1. [Plan B does not work well on overweight women](http://ec.princeton.edu/questions/ecobesity.html) (BMI >= 30).
+1. The same bacterium (*H. Pylori*) that causes stomach ulcers also causes [stomach cancer](https://en.wikipedia.org/wiki/Gastric_cancer). This bacterium is present in half of us.
 1. [Procyonidae](https://en.wikipedia.org/wiki/Procyonidae) is the family for "weird ass-tiny bears", the largest species of which being the wash bear.
 1. Most animals look healthier than you because they don't live nearly as long as you do. Make a dog live 100 years and it'll probably metabolise its own skin.
 1. The kneecap tendon can [tear off](https://en.wikipedia.org/wiki/Patellar_tendon_rupture) "The tell-tale sign of a ruptured patella tendon is [the bloody kneecap is all the way up the femur's butthole]," says wikipedia.

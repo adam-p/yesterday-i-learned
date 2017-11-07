@@ -1,5 +1,13 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Nikkei actually stands for The Nihon Keizai Shinbun (日本経済新聞), a newspaper.
+1. The Kinect/iPhone X use randomised dots for depth recognition, rather than a grid. "If you use a regular repetitive grid you will have a periodicity in the observed pattern, if an observed object moves closer to the camera the reflected laser shifts further to the side until it would overlap with a different point at a different depth in the 2D image." (which is bad)
+1. At the cost of load capacity, thermal stability, and weight, lithium battery manufacturers can raise the battery voltage using additives, which increases capacity.
+1. The Denver Nuggets (basketball team) would make the opposing team sprint from one end of the court to the other to make them run out of breath. Tired players make more mistakes, and since Denver is a high altitude city, the home team is trained for this sort of thing, says Jmgill12, who claims to study basketball.
+1. Chinese USB chargers can be so cheap because they omit safety standards like the [UL 840](https://standardscatalog.ul.com/standards/en/standard_840_3).
+1. The American ounce (28.349523125g) is actually the International Avoirdupois Ounce.
+1. Richard Hammond crushed his left tibia by 7mm. He was found sitting and talking in [a video uploaded just a week after the accident](https://www.youtube.com/watch?v=18oAkxwYQh0).
+1. Haddock has a meaty texture, and leaves a disgusting fishy aftertaste.
 1. You can calculate how much you need to invest into your retirement by reverse calculating from how much you want every month (no taxes for simplicity). Say you want $10k in passive income every month in whichever currency. A year of that is $120k, and if you say you get that much from a 5% capital growth per year, then your actual investment is 120k / 5% = 2.4M. So you will have to figure out how to get this 2.4M in 20 years. 2.4M in 20 years is (interestingly enough) back to 120k per year. So unless you save 10k every month now, you aren't retiring.
 1. People with kids naturally have less time furthering their professional development. A natural cause for why young people fresh out of college are often, despite the lack of experience, better hires.
 1. "The golden rule No.1 is never buy [a] new flat for investment ... Investment on used flats do not have problem of sharp depreciation because they have been depreciated when investors bought them ... However, [buying new flats] is consumption but not investment."

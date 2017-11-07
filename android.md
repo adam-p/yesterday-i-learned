@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Cyanogen was [Steve Kondik's nickname](https://github.com/cyanogen). He created CyanogenMod.
+1. `adb shell dumpsys batterystats --reset` resets the battery graph.
 1. The Moto E(2) is [a bitch to fix](https://www.ifixit.com/Guide/Motorola+Moto+E+2nd+Generation+Battery+Replacement/56502).
 1. Not being on a stock rom while relocking your bootloader will brick the device, says [this guy](https://forum.xda-developers.com/showpost.php?p=69267541&postcount=9).
 1. If your friendly local LineageOS installation complains about [having no `TERM` variable](https://jira.lineageos.org/browse/BUGBASH-556?attachmentViewMode=list), then see if adding `export TERM=xterm` to `/etc/mkshrc` helps.

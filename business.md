@@ -101,6 +101,7 @@ Further reading: [0001.md](sources/0001.md)
 * [When you anticipate a market failure](http://www.reddit.com/r/stocks/comments/53znlq/_/).
 * When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
 * A "sell" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a sell when a stock goes above a certain price.
+* When it is November/December, and the price [went down during the year](https://www.reddit.com/r/stocks/comments/7b4x2z/end_of_year_selloff/). This can be claimed as investment loss. (Similarly, because you konw people will sell for tax credits, it is not wise to buy stocks in November/December, since they are likely to go down as people sell.)
 
 ### [Gap ups and downs](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort)
 

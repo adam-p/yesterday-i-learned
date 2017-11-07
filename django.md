@@ -249,3 +249,8 @@ Sometimes (but not according to the docs), unless you wrap all that in `<table>`
 Say for a normal python class `Foo(object)` containing another class `Bar(object)`, in which an attribute `baz = 1`, you access that attribute with `Foo.Bar.baz`, no problem.
 But if you have a Django `Foo(Model)` with a class `Meta(object)` and `index_together = [...]` inside, you will find [this POS](https://stackoverflow.com/a/10344218/1558430): `AttributeError: class Meta has no attribute 'index_together'`
 No worries though, [you can still find what you want in `Foo._meta.index_together`](https://stackoverflow.com/a/15395241/1558430).
+
+
+### I want to reset all my migrations by [deleting and recreating them](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html), but `makemigrations` isn't doing anything
+
+You can't delete the `migrations/__init__.py`s in your apps. Keep those files, then run `makemigrations` again.

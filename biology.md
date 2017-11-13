@@ -1,3 +1,5 @@
+1. Removing mosquitoes from the planet will not cause major issues, [Nature said](https://www.nature.com/news/2010/100721/full/466432a.html). Mosquitoes are too small and useless to be a significant part of other animal diets. Those whose diets do consist primarily of mosquitoes will eventually adapt.
+1. [Atherosclerosis](https://en.wikipedia.org/wiki/Atherosclerosis) ("blood clot disease") is caused by monocytes (a type of white blood cell) sticking to the blood vessel lining, eating the LDL and becoming foam cells. Foam cells eventually die and further propagate the inflammatory process.
 1. You have a ~0.3% chance of [getting cancer](http://www.wcrf.org/int/cancer-facts-figures/data-cancer-frequency-country).
 1. [Plan B does not work well on overweight women](http://ec.princeton.edu/questions/ecobesity.html) (BMI >= 30).
 1. The same bacterium (*H. Pylori*) that causes stomach ulcers also causes [stomach cancer](https://en.wikipedia.org/wiki/Gastric_cancer). This bacterium is present in half of us.

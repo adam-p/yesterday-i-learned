@@ -1,3 +1,5 @@
+1. Maniacs out there actually [put cleaning bleach in their baths](https://www.dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections/) to simulate some kind of "swimming pool water" that treats skin infections.
+1. You can [melt cyanoacrylate superglue with acetone](https://m.wikihow.com/Get-Super-Glue-Off-Skin). "Do not use a cotton swab, as this can react very violently with cyanoacrylate"
 1. [Bathyscaphe Trieste](https://en.wikipedia.org/wiki/Bathyscaphe_Trieste), the mariana trench sub, uses gasoline for buoyancy because it is less dense than water, and incompressible even at extreme pressure.
 1. [Dielectric grease](https://en.wikipedia.org/wiki/Silicone_grease#Dielectric_grease) is a gel-like insulation used on electrical components so the electricity does not arc across it.
 1. Calcium in [milk](https://en.wikipedia.org/wiki/Milk) comes in the form of calcium phosphate.

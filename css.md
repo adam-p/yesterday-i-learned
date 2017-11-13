@@ -51,6 +51,7 @@
 * `content: ...` (or any attribute, really) can be set to the [content of some other attribute](https://github.com/chinchang/hint.css/blob/master/hint.css#L65), using something like `content: attr(data-some-other-attribute);`.
 * `font-weight: strong` is not a thing. The correct alias is `font-weight: bold`.
 * Style a `<path>` with `stroke-dasharray: 5` to make it a dashed line (5px step). `5,10` would have dashes that are 10px spaced out.
+* [w3schools](http://www.w3fools.com/) says that [`pt` (in/72), `px` (in/96), and `pc` (in/6) should not be used on screen](https://www.w3schools.com/cssref/css_units.asp) because their absolute sizing means different-sized screens show them differently, and "the em and rem units are practical in creating perfectly scalable layout!"
 
 ## XPath
 

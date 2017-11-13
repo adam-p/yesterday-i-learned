@@ -1,5 +1,23 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. The statue of liberty was [copper](https://www.hipmunk.com/tailwind/shiny-see-in-color-how-the-statue-of-liberty/).
+1. Cook 1 part quinoa in 2 parts water for 15 minutes and rest for 5. ["No matter how you cook it, let the quinoa rest for at least 5 minutes in a covered cooking vessel before eating it. This will allow the water to evenly permeate the body of the quinoa seeds."](http://www.iheartkeenwah.com/blog/2015/10/31/the-food-lab-examining-the-best-way-to-cook-quinoa-rice-cooker-stove-top-or-pre-roast)
+1. Special agents wear sunglasses to (apart from the sun, but also) shield their eyes from liquids thrown at them.
+1. "Geniuses quote themselves." - Brian Lai, 2000s
+1. C++ is the [most popular "hard compiled" language](https://blog.golang.org/8years) on GitHub, and three times the number of people would rather write TypeScript than Objective 💩.
+1. The tie clip goes between the third and fourth button of the shirt, and should never be longer than 3/4 of the tie's width.
+1. There's [an entire blog about a woman eating bugs](https://edibug.wordpress.com/nutritional-info/). Nutritious, but crap is it disgusting.
+1. Mr.T (Tureaud) was a wrestler.
+1. *Two* fast elevators/lifts go a long way when searching for an apartment. Also, don't rent the apartment next to the garbage/rubbish chute. Even if it doesn't smell, you'll hear things tumbling down it every other minute.
+1. Harrison Ford is Indiana Jones.
+1. Mariah Carey is half black, not incredibly tanned.
+1. Fingerprint scanners work when you are asleep. Face unlock doesn't. If you have a jealous spouse, don't trust the finger.
+1. Washing jeans only when they smell is [apparently](http://www.businessinsider.com/how-often-you-should-wash-jeans-2016-3) the actual best way to treat them.
+1. You can go around signing people's PGP public keys, *and* upload your signing of the key to the keyserver anonymously. This is because no one forces you to do it, and [people tend to trust whichever key is more signed than others.](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x79BE3E4300411886)
+1. To understand why [the automotive equivalent of Sears](http://www.canadiantire.ca/en.html) is still going up, you have to know why people shop there. To know why people shop there, you have to know where else they can get new tires these days. Not a lot of places really. Dealerships rip you off, Tire shops are questionable sometimes, eBay takes a long time, stuff like that. You also want to know why people even buy those things. The answer is: winter.
+1. Want an Android phone on which you can't install apps? [NichePhone S to the rescue!](http://www.androidpolice.com/2017/11/06/credit-card-sized-nichephone-s-coming-japan-runs-android-4-2/)
+1. The Enigma code was partially broken because [the Germans said "Heil Hitler" in the message all the time](https://futureboy.us/pgp.html#GoodPractices). As a result, the author advises not to write "best regards" in your encrypted messages, or encode your emails in HTML (which would then contain '</html>', obviously).
+1. Proper daylight savings clocks go from the last instant of 1:59:59 to 1:00:00. Clocks that go from 1:59:59 to 2:00:00 to 1:00:01 are improper.
 1. Nikkei actually stands for The Nihon Keizai Shinbun (日本経済新聞), a newspaper.
 1. The Kinect/iPhone X use randomised dots for depth recognition, rather than a grid. "If you use a regular repetitive grid you will have a periodicity in the observed pattern, if an observed object moves closer to the camera the reflected laser shifts further to the side until it would overlap with a different point at a different depth in the 2D image." (which is bad)
 1. At the cost of load capacity, thermal stability, and weight, lithium battery manufacturers can raise the battery voltage using additives, which increases capacity.
@@ -1402,7 +1420,7 @@
 1. [Both Mrs and Ms stand for 'mistress'][newrepublic]; Miss used to mean prostitute, which is odd, considering Mistress currently means women having affairs.
 1. "Skeet shooting" refers to shooting plates that someone had thrown into the air, with a shotgun.
 1. Due to the lineup excluding Pokémon with a 0 or 1 IV in Attack, female Pokémon of species with a seven male to one female ratio can never be Shiny in Generation II.
-1. If you want to buy good T-shirts, buy [Mossimo][reddit 17] from Target.
+1. ~~If you want to buy good T-shirts, buy [Mossimo][reddit 17] from Target.~~ HAHAHAH
 1. [How to dress for work: 5 common levels of formality][businessinsider]
 1. PSKs are [never shared over the network!][superuser 2]
 1. *Pub* is short for Public House.

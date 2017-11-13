@@ -57,6 +57,7 @@ This is also how you [fast forward remote branches][stackoverflow 15].
 #### Creating a patch
 * Save a patch: `git format-patch -n HEAD^`
 * Save a patch file under any name: `git format-patch (branch name) --stdout > diff.patch`
+* [Save a patch from `git diff`](https://stackoverflow.com/a/4610846/1558430): `git diff > save.patch` or `git diff --no-prefix > save.patch`
 
 #### Applying a patch
 
@@ -64,6 +65,8 @@ This is also how you [fast forward remote branches][stackoverflow 15].
 * Check if the patch can be applied: `git apply --check diff.patch`
 * Apply the patch: `git apply diff.patch`, **OR**
 * If you want to sign off what you apply, `git am --signoff < diff.patch`
+* [Apply the patch from `git diff`](https://stackoverflow.com/questions/4610744/can-i-get-a-patch-compatible-output-from-git-diff): `patch -p1 < save.patch`
+* [Apply the patch from `git diff --no-prefix`](https://stackoverflow.com/questions/4610744/can-i-get-a-patch-compatible-output-from-git-diff): `patch -p0 < save.patch`
 
 ### Tags
 

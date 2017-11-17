@@ -1,3 +1,5 @@
+1. "The final straw" came from "the straw that breaks the camel's back".
+1. Punjabi for *Sikh* is *sikkh* "sick". You don't need to say "seek" to pretend you know the difference.
 1. Americans totally spoke in a [lovely accent](https://youtu.be/zjCOMJDULaE?t=13m39s) back in the sixties. It sounds nothing like the rest.
 1. *On* is the informal *Nous*.
 1. *Schnitzel / Schnipsel*: scrap, or a small piece of something. When used on meat, it becomes "cutlet".

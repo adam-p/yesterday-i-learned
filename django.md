@@ -41,6 +41,7 @@
 * Queries can accept [`Variable` instances](https://lincolnloop.com/blog/faster-django-sites-pypy/) where values normally go, so that these queries can be precompiled (and later inserted using `.bind()`). You know, for rare cases when a query takes longer to generate than it takes to run.
 * "Repeatedly getting a certain index in a queryset" is not cached. Unless you evaluate the entire queryset, in which case, it is.
 * If a class A has a `ForeignKey` to class B with `on_delete=CASCADE`, B does not get deleted when A is deleted.
+* Simply making a [`ForeignKey('self')`](https://stackoverflow.com/questions/15285626/django-self-referential-foreign-key) will make a foreign key to self.
 
 ## WSGI
 
@@ -243,6 +244,10 @@ Sometimes (but not according to the docs), unless you wrap all that in `<table>`
 
 [github]: https://github.com/devilry/devilry-deploy/blob/master/docs/src/migrationguides/1.4.0.rst#2-----migrate-the-database
 [readthedocs]: http://south.readthedocs.org/en/latest/dependencies.html
+
+### Can't dump fixtures through `call_command`
+
+You need to [change the stdout to a `StringIO()`](https://stackoverflow.com/a/20480323/1558430) first.
 
 ### `class Meta` has nothing in it
 

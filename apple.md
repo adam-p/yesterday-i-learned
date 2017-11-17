@@ -1,3 +1,4 @@
+1. While you [can](https://github.com/nordnet/cordova-hot-code-push/wiki/App-Store-FAQ) update your hybrid iOS app remotely and bypassing the app store review process, you cannot ask the user if they want to update.
 1. The iPhone 8's resolution is around 720p.
 1. iOS apps are [`.ipa`](http://en.wikipedia.org/wiki/.ipa) compressed (payload), and `.app` uncompressed.
 1. `xcode-select --print-path` gives you where Xcode is installed.

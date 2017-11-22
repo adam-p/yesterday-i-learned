@@ -1,3 +1,6 @@
+1. [One out of five cancer patients end up getting depression](http://www.mdmag.com/medical-news/high-incidence-of-ptsd-among-cancer-patients). "I felt betrayed by my body, doomed, helpless and it totally messed with my head," said [someone](https://www.reddit.com/r/science/comments/7ecs3b/a_new_study_has_found_that_20_of_cancer_patients/dq45qh6/).
+1. Fiddleheads (young curled-up ferns) are cooked as vegetables.
+1. [Potato fruits look like tomatoes](http://msue.anr.msu.edu/news/what_are_those_fruit_growing_on_my_potato_plants) because they are both from the nightshade family. No, potato fruits are not edible (toxic). Graft the two plants and get [the ketchup n' fries plant](http://www.huffingtonpost.ca/entry/ketchup-and-fries-plant-wow-dreams_n_6744294).
 1. The predecessors of silverfish and bristletails are considered the most primitive insects.
 1. Sand from the Sahara desert (more specifically, Chad), which contains plenty of phosphorus, fertilise the Amazon rainforest.
 1. Removing mosquitoes from the planet will not cause major issues, [Nature said](https://www.nature.com/news/2010/100721/full/466432a.html). Mosquitoes are too small and useless to be a significant part of other animal diets. Those whose diets do consist primarily of mosquitoes will eventually adapt.

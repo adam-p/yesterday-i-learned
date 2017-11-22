@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. The default support library already supports [automatic day/night theming](https://android-developers.googleblog.com/2016/02/android-support-library-232.html). You just need to specify `AppCompatDelegate.MODE_NIGHT_AUTO` and it will be themed for you.
+1. If the [camera mods](https://www.celsoazevedo.com/files/android/google-camera/) don't work, you need to [enable the Camera2 API](https://forum.xda-developers.com/apps/magisk/module-camera2api-enabler-t3656651) (`persist.camera.HAL3.enabled=1`) first.
 1. Cyanogen was [Steve Kondik's nickname](https://github.com/cyanogen). He created CyanogenMod.
 1. `adb shell dumpsys batterystats --reset` resets the battery graph.
 1. The Moto E(2) is [a bitch to fix](https://www.ifixit.com/Guide/Motorola+Moto+E+2nd+Generation+Battery+Replacement/56502).

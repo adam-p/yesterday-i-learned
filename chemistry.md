@@ -1,3 +1,4 @@
+1. "Himalania" produces [non-GMO salt](https://www.mnn.com/food/healthy-eating/blogs/facepalm-of-the-week-non-gmo-salt).
 1. Maniacs out there actually [put cleaning bleach in their baths](https://www.dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections/) to simulate some kind of "swimming pool water" that treats skin infections.
 1. You can [melt cyanoacrylate superglue with acetone](https://m.wikihow.com/Get-Super-Glue-Off-Skin). "Do not use a cotton swab, as this can react very violently with cyanoacrylate"
 1. [Bathyscaphe Trieste](https://en.wikipedia.org/wiki/Bathyscaphe_Trieste), the mariana trench sub, uses gasoline for buoyancy because it is less dense than water, and incompressible even at extreme pressure.

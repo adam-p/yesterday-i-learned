@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Grooved brakes are a sign that they are worn, said Chris fix. Bring your OBD scanner with you [when buying a used car], he said.
 1. "Spares" are meant to be full-size, you know, tires that you keep as *spares*. A donut is just something you use to get you to the closest tire shop.
 1. Backup cameras don't clean themselves.
 1. By the time you are done using your car by driving 200Mm on it, you will have spent at least $20k in fuel alone. Driving is not cheap. At least, in that scale, the L/100km figure will correspond to actual cash saved, i.e. 6L/100km saves you $8000 compared to 10L/100km over the vehicle's lifetime.

@@ -1,5 +1,7 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. "But I'll argue that Accessibility is actually more important than Security because dialing Accessibility to zero means you have no product at all, whereas dialing Security to zero can still get you a reasonably successful product such as the Playstation Network." - [Steve](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) "BIG disconnect in what "hardening" means for (security people, developers, and users), and in particular, the number one rule of kernel development is that 'we don't break users'. Because **without users, your program is pointless, and all the development work you've done over decades is pointless.** .. and security is pointless too, in the end." - [Linus](https://lkml.org/lkml/2017/11/21/356)
+1. PM Jean Chrétien was known for personally choking a protester. Since he was born in Shawinigan QC and he loved calling himself the "little guy from Shawinigan", they called it the [Shawinigan Handshake](https://en.m.wikipedia.org/wiki/Shawinigan_Handshake).
 1. In 2015, the definition of a parsec changed from "the distance at which one astronomical unitsubtends an angle of one arcsecond" to "648000/π astronomical units", which is about 3.26 light-years.
 1. It is the Japanese who liked [rubbing dirt into smooth balls](https://en.wikipedia.org/wiki/Dorodango), calling it Dorodango.
 1. You don't need to sleep 12 hours apart to work night shift. If you are to work from 9pm to 5am, then you can sleep from 6pm to 2am, only 6 hours different from your normal cycle.

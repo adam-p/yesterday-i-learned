@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. [Cruise control reduces fuel efficiency in hilly terrains.](http://eartheasy.com/move_fuel_efficient_driving.html)
 1. Grooved brakes are a sign that they are worn, said Chris fix. Bring your OBD scanner with you [when buying a used car], he said.
 1. "Spares" are meant to be full-size, you know, tires that you keep as *spares*. A donut is just something you use to get you to the closest tire shop.
 1. Backup cameras don't clean themselves.

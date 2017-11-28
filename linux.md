@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. [RMS eats stuff he grew himself (on his own feet).](https://www.youtube.com/watch?v=I25UeVXrEHQ) Probably licenced under GPLv3 too.
 1. Pressing capital `H` in htop hides all user threads.
 1. `if which git > /dev/null; then echo "lol"; fi  # checks if git exists` is [not recommended](https://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script); use `if command -v foo >/dev/null 2>&1; then echo "lol"; fi` instead.
 1. In `gpg` (gnupg), `usage: S` means Signing, and `usage: E` means Encryption. [`C` is CERT and `A` is AUTH.](https://unix.stackexchange.com/a/32031) [The master key can never be used for encryption.](https://wiki.debian.org/Subkeys)

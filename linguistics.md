@@ -1,3 +1,7 @@
+1. *Ne* is "not". *Pas* is also "not", even if used by itself. *Ne pas* is "do not".
+1. "Long time" becomes *longtemps* with no space in between.
+1. The terminal L in *appareil* is silent, and [is an exception](https://www.lawlessfrench.com/pronunciation/silent-letters/).
+1. *Laver* (to wash) and *Nettoyer* (to clean) are not interchangeable.
 1. *Mademoiselle*, from French *Ma Demoiselle*, "my damsel". A damsel is a young unwed woman.
 1. "The final straw" came from "the straw that breaks the camel's back".
 1. Punjabi for *Sikh* is *sikkh* "sick". You don't need to say "seek" to pretend you know the difference.

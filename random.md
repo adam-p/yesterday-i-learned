@@ -1,5 +1,19 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. On Facebook's "upload a clear photo of you" CAPTCHA: ["I used to think richard stallman was just a paranoid lunatic... Well, the more time goes by, the more i think he was just 100% right,"](https://news.ycombinator.com/item?id=15810680) said bsaul. [Just use one of the faces created by the AI](https://petapixel.com/2017/11/07/ai-creates-photo-realistic-faces-people-dont-exist/), said someone else.
+1. Hong Kong is the world's largest city-state (non-sovereign). Washington DC is also a non-sovereign city-state. Monaco is a sovereign city-state.
+1. Singapore refines petroleum oils. 23% of its exports are refined oils and products.
+1. One occupation that the computer surely replaced was the [computer](https://en.wikipedia.org/wiki/Human_computer).
+1. Trillions are dollars are traded in "[forex](https://www.investopedia.com/university/forexmarket/forex1.asp)es" every day.
+1. 西遊記 is literally Journey to the West. The author actually did go to the west. He did not meet human monkeys and pigs.
+1. The Ionic framework is a product of Wisconsin, [strangely close to the State Capitol](https://www.google.ca/maps/place/Drifty+Co/@43.0727454,-89.381615,189a,35y,15.54h,47.46t/data=!3m1!1e3!4m5!3m4!1s0x0:0x6af55a499c99d635!8m2!3d43.0742365!4d-89.3810119).
+1. Raw denim wearers don't wash their jeans for the first time until they absolutely need to (sometimes not after years) because it encourages the dye to come loose at all the right places. To quote Cleardesign, this is called "sicker fadez".
+1. Guatemala is the country below Mexico.
+1. The Japanese find [dozens of ships in the sea with everyone dead in it](https://news.sky.com/story/ghost-ship-of-decomposed-bodies-washed-ashore-in-sea-of-japan-11146745) every year.
+1. 40 weeks is clearly both 9 solar months and 10 lunar months.
+1. Charging people real money (for services offered by a startup) is ["not common practice at the time."](https://medium.com/initialized-capital/how-charging-for-our-product-originally-hurt-but-ultimately-saved-our-startup-391e69ae42ba). "Free users just cost money", says hacker news.
+1. False positives resulting from word filters that block too much stuff is called the [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem).
+1. Legos are worse now because [they have had thinner walls since 2012.](https://brickset.com/article/3504/disappointing-brick-quality-in-monster-fighter-set)
 1. [Jumbo](https://en.wikipedia.org/wiki/Jumbo) turned out to be an elephant in the 1880s. Born in Sudan, he was in [St. Thomas, Ontario](https://en.wikipedia.org/wiki/St._Thomas,_Ontario), where he tripped and fell, impaled himself with his own tusk, and died.
 1. [John Montagu](https://en.wikipedia.org/wiki/John_Montagu,_4th_Earl_of_Sandwich) (1718-1792), 4th Earl of [Sandwich](https://en.wikipedia.org/wiki/Sandwich,_Kent), claimed to have invented the sandwich. So, the sandwich is a UK product. Subfunfact: sandwich means "market town on sandy soil".
 1. A man named Rem Koolhaas tried to make a [barcode](https://en.wikipedia.org/wiki/Rem_Koolhaas#European_Flag_proposal) the flag of the EU in 2002.
@@ -2483,7 +2497,7 @@
 1. "if LEDs overheat, they burn out"
 1. Don't short penny stocks. In fact, just don't short: ["there isn't a short seller on the forbes 100 for a reason."](https://www.reddit.com/r/investing/comments/5t3df3/please_explain_me_why_is_cats_pe_so_high_and_why/ddk1jpa/)
 1. Before you look for a job in the service industry, ask if there is an union you should join.
-1. The ugliest website for a "soverign state" goes to [THE PRINCIPALITY OF HUTT RIVER](http://www.principality-hutt-river.com/) [~image~](http://imgur.com/bdCbteq), not [North Korea](http://www.korea-dpr.com/), which looks great by comparison.
+1. The ugliest website for a "sovereign state" goes to [THE PRINCIPALITY OF HUTT RIVER](http://www.principality-hutt-river.com/) [~image~](http://imgur.com/bdCbteq), not [North Korea](http://www.korea-dpr.com/), which looks great by comparison.
 1. Fascism is: totalitarian, almost always one party, usually one leader, often racist.
 1. It is possible to take your CPP out early (at 60) [if you don't plan to live for long.](https://retirehappy.ca/four-reasons-why-you-should-still-take-cpp-early-post-2011-rules/) The breakeven time depends on how many years it'll take to lose however much you got in the five years (60~65) under that percentage penalty.
 1. In the US, it is common for a boss to act very angry at your voluntary resignation, firing you with no cause, well before your notice ends. This saves them two weeks of pay.

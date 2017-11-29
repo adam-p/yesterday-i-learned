@@ -1,5 +1,6 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+* Whitespace in between symbols don't matter: `console   .    log    (   'lol'   )  // lol`
 * "You need to use yarn in flat mode with `yarn install --flat`"
 * The codename for ionic v1 is [`hong kong`](https://github.com/ionic-team/ionic-v1/blob/master/package.json#L5).
 * [JSX in excruciating depth](http://blog.klipse.tech/javascript/2016/12/14/jsx.html)

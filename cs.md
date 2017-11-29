@@ -39,6 +39,8 @@ Basically, if you were handed a project and needed to do it from start to finish
 
 # Algorithms
 
+> *[Fancy algorithms are slow when n is small, and n is usually small. Fancy algorithms have big constants. Until you know that n is frequently going to be big, don't get fancy.](http://users.ece.utexas.edu/~adnan/pike.html)*
+
 ## [Bubble sort](http://www.ideserve.co.in/learn/bubble-sort)
 
 Iterating through the list, swap item n with item n+1 if item n+1 is smaller than item n. Repeat until no items are swapped in an entire run.

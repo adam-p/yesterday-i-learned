@@ -241,6 +241,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. *Bashism* describes [the syntaxes in bash that are not supported elsewhere](http://mywiki.wooledge.org/Bashism), not just how quirky the syntax already is in bash or any other shell.
 1. Ubuntu has/had [three](https://wiki.ubuntu.com/DevelopmentCodeNames) mythical creatures as code names: the jackalope (9.04), unicorn (14.10), and werewolf (15.10).
 1. Having trouble running a GUI as root? `xauth merge /home/darren/.Xauthority` (use that exact user name).
+1. To turn a base64 string back into the file, do `echo base64stringfoobarbaz== | base64 --decode > filename`.
 
 ## Tmux
 

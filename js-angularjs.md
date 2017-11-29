@@ -77,3 +77,4 @@ $injector.get('$controller')('ControllerName', {
 * `==` and `===` do exactly what you think they do in angularjs 1.
 * Making a JS sandbox is difficult, so [they scrapped theirs in Angular 1.6](https://docs.angularjs.org/guide/security#sandbox-removal).
 * `$http.get` accepts a `timeout: Promise` that times out the request if the given promise resolves ahead of time.
+* In the [Ionic 1 to 2 migration guide](https://ionicframework.com/files/Ionic2Migration.pdf), the first step is "Start a new Ionic 2 app from scratch".

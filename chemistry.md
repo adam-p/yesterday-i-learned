@@ -1,3 +1,4 @@
+1. The duct tape colour is a powdered aluminium pigment.
 1. Antioxidants are reducing agents. They just repair oxidation. They do not directly counter free radicals.
 1. "Himalania" produces [non-GMO salt](https://www.mnn.com/food/healthy-eating/blogs/facepalm-of-the-week-non-gmo-salt).
 1. Maniacs out there actually [put cleaning bleach in their baths](https://www.dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections/) to simulate some kind of "swimming pool water" that treats skin infections.

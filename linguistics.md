@@ -1,3 +1,4 @@
+1. [It takes six (full) weeks less for an English speaker to learn French than to learn German.](http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html)
 1. *Ne* is "not". *Pas* is also "not", even if used by itself. *Ne pas* is "do not".
 1. "Long time" becomes *longtemps* with no space in between.
 1. The terminal L in *appareil* is silent, and [is an exception](https://www.lawlessfrench.com/pronunciation/silent-letters/).

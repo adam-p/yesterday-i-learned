@@ -1,5 +1,12 @@
 ![Dilbert][imgur]
 
+1. Wrapping an entire shell script in `{` and `}` "ensures the entire script is downloaded". Found in the nvm installer.
+1. `Ctrl+U` in the shell deletes the entire command. `Ctrl+K` deletes anything right of the cursor.
+1. The `PermitRootLogin without-password` directive actually means "disallow logging in as root with a password", not "allow root to log in without a password".
+1. You are supposed to throw your personal binaries in `~/.local/bin/`.
+1. If you change from a swap partition (linux default) to a swap file (windows default), then you can resize your swap without having to fuck [sic] with the partition scheme.
+1. There is `p7zip`; and then there is `7z`. You should probably use `7z` for simplicity: [`7z a outfile infile`](https://www.ibm.com/developerworks/community/blogs/6e6f6d1b-95c3-46df-8a26-b7efd8ee4b57/entry/how_to_use_7zip_on_linux_command_line144?lang=en) or [`7z a -t7z -m0=lzma -mx=9 -mfb=64 -md=32m -ms=on outfile infile`](https://askubuntu.com/questions/491223/7z-ultra-settings-for-zip-format)
+1. `man 7z`: "DO NOT USE the 7-zip format for backup purpose on Linux/Unix because: 7-zip does not store the owner/group of the file."
 1. [RMS eats stuff he grew himself (on his own feet).](https://www.youtube.com/watch?v=I25UeVXrEHQ) Probably licenced under GPLv3 too.
 1. Pressing capital `H` in htop hides all user threads.
 1. `if which git > /dev/null; then echo "lol"; fi  # checks if git exists` is [not recommended](https://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script); use `if command -v foo >/dev/null 2>&1; then echo "lol"; fi` instead.

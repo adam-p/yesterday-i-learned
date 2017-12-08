@@ -1,3 +1,6 @@
+1. The original iPhone had no screws holding the body together. The [pentalobe atrocity](https://en.wikipedia.org/wiki/Pentalobe_security_screw) was committed first in 2009, on a macbook.
+1. [Apple doesn't tweet.](https://www.theverge.com/2016/9/3/12781498/apple-twitter-account-paid-tweets) Even if they tweet, they delete the tweets afterwards.
+1. Apple originally wanted to use a full apple. But in small print it looked like a cherry. So they added the bite.
 1. While you [can](https://github.com/nordnet/cordova-hot-code-push/wiki/App-Store-FAQ) update your hybrid iOS app remotely and bypassing the app store review process, you cannot ask the user if they want to update.
 1. The iPhone 8's resolution is around 720p.
 1. iOS apps are [`.ipa`](http://en.wikipedia.org/wiki/.ipa) compressed (payload), and `.app` uncompressed.

@@ -1,5 +1,29 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. "Tennessee" has three consecutively repeated letters.
+1. *De nuages* is Clouds.
+1. "Lisa, if you don't like your job you don't strike. You just go in every day and do it really half-assed. That's the American way." - Homer Simpson
+1. Fun fact. [Going gluten-free makes you age slower.](https://blog.paleohacks.com/10-ways-to-slow-aging-naturally/) Therefore, gluten is aging. Science.
+1. "breathe. sunflower. rainbow. 450." was uttered by [Eleven's mother](http://strangerthings.wikia.com/wiki/Terry_Ives) to indicate: (breathe.) (sunflower on the hospital nightstand.) (rainbow symbol where the children's room was in the lab.) (450 something of the electroshocking.)
+1. Waiting in multiple lines is faster than waiting in one big line and then being allocated to whichever cashier is free, but for some reason people are less satisfied with it (according to Mythbusters, anyway).
+1. Pocahontas was known as Amonute.
+1. The [same guy](http://strangerthings.wikia.com/wiki/Bob_Newby) who tried to date Nancy's mom [lived in Hawaii](http://www.imdb.com/name/nm0000276/?ref_=tt_trv_qu), and was also part of [the crew who went to mordor](http://www.imdb.com/title/tt0167260/?ref_=nm_flmg_act_103).
+1. QQ is called QQ because it was then called "Open ICQ", and ICQ (well, AOL) sued them.
+1. "Lean" software development [doesn't actually ask for two-week sprints.](https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/) Scrum does that.
+1. Gas is cheaper at night.
+1. A "roach" is a marijuana joint. A "roach clip" helps you grab onto the joint so it doesn't burn your finger, and can sometimes look like [a key](https://cdn.shopify.com/s/files/1/1591/0715/products/1024-roach-clip-brass-key21281867.jpg?v=1479696562) so the police doesn't find it.
+1. Some drugs tell you not to lie down for 10 minutes after taking it.
+1. Pennsylvania ("Penn’s Forrest") is named after William Penn, so it must have two Ns.
+1. Flappy bird creator pulled the app off the stores because he ["cannot take this anymore"](https://www.theverge.com/2014/2/8/5393208/flappy-bird-creator-says-hes-pulling-the-game-offline-tomorrow).
+1. Intel CPUs made since 2008 have a [management engine](https://en.m.wikipedia.org/wiki/Intel_Management_Engine) running as a supervisor of your actual operating system, which has ring -3 equivalent of access *and* bugs and backdoors for the NSA: " Intel has confirmed the ME contains a switch to enable government authorities such as the NSA to make the ME go into High-Assurance Platform (HAP) mode after boot."
+1. TetraNormal says that "Alcohol divides everybody by 2 and then adds 5," so you, obviously a 10, is still a 10.
+1. "Tea is good for you. Teeeeeeeeaaaaaaa" - paraphrasing [this article](http://www.arthritis.org/living-with-arthritis/arthritis-diet/best-foods-for-arthritis/best-beverages-for-arthritis.php)
+1. Failblog no longer has fails.
+1. "If you are more fortunate than others, build a longer table, not a taller fence." - Canadian Memorial Centre for Peace
+1. Draw a line between Sabalo and Mayarí. Northern Cuba is mostly white. Southern Cuba is mostly black.
+1. [Minimax](https://en.wikipedia.org/wiki/Minimax) is Minimizing Maximum Loss. Maximin is Maximizing Minimum Gain. For some reason, "[do NOT try to minimax this game](https://www.reddit.com/r/outside/comments/7c50r2/do_not_try_to_minimax_this_game/)" means "don't spend your life working". How is working minimaxing?
+1. [Gerontology](https://en.m.wikipedia.org/wiki/Aging-associated_diseases) is the study of ageing. Biological, psychological, social, environmental impacts of ageing.
+1. [Keep a blog](https://routley.io/tech/2017/11/23/logbook.html), says this man.
 1. On Facebook's "upload a clear photo of you" CAPTCHA: ["I used to think richard stallman was just a paranoid lunatic... Well, the more time goes by, the more i think he was just 100% right,"](https://news.ycombinator.com/item?id=15810680) said bsaul. [Just use one of the faces created by the AI](https://petapixel.com/2017/11/07/ai-creates-photo-realistic-faces-people-dont-exist/), said someone else.
 1. Hong Kong is the world's largest city-state (non-sovereign). Washington DC is also a non-sovereign city-state. Monaco is a sovereign city-state.
 1. Singapore refines petroleum oils. 23% of its exports are refined oils and products.
@@ -585,7 +609,7 @@
 1. [At least two solar and two lunar eclipses happen every year](https://www.android.com/eclipse/), but most of them are not spectacular enough to be called eclipses.
 1. [Donald Trump is the first president since Polk (1845 ~ 1849) to not have a white house pet.](https://www.thoughtco.com/white-house-pets-4144590)
 1. "Tommy and Gina" were referenced in both Bon Jovi's [Livin' on a Prayer](https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer) in 1986, and [It's my life](https://en.wikipedia.org/wiki/It%27s_My_Life_%28Bon_Jovi_song%29) in 2000.
-1. Weevils can be killed by either frying your rice at 60 degrees Celcius for 15 minutes, or freezing at -18 degrees for 3 days.
+1. Weevils can be killed by either frying your rice at 60 degrees Celsius for 15 minutes, or freezing at -18 degrees for 3 days.
 1. There is nothing courageous about [eating a hot dog](https://d12qk6n9ersps4.cloudfront.net/3970357/medium-clean.jpg).
 1. REIT stands for real estate investment trust. It is a way to [invest in real estate](https://www.google.com/finance?q=TSE%3ACAR.UN) without buying houses.
 1. [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) is caused by a late bus spending even more time picking up more passengers that have been waiting, making it more late. Then the next bus catches up, hence the bunch.
@@ -798,7 +822,7 @@
 1. ["Never make the same mistake twice"](https://www.quora.com/What-does-Gus-mean-when-he-advises-Walt-Dont-make-the-same-mistake-twice) is exactly the same as "Always learn from your mistakes."
 1. In season one of Breaking Bad, two people died. [In season two, they reckon 176 did.](http://breakingbad.wikia.com/wiki/List_of_deaths_on_Breaking_Bad)
 1. Chemo patients don't grow beards. Not sure how Walter was doing it.
-1. There are more calories in [African American coffee](https://funsubstance.com/fun/239676/id-like-an-african-american-coffee/) from being hot than from being coffee. (Simply being 60 degrees Celcius gives around 80 Calories.)
+1. There are more calories in [African American coffee](https://funsubstance.com/fun/239676/id-like-an-african-american-coffee/) from being hot than from being coffee. (Simply being 60 degrees Celsius gives around 80 Calories.)
 1. [At low concentrations, both musk and skunk smell sweet.](https://www.quora.com/What-does-musk-smell-like) At high concentrations, musk smells like crap, and skunk smells like skunk.
 1. Any website is "web-scale".
 1. Adam in the bible did not have the largest penis on Earth at any given time.
@@ -990,7 +1014,7 @@
 1. [Level 1 holsters](https://www.youtube.com/watch?v=qIXc9NRLRJI&app=desktop) have a restraining latch that holds the gun. Level 2 holsters have a button that you need to press to get the gun out. You can still yank it out though, so Level 3 holsters have yet another thing covering the top of the gun to prevent yanking.
 1. "俺たちはいまイカとセックスをしている。" means "I am having sex with squid now", in case anyone tells you.
 1. Pickleball has nothing to do with pickles. It is a cross between badminton, tennis, and table tennis.
-1. The [Black Sea](https://en.wikipedia.org/wiki/Black_Sea) is 5000 times (rounded up) bigger than the [Dead Sea](https://en.wikipedia.org/wiki/Dead_Sea). More or less a lake, the Dead Sea is not really visible on a map unless you go looking for it. The average temperature at Dead Sea year round is 47 degrees Celcius.
+1. The [Black Sea](https://en.wikipedia.org/wiki/Black_Sea) is 5000 times (rounded up) bigger than the [Dead Sea](https://en.wikipedia.org/wiki/Dead_Sea). More or less a lake, the Dead Sea is not really visible on a map unless you go looking for it. The average temperature at Dead Sea year round is 47 degrees Celsius.
 1. [Tenderloin](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco), the SF district just a few blocks away from the financial district, has a high rate of both crime and human feces sightings.
 1. [The Queen has two birthdays](http://www.telegraph.co.uk/news/0/why-does-the-queen-have-two-birthdays/) The ruling person always has two birthdays: [one on the real day, and one in Spring, in the form of a military parade, known as Trooping the Colour.](http://www.telegraph.co.uk/news/0/why-does-the-queen-have-two-birthdays/) King George II started that tradition because he was born in cold weather.
 1. [Simple English](https://en.wikipedia.org/wiki/Simplified_Technical_English), a legit engineering term for making things unambiguous, has [its own Simple English wiki page](https://simple.wikipedia.org/wiki/Simplified_English). Who knew!

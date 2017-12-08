@@ -299,6 +299,10 @@ If you guys all `git push` to a branch regularly, and you need to `git push --fo
 ### I accidentally deleted a file, and I have already made a commit after that
 `git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"`
 
+Alternatively, knowing the subcommand just gives you the hash of the previous commit, you can just
+
+`git checkout (the commit you want to get files from) -- "$file"`
+
 ### I accidentally added a file, and luckily I haven't committed anything yet
 `git reset HEAD (added file)`
 

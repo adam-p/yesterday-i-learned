@@ -11,7 +11,7 @@
 * [`yada = - ~yada` is equivalent to `++yada` because of 2's complement.](https://github.com/duckythescientist/obfuscatedLife/blob/master/remarks.md#while__-__2048___oo0x41c64e6d123450x7fffffff1024150)
 * "Pro tip: when you develop with gcc, don't settle for anything less than `gcc -ansi -pedantic -Wall`" -- [TeMPOraL](https://news.ycombinator.com/item?id=7156405) (`-ansi` being [`c89`](http://stackoverflow.com/questions/10300114/should-i-use-ansi-or-explicit-std-as-compiler-flags))
 * "You can go further and specify a particular standard, plus extra warnings not included in -Wall: `gcc -std=gnu99 -pedantic -Wall -Wextra -Werror`" - [nitrogen](https://news.ycombinator.com/item?id=7156405)
-* "gcc is 'Gnu Compiler Collection'. If you pass it a C++ file, it will invoke the C++ compiler ('g++') behind the scenes."
+* "gcc is 'Gnu Compiler Collection'. ~~If you pass it a C++ file, it will invoke the C++ compiler ('g++') behind the scenes."~~ No it bloody won't.
 * Undeclared variables are implicitly `int`s. This was deprecated after C99, however.
 * Writing cross-platform C code: [start from the beginning](http://www.ski-epic.com/source_code_essays/ten_rules_for_writing_cross_platform_c_source_code.html)
 * There is such a thing as a [C interpreter](http://www.reddit.com/r/programming/comments/2latu2/c4_c_in_4_functions/clt70uk) and C Scripting... but you probably don't want to do that with `gcc`. `tcc` is a faster choice (`#!/usr/local/bin/tcc -run`)
@@ -120,3 +120,4 @@ struct B : A { };  // Has all A's fields
 * [Anything created with `new` and not `delete`d is automatically leaked.](http://stackoverflow.com/questions/7242493/how-to-create-a-memory-leak-in-c) [Anything manually allocated with `malloc` and not `free`d is also automatically leaked.](http://www.geeksforgeeks.org/what-is-memory-leak-how-can-we-avoid/)
 * [Use `delete` by itself to free a single object. Use `delete []` with square brackets to free a heap array.](http://stackoverflow.com/a/8417851/1558430)
 * Unless you do systems programming, [there is almost no reason to pick C over C++](https://softwareengineering.stackexchange.com/a/113316/116811). Simply [not using the C++ features you don't use](https://softwareengineering.stackexchange.com/a/113398/116811) is also an option.
+* You can't cout a string unless you [`#include <string>`](https://stackoverflow.com/a/6321005/1558430).

@@ -377,6 +377,7 @@ bar
 1. Assuming because python wants only one (obvious) way to do something, John Roth [once](https://www.python.org/dev/peps/pep-0327/#why-floating-point) recommanded removing the `/` operator altogether, presumably replaced with the multiplying inverse. The community didn't like that.
 1. [Gunicorn is a WSGI server.](http://docs.gunicorn.org/en/stable/deploy.html) You will still need Nginx.
 1. If you [don't pickle anything or parse any XML](http://igordavydenko.com/talks/by-pycon-2017/#slide-19), python 3.6 isn't that slow compared to python 2.7.
+1. You can multiply `timedelta` by a scalar.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

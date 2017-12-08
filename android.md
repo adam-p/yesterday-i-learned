@@ -6,6 +6,9 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Burak says [`Serializable` is a form of reflection, and has poor performance.](https://android.jlelse.eu/yet-another-awesome-kotlin-feature-parcelize-5439718ba220)
+1. ShareIt, CM browser, DU battery saver, and ES file explorer are among the apps that [China uses to spy on other countries](https://www.reddit.com/r/Android/comments/7godzf/china_is_spying_through_42_apps_delete_them/dqlb3yh/).
+1. The battery stats is reset when it reaches MAX_HISTORY_BUFFER, which is 256kB.
 1. The default support library already supports [automatic day/night theming](https://android-developers.googleblog.com/2016/02/android-support-library-232.html). You just need to specify `AppCompatDelegate.MODE_NIGHT_AUTO` and it will be themed for you.
 1. If the [camera mods](https://www.celsoazevedo.com/files/android/google-camera/) don't work, you need to [enable the Camera2 API](https://forum.xda-developers.com/apps/magisk/module-camera2api-enabler-t3656651) (`persist.camera.HAL3.enabled=1`) first.
 1. Cyanogen was [Steve Kondik's nickname](https://github.com/cyanogen). He created CyanogenMod.

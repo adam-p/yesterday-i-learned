@@ -4,6 +4,7 @@
 * *Pointers* (e.g. `int* something`) are something you declare. It *points* to something of the declared type. It should only be assigned addresses (`&something`).
 * "Accessing" what a pointer is pointing to uses something like Python's unpacking syntax: if `int* foo` points to something that's `14`, `*foo` gives you `14`.
 * A pointer can also be used as if it were a variable. For example, if `*foo` were pointing at something that's 14, you can just `*foo = 50` to change it to 50.
+* Trying to assign something to your pointer's address, when you haven't initialised it (i.e. `int& foo; &foo = 1;`) will give you a segfault.
 * Declare an array of things: `type var_name[size];`, not `type [size]var_name;`.
 * `sizeof` is a thing, and gives you the size of the type, not the object. This means to know how long an array is, you need to do some maths.
 * `cin >> any_variable` assigns the variable (including array items) with whatever the user typed in standard in.
@@ -56,6 +57,10 @@
 
 ## C++
 
+* [*References* (e.g. `int& something`)](https://stackoverflow.com/questions/4305673/does-c-have-references) are C++ only. They are effectively constant final pointers. `int& c = a;` means "C points to whatever A is already pointing to", which is safer, and simpler to understand.
+* Creating a reference to something uninitialised may accidentally give it value. `int a; int& b = a;` will suddenly make `a` nonzero. Use `-Wuninitialized` (part of `-Wall`) to detect this error.
+* It is impossible to write `int& something;`. You must assign it something on initialisation.
+* ["Member-access with pointers uses `->`; member-access with references uses `.`](https://stackoverflow.com/a/57780/1558430)
 * The [`~ClassName`](http://stackoverflow.com/a/1395509/1558430) definition in a class denotes a destructor, because `ClassName` initially is a constructor, but negated by `~` to give the semantic meaning of a destructor. 
 * `public:` followed by an indented block of methods, means that anything inside the block is public (same applies to `private`)
 

@@ -1,5 +1,6 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Every US president after the [Time Person of the Year](https://en.wikipedia.org/wiki/Time_Person_of_the_Year) list began have been on the list. Except Calvin Coolidge, Herbert Hoover, and Gerald Ford. Roosevelt was however the person of the year thrice.
 1. "Tennessee" has three consecutively repeated letters.
 1. *De nuages* is Clouds.
 1. "Lisa, if you don't like your job you don't strike. You just go in every day and do it really half-assed. That's the American way." - Homer Simpson

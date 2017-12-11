@@ -1,5 +1,25 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. A house's [crawl space](https://en.wikipedia.org/wiki/Basement#Crawl_space) is often lined with plastic to prevent mould from growing. Mould should not be allowed to grow in the crawl space because when the heat is on, air flows out of the house from the ceiling, sucking air from the cooler bottom, which is the crawl space. You don't want mould to get in the house like that.
+1. Shazam was the first product acquired by Apple that you were using monthly prior to the acquisition.
+1. Cook long pasta (like spaghetti) in olive oil or light cream-based sauces, tube-like ones in meat sauces, and spiral ones in some light textured sauces, like [pesto](http://www.taste.com.au/recipes/pesto-sauce/5df0b426-e19b-463d-bab5-0bc165c502c1).
+1. Santa Claus was called Kris Kringle.
+1. Sales people call developers "the grim reaper" because [they are] killing all their dumbass ideas.
+1. Assault is the threat. Battery is the actual harm.
+1. Sherlock never said "Elementary, my dear Watson" in the books.
+1. A casualty is a soldier rendered unable to fight. Casualties include the sick, injured, killed, and captured.
+1. Every residence needs one bathroom per person in case of mass food poisoning.
+1. If you mix wood with plastic, then you can [3D print wood](https://i.materialise.com/blog/3d-printed-wood-is-coming-to-i-materialise/).
+1. Birth control pills in German is just *Antibabypillen*.
+1. "[Spicy Boi](https://www.urbandictionary.com/define.php?term=Spicy%20Boi) is the politically correct term for fireant."
+1. "Virgin" means the [olive oil](https://en.wikipedia.org/wiki/Olive_oil) it was extracted mechanically. Spain alone consumes half of the world's olive oil. What you buy is almost certainly (80%) adulterated with rapeseed or canola oil, and the "made in Spain" label doesn't matter either, because any blend with a single drop made in Spain can be labelled "made in Spain".
+1. If you plan to buy a house, [bedbug removal services cost tens of thousands](https://www.youtube.com/watch?v=PSlNeOwvegs). Two out of three cases require three of these treatments.
+1. Only 1 in 3 Texans owns guns. Alaska has 61.7% gun ownership.
+1. Steve Buscemi is a firefighter, and is a genuinely nice person. Like Keanu Reeves.
+1. Prison doctor appointments may have a two-year waitlist. You are going to die.
+1. APKMirror is managed by the same people who manage Android Police. (Not one over another but both as subsidiaries)
+1. Naturally fermented beer can go up to [33%](http://berghoffbeer.com/blog/5-strongest-naturally-fermented-beers-world/).
+1. Many mining (gold included) companies on the TSX have negative betas.
 1. Every US president after the [Time Person of the Year](https://en.wikipedia.org/wiki/Time_Person_of_the_Year) list began have been on the list. Except Calvin Coolidge, Herbert Hoover, and Gerald Ford. Roosevelt was however the person of the year thrice.
 1. "Tennessee" has three consecutively repeated letters.
 1. *De nuages* is Clouds.

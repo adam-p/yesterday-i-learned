@@ -1,3 +1,5 @@
+1. Around 2% of the population has [water warts](https://en.wikipedia.org/wiki/Molluscum_contagiosum), with the appearance of a pinkish red blood cell. Enough of it looks like chickenpox. Both are considered "herpes".
+1. There is actually [limited evidence](https://en.wikipedia.org/wiki/Vitamin_C) that vitamin C cures anything apart from scurvy.
 1. [The cloaca prolapses when the chicken lays the egg.](https://v.redd.it/4bewz17sv4201)
 1. [The more coffee you drink, the more vitamin C gets out of you.](https://www.allaboutvitaminc.com/vitamin-c-absorption-coffee/)
 1. Diabetes somehow causes cataracts and glaucoma, and is the leading cause of vision loss in North America. Prevention: [don't smoke, don't drink, don't eat so much sugar, do your exercises.](https://en.wikipedia.org/wiki/Prevention_of_diabetes_mellitus_type_2) Everything your mother taught you.

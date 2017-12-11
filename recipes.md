@@ -8,6 +8,10 @@
 * Whisk until mixture is close to solid.
 * *Then* add **salt** and **pepper** to taste. This must be done at the end.
 
+## Boiled eggs
+
+> The best technique for boiling eggs is add eggs to cold water bring to boil, remove from heat once boiling starts, cover, let sit for 15 minutes and add to cold water to stop the cooking process. That being said I don't know if it'll work with this weird Frankenegg. - /u/jerrbles
+
 ## [Omelette](https://www.youtube.com/watch?v=6vST9jh7vUM)
 
 * Whisk three eggs in an "8" motion until foamy (not just runny).

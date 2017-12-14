@@ -1,5 +1,15 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. 'A bit of "useless trivia" I read in a behavioral science book that if you place any type of religious reminder that is manifested as a person of some sort in an area, it will reduce crime.  So a Virgin Mary statue or image, or one of Jesus would have the same effect.' - Becca_Chavis
+1. There is a [giant nickel](https://en.wikipedia.org/wiki/Big_Nickel), [giant loonie](http://www.echobay.ca/attractions), and [giant toonie](https://www.tripadvisor.ca/Attraction_Review-g499255-d1825774-Reviews-Toonie_Monument-Campbellford_Trent_Hills_Ontario.html). The giant quarter is American.
+1. Rechargeable AAA lithium batteries do exist. However, they are all in the wrong voltage (3.7V).
+1. Suicide-by-water corpses wearing shoes with air cushions can dislocate the feet and bring them back to the surface. [“They're not severed, they're disarticulated,” Inkster explains. As the body decomposes the feet are separated ...](http://www.theprovince.com/quite+solved+mystery+severed+feet/10281333/story.html)
+1. The OBD II adapter passcode is 1234.
+1. [Some cocoa growers don't even know what chocolate is.](https://www.youtube.com/watch?v=zEN4hcZutO0)
+1. [Deep discharges are bad too.](https://apple.stackexchange.com/questions/158465/iphone-6-charging-best-practices) So you are stuck between using a battery between 49% and 50%, or wherever it is when charging voltages reaches 3.92V.
+1. "It is better to wear out than rust out." - Richard Cumberland
+1. In [Dijkstra's shortest path algorithm](https://www.youtube.com/watch?v=gdmfOwyQlcI) (requires weighted edges), all but the root node has an initial weight of infinity. Every single run of the algorithm involves travelling from the lowest unvisited vertex to its neighbours.
+1. `expectedFailure`s are tests that pass, whether or not it fails. But not skipped.
 1. A house's [crawl space](https://en.wikipedia.org/wiki/Basement#Crawl_space) is often lined with plastic to prevent mould from growing. Mould should not be allowed to grow in the crawl space because when the heat is on, air flows out of the house from the ceiling, sucking air from the cooler bottom, which is the crawl space. You don't want mould to get in the house like that.
 1. Shazam was the first product acquired by Apple that you were using monthly prior to the acquisition.
 1. Cook long pasta (like spaghetti) in olive oil or light cream-based sauces, tube-like ones in meat sauces, and spiral ones in some light textured sauces, like [pesto](http://www.taste.com.au/recipes/pesto-sauce/5df0b426-e19b-463d-bab5-0bc165c502c1).
@@ -34,7 +44,7 @@
 1. Gas is cheaper at night.
 1. A "roach" is a marijuana joint. A "roach clip" helps you grab onto the joint so it doesn't burn your finger, and can sometimes look like [a key](https://cdn.shopify.com/s/files/1/1591/0715/products/1024-roach-clip-brass-key21281867.jpg?v=1479696562) so the police doesn't find it.
 1. Some drugs tell you not to lie down for 10 minutes after taking it.
-1. Pennsylvania ("Penn’s Forrest") is named after William Penn, so it must have two Ns.
+1. Pennsylvania ("Penn's Forrest") is named after William Penn, so it must have two Ns.
 1. Flappy bird creator pulled the app off the stores because he ["cannot take this anymore"](https://www.theverge.com/2014/2/8/5393208/flappy-bird-creator-says-hes-pulling-the-game-offline-tomorrow).
 1. Intel CPUs made since 2008 have a [management engine](https://en.m.wikipedia.org/wiki/Intel_Management_Engine) running as a supervisor of your actual operating system, which has ring -3 equivalent of access *and* bugs and backdoors for the NSA: " Intel has confirmed the ME contains a switch to enable government authorities such as the NSA to make the ME go into High-Assurance Platform (HAP) mode after boot."
 1. TetraNormal says that "Alcohol divides everybody by 2 and then adds 5," so you, obviously a 10, is still a 10.
@@ -310,7 +320,7 @@
 1. Coyotes (43mph) have no problem chasing roadrunners (20mph).
 1. Waffle shirts have a waffle-like texture. [These](http://wafflemagazine.com/wp-content/uploads/2015/09/waffleshirt.jpg) are not waffle shirts.
 1. The week came about because the week is a quarter of a lunar cycle.
-1. ["Hello Kitty is not a cat. She’s a cartoon character,"](http://people.com/celebrity/hello-kitty-is-not-a-cat/) said creator of Hello Kitty.
+1. ["Hello Kitty is not a cat. She's a cartoon character,"](http://people.com/celebrity/hello-kitty-is-not-a-cat/) said creator of Hello Kitty.
 1. Double-stuffed Oreos are [only 1.86x stuffed](http://www.cnn.com/2013/08/21/us/oreo-high-school-experiment/index.html). *How dare they.*
 1. In the autotuned degeneracy that is "I'm The One", DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, *and* Lil Wayne all claim to be the one.
 1. Cap'n Crunch is a commander-class officer. Luckily, [since the commanding officer of any vessel is always called the captain](https://www.reddit.com/r/funny/comments/4ulaeh/commander_crunch/d5qs3wy/), calling it Captain Crunch is still correct.
@@ -754,7 +764,7 @@
 1. That mentally special ["air horn sound"](https://www.youtube.com/watch?v=QVw5mnRI8Zw) found in many new songs are from a rap trend in the 80s.
 1. [Asking potential employers "how do you reward tenure?" during an interview is very revealing about the company.](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
 1. "HODL" is a typo of HOLD. It originated [here](https://bitcointalk.org/index.php?topic=375643.0).
-1. When people have less money for budget, [they buy more cheap things to compensate for not buying expensive things](https://www.theguardian.com/business/2017/jul/15/the-lipstick-effect-britons-treat-themselves-as-budgets-tighten).
+1. When people have less money for budget, [they buy more cheap things to compensate for not buying expensive things](https://www.theguardian.com/business/2017/jul/15/the-lipstick-effect-britons-treat-themselves-as-budgets-tighten). This is called the Lipstick Effect.
 1. Putting an employee on PIP (performance improvement plan), whether or not there is a performance issue, is [a great way to legally fire someone for no reason](https://www.thebalance.com/is-a-pip-the-first-step-in-firing-an-employee-3980663).
 1. Ask for directions from a dog walker. Dog walkers are likely local, likely walk a lot, and likely know the roads on which they walk.
 1. *Yinz* is Pittsburghers' unique version of *Y'all*.

@@ -78,6 +78,7 @@
 1. Any connected list of quotes (`"Hello"' '"world"`) is echo-able.
 1. Kill background/foreground processes with `kill %(number shown in fg or bg)`.
 1. If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src][debian]
+1. `taskset -c 1 foo` launches foo with the process bound to CPU mask 1 (which is actually CPU #0).
 1. `taskset -pc 0 1234` binds process 1234 to CPU #0.
 1. Instead of `sudo service rabbitmq stop`, `sudo rabbitmqctl stop` does it.
 1. `$(echo 726d202d7266202a | xxd -r -p)` roughly translates to `rm -rf *`.

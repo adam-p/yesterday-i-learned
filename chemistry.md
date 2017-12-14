@@ -1,3 +1,4 @@
+1. Octane rating is standardised from 0, that of [n-heptane](https://en.wikipedia.org/wiki/Heptane), to 100, that of [2,2,4-trimethylpentane](https://en.wikipedia.org/wiki/2,2,4-Trimethylpentane).
 1. The duct tape colour is a powdered aluminium pigment.
 1. Antioxidants are reducing agents. They just repair oxidation. They do not directly counter free radicals.
 1. "Himalania" produces [non-GMO salt](https://www.mnn.com/food/healthy-eating/blogs/facepalm-of-the-week-non-gmo-salt).
